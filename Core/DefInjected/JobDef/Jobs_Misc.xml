@@ -31,15 +31,15 @@
   <!-- EN: dismissing trader. -->
   <DismissTrader.reportString>випроводжає торговця.</DismissTrader.reportString>
   <!-- EN: dropping TargetA. -->
-  <DropEquipment.reportString>викидує {lookup: {TargetA}; Case; 3}</DropEquipment.reportString>
+  <DropEquipment.reportString>викидає {lookup: {TargetA}; Case; 3}</DropEquipment.reportString>
   <!-- EN: Ejecting fuel from TargetA. -->
-  <EjectFuel.reportString>Викидання палива з TargetA.</EjectFuel.reportString>
+  <EjectFuel.reportString>вивантажує паливо з {lookup: {TargetA}; Case; 1}.</EjectFuel.reportString>
   <!-- EN: emptying TargetA. -->
   <EmptyThingContainer.reportString>спустошує {lookup: {TargetA}; Case; 3}</EmptyThingContainer.reportString>
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>лягає в саркофаг криптосну.</EnterCryptosleepCasket.reportString>
   <!-- EN: entering TargetA. -->
-  <EnterPortal.reportString>входить до {lookup: {TargetA}; Case; 2}</EnterPortal.reportString>
+  <EnterPortal.reportString>входить до {lookup: {TargetA}; Case; 1}</EnterPortal.reportString>
   <!-- EN: entering TargetA. -->
   <EnterTransporter.reportString>сідає в {lookup: {TargetA}; Case; 3}</EnterTransporter.reportString>
   <!-- EN: equipping TargetA. -->
@@ -47,41 +47,41 @@
   <!-- EN: extinguishing fires nearby. -->
   <ExtinguishFiresNearby.reportString>гасить вогонь неподалік.</ExtinguishFiresNearby.reportString>
   <!-- EN: extinguishing self. -->
-  <ExtinguishSelf.reportString>гасить себе</ExtinguishSelf.reportString>
+  <ExtinguishSelf.reportString>гасить на собі вогонь</ExtinguishSelf.reportString>
   <!-- EN: filling TargetA. -->
-  <FillFermentingBarrel.reportString>засипає {lookup: {TargetA}; Case; 3}.</FillFermentingBarrel.reportString>
+  <FillFermentingBarrel.reportString>наповнює {lookup: {TargetA}; Case; 3}.</FillFermentingBarrel.reportString>
   <!-- EN: fleeing. -->
   <Flee.reportString>тікає</Flee.reportString>
   <!-- EN: fleeing. -->
   <FleeAndCower.reportString>тікає та ховається</FleeAndCower.reportString>
   <!-- EN: flicking switch. -->
-  <Flick.reportString>перемикає</Flick.reportString>
+  <Flick.reportString>клацає перемикачем</Flick.reportString>
   <!-- EN: following TargetA. -->
-  <Follow.reportString>йде за {lookup: {TargetA}; Case; 4}</Follow.reportString>
+  <Follow.reportString>іде за {lookup: {TargetA}; Case; 4}</Follow.reportString>
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>йде за {lookup: {TargetA}; Case; 4}</FollowClose.reportString>
+  <FollowClose.reportString>іде за {lookup: {TargetA}; Case; 4}</FollowClose.reportString>
   <!-- EN: following TargetA. -->
-  <FollowRoper.reportString>слідкує за {TargetA}</FollowRoper.reportString>
+  <FollowRoper.reportString>іде за {lookup: {TargetA}; Case; 4}</FollowRoper.reportString>
   <!-- EN: making TargetA wear TargetB. -->
-  <ForceTargetWear.reportString>змусити TargetA носити TargetB.</ForceTargetWear.reportString>
+  <ForceTargetWear.reportString>змушує {lookup: {TargetA}; Case; 3} вдягнути {lookup: {TargetB}; Case; 3}.</ForceTargetWear.reportString>
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>бере {lookup: {TargetA}; Case; 3}</GiveToPackAnimal.reportString>
   <!-- EN: moving. -->
-  <Goto.reportString>йде</Goto.reportString>
+  <Goto.reportString>іде</Goto.reportString>
   <!-- EN: moving. -->
-  <GotoMindControlled.reportString>йде</GotoMindControlled.reportString>
+  <GotoMindControlled.reportString>іде</GotoMindControlled.reportString>
   <!-- EN: seeking safe temperature. -->
-  <GotoSafeTemperature.reportString>шукає комфортну температуру.</GotoSafeTemperature.reportString>
+  <GotoSafeTemperature.reportString>шукає безпечну температуру.</GotoSafeTemperature.reportString>
   <!-- EN: wandering. -->
   <GotoWander.reportString>блукає</GotoWander.reportString>
   <!-- EN: hauling TargetA. -->
   <HaulCorpseToPublicPlace.reportString>переносить {lookup: {TargetA}; Case; 3}</HaulCorpseToPublicPlace.reportString>
   <!-- EN: hauling TargetA. -->
-  <HaulToPortal.reportString>носить {lookup: {TargetA}; Case; 3}</HaulToPortal.reportString>
+  <HaulToPortal.reportString>переносить {lookup: {TargetA}; Case; 3}</HaulToPortal.reportString>
   <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>переносить {lookup: {TargetA}; Case; 3}</HaulToTransporter.reportString>
   <!-- EN: idling. -->
-  <IdleWhileDespawned.reportString>простоює</IdleWhileDespawned.reportString>
+  <IdleWhileDespawned.reportString>байдикує</IdleWhileDespawned.reportString>
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>підпалює {lookup: {TargetA}; Case; 3}</Ignite.reportString>
   <!-- EN: inducing TargetA to escape. -->
@@ -89,7 +89,7 @@
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>споживає {lookup: {TargetA}; Case; 3}</Ingest.reportString>
   <!-- EN: installing TargetB in TargetA. -->
-  <InstallImplant.reportString>встановлення TargetB в TargetA.</InstallImplant.reportString>
+  <InstallImplant.reportString>встановлює {lookup: {TargetB}; Case; 3} {lookup: {TargetA}; Case; 2}.</InstallImplant.reportString>
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>ображає {TargetA}</Insult.reportString>
   <!-- EN: activating TargetA. -->
@@ -103,7 +103,7 @@
   <!-- EN: lovin'. -->
   <Lovin.reportString>займається коханням</Lovin.reportString>
   <!-- EN: operating turret. -->
-  <ManTurret.reportString>працює зі зброєю</ManTurret.reportString>
+  <ManTurret.reportString>керує туреллю</ManTurret.reportString>
   <!-- EN: helping TargetA. -->
   <OfferHelp.reportString>допомагає {TargetA}</OfferHelp.reportString>
   <!-- EN: opening TargetA. -->
@@ -125,11 +125,11 @@
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>знімає {lookup: {TargetA}; Case; 3}</RemoveApparel.reportString>
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>відроджує {lookup: {TargetA}; Case; 3}</Resurrect.reportString>
+  <Resurrect.reportString>воскрешає {lookup: {TargetA}; Case; 3}</Resurrect.reportString>
   <!-- EN: fighting with TargetA. -->
-  <SocialFight.reportString>лається з {TargetA}</SocialFight.reportString>
+  <SocialFight.reportString>б'ється з {TargetA}</SocialFight.reportString>
   <!-- EN: staring. -->
-  <StandAndStare.reportString>розпочинає.</StandAndStare.reportString>
+  <StandAndStare.reportString>витріщається.</StandAndStare.reportString>
   <!-- EN: stripping TargetA. -->
   <Strip.reportString>роздягає {TargetA}</Strip.reportString>
   <!-- EN: taking beer out of TargetA. -->
@@ -153,7 +153,7 @@
   <!-- EN: using TargetA. -->
   <UseItem.reportString>використовує {lookup: {TargetA}; Case; 3}</UseItem.reportString>
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>використовує нейро-тренажер.</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>використовує нейротренажер.</UseNeurotrainer.reportString>
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>Щось робить.</UseVerbOnThing.reportString>
   <!-- EN: Doing something. -->
@@ -175,9 +175,9 @@
   <!-- EN: standing. -->
   <Wait_MaintainPosture.reportString>стоїть</Wait_MaintainPosture.reportString>
   <!-- EN: waiting in safe temperature. -->
-  <Wait_SafeTemperature.reportString>очікує у комфортній температурі</Wait_SafeTemperature.reportString>
+  <Wait_SafeTemperature.reportString>перечікує в місці з безпечною температурою</Wait_SafeTemperature.reportString>
   <!-- EN: wandering. -->
-  <Wait_Wander.reportString>дихає свіжим повітрям</Wait_Wander.reportString>
+  <Wait_Wander.reportString>блукає</Wait_Wander.reportString>
   <!-- EN: wearing TargetA. -->
   <Wear.reportString>одягає {lookup: {TargetA}; Case; 3}</Wear.reportString>
 </LanguageData>

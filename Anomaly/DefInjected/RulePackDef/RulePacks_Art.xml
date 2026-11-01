@@ -39,7 +39,7 @@
   <NamerArtCubeSculpture.rulePack.rulesStrings>
     <li>r_art_name->[AdjectiveAny] Куб</li>
     <li>r_art_name->[adjectiveCube] Куб</li>
-    <li>r_art_name->Куб [ConceptAnyGen]</li>
+    <li>r_art_name->Куб [ConceptAny_gen]</li>
     <li>adjectiveCube->обвислий</li>
     <li>adjectiveCube->деформований</li>
     <li>adjectiveCube->грудкуватий</li>
@@ -97,27 +97,27 @@
     <li>adjectiveUnsettling->otherworldly</li>
   -->
   <NamerArtVoidSculpture.rulePack.rulesStrings>
-    <li>r_art_name->[AdjectiveAngsty] Sculpture</li>
-    <li>r_art_name->[adjectiveUnsettling] Sculpture</li>
-    <li>adjectiveUnsettling->unsettling</li>
-    <li>adjectiveUnsettling->disturbing</li>
-    <li>adjectiveUnsettling->eerie</li>
-    <li>adjectiveUnsettling->creepy</li>
-    <li>adjectiveUnsettling->haunting</li>
-    <li>adjectiveUnsettling->spine-chilling</li>
-    <li>adjectiveUnsettling->sinister</li>
-    <li>adjectiveUnsettling->macabre</li>
-    <li>adjectiveUnsettling->unnerving</li>
-    <li>adjectiveUnsettling->terrifying</li>
-    <li>adjectiveUnsettling->ghastly</li>
-    <li>adjectiveUnsettling->horrifying</li>
-    <li>adjectiveUnsettling->frightening</li>
-    <li>adjectiveUnsettling->shocking</li>
-    <li>adjectiveUnsettling->bizarre</li>
-    <li>adjectiveUnsettling->abnormal</li>
-    <li>adjectiveUnsettling->weird</li>
-    <li>adjectiveUnsettling->uncanny</li>
-    <li>adjectiveUnsettling->strange</li>
-    <li>adjectiveUnsettling->otherworldly</li>
+    <li>r_art_name->[AdjectiveAngsty_f] скульптура</li>
+    <li>r_art_name->[adjectiveUnsettling] скульптура</li>
+    <li>adjectiveUnsettling->тривожна</li>
+    <li>adjectiveUnsettling->бентежна</li>
+    <li>adjectiveUnsettling->моторошна</li>
+    <li>adjectiveUnsettling->лячна</li>
+    <li>adjectiveUnsettling->примарна</li>
+    <li>adjectiveUnsettling->страхітлива</li>
+    <li>adjectiveUnsettling->зловісна</li>
+    <li>adjectiveUnsettling->макабрична</li>
+    <li>adjectiveUnsettling->гнітюча</li>
+    <li>adjectiveUnsettling->страшна</li>
+    <li>adjectiveUnsettling->жахлива</li>
+    <li>adjectiveUnsettling->огидна</li>
+    <li>adjectiveUnsettling->приголомшлива</li>
+    <li>adjectiveUnsettling->химерна</li>
+    <li>adjectiveUnsettling->ненормальна</li>
+    <li>adjectiveUnsettling->дивна</li>
+    <li>adjectiveUnsettling->неприродна</li>
+    <li>adjectiveUnsettling->чудна</li>
+    <li>adjectiveUnsettling->загадкова</li>
+    <li>adjectiveUnsettling->потойбічна</li>
   </NamerArtVoidSculpture.rulePack.rulesStrings>
 </LanguageData>

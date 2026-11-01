@@ -3,9 +3,9 @@
   <!-- EN: editing memes -->
   <EditingMemes.label>редагування рис</EditingMemes.label>
   <!-- EN: You can edit memes by clicking on them. -->
-  <EditingMemes.helpText>Ви можете редагувати риси, натиснувши на них.</EditingMemes.helpText>
+  <EditingMemes.helpText>Щоб змінити мем, натисніть на нього.</EditingMemes.helpText>
   <!-- EN: editing precepts -->
   <EditingPrecepts.label>редагування правил</EditingPrecepts.label>
   <!-- EN: You can edit precepts by clicking on them. -->
-  <EditingPrecepts.helpText>Ви можете редагувати правила, натиснувши на них.</EditingPrecepts.helpText>
+  <EditingPrecepts.helpText>Щоб змінити принцип, натисніть на нього.</EditingPrecepts.helpText>
 </LanguageData>

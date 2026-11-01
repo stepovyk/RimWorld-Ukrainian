@@ -62,7 +62,7 @@
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   -->
   <NamerPersonSophianFemale.rulePack.rulesStrings>
-    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast_f]</li>
     <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   </NamerPersonSophianFemale.rulePack.rulesStrings>

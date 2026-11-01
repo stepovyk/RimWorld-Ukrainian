@@ -7,7 +7,7 @@
   <!-- EN: Devourer attack -->
   <DevourerAssault.letterLabel>Атака пожирача</DevourerAssault.letterLabel>
   <!-- EN: A swarm of huge gape-mawed monsters are attacking!\n\nThese creatures' jaws are massive enough to swallow a human whole. Keep your distance! -->
-  <DevourerAssault.letterText>Рій величезних монстрів із роззявленою пащею атакує!\n\nЩелепи цих істот достатньо великі, щоб проковтнути людину. Тримайте дистанцію!</DevourerAssault.letterText>
+  <DevourerAssault.letterText>Нападає зграя величезних чудовиськ із роззявленими пащами!\n\nЩелепи цих істот такі великі, що можуть проковтнути людину цілком. Тримайтеся на відстані!</DevourerAssault.letterText>
   <!-- EN: devourer assault -->
   <DevourerWaterAssault.label>атака пожирача</DevourerWaterAssault.label>
   <!-- EN: Devourer attack -->

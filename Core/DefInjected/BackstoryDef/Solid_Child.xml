@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-  <AbandonedChild30.description>{PAWN_nameDef} {PAWN_gender ? був : була} кмітливою та кумедною дитиною. Одного разу, {PAWN_pronoun} {PAWN_gender ? пішов : пішла} від своїх багатих батьків і зрештою {PAWN_gender ? загубився : загубилася} на нібито покинутому складі руди. Технології клонування були достатньо розвинені, щоб {PAWN_possessive} батьки вирішили за краще клонувати {PAWN_gender ? нового, розумнішого сина : нову, розумнішу доньку}, ніж шукати {PAWN_gender ? "старого" : "стару"}.</AbandonedChild30.description>
+  <AbandonedChild30.description>[PAWN_nameDef] {PAWN_gender ? був : була} кмітливою й кумедною дитиною. Якось {PAWN_gender ? він відбився : вона відбилася} від своїх заможних батьків і зрештою {PAWN_gender ? загубився : загубилася} на складі руди, яким нібито давно не користувалися. Клонування було цілком доступне, тож батьки вирішили, що замість шукати {PAWN_gender ? його : її} краще витратити час на те, щоб клонувати собі {PAWN_gender ? кращого сина : кращу доньку}.</AbandonedChild30.description>
   <!-- EN: abandoned child -->
   <AbandonedChild30.title>покинуте дитя</AbandonedChild30.title>
   <!-- EN: abandoned -->
   <AbandonedChild30.titleShort>покинутий</AbandonedChild30.titleShort>
   <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-  <AbandonedOrphan61.description>{PAWN_nameDef} {PAWN_gender ? був покинутий : була покинута} одразу після народження, та {PAWN_gender ? розпочав : розпочала} своє життя у притулку.\n\nБудучи {PAWN_gender ? шахраєм і негідником, він створював : шахрайкою і негідницею, вона створювала} багато проблем.</AbandonedOrphan61.description>
+  <AbandonedOrphan61.description>{PAWN_gender ? Покинутий : Покинута} одразу після народження, {PAWN_gender ? малий : мала} [PAWN_nameDef] {PAWN_gender ? почав : почала} життя в сиротинці.\n\n{PAWN_gender ? Шибеник і пройдисвіт : Шибениця й пройдисвітка}, [PAWN_pronoun] {PAWN_gender ? виріс : виросла} хитрим призвідцем усіляких бешкетів.</AbandonedOrphan61.description>
   <!-- EN: abandoned orphan -->
   <AbandonedOrphan61.title>покинутий сирота</AbandonedOrphan61.title>
   <!-- EN: orphan -->
   <AbandonedOrphan61.titleShort>сирота</AbandonedOrphan61.titleShort>
   <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-  <Abductee43.description>{PAWN_nameDef} {PAWN_gender ? був викрадений : була викрадена} у молодому віці {PAWN_gender ? та змушений : та змушена} виконувати чорну роботу на піратському кораблі.</Abductee43.description>
+  <Abductee43.description>Ще дитиною [PAWN_nameDef] {PAWN_gender ? потрапив : потрапила} до рук піратів, і {PAWN_gender ? його : її} змусили виконувати чорну роботу на їхньому кораблі.</Abductee43.description>
   <!-- EN: abductee -->
   <Abductee43.title>викрадений</Abductee43.title>
   <!-- EN: abductee -->
   <Abductee43.titleShort>викрадений</Abductee43.titleShort>
   <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
-  <Abductee7.description>{PAWN_nameDef} {PAWN_gender ? був викрадений : була викрадена} ксенолюдьми, коли {PAWN_pronoun} {PAWN_gender ? був : була}. Вони ставили над {PAWN_gender ? ним : нею} експерименти, щоб зрозуміти {PAWN_possessive} генетичну структуру.\n\nКоли {PAWN_pronoun} {PAWN_gender ? виріс : виросла}, {PAWN_nameDef} {PAWN_gender ? став занадто великим і сильним : стала занадто великою і сильною} для своїх викрадачів і {PAWN_gender ? втік : утекла}.</Abductee7.description>
+  <Abductee7.description>Ще немовлям [PAWN_nameDef] {PAWN_gender ? потрапив : потрапила} до рук ксенолюдей. Вони ставили над {PAWN_gender ? ним : нею} досліди, щоб розібратися в {PAWN_gender ? його : її} генетичній будові.\n\nПодорослішавши, [PAWN_nameDef] {PAWN_gender ? став трохи завеликим і задужим : стала трохи завеликою і задужою} для своїх викрадачів і {PAWN_gender ? втік : втекла}.</Abductee7.description>
   <!-- EN: abductee -->
   <Abductee7.title>викрадений</Abductee7.title>
   <!-- EN: abductee -->
   <Abductee7.titleShort>викрадений</Abductee7.titleShort>
   <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams. -->
-  <AcademyStudent58.description>{PAWN_nameDef} {PAWN_gender ? був хорошим космічним курсантом : була хорошою космічною курсанткою} у школі. {PAWN_pronoun} {PAWN_gender ? був дуже високим та славився : була дуже високою славилася} своєю гарною зовнішністю.\n\nХоч {PAWN_possessive} більше турбувала {PAWN_possessive} зачіска, ніж оцінки, {PAWN_pronoun} все ж якось {PAWN_gender ? склав : склала} випускні іспити.</AcademyStudent58.description>
+  <AcademyStudent58.description>[PAWN_nameDef] {PAWN_gender ? ходив : ходила} до школи, як і належить {PAWN_gender ? зразковому космічному кадетові : зразковій космічній кадетці}. [PAWN_pronoun] {PAWN_gender ? був дуже високим і славився : була дуже високою і славилася} вродою.\n\nХоч [PAWN_pronoun] більше {PAWN_gender ? переймався : переймалася} зачіскою, ніж оцінками, випускні іспити все ж якось {PAWN_gender ? склав : склала}.</AcademyStudent58.description>
   <!-- EN: academy student -->
   <AcademyStudent58.title>студент академії</AcademyStudent58.title>
   <!-- EN: student -->
   <AcademyStudent58.titleShort>студент</AcademyStudent58.titleShort>
   <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-  <AccursedChild88.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в розпал місячного затемнення. Старійшини оголосили [PAWN_objective] дитям темряви і взяли [PAWN_objective] під свою опіку.\n\n[PAWN_possessive] все дитинство пройшло у вивченні легенд та ритуалів народу [PAWN_possessive] - аж до дня покликання.</AccursedChild88.description>
+  <AccursedChild88.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в розпал місячного затемнення. Старійшини проголосили {PAWN_gender ? його : її} дитям темряви й узяли під свою опіку.\n\nУсе дитинство [PAWN_pronoun] {PAWN_gender ? вивчав : вивчала} перекази й обряди свого народу – аж до дня покликання.</AccursedChild88.description>
   <!-- EN: accursed child -->
   <AccursedChild88.title>проклята дитина</AccursedChild88.title>
   <!-- EN: cursed -->
   <AccursedChild88.titleShort>проклятий</AccursedChild88.titleShort>
   <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-  <AdventuringChild30.description>[PAWN_nameDef] {PAWN_gender ? мав : мала} стати інженером — саме до цього [PAWN_possessive] готували. Роками [PAWN_pronoun] {PAWN_gender ? планував : планувала} таємно пробратися на вантажний корабель і почати нове життя, сповнене пригод.\n\nОднієї ночі, коли батьки заснули, [PAWN_pronoun] {PAWN_gender ? зумів : зуміла} прослизнути на борт вантажного корабля перед самим його відльотом.</AdventuringChild30.description>
+  <AdventuringChild30.description>[PAWN_nameDef] {PAWN_gender ? мав : мала} стати інженером – саме до цього [PAWN_possessive] готували. Роками [PAWN_pronoun] {PAWN_gender ? планував : планувала} таємно пробратися на вантажний корабель і почати нове життя, сповнене пригод.\n\nОднієї ночі, коли батьки заснули, [PAWN_pronoun] {PAWN_gender ? зумів : зуміла} прослизнути на борт вантажного корабля перед самим його відльотом.</AdventuringChild30.description>
   <!-- EN: adventuring child -->
   <AdventuringChild30.title>мандрівне дитя</AdventuringChild30.title>
   <!-- EN: adventurer -->
   <AdventuringChild30.titleShort>мандрівник</AdventuringChild30.titleShort>
   <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
-  <AdventurousYouth70.description>{PAWN_nameDef} {PAWN_gender? досліджував: досліджувала} великий маєток {PAWN_possessive} сім'ї, відкриваючи маленькі природні чудеса, заховані в сусідніх катакомбах, річках і печерах.\n\nЩе у підлітковому віці, {PAWN_nameDef} {PAWN_gender? нажив: нажила} собі чимало ворогів</AdventurousYouth70.description>
+  <AdventurousYouth70.description>[PAWN_nameDef] {PAWN_gender ? облазив : облазила} увесь величезний родинний маєток, відкриваючи маленькі природні дива, сховані в навколишніх катакомбах, річках і печерах.\n\nУ підлітковому віці [PAWN_nameDef] {PAWN_gender ? нажив : нажила} собі чимало ворогів.</AdventurousYouth70.description>
   <!-- EN: adventurous youth -->
   <AdventurousYouth70.title>авантюрне дитя</AdventurousYouth70.title>
   <!-- EN: adventurer -->
@@ -97,7 +97,7 @@
   <!-- EN: apocalypse -->
   <ApocalypseChild23.titleShort>дитя апокаліпсису</ApocalypseChild23.titleShort>
   <!-- EN: [PAWN_nameDef] was chosen at an early age by the village elders to keep the sacred rituals of the Oracle.\n\nAn irrepressibly curious child, [PAWN_nameDef] caused a religious crisis for [PAWN_possessive] tribe when [PAWN_pronoun] accidentally flipped a switch to open the "tombs" of the Gods - cryptosleep caskets inhabited by some very confused ancestors. -->
-  <ApprenticeOracle83.description>Ще змалку старійшини села {PAWN_gender ? обрали його : обрали її} берегти священні обряди Оракула.\n\nНестримно допитлива дитина, [PAWN_nameDef] {PAWN_gender ? спричинив : спричинила} релігійну кризу у своєму племені, коли випадково {PAWN_gender ? клацнув : клацнула} перемикачем і {PAWN_gender ? відчинив : відчинила} «гробниці» богів — саркофаги криптосну, в яких спочивали вельми спантеличені предки.</ApprenticeOracle83.description>
+  <ApprenticeOracle83.description>Ще змалку старійшини села {PAWN_gender ? обрали його : обрали її} берегти священні обряди Оракула.\n\nНестримно допитлива дитина, [PAWN_nameDef] {PAWN_gender ? спричинив : спричинила} релігійну кризу у своєму племені, коли випадково {PAWN_gender ? клацнув : клацнула} перемикачем і {PAWN_gender ? відчинив : відчинила} «гробниці» богів – саркофаги криптосну, в яких спочивали вельми спантеличені предки.</ApprenticeOracle83.description>
   <!-- EN: apprentice oracle -->
   <ApprenticeOracle83.title>оракул-учень</ApprenticeOracle83.title>
   <!-- EN: oracle -->
@@ -115,7 +115,7 @@
   <!-- EN: dodger -->
   <ArtfulDodger78.titleShort>хитрун</ArtfulDodger78.titleShort>
   <!-- EN: [PAWN_nameDef] grew up on a [PAWN_possessive] family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology. -->
-  <ArtisanFarmer23.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на родинній фермі в блискосвіті. Це була одна з останніх ферм на планеті, де традиційним методам землеробства віддавали перевагу над технологіями блискосвіту.</ArtisanFarmer23.description>
+  <ArtisanFarmer23.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на родинній фермі у світі-раї. Це була одна з останніх ферм на планеті, де традиційним методам землеробства віддавали перевагу над технологіями світу-раю.</ArtisanFarmer23.description>
   <!-- EN: artisan farmer -->
   <ArtisanFarmer23.title>ремісник-землероб</ArtisanFarmer23.title>
   <!-- EN: farmer -->
@@ -127,7 +127,7 @@
   <!-- EN: weirdo -->
   <ArtisticWeirdo56.titleShort>дивак</ArtisticWeirdo56.titleShort>
   <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
-  <AspergersRebel13.description>[PAWN_nameDef] {PAWN_gender ? виріс повстанцем : виросла повстанкою} на колись розвиненій прикордонному світі, спустошеній війною.\n\nЧерез синдром Аспергера [PAWN_pronoun] насилу {PAWN_gender ? давав : давала} собі раду в соціальних ситуаціях і {PAWN_gender ? був нездатний : була нездатна} піклуватися про інших, зате дуже швидко {PAWN_gender ? опановував : опановувала} конкретні навички, як-от дослідження та стрільбу.</AspergersRebel13.description>
+  <AspergersRebel13.description>[PAWN_nameDef] {PAWN_gender ? виріс повстанцем : виросла повстанкою} в колись розвиненому прикордонному світі, спустошеному війною.\n\nЧерез синдром Аспергера [PAWN_pronoun] насилу {PAWN_gender ? давав : давала} собі раду в товаристві й {PAWN_gender ? був нездатний : була нездатна} піклуватися про інших, зате дуже швидко {PAWN_gender ? опановував : опановувала} конкретні навички, як-от дослідження та стрільбу.</AspergersRebel13.description>
   <!-- EN: aspergers rebel -->
   <AspergersRebel13.title>повстанець Аспергера</AspergersRebel13.title>
   <!-- EN: rebel -->
@@ -151,7 +151,7 @@
   <!-- EN: pop idol -->
   <AspiringPopIdol28.titleShort>поп-ідол</AspiringPopIdol28.titleShort>
   <!-- EN: [PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept. -->
-  <Athlete47.description>[PAWN_nameDef] змалку {PAWN_gender ? був професійним спортсменом : була професійною спортсменкою}. Завдяки своїм здібностям [PAWN_pronoun] {PAWN_gender ? зміг : змогла} покинути рідну планету й вступити до науково-технічного університету в блискосвіті.\n\nЧерез щільний графік і замкнену вдачу [PAWN_pronoun] так і не {PAWN_gender ? навчився : навчилася} спілкуватися з людьми.</Athlete47.description>
+  <Athlete47.description>[PAWN_nameDef] змалку {PAWN_gender ? був професійним спортсменом : була професійною спортсменкою}. Завдяки своїм здібностям [PAWN_pronoun] {PAWN_gender ? зміг : змогла} покинути рідну планету й вступити до науково-технічного університету у світі-раї.\n\nЧерез щільний графік і замкнену вдачу [PAWN_pronoun] так і не {PAWN_gender ? навчився : навчилася} спілкуватися з людьми.</Athlete47.description>
   <!-- EN: athlete -->
   <Athlete47.title>спортсмен</Athlete47.title>
   <!-- EN: athlete -->
@@ -163,19 +163,19 @@
   <!-- EN: nerd -->
   <AwkwardNerd48.titleShort>ботан</AwkwardNerd48.titleShort>
   <!-- EN: The only useful skill [PAWN_nameDef] learned from [PAWN_possessive] tough military school was card-counting. [PAWN_pronoun] amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.\n\nWhen [PAWN_pronoun] was finally caught, they burned half [PAWN_possessive] skin off. [PAWN_pronoun] could never face fire or violence again. -->
-  <BlackjackPlayer76.description>Єдина корисна навичка, яку [PAWN_nameDef] {PAWN_gender ? виніс : винесла} із суворої військової школи, — підрахунок карт. Шахраюючи в казино, [PAWN_pronoun] {PAWN_gender ? нажив : нажила} багато ворогів і що більше зростала загроза розплати, то {PAWN_gender ? нервовішим і жорстокішим ставав : нервовішою і жорстокішою ставала}.\n\nКоли [PAWN_possessive] нарешті спіймали, [PAWN_objective] спалили половину шкіри. Відтоді [PAWN_pronoun] більше не {PAWN_gender ? міг : могла} витримати ні вогню, ні насильства.</BlackjackPlayer76.description>
+  <BlackjackPlayer76.description>Єдина корисна навичка, яку [PAWN_nameDef] {PAWN_gender ? виніс : винесла} із суворої військової школи, – підрахунок карт. Шахраюючи в казино, [PAWN_pronoun] {PAWN_gender ? нажив : нажила} багато ворогів, і що більшою ставала загроза розплати, то {PAWN_gender ? нервовішим і жорстокішим ставав : нервовішою і жорстокішою ставала}.\n\nКоли {PAWN_gender ? його : її} нарешті спіймали, [PAWN_objective] спалили половину шкіри. Відтоді [PAWN_pronoun] більше не {PAWN_gender ? міг : могла} витримати ні вогню, ні насильства.</BlackjackPlayer76.description>
   <!-- EN: blackjack player -->
   <BlackjackPlayer76.title>гравець у блекджек</BlackjackPlayer76.title>
   <!-- EN: gambler -->
   <BlackjackPlayer76.titleShort>гравець</BlackjackPlayer76.titleShort>
   <!-- EN: [PAWN_nameDef]'s father owned the blacksmith shop in an run-down old city district. [PAWN_nameDef] would help [PAWN_possessive] father whenever [PAWN_pronoun] could.\n\nLater, [PAWN_possessive] father took [PAWN_objective] as a blacksmith's apprentice and raised [PAWN_objective] as a man. [PAWN_nameDef] also took on shooting as a hobby. -->
-  <BlacksmithsSon73.description>Батько [PAWN_nameDef] тримав кузню в занедбаному старому районі міста. [PAWN_nameDef] {PAWN_gender ? допомагав : допомагала} йому щоразу, коли {PAWN_gender ? мав : мала} змогу.\n\nЗгодом батько взяв [PAWN_possessive] до себе в підмайстри й {PAWN_gender ? виховав справжнім чоловіком : виховав сильною жінкою}. Крім того, [PAWN_nameDef] {PAWN_gender ? захопився : захопилася} стрільбою.</BlacksmithsSon73.description>
+  <BlacksmithsSon73.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у родині коваля, що тримав кузню в занедбаному старому районі міста, і {PAWN_gender ? допомагав : допомагала} батькові щоразу, коли {PAWN_gender ? мав : мала} змогу.\n\nЗгодом батько взяв {PAWN_gender ? його : її} до себе в підмайстри й {PAWN_gender ? виховав справжнім чоловіком : виховав сильною жінкою}. Крім того, [PAWN_nameDef] {PAWN_gender ? захопився : захопилася} стрільбою.</BlacksmithsSon73.description>
   <!-- EN: blacksmith's son -->
   <BlacksmithsSon73.title>син коваля</BlacksmithsSon73.title>
   <!-- EN: blacksmith -->
   <BlacksmithsSon73.titleShort>коваль</BlacksmithsSon73.titleShort>
   <!-- EN: [PAWN_nameDef] was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout [PAWN_possessive] childhood.\n\n[PAWN_pronoun] learned to take care of the poor and give succor to the faithful from an early age. -->
-  <BlessedChild46.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} за сприятливих обставин у духовній групі середнього світу, і шанували протягом усього [PAWN_possessive] дитинства.\n\n[PAWN_pronoun] {PAWN_gender ? навчився : навчилася} піклуватися про бідних і надавати допомогу вірним з раннього дитинства.</BlessedChild46.description>
+  <BlessedChild46.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} за добрих знамень у духовній громаді середнього світу, і все дитинство {PAWN_gender ? його : її} шанували.\n\nЗмалку [PAWN_pronoun] {PAWN_gender ? вчився : вчилася} дбати про бідних і підтримувати вірян.</BlessedChild46.description>
   <!-- EN: blessed child -->
   <BlessedChild46.title>благословенне дитя</BlessedChild46.title>
   <!-- EN: blessed -->
@@ -199,19 +199,19 @@
   <!-- EN: bookworm -->
   <Bookworm3.titleShort>книголюб</Bookworm3.titleShort>
   <!-- EN: [PAWN_nameDef] was in a boy scout troop on a midworld.\n\n[PAWN_pronoun] learned many survival skills including how to thrive in the outdoors and how to tend to basic wounds. -->
-  <BoyScout42.description>[PAWN_nameDef] {PAWN_gender ? був : була} в загоні скаутів у середньому світі.\n\n[PAWN_pronoun] {PAWN_gender ? опанував : опанувала} чимало навичок виживання — зокрема, як почуватися на природі, мов риба у воді, і як обробляти прості рани.</BoyScout42.description>
+  <BoyScout42.description>[PAWN_nameDef] {PAWN_gender ? був : була} в загоні скаутів у середньому світі.\n\n[PAWN_pronoun] {PAWN_gender ? опанував : опанувала} чимало навичок виживання – зокрема, як почуватися на природі, мов риба у воді, і як обробляти прості рани.</BoyScout42.description>
   <!-- EN: boy scout -->
   <BoyScout42.title>бойскаут</BoyScout42.title>
   <!-- EN: scout -->
   <BoyScout42.titleShort>скаут</BoyScout42.titleShort>
   <!-- EN: War may never change - but the cast of characters does.\n\nBorn on a violent urbworld, [PAWN_nameDef] was trained from a young age to fight the wars of others, and became rather good at it. -->
-  <BoySoldier14.description>Війна, може, й ніколи не змінюється, але змінюються її учасники.\n\nНародившись у жорстокому урбанізованому світі, [PAWN_nameDef] змалку {PAWN_gender ? вчився : вчилася} воювати в чужих війнах — і {PAWN_gender ? досяг : досягла} у цьому неабияких успіхів.</BoySoldier14.description>
+  <BoySoldier14.description>Війна, може, й ніколи не змінюється, але змінюються її учасники.\n\nНародившись у жорстокому урбанізованому світі, [PAWN_nameDef] змалку {PAWN_gender ? вчився : вчилася} воювати в чужих війнах – і {PAWN_gender ? досяг : досягла} у цьому неабияких успіхів.</BoySoldier14.description>
   <!-- EN: boy soldier -->
   <BoySoldier14.title>молодий солдат</BoySoldier14.title>
   <!-- EN: soldier -->
   <BoySoldier14.titleShort>солдат</BoySoldier14.titleShort>
   <!-- EN: Born on a steam-powered midworld wracked by a century of economic crises, [PAWN_nameDef] went to work at a young age. Scrounging, shoe-polishing, sewing - [PAWN_pronoun] did it all. But [PAWN_pronoun] was most known as a brothel gofer, delivering all manner of aphrodisiacs and chemicals to the girls' rooms. -->
-  <BrothelGofer84.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в середньому світі парових машин, який ціле століття потерпав від економічних криз, і рано {PAWN_gender ? пішов : пішла} працювати. Збирати мотлох, чистити взуття, шити — [PAWN_pronoun] {PAWN_gender ? брався : бралася} за все. Але найбільше [PAWN_pronoun] {PAWN_gender ? прославився : прославилася} як посильний у борделі, розносячи дівчатам по кімнатах усілякі афродизіаки та хімію.</BrothelGofer84.description>
+  <BrothelGofer84.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в середньому світі парових машин, який ціле століття потерпав від економічних криз, і рано {PAWN_gender ? пішов : пішла} працювати. Збирати мотлох, чистити взуття, шити – [PAWN_pronoun] {PAWN_gender ? брався : бралася} за все. Але найбільше [PAWN_pronoun] {PAWN_gender ? прославився : прославилася} як посильний у борделі, розносячи дівчатам по кімнатах усілякі афродизіаки та хімію.</BrothelGofer84.description>
   <!-- EN: brothel gofer -->
   <BrothelGofer84.title>хлопчик на побігеньках</BrothelGofer84.title>
   <!-- EN: gofer -->
@@ -223,7 +223,7 @@
   <!-- EN: thief -->
   <BrutalThief59.titleShort>злодій</BrutalThief59.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in an underground shelter, waiting for radioactive fallout to subside. [PAWN_possessive] rich family had gained access to a luxury bunker city, while billions died on the surface.\n\nDetermined to one day seek revenge against the hated enemy, [PAWN_nameDef] spent most of [PAWN_possessive] time practicing shooting in [PAWN_possessive] private training facility. -->
-  <BunkerKid41.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в підземному сховищі, чекаючи, поки вщухнуть радіоактивні опади. Заможна родина [PAWN_nameDef] здобула доступ до розкішного міста-бункера, тоді як мільярди людей гинули на поверхні.\n\n{PAWN_gender ? Сповнений : Сповнена} рішучості колись помститися ненависному ворогові, [PAWN_nameDef] більшість часу {PAWN_gender ? проводив : проводила}, тренуючись у стрільбі у своєму приватному тренувальному комплексі.</BunkerKid41.description>
+  <BunkerKid41.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в підземному сховищі, чекаючи, поки вщухнуть радіоактивні опади. Заможна родина здобула доступ до розкішного міста-бункера, тоді як мільярди людей гинули на поверхні.\n\n{PAWN_gender ? Сповнений : Сповнена} рішучості колись помститися ненависному ворогові, [PAWN_nameDef] більшість часу {PAWN_gender ? проводив : проводила}, тренуючись у стрільбі у своєму приватному тренувальному комплексі.</BunkerKid41.description>
   <!-- EN: bunker kid -->
   <BunkerKid41.title>дитя бункеру</BunkerKid41.title>
   <!-- EN: bunker kid -->
@@ -235,7 +235,7 @@
   <!-- EN: cadet -->
   <Cadet96.titleShort>кадет</Cadet96.titleShort>
   <!-- EN: [PAWN_nameDef] was born on a urbworld merchant ship to an entrepreneurial mother and an absent father. Born male, [PAWN_pronoun] disliked boy stuff, and got into [PAWN_possessive] mother's things all the time.\n\nEventually, [PAWN_pronoun] traveled with [PAWN_possessive] mother to a glitterworld and spent [PAWN_possessive] savings on a body [PAWN_pronoun] was happy with. -->
-  <CaravanChild53.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на торговому кораблі з урбанізованого світу. Мати була підприємливою жінкою, а батька поруч не було. [PAWN_pronoun] {PAWN_gender ? народився : народилася} хлопчиком, але не {PAWN_gender ? любив : любила} хлоп'ячих забав і постійно {PAWN_gender ? нишпорив : нишпорила} в маминих речах.\n\nЗрештою [PAWN_pronoun] {PAWN_gender ? вирушив : вирушила} з матір'ю до блискосвіту й {PAWN_gender ? витратив : витратила} свої заощадження на тіло, яким {PAWN_gender ? був задоволений : була задоволена}.</CaravanChild53.description>
+  <CaravanChild53.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на торговому кораблі з урбанізованого світу. Мати була підприємливою жінкою, а батька поруч не було. [PAWN_pronoun] {PAWN_gender ? народився : народилася} хлопчиком, але не {PAWN_gender ? любив : любила} хлоп'ячих забав і постійно {PAWN_gender ? нишпорив : нишпорила} в маминих речах.\n\nЗрештою [PAWN_pronoun] {PAWN_gender ? вирушив : вирушила} з матір'ю до світу-раю й {PAWN_gender ? витратив : витратила} свої заощадження на тіло, яким {PAWN_gender ? був задоволений : була задоволена}.</CaravanChild53.description>
   <!-- EN: caravan child -->
   <CaravanChild53.title>дитя каравану</CaravanChild53.title>
   <!-- EN: child -->
@@ -247,7 +247,7 @@
   <!-- EN: traveler -->
   <CaravanTraveler6.titleShort>кочівник</CaravanTraveler6.titleShort>
   <!-- EN: [PAWN_nameDef] helped out in [PAWN_possessive] father's cat breeding business, socializing, herding, and feeding hundreds of cats.\n\nWhen [PAWN_pronoun] refused to clean up after the cats, [PAWN_pronoun] was transferred to the breeding science division. -->
-  <CatHerder4.description>[PAWN_nameDef] {PAWN_gender ? допомагав : допомагала} батькові в його котячому розпліднику — {PAWN_gender ? привчав до людей, пас і годував : привчала до людей, пасла й годувала} сотні котів.\n\nКоли [PAWN_pronoun] {PAWN_gender ? відмовився : відмовилася} прибирати за котами, [PAWN_possessive] перевели до відділу селекційної науки.</CatHerder4.description>
+  <CatHerder4.description>[PAWN_nameDef] {PAWN_gender ? допомагав : допомагала} батькові в його котячому розпліднику – {PAWN_gender ? привчав до людей, пас і годував : привчала до людей, пасла й годувала} сотні котів.\n\nКоли [PAWN_pronoun] {PAWN_gender ? відмовився : відмовилася} прибирати за котами, [PAWN_possessive] перевели до відділу селекційної науки.</CatHerder4.description>
   <!-- EN: cat herder -->
   <CatHerder4.title>котячий пастух</CatHerder4.title>
   <!-- EN: herder -->
@@ -259,7 +259,7 @@
   <!-- EN: cave kid -->
   <CaveChild17.titleShort>печерне дитя</CaveChild17.titleShort>
   <!-- EN: [PAWN_nameDef] loved to play chess. [PAWN_pronoun] even earned the nickname [PAWN_nameDef] for some of [PAWN_possessive] craftier moves.\n\n[PAWN_pronoun] never got into trouble - mostly because [PAWN_pronoun] was good at not getting caught. -->
-  <ChessMaster67.description>[PAWN_nameDef] {PAWN_gender ? обожнював : обожнювала} грати в шахи. За деякі свої хитромудрі ходи [PAWN_pronoun] навіть {PAWN_gender ? отримав : отримала} прізвисько [PAWN_nameDef].\n\n[PAWN_pronoun] ніколи не {PAWN_gender ? потрапляв : потрапляла} в халепу — здебільшого тому, що {PAWN_gender ? вмів : вміла} не попадатися.</ChessMaster67.description>
+  <ChessMaster67.description>[PAWN_nameDef] {PAWN_gender ? обожнював : обожнювала} грати в шахи. За деякі свої хитромудрі ходи [PAWN_pronoun] навіть {PAWN_gender ? отримав : отримала} прізвисько [PAWN_nameDef].\n\n[PAWN_pronoun] ніколи не {PAWN_gender ? потрапляв : потрапляла} в халепу – здебільшого тому, що {PAWN_gender ? вмів : вміла} не попадатися.</ChessMaster67.description>
   <!-- EN: chess master -->
   <ChessMaster67.title>майстер шахів</ChessMaster67.title>
   <!-- EN: chesshead -->
@@ -271,13 +271,13 @@
   <!-- EN: knave -->
   <ChildKnave69.titleShort>прислуга</ChildKnave69.titleShort>
   <!-- EN: Ever since [PAWN_pronoun] was very small, [PAWN_nameDef] never knew a home beyond [PAWN_possessive] parent's ship. Their nomadic meandering provided a constant change of scenery. [PAWN_possessive] life was often perilous but never dull, and [PAWN_pronoun] inherited [PAWN_possessive] parents' wanderlust. -->
-  <ChildOfDrifters18.description>Змалечку [PAWN_nameDef] не {PAWN_gender ? знав : знала} іншого дому, крім батьківського корабля. Кочові блукання батьків щоразу дарували нові краєвиди. Життя часто бувало небезпечним, але ніколи — нудним, і [PAWN_pronoun] {PAWN_gender ? успадкував : успадкувала} від батьків жагу до мандрів.</ChildOfDrifters18.description>
+  <ChildOfDrifters18.description>Змалечку [PAWN_nameDef] не {PAWN_gender ? знав : знала} іншого дому, крім батьківського корабля. Кочові блукання батьків щоразу дарували нові краєвиди. Життя часто бувало небезпечним, але ніколи – нудним, і [PAWN_pronoun] {PAWN_gender ? успадкував : успадкувала} від батьків жагу до мандрів.</ChildOfDrifters18.description>
   <!-- EN: child of drifters -->
   <ChildOfDrifters18.title>дитя мандрівників</ChildOfDrifters18.title>
   <!-- EN: drifter -->
   <ChildOfDrifters18.titleShort>мандрівник</ChildOfDrifters18.titleShort>
   <!-- EN: [PAWN_nameDef] was raised underground on a "marble" planet - a wasteland of radioactive asphalt and toxic fallout.\n\nTo survive on a planet devoid of life, [PAWN_pronoun] had to learn how to farm underground and how to fight without wasting bullets. -->
-  <ChildOfGlass61.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} під землею на «мармуровій» планеті — пустищі радіоактивного асфальту й токсичних опадів.\n\nЩоб вижити на позбавленій життя планеті, [PAWN_pronoun] {PAWN_gender ? мусив : мусила} навчитися вирощувати врожай під землею й битися, не марнуючи куль.</ChildOfGlass61.description>
+  <ChildOfGlass61.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} під землею на «мармуровій» планеті – пустищі радіоактивного асфальту й токсичних опадів.\n\nЩоб вижити на позбавленій життя планеті, [PAWN_pronoun] {PAWN_gender ? мусив : мусила} навчитися вирощувати врожай під землею й битися, не марнуючи куль.</ChildOfGlass61.description>
   <!-- EN: child of glass -->
   <ChildOfGlass61.title>дитя скла</ChildOfGlass61.title>
   <!-- EN: survivor -->
@@ -289,7 +289,7 @@
   <!-- EN: prodigy -->
   <ChildProdigy76.titleShort>вундеркінд</ChildProdigy76.titleShort>
   <!-- EN: A frightfully intelligent child, [PAWN_nameDef] was kidnapped by a glitterworld corporation and forced to research technologies for weaponizing anti-matter.\n\n[PAWN_pronoun] vowed never to invent anything again. -->
-  <ChildResearcher32.description>[PAWN_nameDef] {PAWN_gender ? був : була} лячно розумною дитиною, тож [PAWN_possessive] викрала корпорація з блискосвіту й змусила розробляти технології, які мали перетворити антиматерію на зброю.\n\n[PAWN_pronoun] {PAWN_gender ? поклявся : поклялася} більше ніколи нічого не винаходити.</ChildResearcher32.description>
+  <ChildResearcher32.description>[PAWN_nameDef] {PAWN_gender ? був : була} лячно розумною дитиною, тож [PAWN_possessive] викрала корпорація з світу-раю й змусила розробляти технології, які мали перетворити антиматерію на зброю.\n\n[PAWN_pronoun] {PAWN_gender ? поклявся : поклялася} більше ніколи нічого не винаходити.</ChildResearcher32.description>
   <!-- EN: child researcher -->
   <ChildResearcher32.title>молодий дослідник</ChildResearcher32.title>
   <!-- EN: researcher -->
@@ -301,7 +301,7 @@
   <!-- EN: scientist -->
   <ChildScientist30.titleShort>науковець</ChildScientist30.titleShort>
   <!-- EN: [PAWN_nameDef] was born to a poor family on a rimworld. [PAWN_possessive] father sold [PAWN_objective] into slavery at a young age. [PAWN_pronoun] was traded many times. A tycoon bought [PAWN_objective] and sent [PAWN_objective] down into mines to look after machines and to work alongside them. -->
-  <ChildSlave58.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в бідній родині на прикордонному світі. Ще змалку батько продав [PAWN_possessive] у рабство. [PAWN_pronoun] багато разів {PAWN_gender ? переходив : переходила} з рук у руки. Зрештою [PAWN_possessive] купив магнат і відправив у шахти — наглядати за машинами й працювати пліч-о-пліч із ними.</ChildSlave58.description>
+  <ChildSlave58.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в бідній родині у прикордонному світі. Ще змалку батько продав [PAWN_possessive] у рабство. [PAWN_pronoun] багато разів {PAWN_gender ? переходив : переходила} з рук у руки. Зрештою [PAWN_possessive] купив магнат і відправив у шахти – наглядати за машинами й працювати пліч-о-пліч із ними.</ChildSlave58.description>
   <!-- EN: child slave -->
   <ChildSlave58.title>молодий раб</ChildSlave58.title>
   <!-- EN: slave -->
@@ -319,19 +319,19 @@
   <!-- EN: performer -->
   <CircusPerformer37.titleShort>циркач</CircusPerformer37.titleShort>
   <!-- EN: In the ultra-competitive environs of [PAWN_possessive] glitterworld school, [PAWN_nameDef] always offered to play the class clown to diffuse tension.\n\n[PAWN_pronoun] developed a sense of social desperation from this, as well as an appreciation for the artistic side of comedy. -->
-  <ClassClown96.description>У надзвичайно конкурентному середовищі своєї школи в блискосвіті [PAWN_nameDef] завжди {PAWN_gender ? зголошувався : зголошувалася} грати роль клоуна класу, щоб розрядити напругу.\n\nЧерез це в {PAWN_gender ? нього : неї} розвинулася відчайдушна потреба в людському схваленні, а також смак до мистецького боку комедії.</ClassClown96.description>
+  <ClassClown96.description>У шаленій конкуренції своєї школи у світі-раї [PAWN_nameDef] завжди {PAWN_gender ? зголошувався : зголошувалася} грати роль класного блазня, щоб розрядити напругу.\n\nЧерез це в {PAWN_gender ? нього : неї} з'явилася відчайдушна потреба в людському схваленні, а ще – смак до мистецького боку комедії.</ClassClown96.description>
   <!-- EN: class clown -->
   <ClassClown96.title>клоун класу</ClassClown96.title>
   <!-- EN: clowny kid -->
   <ClassClown96.titleShort>клоун</ClassClown96.titleShort>
   <!-- EN: Clone children are seeded into nutrient-rich womb-vats and rapidly grown in a simmed universe. They're harvested later, sometimes for food, sometimes for organs, sometimes for workers - but they're always disposable. -->
-  <CloneFarmed21.description>Дітей-клонів "висаджують" у багаті поживними речовинами чани та швидко вирощують у симульованому середовищі. Їх "збирають" пізніше, іноді для їжі, іноді для органів, іноді як працівників, але вони завжди одноразові.</CloneFarmed21.description>
+  <CloneFarmed21.description>Дітей-клонів «висаджують» у багаті на поживні речовини чани-утроби й швидко вирощують у симульованому всесвіті. Згодом їх «збирають» – кого на їжу, кого на органи, кого як робочу силу, – але вони завжди одноразові.</CloneFarmed21.description>
   <!-- EN: clone-farmed -->
   <CloneFarmed21.title>клонований</CloneFarmed21.title>
   <!-- EN: disposable -->
   <CloneFarmed21.titleShort>одноразовий</CloneFarmed21.titleShort>
   <!-- EN: During the 'Inner Destrian War' fallout, [PAWN_possessive] parents were captured and [PAWN_pronoun] was born into a life of slavery. Forced to clean coliseums after bloody battles for money. Watching, waiting, and learning. Coliseums were the only thing [PAWN_pronoun] ever knew. One night while cleaning the coliseum, [PAWN_possessive] family was murdered. -->
-  <ColiseumCleaner54.description>У хаосі після «Внутрішньої дестріанської війни» [PAWN_possessive] батьків захопили в полон, і [PAWN_pronoun] {PAWN_gender ? народився : народилася} в рабстві. {PAWN_gender ? Змушений : Змушена} прибирати колізеї після кривавих боїв за гроші, [PAWN_pronoun] {PAWN_gender ? спостерігав, чекав і вчився : спостерігала, чекала й вчилася}. Колізеї були єдиним, що [PAWN_pronoun] будь-коли {PAWN_gender ? знав : знала}. Однієї ночі, поки [PAWN_pronoun] {PAWN_gender ? прибирав : прибирала} колізей, [PAWN_possessive] родину вбили.</ColiseumCleaner54.description>
+  <ColiseumCleaner54.description>У хаосі після «Внутрішньої дестріанської війни» [PAWN_possessive] батьків захопили в полон, і [PAWN_pronoun] {PAWN_gender ? народився : народилася} в рабстві. {PAWN_gender ? Змушений : Змушена} прибирати колізеї після кривавих боїв на гроші, [PAWN_pronoun] {PAWN_gender ? спостерігав, чекав і вчився : спостерігала, чекала й вчилася}. Нічого, крім колізеїв, [PAWN_pronoun] у житті не {PAWN_gender ? знав : знала}. Однієї ночі, поки [PAWN_pronoun] {PAWN_gender ? прибирав : прибирала} колізей, [PAWN_possessive] родину вбили.</ColiseumCleaner54.description>
   <!-- EN: coliseum cleaner -->
   <ColiseumCleaner54.title>прибиральник колізею</ColiseumCleaner54.title>
   <!-- EN: cleaner -->
@@ -367,13 +367,13 @@
   <!-- EN: geek -->
   <ComputerGeek62.titleShort>ентузіаст</ComputerGeek62.titleShort>
   <!-- EN: Growing up in [PAWN_possessive] father's lab, [PAWN_nameDef] was given the life of an intellectual elite. [PAWN_pronoun] got everything [PAWN_pronoun] desired, and price was never an object.\n\nHowever [PAWN_nameDef] did not partake in the luxury given to him. Instead, [PAWN_pronoun] pursued more physical, and - in [PAWN_possessive] father's eyes - lower-class jobs. -->
-  <ConstructionGrunt84.description>Виростаючи в батьковій лабораторії, [PAWN_nameDef] {PAWN_gender ? жив : жила} життям інтелектуальної еліти. [PAWN_pronoun] {PAWN_gender ? отримував : отримувала} усе, чого {PAWN_gender ? бажав : бажала}, і ціна ніколи не мала значення.\n\nПроте [PAWN_nameDef] не {PAWN_gender ? користувався : користувалася} розкішшю, яку [PAWN_objective] давали. Натомість [PAWN_pronoun] {PAWN_gender ? обирав : обирала} фізичну працю — у батькових очах роботу для нижчих верств.</ConstructionGrunt84.description>
+  <ConstructionGrunt84.description>Виростаючи в батьковій лабораторії, [PAWN_nameDef] {PAWN_gender ? жив : жила} життям інтелектуальної еліти. [PAWN_pronoun] {PAWN_gender ? отримував : отримувала} усе, чого {PAWN_gender ? бажав : бажала}, і ціна ніколи не мала значення.\n\nПроте [PAWN_nameDef] не {PAWN_gender ? користувався : користувалася} розкішшю, яку [PAWN_objective] давали. Натомість [PAWN_pronoun] {PAWN_gender ? обирав : обирала} фізичну працю – у батькових очах роботу для нижчих верств.</ConstructionGrunt84.description>
   <!-- EN: construction grunt -->
   <ConstructionGrunt84.title>будівельник</ConstructionGrunt84.title>
   <!-- EN: builder -->
   <ConstructionGrunt84.titleShort>будівельник</ConstructionGrunt84.titleShort>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] formative years on a glitterworld in the core region, where [PAWN_pronoun] and [PAWN_possessive] friends pursued lives of idle pleasure.\n\nAs [PAWN_pronoun] grew up, [PAWN_pronoun] began to find the life of ease unfulfilling. [PAWN_pronoun] decided to look for a more challenging path. -->
-  <CoreDilettante33.description>Свої юні роки [PAWN_nameDef] {PAWN_gender ? провів : провела} у блискосвіті в регіоні ядра, де [PAWN_pronoun] разом із друзями {PAWN_gender ? жив : жила} у неробстві та насолодах.\n\nПодорослішавши, [PAWN_pronoun] {PAWN_gender ? відчув : відчула}, що легке життя не приносить задоволення, і {PAWN_gender ? вирішив : вирішила} пошукати складнішого шляху.</CoreDilettante33.description>
+  <CoreDilettante33.description>Свої юні роки [PAWN_nameDef] {PAWN_gender ? провів : провела} у світі-раї в регіоні ядра, де [PAWN_pronoun] разом із друзями {PAWN_gender ? жив : жила} у неробстві та насолодах.\n\nПодорослішавши, [PAWN_pronoun] {PAWN_gender ? відчув : відчула}, що легке життя не приносить задоволення, і {PAWN_gender ? вирішив : вирішила} пошукати складнішого шляху.</CoreDilettante33.description>
   <!-- EN: core dilettante -->
   <CoreDilettante33.title>дилетант</CoreDilettante33.title>
   <!-- EN: dilettante -->
@@ -385,13 +385,13 @@
   <!-- EN: student -->
   <CoreworldStudent50.titleShort>студент</CoreworldStudent50.titleShort>
   <!-- EN: [PAWN_nameDef] was bred to become an executive for the space exploration corporation that owned [PAWN_possessive] home planet. [PAWN_possessive] family had been working for that corporation for four generations.\n\nAt age five, [PAWN_pronoun] enrolled at the corporate academy where [PAWN_pronoun] learned loyalty and ruthlessness. [PAWN_nameDef] excelled in finding diplomatic solutions where others would need violence. -->
-  <CorpBredStudent54.description>[PAWN_nameDef] з народження {PAWN_gender ? готувався : готувалася} стати керівником у корпорації з освоєння космосу, якій належала [PAWN_possessive] рідна планета. Родина [PAWN_nameDef] працювала на цю корпорацію вже чотири покоління.\n\nУ п'ять років [PAWN_pronoun] {PAWN_gender ? вступив : вступила} до корпоративної академії, де {PAWN_gender ? навчився : навчилася} відданості й безжальності. [PAWN_nameDef] чудово {PAWN_gender ? вмів : вміла} знаходити дипломатичні рішення там, де іншим знадобилося б насильство.</CorpBredStudent54.description>
+  <CorpBredStudent54.description>[PAWN_nameDef] з народження {PAWN_gender ? готувався : готувалася} стати керівником у корпорації з освоєння космосу, якій належала [PAWN_possessive] рідна планета. [PAWN_possessive] родина працювала на цю корпорацію вже чотири покоління.\n\nУ п'ять років [PAWN_pronoun] {PAWN_gender ? вступив : вступила} до корпоративної академії, де {PAWN_gender ? навчився : навчилася} відданості й безжальності. [PAWN_nameDef] чудово {PAWN_gender ? вмів : вміла} знаходити дипломатичні рішення там, де іншим знадобилося б насильство.</CorpBredStudent54.description>
   <!-- EN: corp-bred student -->
   <CorpBredStudent54.title>корпораційний студент</CorpBredStudent54.title>
   <!-- EN: student -->
   <CorpBredStudent54.titleShort>студент</CorpBredStudent54.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in a colony owned by a large glitterworld corporation. All children had virtual reality devices attached by force, and were raised in a brutal digital world.\n\nConstantly forced to fight others for the entertainment of the wealthy, gunplay and tactics became the center of [PAWN_nameDef]'s universe. -->
-  <CorporateSlave22.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в колонії, що належала великій корпорації з блискосвіту. Усім дітям примусово під'єднували пристрої віртуальної реальності й виховували їх у жорстокому цифровому світі.\n\nОскільки [PAWN_pronoun] постійно {PAWN_gender ? мусив : мусила} битися з іншими на потіху багатіям, стрілянина й тактика стали центром [PAWN_possessive] всесвіту.</CorporateSlave22.description>
+  <CorporateSlave22.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в колонії, що належала великій корпорації зі світу-раю. Усім дітям силоміць під'єднували пристрої віртуальної реальності й виховували їх у жорстокому цифровому світі.\n\nОскільки [PAWN_pronoun] постійно {PAWN_gender ? мусив : мусила} битися з іншими на потіху багатіям, стрілянина й тактика стали центром [PAWN_possessive] всесвіту.</CorporateSlave22.description>
   <!-- EN: corporate slave -->
   <CorporateSlave22.title>раб корпорації</CorporateSlave22.title>
   <!-- EN: soldier -->
@@ -409,25 +409,25 @@
   <!-- EN: hick kid -->
   <CountryChild95.titleShort>закутній</CountryChild95.titleShort>
   <!-- EN: [PAWN_nameDef] grew up on a rimworld, under the tyranny of [PAWN_possessive] father, who forced [PAWN_objective] to work every day on the farm. [PAWN_pronoun] dreamed of escaping [PAWN_possessive] father and exploring the universe.\n\nOne day, when the trade ship was overhead, [PAWN_pronoun] stowed away among the goods in the launch pods, and escaped into space. -->
-  <CowFarmer39.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на прикордонному світі під тиранією батька, який змушував [PAWN_possessive] щодня працювати на фермі. [PAWN_pronoun] {PAWN_gender ? мріяв : мріяла} втекти від батька й досліджувати всесвіт.\n\nОдного дня, коли над фермою пролітав торговий корабель, [PAWN_pronoun] {PAWN_gender ? сховався : сховалася} серед товарів у транспортних капсулах і {PAWN_gender ? втік : втекла} у космос.</CowFarmer39.description>
+  <CowFarmer39.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} у прикордонному світі під тиранією батька, який змушував [PAWN_possessive] щодня працювати на фермі. [PAWN_pronoun] {PAWN_gender ? мріяв : мріяла} втекти від батька й досліджувати всесвіт.\n\nОдного дня, коли над фермою пролітав торговий корабель, [PAWN_pronoun] {PAWN_gender ? сховався : сховалася} серед товарів у транспортних капсулах і {PAWN_gender ? втік : втекла} у космос.</CowFarmer39.description>
   <!-- EN: cow farmer -->
   <CowFarmer39.title>фермер</CowFarmer39.title>
   <!-- EN: farmer -->
   <CowFarmer39.titleShort>фермер</CowFarmer39.titleShort>
   <!-- EN: [PAWN_nameDef] was adopted child of a notorious crime boss. [PAWN_pronoun] was taught all facets of the family business, from smuggling to inventive ways of killing.\n\nWhen the family was attacked, [PAWN_possessive] father ordered [PAWN_objective] to hide in a secret cryptosleep vault. -->
-  <CrimeBossChild39.description>[PAWN_nameDef] {PAWN_gender ? був прийомним сином : була прийомною донькою} сумнозвісного кримінального авторитета. [PAWN_pronoun] {PAWN_gender ? опанував : опанувала} всі тонкощі родинного бізнесу — від контрабанди до винахідливих способів убивства.\n\nКоли на родину напали, батько наказав [PAWN_objective] сховатися в таємному сховищі криптосну.</CrimeBossChild39.description>
+  <CrimeBossChild39.description>[PAWN_nameDef] {PAWN_gender ? був прийомним сином : була прийомною донькою} сумнозвісного кримінального авторитета. [PAWN_pronoun] {PAWN_gender ? опанував : опанувала} всі тонкощі родинного бізнесу – від контрабанди до винахідливих способів убивства.\n\nКоли на родину напали, батько наказав [PAWN_objective] сховатися в таємному сховищі криптосну.</CrimeBossChild39.description>
   <!-- EN: crime boss' child -->
   <CrimeBossChild39.title>дитина кримінального авторитета</CrimeBossChild39.title>
   <!-- EN: crime kid -->
   <CrimeBossChild39.titleShort>кримінальна дитина</CrimeBossChild39.titleShort>
   <!-- EN: [PAWN_nameDef] was more interested in the systems and patterns of the world rather than its inhabitants. [PAWN_possessive] social skills suffered.\n\n[PAWN_nameDef] came to understand that all things are part of the whole, and to destroy part would be to destroy all. -->
-  <CuriousChild33.description>[PAWN_nameDef] більше {PAWN_gender ? цікавився : цікавилася} системами й закономірностями світу, ніж його мешканцями. Через це страждали [PAWN_possessive] соціальні навички.\n\n[PAWN_nameDef] {PAWN_gender ? зрозумів : зрозуміла}, що все суще — частина цілого, і знищити частину означає знищити все.</CuriousChild33.description>
+  <CuriousChild33.description>[PAWN_nameDef] більше {PAWN_gender ? цікавився : цікавилася} системами й закономірностями світу, ніж його мешканцями. Через це страждали [PAWN_possessive] соціальні навички.\n\n[PAWN_nameDef] {PAWN_gender ? зрозумів : зрозуміла}, що все суще – частина цілого, і знищити частину означає знищити все.</CuriousChild33.description>
   <!-- EN: curious child -->
   <CuriousChild33.title>допитлива дитина</CuriousChild33.title>
   <!-- EN: curious -->
   <CuriousChild33.titleShort>допитливий</CuriousChild33.titleShort>
   <!-- EN: Born on a glitterworld, [PAWN_nameDef] was very interested in the process of documenting information, and quickly became senior glitterpedia recorder.\n\n[PAWN_pronoun] was effective at self-study, but [PAWN_pronoun] lacked social experience. -->
-  <DataDecoder39.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в блискосвіті й дуже {PAWN_gender ? цікавився : цікавилася} документуванням інформації, тож швидко {PAWN_gender ? став старшим редактором : стала старшою редакторкою} блископедії.\n\n[PAWN_pronoun] ефективно {PAWN_gender ? навчався : навчалася} самотужки, але [PAWN_objective] бракувало досвіду спілкування.</DataDecoder39.description>
+  <DataDecoder39.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} у світі-раї й дуже {PAWN_gender ? цікавився : цікавилася} упорядкуванням знань, тож швидко {PAWN_gender ? став старшим редактором : стала старшою редакторкою} енциклопедії світу-раю.\n\n[PAWN_pronoun] добре {PAWN_gender ? вчився : вчилася} самотужки, але [PAWN_objective] бракувало досвіду спілкування.</DataDecoder39.description>
   <!-- EN: data decoder -->
   <DataDecoder39.title>старший редактор</DataDecoder39.title>
   <!-- EN: decoder -->
@@ -439,7 +439,7 @@
   <!-- EN: student -->
   <DedicatedStudent12.titleShort>студент</DedicatedStudent12.titleShort>
   <!-- EN: [PAWN_nameDef] was born to a tribe of desert ascetics who wandered the endless wastes.\n\nThey sought a mythical substance they believed could liberate them from ignorance through psychedelic revelation - and usher in a new period of interstellar peace. -->
-  <DesertRat47.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в племені пустельних аскетів, що блукали безкраїми пустищами.\n\nВони шукали міфічну речовину, яка, на їхню думку, могла звільнити їх від невігластва через психоделічне прозріння — і започаткувати нову еру міжзоряного миру.</DesertRat47.description>
+  <DesertRat47.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в племені пустельних аскетів, що блукали безкраїми пустищами.\n\nВони шукали міфічну речовину, яка, на їхню думку, могла звільнити їх від невігластва через психоделічне прозріння – і започаткувати нову еру міжзоряного миру.</DesertRat47.description>
   <!-- EN: desert rat -->
   <DesertRat47.title>пустельний щур</DesertRat47.title>
   <!-- EN: desert rat -->
@@ -451,31 +451,31 @@
   <!-- EN: diplomat -->
   <DiplomatsChild97.titleShort>дипломат</DiplomatsChild97.titleShort>
   <!-- EN: [PAWN_nameDef]'s planet collided with a small moon. Everything [PAWN_pronoun] knew as home was destroyed, and [PAWN_possessive] entire family died. [PAWN_pronoun] was left in the ruins to fend for [PAWN_objective]self. -->
-  <DisasterSurvivor29.description>Рідна планета [PAWN_nameDef] зіткнулася з невеликим місяцем. Усе, що [PAWN_pronoun] {PAWN_gender ? вважав : вважала} домом, було знищено, а вся [PAWN_possessive] родина загинула. [PAWN_pronoun] {PAWN_gender ? залишився : залишилася} серед руїн і {PAWN_gender ? мусив : мусила} самотужки дбати про себе.</DisasterSurvivor29.description>
+  <DisasterSurvivor29.description>Планета, де {PAWN_gender ? жив : жила} [PAWN_nameDef], зіткнулася з невеликим місяцем. Усе, що [PAWN_pronoun] {PAWN_gender ? вважав : вважала} домом, було знищено, а вся [PAWN_possessive] родина загинула. [PAWN_pronoun] {PAWN_gender ? залишився : залишилася} серед руїн і {PAWN_gender ? мусив : мусила} самотужки дбати про себе.</DisasterSurvivor29.description>
   <!-- EN: disaster survivor -->
   <DisasterSurvivor29.title>вцілілий в катастрофі</DisasterSurvivor29.title>
   <!-- EN: survivor -->
   <DisasterSurvivor29.titleShort>вцілілий</DisasterSurvivor29.titleShort>
   <!-- EN: [PAWN_nameDef] was uprooted when marauders attacked [PAWN_possessive] family farm, destroying machinery and killing farmhands and beasts alike.\n\nAfter the death of all [PAWN_pronoun] knew, [PAWN_pronoun] was left in the ruins to fend for [PAWN_objective]self. -->
-  <DisasterSurvivor65.description>Життя [PAWN_nameDef] перевернулося, коли мародери напали на родинну ферму, знищивши техніку й повбивавши як наймитів, так і худобу.\n\nПісля загибелі всіх, кого [PAWN_pronoun] {PAWN_gender ? знав : знала}, [PAWN_pronoun] {PAWN_gender ? залишився : залишилася} серед руїн і {PAWN_gender ? мусив : мусила} самотужки дбати про себе.</DisasterSurvivor65.description>
+  <DisasterSurvivor65.description>Звичне життя [PAWN_nameDef] {PAWN_gender ? втратив : втратила}, коли мародери напали на родинну ферму, знищивши техніку й повбивавши як наймитів, так і худобу.\n\nПісля загибелі всіх, кого [PAWN_pronoun] {PAWN_gender ? знав : знала}, [PAWN_pronoun] {PAWN_gender ? залишився : залишилася} серед руїн і {PAWN_gender ? мусив : мусила} самотужки дбати про себе.</DisasterSurvivor65.description>
   <!-- EN: disaster survivor -->
   <DisasterSurvivor65.title>вцілілий в катастрофі</DisasterSurvivor65.title>
   <!-- EN: survivor -->
   <DisasterSurvivor65.titleShort>вцілілий</DisasterSurvivor65.titleShort>
   <!-- EN: [PAWN_nameDef] grew up isolated on a trash planet. A dumping ground for surrounding glitterworlds, it was a harsh home. As a baby, [PAWN_pronoun] sucked on the tap of a discarded nutrient paste dispenser for comfort.\n\nIn these desperate circumstances, against all odds, [PAWN_pronoun] survived - and thrived. -->
-  <DiscardedYouth93.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в ізоляції на планеті-смітнику. Вона слугувала звалищем для сусідніх блискосвітів і була суворим домом. Немовлям [PAWN_pronoun] {PAWN_gender ? заспокоювався : заспокоювалася}, смокчучи кран викинутого дозатора поживної пасти.\n\nУ цих безнадійних обставинах, попри все, [PAWN_pronoun] не лише {PAWN_gender ? вижив : вижила}, а й {PAWN_gender ? зміцнів : зміцніла}.</DiscardedYouth93.description>
+  <DiscardedYouth93.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в ізоляції на планеті-смітнику. Вона правила за звалище для сусідніх світів-раїв, і жити там було тяжко. Немовлям [PAWN_pronoun] {PAWN_gender ? заспокоювався : заспокоювалася}, смокчучи кран викинутого дозатора поживної пасти.\n\nУ цих безнадійних обставинах, усупереч усьому, [PAWN_pronoun] не лише {PAWN_gender ? вижив : вижила}, а й {PAWN_gender ? зміцнів : зміцніла}.</DiscardedYouth93.description>
   <!-- EN: discarded youth -->
   <DiscardedYouth93.title>відкинуте дитя</DiscardedYouth93.title>
   <!-- EN: discarded -->
   <DiscardedYouth93.titleShort>відкинутий</DiscardedYouth93.titleShort>
   <!-- EN: [PAWN_nameDef] was the younger of two sons on the family farm, a frontier plot that struggled to turn a profit. [PAWN_nameDef]'s father was a strict disciplinarian, constantly at [PAWN_possessive] sons to work harder and keep quiet. [PAWN_nameDef] burnt [PAWN_possessive] hand making breakfast once and swore to cook only when [PAWN_possessive] life was in danger. -->
-  <DisciplinedFarmer28.description>[PAWN_nameDef] {PAWN_gender ? був молодшим із двох синів : була молодшою з двох дітей} на родинній фермі — прикордонній ділянці, що ледве приносила прибуток. [PAWN_possessive] батько був суворим поборником дисципліни й постійно підганяв дітей працювати старанніше й тримати язика за зубами. Якось [PAWN_nameDef] {PAWN_gender ? обпік : обпекла} руку, готуючи сніданок, і {PAWN_gender ? поклявся : поклялася} куховарити лише тоді, коли від цього залежатиме [PAWN_possessive] життя.</DisciplinedFarmer28.description>
+  <DisciplinedFarmer28.description>[PAWN_nameDef] {PAWN_gender ? був молодшим із двох синів : була молодшою з двох дітей} на родинній фермі – прикордонній ділянці, що ледве приносила прибуток. [PAWN_possessive] батько був суворим поборником дисципліни й постійно підганяв дітей працювати старанніше й тримати язика за зубами. Якось [PAWN_nameDef] {PAWN_gender ? обпік : обпекла} руку, готуючи сніданок, і {PAWN_gender ? поклявся : поклялася} куховарити лише тоді, коли від цього залежатиме [PAWN_possessive] життя.</DisciplinedFarmer28.description>
   <!-- EN: disciplined farmer -->
   <DisciplinedFarmer28.title>дисциплінований фермер</DisciplinedFarmer28.title>
   <!-- EN: farmer -->
   <DisciplinedFarmer28.titleShort>фермер</DisciplinedFarmer28.titleShort>
   <!-- EN: Born on an urbworld to the ruler of three megacities, [PAWN_nameDef]'s prospects looked good - until a violent insurrection overthrew [PAWN_possessive] family. Exile introduced [PAWN_nameDef] to hard work and combat, but some high-born squeamishness remains. -->
-  <DisplacedNoble67.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в урбанізованому світі в родині правителя трьох мегаполісів, і майбутнє здавалося безхмарним — доки жорстоке повстання не повалило [PAWN_possessive] родину. У вигнанні [PAWN_nameDef] {PAWN_gender ? пізнав : пізнала} тяжку працю та бій, проте певна аристократична гидливість так і залишилася.</DisplacedNoble67.description>
+  <DisplacedNoble67.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в урбанізованому світі в родині правителя трьох мегаполісів, і майбутнє здавалося безхмарним – доки жорстоке повстання не повалило [PAWN_possessive] родину. У вигнанні [PAWN_nameDef] {PAWN_gender ? пізнав : пізнала} тяжку працю та бій, проте певна аристократична гидливість так і залишилася.</DisplacedNoble67.description>
   <!-- EN: displaced noble -->
   <DisplacedNoble67.title>вигнаний дворян</DisplacedNoble67.title>
   <!-- EN: noble -->
@@ -487,7 +487,7 @@
   <!-- EN: baby dude -->
   <DreadedBaby56.titleShort>крутий</DreadedBaby56.titleShort>
   <!-- EN: [PAWN_nameDef] was an expressive child. [PAWN_pronoun] sang often, and made friends very easily, be they young or old, male or female.\n\n[PAWN_pronoun] hated fighting, but when made angry, [PAWN_pronoun] could be dangerous. [PAWN_possessive] temper was quick. -->
-  <Dreamer79.description>[PAWN_nameDef] {PAWN_gender ? був : була} дуже емоційною дитиною. [PAWN_pronoun] часто {PAWN_gender ? співав : співала} і легко {PAWN_gender ? заводив : заводила} друзів — і серед малих, і серед дорослих, і серед хлопців, і серед дівчат.\n\n[PAWN_pronoun] {PAWN_gender ? ненавидів : ненавиділа} бійки, але в гніві {PAWN_gender ? міг бути небезпечним : могла бути небезпечною}. Вдачу [PAWN_pronoun] {PAWN_gender ? мав : мала} запальну.</Dreamer79.description>
+  <Dreamer79.description>[PAWN_nameDef] {PAWN_gender ? був : була} дуже емоційною дитиною. [PAWN_pronoun] часто {PAWN_gender ? співав : співала} і легко {PAWN_gender ? заводив : заводила} друзів – і серед малих, і серед дорослих, і серед хлопців, і серед дівчат.\n\n[PAWN_pronoun] {PAWN_gender ? ненавидів : ненавиділа} бійки, але в гніві {PAWN_gender ? міг бути небезпечним : могла бути небезпечною}. Вдачу [PAWN_pronoun] {PAWN_gender ? мав : мала} запальну.</Dreamer79.description>
   <!-- EN: dreamer -->
   <Dreamer79.title>мрійник</Dreamer79.title>
   <!-- EN: dreamer -->
@@ -511,13 +511,13 @@
   <!-- EN: farm hand -->
   <DustyFarmHand75.titleShort>помічник фермера</DustyFarmHand75.titleShort>
   <!-- EN: [PAWN_nameDef] was an incredibly empathetic child, so much that [PAWN_pronoun] was totally overwhelmed by simple social interactions. Once, [PAWN_pronoun] stepped on a bug and felt so guilty [PAWN_pronoun] cried for an hour.\n\n[PAWN_nameDef] did try to use a gun one time, but it went very poorly, as the loud noise made [PAWN_objective] flinch uncontrollably. -->
-  <Empath47.description>[PAWN_nameDef] {PAWN_gender ? був : була} неймовірно чуйною дитиною — настільки, що навіть звичайне спілкування цілком [PAWN_possessive] виснажувало. Якось [PAWN_pronoun] {PAWN_gender ? наступив : наступила} на жука й так {PAWN_gender ? картався : карталася}, що цілу годину {PAWN_gender ? плакав : плакала}.\n\nОдного разу [PAWN_nameDef] таки {PAWN_gender ? спробував : спробувала} вистрілити зі зброї, але все пішло шкереберть: від гучного звуку [PAWN_pronoun] мимоволі {PAWN_gender ? здригнувся : здригнулася}.</Empath47.description>
+  <Empath47.description>[PAWN_nameDef] {PAWN_gender ? був : була} неймовірно чуйною дитиною – настільки, що навіть звичайне спілкування цілком [PAWN_possessive] виснажувало. Якось [PAWN_pronoun] {PAWN_gender ? наступив : наступила} на жука й так {PAWN_gender ? картався : карталася}, що цілу годину {PAWN_gender ? плакав : плакала}.\n\nОдного разу [PAWN_nameDef] таки {PAWN_gender ? спробував : спробувала} вистрілити зі зброї, але все пішло шкереберть: від гучного звуку [PAWN_pronoun] мимоволі {PAWN_gender ? здригнувся : здригнулася}.</Empath47.description>
   <!-- EN: empath -->
   <Empath47.title>емпат</Empath47.title>
   <!-- EN: empath -->
   <Empath47.titleShort>емпат</Empath47.titleShort>
   <!-- EN: [PAWN_nameDef] grew up on a glitterworld, training in rapier arts and singing. [PAWN_pronoun] spent several years as an energetic teen pop idol.\n\nHowever, [PAWN_pronoun] decided that the music and modeling industries were not paying [PAWN_objective] enough attention, so [PAWN_pronoun] left. -->
-  <EnergeticPopIdol61.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в блискосвіті, навчаючись фехтування на рапірах і співу. Кілька років [PAWN_pronoun] {PAWN_gender ? був : була} енергійним підлітковим поп-ідолом.\n\nОднак [PAWN_pronoun] {PAWN_gender ? вирішив : вирішила}, що музична та модельна індустрії приділяють [PAWN_objective] замало уваги, тож {PAWN_gender ? пішов : пішла} звідти.</EnergeticPopIdol61.description>
+  <EnergeticPopIdol61.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} у світі-раї, навчаючись фехтування на рапірах і співу. Кілька років [PAWN_pronoun] {PAWN_gender ? був : була} енергійним підлітковим поп-ідолом.\n\nОднак [PAWN_pronoun] {PAWN_gender ? вирішив : вирішила}, що музична та модельна індустрії приділяють [PAWN_objective] замало уваги, тож {PAWN_gender ? пішов : пішла} звідти.</EnergeticPopIdol61.description>
   <!-- EN: energetic pop idol -->
   <EnergeticPopIdol61.title>енергійний поп-ідол</EnergeticPopIdol61.title>
   <!-- EN: pop idol -->
@@ -535,7 +535,7 @@
   <!-- EN: worker -->
   <FactoryDrone58.titleShort>робітник</FactoryDrone58.titleShort>
   <!-- EN: [PAWN_nameDef] was born on a glitterworld falling into chaos. [PAWN_possessive] father was killed in action.\n\n[PAWN_pronoun] struggled for a scholarship at Utmaior Academy and had to prove [PAWN_possessive] right to be there. A child genius, [PAWN_pronoun] was bullied as a charity case and couldn't make friends with the other kids. -->
-  <FallenProdigy40.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в блискосвіті, що поринав у хаос. [PAWN_possessive] батько загинув у бою.\n\n[PAWN_pronoun] насилу {PAWN_gender ? виборов : виборола} стипендію в Академії Утмайор і {PAWN_gender ? мусив : мусила} постійно доводити своє право там навчатися. Дитина-геній, [PAWN_pronoun] {PAWN_gender ? зазнавав : зазнавала} цькування як «злидар на подачках» і так і не {PAWN_gender ? зміг : змогла} подружитися з іншими дітьми.</FallenProdigy40.description>
+  <FallenProdigy40.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} у світі-раї, що поринав у хаос. [PAWN_possessive] батько загинув у бою.\n\n[PAWN_pronoun] насилу {PAWN_gender ? виборов : виборола} стипендію в Академії Утмайор і {PAWN_gender ? мусив : мусила} постійно доводити своє право там навчатися. Дитина-геній, [PAWN_pronoun] {PAWN_gender ? зазнавав : зазнавала} цькування як «злидар на подачках» і так і не {PAWN_gender ? зміг : змогла} подружитися з іншими дітьми.</FallenProdigy40.description>
   <!-- EN: fallen prodigy -->
   <FallenProdigy40.title>занепалий вундеркінд</FallenProdigy40.title>
   <!-- EN: prodigy -->
@@ -547,7 +547,7 @@
   <!-- EN: farm boy -->
   <FarmBoy64.titleShort>дитя ферми</FarmBoy64.titleShort>
   <!-- EN: [PAWN_nameDef]'s parents died in a fire when [PAWN_pronoun] was seven. [PAWN_pronoun] grew up on [PAWN_possessive] uncle's farm, plowing fields and doing manual labor.\n\n[PAWN_pronoun] could not bear answering questions about [PAWN_possessive] parents, so [PAWN_pronoun] replaced social contact with hard work. -->
-  <FarmerBoy88.description>Батьки [PAWN_nameDef] загинули в пожежі, коли [PAWN_objective] було сім років. [PAWN_pronoun] {PAWN_gender ? виріс : виросла} на фермі свого дядька, орючи поля й виконуючи важку фізичну роботу.\n\n[PAWN_pronoun] не {PAWN_gender ? міг : могла} витримати запитань про батьків, тож {PAWN_gender ? замінив : замінила} спілкування з людьми тяжкою працею.</FarmerBoy88.description>
+  <FarmerBoy88.description>[PAWN_nameDef] {PAWN_gender ? був семирічним : була семирічною}, коли [PAWN_possessive] батьки загинули в пожежі. [PAWN_pronoun] {PAWN_gender ? виріс : виросла} на фермі свого дядька, орючи поля й виконуючи важку фізичну роботу.\n\n[PAWN_pronoun] не {PAWN_gender ? міг : могла} витримати запитань про батьків, тож {PAWN_gender ? замінив : замінила} спілкування з людьми тяжкою працею.</FarmerBoy88.description>
   <!-- EN: farmer boy -->
   <FarmerBoy88.title>дитя ферми</FarmerBoy88.title>
   <!-- EN: farmer -->
@@ -565,7 +565,7 @@
   <!-- EN: farmer -->
   <FarmersSon20.titleShort>фермер</FarmersSon20.titleShort>
   <!-- EN: [PAWN_nameDef] was born on a farm on a rimworld.\n\nEverything was taken care of by the few members of the farm, including [PAWN_nameDef]. This helped [PAWN_objective] build independence, spirit, and a well-rounded character. -->
-  <FarmHand2.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на фермі у світі rimworld.\n\nПро все на фермі дбали лише декілька людей, включаючи [PAWN_nameDef]. Це допомогло [PAWN_objective] розвинути незалежність, дух і сильний характер.</FarmHand2.description>
+  <FarmHand2.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на фермі в прикордонному світі.\n\nУсю роботу на фермі виконували кілька її мешканців, і [PAWN_nameDef] серед них. Це виховало в {PAWN_gender ? ньому : ній} самостійність, силу духу й різнобічний характер.</FarmHand2.description>
   <!-- EN: farm hand -->
   <FarmHand2.title>помічник на фермі</FarmHand2.title>
   <!-- EN: farm hand -->
@@ -583,7 +583,7 @@
   <!-- EN: mechanic -->
   <FarmMechanic1.titleShort>механік</FarmMechanic1.titleShort>
   <!-- EN: [PAWN_nameDef] and [PAWN_possessive] family lived a hard but prosperous life along with their fellow colonists on an outlying rimworld.\n\nOne day, a group of mechanoids attacked, killing everyone aside from [PAWN_nameDef]. [PAWN_pronoun] then lived alone in the desert until a group of raiders found him. -->
-  <FeralChild85.description>Разом із родиною та іншими колоністами [PAWN_nameDef] {PAWN_gender ? жив : жила} важким, але заможним життям на віддаленій прикордонному світі.\n\nОдного дня напали механоїди й перебили всіх — {PAWN_gender ? вцілів : вціліла} лише [PAWN_nameDef]. Відтоді [PAWN_pronoun] {PAWN_gender ? жив сам : жила сама} в пустелі, доки на {PAWN_gender ? нього : неї} не натрапила група рейдерів.</FeralChild85.description>
+  <FeralChild85.description>Разом із родиною та іншими колоністами [PAWN_nameDef] {PAWN_gender ? жив : жила} важким, але заможним життям у віддаленому прикордонному світі.\n\nОдного дня напали механоїди й перебили всіх – {PAWN_gender ? вцілів : вціліла} лише [PAWN_nameDef]. Відтоді [PAWN_pronoun] {PAWN_gender ? жив сам : жила сама} в пустелі, доки на {PAWN_gender ? нього : неї} не натрапили рейдери.</FeralChild85.description>
   <!-- EN: feral child -->
   <FeralChild85.title>дика дитина</FeralChild85.title>
   <!-- EN: survivor -->
@@ -631,7 +631,7 @@
   <!-- EN: thinker -->
   <Freethinker38.titleShort>вільнодумець</Freethinker38.titleShort>
   <!-- EN: [PAWN_nameDef] inherited a sense of duty from [PAWN_possessive] father, and began a law enforcement career on [PAWN_possessive] frontier homeworld.\n\n[PAWN_pronoun] tried to uphold the law with honor, but the corruption and greed of local government officials often discouraged him. -->
-  <FrontierMarshal54.description>[PAWN_nameDef] {PAWN_gender ? успадкував : успадкувала} від батька почуття обов'язку й {PAWN_gender ? почав : почала} кар'єру правоохоронця на своїй рідній прикордонному світі.\n\n[PAWN_pronoun] {PAWN_gender ? намагався : намагалася} чесно стояти на сторожі закону, але корупція та жадібність місцевих урядовців часто [PAWN_possessive] розчаровували.</FrontierMarshal54.description>
+  <FrontierMarshal54.description>[PAWN_nameDef] {PAWN_gender ? успадкував : успадкувала} від батька почуття обов'язку й {PAWN_gender ? почав : почала} кар'єру правоохоронця у своєму рідному прикордонному світі.\n\n[PAWN_pronoun] {PAWN_gender ? намагався : намагалася} чесно стояти на сторожі закону, але корупція та жадібність місцевих урядовців часто {PAWN_gender ? його : її} розчаровували.</FrontierMarshal54.description>
   <!-- EN: frontier marshal -->
   <FrontierMarshal54.title>прикордонний маршал</FrontierMarshal54.title>
   <!-- EN: marshal -->
@@ -661,21 +661,21 @@
   <!-- EN: ganger -->
   <GangMember83.titleShort>дитя банди</GangMember83.titleShort>
   <!-- EN: The daughter of a glitterworld influencer and his genetically-engineered 'perfect mate', [PAWN_nameDef] grew up learning to rub shoulders with the cream of the crop - though [PAWN_pronoun] always preferred [PAWN_possessive] personal space, reading books and tinkering with tech. -->
-  <GlitterworldKid85.description>{PAWN_gender ? Син : Донька} інфлюенсера з блискосвіту та його генетично створеної «ідеальної пари», [PAWN_nameDef] змалку {PAWN_gender ? вчився : вчилася} обертатися серед вершків суспільства, хоча [PAWN_pronoun] завжди {PAWN_gender ? волів : воліла} мати власний простір, читати книжки й майструвати техніку.</GlitterworldKid85.description>
+  <GlitterworldKid85.description>{PAWN_gender ? Син : Донька} інфлюенсера зі світу-раю та його генетично створеної «ідеальної пари», [PAWN_nameDef] змалку {PAWN_gender ? вчився : вчилася} обертатися серед вершків суспільства, хоча [PAWN_pronoun] завжди {PAWN_gender ? волів : воліла} мати власний простір, читати книжки й майструвати техніку.</GlitterworldKid85.description>
   <!-- EN: glitterworld kid -->
-  <GlitterworldKid85.title>дитя блискосвіту</GlitterworldKid85.title>
+  <GlitterworldKid85.title>дитя світу-раю</GlitterworldKid85.title>
   <!-- EN: glitterkid -->
   <GlitterworldKid85.titleShort>блискодитя</GlitterworldKid85.titleShort>
   <!-- EN: [PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture. -->
   <GlitterworldNerd20.description>[PAWN_nameDef] {PAWN_gender ? любив : любила} техніку з самого народження. {PAWN_gender ? У нього : У неї} був механоїд-компаньйон, якого [PAWN_pronoun] весь час {PAWN_gender ? намагався : намагалася} модифікувати.\n\nЧерез одержимість технікою [PAWN_pronoun] так і не {PAWN_gender ? навчився : навчилася} цінувати мистецтво й культуру.</GlitterworldNerd20.description>
   <!-- EN: glitterworld nerd -->
-  <GlitterworldNerd20.title>ботан блискосвіту</GlitterworldNerd20.title>
+  <GlitterworldNerd20.title>ботан світу-раю</GlitterworldNerd20.title>
   <!-- EN: nerd -->
   <GlitterworldNerd20.titleShort>ботан</GlitterworldNerd20.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in a glitterworld royal household. [PAWN_pronoun] was groomed from a young age to marry into another planet's royal family.\n\nUnfortunately, [PAWN_possessive] crooked teeth made [PAWN_objective] undesirable to suitors, so [PAWN_pronoun] became bitter and resentful. -->
-  <GlitterworldRoyal24.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в королівській родині блискосвіту. Змалку [PAWN_possessive] готували до шлюбу з кимось із королівської родини іншої планети.\n\nНа жаль, через криві зуби залицяльники {PAWN_gender ? ним : нею} не цікавилися, тож [PAWN_pronoun] {PAWN_gender ? озлобився й затаїв : озлобилася й затаїла} образу на весь світ.</GlitterworldRoyal24.description>
+  <GlitterworldRoyal24.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в королівській родині світу-раю. Змалку [PAWN_possessive] готували до шлюбу з кимось із королівської родини іншої планети.\n\nНа жаль, через криві зуби залицяльники {PAWN_gender ? ним : нею} не цікавилися, тож [PAWN_pronoun] {PAWN_gender ? озлобився й затаїв : озлобилася й затаїла} образу на весь світ.</GlitterworldRoyal24.description>
   <!-- EN: glitterworld royal -->
-  <GlitterworldRoyal24.title>дворян з блискосвіту</GlitterworldRoyal24.title>
+  <GlitterworldRoyal24.title>дворян з світу-раю</GlitterworldRoyal24.title>
   <!-- EN: royalty -->
   <GlitterworldRoyal24.titleShort>дворян</GlitterworldRoyal24.titleShort>
   <!-- EN: [PAWN_nameDef] was engineered in a lab as part of the G-nome Project. [PAWN_pronoun] was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.\n\nThe G-nome scientists nicknamed [PAWN_objective] [PAWN_nameDef] and occupied [PAWN_objective] with sculpting. [PAWN_pronoun] developed a love of sculpting gnomes and gnome accessories. -->
@@ -685,13 +685,13 @@
   <!-- EN: sculptor -->
   <GNomeSculptor34.titleShort>скульптор</GNomeSculptor34.titleShort>
   <!-- EN: Growing up in a urbworld, [PAWN_nameDef] never had it easy. Every day was a struggle and pollution, hunger, and gangs of older kids.\n\nIn the little space [PAWN_pronoun] had to [PAWN_objective]self, [PAWN_pronoun] studied [PAWN_possessive] passion - guns, combat tactics, and war history. -->
-  <GunKid30.description>Зростаючи в урбанізованому світі, [PAWN_nameDef] ніколи не {PAWN_gender ? мав : мала} легкого життя. Кожен день був боротьбою із забрудненням, голодом і бандами старших дітей.\n\nУ тому крихітному куточку, який [PAWN_pronoun] {PAWN_gender ? мав : мала} лише для себе, [PAWN_pronoun] {PAWN_gender ? вивчав : вивчала} те, що {PAWN_gender ? любив : любила} найбільше, — зброю, бойову тактику та історію воєн.</GunKid30.description>
+  <GunKid30.description>Зростаючи в урбанізованому світі, [PAWN_nameDef] ніколи не {PAWN_gender ? мав : мала} легкого життя. Кожен день був боротьбою із забрудненням, голодом і бандами старших дітей.\n\nУ тому крихітному куточку, який [PAWN_pronoun] {PAWN_gender ? мав : мала} лише для себе, [PAWN_pronoun] {PAWN_gender ? вивчав : вивчала} те, що {PAWN_gender ? любив : любила} найбільше, – зброю, бойову тактику та історію воєн.</GunKid30.description>
   <!-- EN: gun kid -->
   <GunKid30.title>дитя зі зброєю</GunKid30.title>
   <!-- EN: gun kid -->
   <GunKid30.titleShort>зброяр</GunKid30.titleShort>
   <!-- EN: [PAWN_nameDef] was a professional gymnast at an early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to enroll in a glitterworld university.\n\nBecause of the lack of career opportunities in gymnastics, [PAWN_pronoun] left the university unemployed and carrying an enormous debt. -->
-  <Gymnast48.description>[PAWN_nameDef] ще змалку {PAWN_gender ? був професійним гімнастом : була професійною гімнасткою}. Завдяки своїм здібностям [PAWN_pronoun] {PAWN_gender ? зміг : змогла} вступити до університету блискосвіту.\n\nОднак у гімнастиці майже не було кар'єрних перспектив, тож університет [PAWN_pronoun] {PAWN_gender ? покинув : покинула} без роботи й з величезним боргом.</Gymnast48.description>
+  <Gymnast48.description>[PAWN_nameDef] ще змалку {PAWN_gender ? був професійним гімнастом : була професійною гімнасткою}. Завдяки своїм здібностям [PAWN_pronoun] {PAWN_gender ? зміг : змогла} вступити до університету світу-раю.\n\nОднак у гімнастиці майже не було кар'єрних перспектив, тож університет [PAWN_pronoun] {PAWN_gender ? покинув : покинула} без роботи й з величезним боргом.</Gymnast48.description>
   <!-- EN: gymnast -->
   <Gymnast48.title>гімнаст</Gymnast48.title>
   <!-- EN: gymnast -->
@@ -733,13 +733,13 @@
   <!-- EN: noble -->
   <HighBaroness37.titleShort>барон</HighBaroness37.titleShort>
   <!-- EN: Born on a cold rimworld inhabited mainly by furred xenohumans, [PAWN_nameDef] grew up to the sound of bar fights and shootouts. Though [PAWN_possessive] childhood was spent playing the banjo and working as a mechanic, [PAWN_possessive] abnormal intelligence made [PAWN_objective] want something more; [PAWN_pronoun] entered medical school at a young age. -->
-  <HillbillyProdigy60.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на холодному прикордонному світі, населеному здебільшого хутрястими ксенолюдьми, і {PAWN_gender ? виріс : виросла} під звуки барних бійок і перестрілок. Хоча [PAWN_possessive] дитинство минуло за грою на банджо й роботою механіком, надзвичайний розум штовхав [PAWN_possessive] до чогось більшого: ще зовсім {PAWN_gender ? юним : юною} [PAWN_pronoun] {PAWN_gender ? вступив : вступила} до медичного університету.</HillbillyProdigy60.description>
+  <HillbillyProdigy60.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} у холодному прикордонному світі, населеному здебільшого хутрястими ксенолюдьми, і {PAWN_gender ? виріс : виросла} під звуки барних бійок і перестрілок. Хоча [PAWN_possessive] дитинство минуло за грою на банджо й роботою механіком, надзвичайний розум штовхав [PAWN_possessive] до чогось більшого: ще зовсім {PAWN_gender ? юним : юною} [PAWN_pronoun] {PAWN_gender ? вступив : вступила} до медичного університету.</HillbillyProdigy60.description>
   <!-- EN: hillbilly prodigy -->
   <HillbillyProdigy60.title>сільський вундеркінд</HillbillyProdigy60.title>
   <!-- EN: hillbilly -->
   <HillbillyProdigy60.titleShort>селюк</HillbillyProdigy60.titleShort>
   <!-- EN: As a child, [PAWN_nameDef] learned many artistic forms including music and novel writing. As [PAWN_pronoun] grew older, [PAWN_pronoun] began to study legends from [PAWN_possessive] home world - legends of the lizard-like beings at the center of [PAWN_possessive] culture's folklore. -->
-  <HistoryStudent12.description>У дитинстві [PAWN_nameDef] {PAWN_gender ? опанував : опанувала} чимало мистецьких форм, зокрема музику й написання романів. Подорослішавши, [PAWN_pronoun] {PAWN_gender ? взявся : взялася} вивчати легенди свого рідного світу — перекази про ящероподібних істот, які посідали центральне місце у фольклорі [PAWN_possessive] народу.</HistoryStudent12.description>
+  <HistoryStudent12.description>У дитинстві [PAWN_nameDef] {PAWN_gender ? опанував : опанувала} чимало мистецьких форм, зокрема музику й написання романів. Подорослішавши, [PAWN_pronoun] {PAWN_gender ? взявся : взялася} вивчати легенди свого рідного світу – перекази про ящероподібних істот, які посідали центральне місце у фольклорі [PAWN_possessive] народу.</HistoryStudent12.description>
   <!-- EN: history student -->
   <HistoryStudent12.title>студент історії</HistoryStudent12.title>
   <!-- EN: student -->
@@ -769,7 +769,7 @@
   <!-- EN: cadet -->
   <IdealisticCadet64.titleShort>курсант</IdealisticCadet64.titleShort>
   <!-- EN: [PAWN_nameDef] studied on an imperial midworld where guns were banned and self-defense study was encouraged. The relative safety allowed [PAWN_objective] to focus on [PAWN_possessive] botanical research. -->
-  <ImperialStudent49.description>[PAWN_nameDef] {PAWN_gender ? навчався : навчалася} на імперському середньому світі, де вогнепальну зброю було заборонено, а самозахист, навпаки, заохочували вивчати. Відносна безпека дозволила [PAWN_objective] зосередитися на ботанічних дослідженнях.</ImperialStudent49.description>
+  <ImperialStudent49.description>[PAWN_nameDef] {PAWN_gender ? навчався : навчалася} в імперському середньому світі, де вогнепальну зброю заборонили, а самозахист, навпаки, заохочували вивчати. Відносна безпека дала [PAWN_objective] змогу зосередитися на ботанічних дослідженнях.</ImperialStudent49.description>
   <!-- EN: imperial student -->
   <ImperialStudent49.title>імперський студент</ImperialStudent49.title>
   <!-- EN: student -->
@@ -787,7 +787,7 @@
   <!-- EN: infantry -->
   <Infantry99.titleShort>піхота</Infantry99.titleShort>
   <!-- EN: [PAWN_nameDef]'s wealthy parents provided everything [PAWN_pronoun] ever wanted. After discovering joywires, [PAWN_pronoun] became obsessed. Once [PAWN_possessive] parents realized what happened, they cut [PAWN_objective] off.\n\nUncaring and often violent, [PAWN_pronoun] sought [PAWN_possessive] next joywire fix by any means possible. -->
-  <JoywireAddict76.description>Багаті батьки [PAWN_nameDef] давали [PAWN_objective] усе, чого [PAWN_pronoun] тільки {PAWN_gender ? хотів : хотіла}. Спробувавши чип щастя, [PAWN_pronoun] {PAWN_gender ? став : стала} {PAWN_gender ? одержимим : одержимою}. Коли батьки зрозуміли, що сталося, то позбавили [PAWN_possessive] утримання.\n\n{PAWN_gender ? Байдужий і часто агресивний : Байдужа й часто агресивна}, [PAWN_pronoun] будь-якими способами {PAWN_gender ? шукав : шукала} нову дозу від чипу щастя.</JoywireAddict76.description>
+  <JoywireAddict76.description>Заможні батьки давали [PAWN_objective] усе, чого [PAWN_pronoun] тільки {PAWN_gender ? хотів : хотіла}. Спробувавши чип щастя, [PAWN_nameDef] {PAWN_gender ? став одержимим : стала одержимою} ним. Коли батьки зрозуміли, що сталося, то перестали {PAWN_gender ? його : її} утримувати.\n\n{PAWN_gender ? Байдужий до всього й часто агресивний : Байдужа до всього й часто агресивна}, [PAWN_pronoun] будь-що {PAWN_gender ? шукав : шукала} нового сеансу чипа щастя.</JoywireAddict76.description>
   <!-- EN: joywire addict -->
   <JoywireAddict76.title>залежний від чипу щастя</JoywireAddict76.title>
   <!-- EN: addict -->
@@ -829,7 +829,7 @@
   <!-- EN: orphan -->
   <LaborCampOrphan91.titleShort>сирота</LaborCampOrphan91.titleShort>
   <!-- EN: [PAWN_pronoun] preferred logical activities like computers and was completely useless at art.\n\nBeing awkward in social situations, [PAWN_possessive] friends were few but close. -->
-  <LogicalChild2.description>[PAWN_pronoun] {PAWN_gender ? віддавав : віддавала} перевагу логічним заняттям, як-от комп'ютерам, а в мистецтві зовсім нічого не {PAWN_gender ? тямив : тямила}.\n\nЧерез незграбність у спілкуванні {PAWN_gender ? друзів у нього : друзів у неї} було небагато, зате всі — близькі.</LogicalChild2.description>
+  <LogicalChild2.description>[PAWN_pronoun] {PAWN_gender ? віддавав : віддавала} перевагу логічним заняттям, як-от комп'ютерам, а в мистецтві зовсім нічого не {PAWN_gender ? тямив : тямила}.\n\nЧерез незграбність у спілкуванні {PAWN_gender ? друзів у нього : друзів у неї} було небагато, зате всі – близькі.</LogicalChild2.description>
   <!-- EN: logical child -->
   <LogicalChild2.title>дитя логіки</LogicalChild2.title>
   <!-- EN: logic kid -->
@@ -865,13 +865,13 @@
   <!-- EN: med helper -->
   <MedicalHelper27.titleShort>помічник</MedicalHelper27.titleShort>
   <!-- EN: Born into a long line of doctors, [PAWN_nameDef] was tutored in all fields of medicine, from herbal ointments to the modern synthetic drugs. [PAWN_pronoun] also picked up a healthy disdain for lower class work. -->
-  <MedicalStudent38.description>[PAWN_nameDef] {PAWN_gender ? походив : походила} з давньої династії лікарів і {PAWN_gender ? вивчав : вивчала} всі галузі медицини — від трав'яних мазей до сучасних синтетичних препаратів. А ще [PAWN_pronoun] {PAWN_gender ? перейняв : перейняла} здорову зневагу до «чорної» роботи нижчих класів.</MedicalStudent38.description>
+  <MedicalStudent38.description>[PAWN_nameDef] {PAWN_gender ? походив : походила} з давньої династії лікарів і {PAWN_gender ? вивчав : вивчала} всі галузі медицини – від трав'яних мазей до сучасних синтетичних препаратів. А ще [PAWN_pronoun] {PAWN_gender ? перейняв : перейняла} здорову зневагу до «чорної» роботи нижчих класів.</MedicalStudent38.description>
   <!-- EN: medical student -->
   <MedicalStudent38.title>студент-медик</MedicalStudent38.title>
   <!-- EN: student -->
   <MedicalStudent38.titleShort>студент</MedicalStudent38.titleShort>
   <!-- EN: [PAWN_nameDef] grew up on a glitterworld in a family of doctors and chose to maintain the tradition.\n\n[PAWN_pronoun] had few friends, but got along with [PAWN_possessive] siblings very well. -->
-  <MedicalStudent96.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} у блискосвіті в родині лікарів і {PAWN_gender ? вирішив : вирішила} продовжити сімейну традицію.\n\nДрузів {PAWN_gender ? у нього : у неї} було небагато, зате з братами й сестрами [PAWN_pronoun] чудово {PAWN_gender ? ладнав : ладнала}.</MedicalStudent96.description>
+  <MedicalStudent96.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} у світі-раї в родині лікарів і {PAWN_gender ? вирішив : вирішила} продовжити сімейну традицію.\n\nДрузів {PAWN_gender ? у нього : у неї} було небагато, зате з братами й сестрами [PAWN_pronoun] чудово {PAWN_gender ? ладнав : ладнала}.</MedicalStudent96.description>
   <!-- EN: medical student -->
   <MedicalStudent96.title>студент-медик</MedicalStudent96.title>
   <!-- EN: student -->
@@ -919,7 +919,7 @@
   <!-- EN: mercenary -->
   <MercenaryRecruit36.titleShort>найманець</MercenaryRecruit36.titleShort>
   <!-- EN: Growing up on a high-tech midworld with a flourishing space transit industry, [PAWN_nameDef] wished to leave for the stars and live among the growing spacer class.\n\n[PAWN_pronoun] excelled in [PAWN_possessive] studies, and gained entry to [PAWN_possessive] homeworld's most prestigious naval academy. -->
-  <MidworldCadet83.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} на високотехнологічному середньому світі з квітучою галуззю космічних перевезень і {PAWN_gender ? мріяв : мріяла} вирушити до зірок і жити серед дедалі численнішого класу космічних мандрівників.\n\n[PAWN_pronoun] {PAWN_gender ? досяг : досягла} великих успіхів у навчанні й {PAWN_gender ? вступив : вступила} до найпрестижнішої флотської академії рідного світу.</MidworldCadet83.description>
+  <MidworldCadet83.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у високотехнологічному середньому світі з квітучою галуззю космічних перевезень і {PAWN_gender ? мріяв : мріяла} вирушити до зірок і жити серед дедалі численнішого класу космічних мандрівників.\n\n[PAWN_pronoun] {PAWN_gender ? досяг : досягла} великих успіхів у навчанні й {PAWN_gender ? вступив : вступила} до найпрестижнішої флотської академії рідного світу.</MidworldCadet83.description>
   <!-- EN: midworld cadet -->
   <MidworldCadet83.title>курсант</MidworldCadet83.title>
   <!-- EN: cadet -->
@@ -949,19 +949,19 @@
   <!-- EN: soldier -->
   <MilitantChild49.titleShort>солдат</MilitantChild49.titleShort>
   <!-- EN: Orphaned as a child, [PAWN_nameDef] was sent to a secret military school on a harsh deadworld.\n\nTaking quickly to firearms and survival training, [PAWN_pronoun] graduated with honor, transitioning into a leadership position in covert operations. -->
-  <MilitaryCadet16.description>[PAWN_nameDef] рано {PAWN_gender ? осиротів : осиротіла}, і [PAWN_possessive] відправили до таємної військової школи на суворому мертвому світі.\n\n[PAWN_pronoun] швидко {PAWN_gender ? опанував : опанувала} вогнепальну зброю та навички виживання, {PAWN_gender ? закінчив : закінчила} школу з відзнакою й {PAWN_gender ? обійняв : обійняла} керівну посаду в підрозділі таємних операцій.</MilitaryCadet16.description>
+  <MilitaryCadet16.description>[PAWN_nameDef] рано {PAWN_gender ? осиротів : осиротіла}, і [PAWN_possessive] відправили до таємної військової школи у суворому мертвому світі.\n\n[PAWN_pronoun] швидко {PAWN_gender ? опанував : опанувала} вогнепальну зброю та навички виживання, {PAWN_gender ? закінчив : закінчила} школу з відзнакою й {PAWN_gender ? обійняв : обійняла} керівну посаду в підрозділі таємних операцій.</MilitaryCadet16.description>
   <!-- EN: military cadet -->
   <MilitaryCadet16.title>військовий курсант</MilitaryCadet16.title>
   <!-- EN: cadet -->
   <MilitaryCadet16.titleShort>курсант</MilitaryCadet16.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in a family with a rich military background. [PAWN_possessive] teenage years were spent traveling system to system wherever [PAWN_possessive] parents were deployed.\n\nFollowing the tradition of [PAWN_possessive] family, [PAWN_pronoun] enlisted at the earliest possible age. -->
-  <MilitaryChild82.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в родині з багатими військовими традиціями. Підліткові роки минули в мандрах від системи до системи — туди, куди відправляли служити [PAWN_possessive] батьків.\n\nДотримуючись сімейної традиції, [PAWN_pronoun] {PAWN_gender ? записався : записалася} до війська, щойно дозволив вік.</MilitaryChild82.description>
+  <MilitaryChild82.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в родині з багатими військовими традиціями. Підліткові роки минули в мандрах від системи до системи – туди, куди відправляли служити [PAWN_possessive] батьків.\n\nДотримуючись сімейної традиції, [PAWN_pronoun] {PAWN_gender ? записався : записалася} до війська, щойно дозволив вік.</MilitaryChild82.description>
   <!-- EN: military child -->
   <MilitaryChild82.title>дитя військових</MilitaryChild82.title>
   <!-- EN: military -->
   <MilitaryChild82.titleShort>військовий</MilitaryChild82.titleShort>
   <!-- EN: [PAWN_nameDef] was born on a midworld run by an intensely militaristic dictatorship.\n\nFrom a young age, [PAWN_pronoun] was trained to be a good soldier. They taught [PAWN_objective] how to use a gun and how to fight with melee weapons. -->
-  <MilitaryRecruit49.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на середньому світі під владою жорсткої мілітаристської диктатури.\n\nЗмалку [PAWN_possessive] готували стати добрим солдатом: навчили стріляти й битися зброєю ближнього бою.</MilitaryRecruit49.description>
+  <MilitaryRecruit49.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} у середньому світі під владою жорсткої мілітаристської диктатури.\n\nЗмалку [PAWN_possessive] готували стати добрим солдатом: навчили стріляти й битися зброєю ближнього бою.</MilitaryRecruit49.description>
   <!-- EN: military recruit -->
   <MilitaryRecruit49.title>військовий рекрут</MilitaryRecruit49.title>
   <!-- EN: recruit -->
@@ -1003,19 +1003,19 @@
   <!-- EN: pathfinder -->
   <NavyPathfinder53.titleShort>дослідник</NavyPathfinder53.titleShort>
   <!-- EN: [PAWN_nameDef] was curious about everything. While other kids played tag in the suburbs of their industrial city, [PAWN_nameDef] read every book [PAWN_pronoun] could find about technology, robots, and weapons - whatever looked coolest.\n\n[PAWN_possessive] strong French accent kept [PAWN_objective] from making real friends. -->
-  <Nerd92.description>[PAWN_nameDef] {PAWN_gender ? цікавився : цікавилася} всім на світі. Поки інші діти гралися в квача в передмістях свого промислового міста, [PAWN_nameDef] {PAWN_gender ? читав : читала} кожну книжку про техніку, роботів і зброю, яку тільки {PAWN_gender ? міг : могла} знайти, — про все, що здавалося найкрутішим.\n\nЧерез сильний французький акцент [PAWN_pronoun] так і не {PAWN_gender ? завів : завела} справжніх друзів.</Nerd92.description>
+  <Nerd92.description>[PAWN_nameDef] {PAWN_gender ? цікавився : цікавилася} всім на світі. Поки інші діти гралися в квача в передмістях свого промислового міста, [PAWN_nameDef] {PAWN_gender ? читав : читала} кожну книжку про техніку, роботів і зброю, яку тільки {PAWN_gender ? міг : могла} знайти, – про все, що здавалося найкрутішим.\n\nЧерез сильний французький акцент [PAWN_pronoun] так і не {PAWN_gender ? завів : завела} справжніх друзів.</Nerd92.description>
   <!-- EN: nerd -->
   <Nerd92.title>ботан</Nerd92.title>
   <!-- EN: nerd -->
   <Nerd92.titleShort>ботан</Nerd92.titleShort>
   <!-- EN: [PAWN_nameDef] was fascinated with combat. [PAWN_possessive] parents traveled often, so [PAWN_pronoun] was able to sample many different fighting styles, from 76th-wave jujutsu to the infamous 'urbworld-style' karate.\n\nA polite child, most fighters accepted [PAWN_possessive] requests for training - but moving around often without finishing a tutelage made [PAWN_objective] lazy. -->
-  <NewAgeDuelist27.description>[PAWN_nameDef] {PAWN_gender ? був зачарований : була зачарована} бойовими мистецтвами. Батьки часто подорожували, тож [PAWN_pronoun] {PAWN_gender ? мав : мала} змогу спробувати безліч стилів — від джиу-джитсу 76-ї хвилі до сумнозвісного карате «в стилі урбанізованих світів».\n\n[PAWN_pronoun] {PAWN_gender ? був : була} чемною дитиною, тож більшість бійців охоче брали [PAWN_possessive] в учні. Але через часті переїзди [PAWN_pronoun] жодного разу не {PAWN_gender ? довів : довела} навчання до кінця, і це зробило [PAWN_possessive] {PAWN_gender ? лінивим : лінивою}.</NewAgeDuelist27.description>
+  <NewAgeDuelist27.description>[PAWN_nameDef] {PAWN_gender ? був зачарований : була зачарована} бойовими мистецтвами. Батьки часто подорожували, тож [PAWN_pronoun] {PAWN_gender ? мав : мала} змогу спробувати безліч стилів – від джиу-джитсу 76-ї хвилі до сумнозвісного карате «в стилі урбанізованих світів».\n\n[PAWN_pronoun] {PAWN_gender ? був : була} чемною дитиною, тож більшість бійців охоче брали [PAWN_possessive] в учні. Але через часті переїзди [PAWN_pronoun] жодного разу не {PAWN_gender ? довів : довела} навчання до кінця, і це зробило [PAWN_possessive] {PAWN_gender ? лінивим : лінивою}.</NewAgeDuelist27.description>
   <!-- EN: new age duelist -->
   <NewAgeDuelist27.title>дуелянт нового віку</NewAgeDuelist27.title>
   <!-- EN: duelist -->
   <NewAgeDuelist27.titleShort>дуелянт</NewAgeDuelist27.titleShort>
   <!-- EN: [PAWN_nameDef] was adopted by a prominent noble family after being left on their doorstep by [PAWN_possessive] mother.\n\n[PAWN_pronoun] quickly learned secrets that passed between the nobles like cheap wine - of worlds beyond [PAWN_possessive] own, languages, cultures and technologies both new and old. -->
-  <NobleWard61.description>Мати залишила [PAWN_possessive] на порозі впливової знатної родини, і так [PAWN_nameDef] {PAWN_gender ? став їхнім прийомним сином : стала їхньою прийомною донькою}.\n\n[PAWN_pronoun] швидко {PAWN_gender ? дізнався : дізналася} таємниці, що переходили між вельможами, мов дешеве вино: про світи далеко за межами свого власного, про мови, культури й технології — як нові, так і давні.</NobleWard61.description>
+  <NobleWard61.description>Мати залишила [PAWN_possessive] на порозі впливової знатної родини, і так [PAWN_nameDef] {PAWN_gender ? став їхнім прийомним сином : стала їхньою прийомною донькою}.\n\n[PAWN_pronoun] швидко {PAWN_gender ? дізнався : дізналася} таємниці, що переходили між вельможами, мов дешеве вино: про світи далеко за межами свого власного, про мови, культури й технології – як нові, так і давні.</NobleWard61.description>
   <!-- EN: noble ward -->
   <NobleWard61.title>підопічний</NobleWard61.title>
   <!-- EN: ward -->
@@ -1029,7 +1029,7 @@
   <!-- EN: [PAWN_nameDef] was born and raised in an offworld soldier growth facility. From a very young age, [PAWN_pronoun] was taught close-quarters combat tactics, aggression, and how to survive on distant planets.
 
 One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deployment shock troop corps. -->
-  <OffworldRecruit91.description>[PAWN_nameDef] {PAWN_gender ? народився й виріс : народилася й виросла} в позапланетному центрі вирощування солдатів. З раннього дитинства [PAWN_possessive] навчали тактики ближнього бою, агресії та виживання на далеких планетах.\n\n{PAWN_gender ? Один : Одна} з найкращих, [PAWN_nameDef] зрештою {PAWN_gender ? був обраний : була обрана} до корпусу штурмовиків орбітального десанту.</OffworldRecruit91.description>
+  <OffworldRecruit91.description>[PAWN_nameDef] {PAWN_gender ? народився й виріс : народилася й виросла} в позапланетному центрі вирощування солдатів. Змалку [PAWN_possessive] навчали тактики ближнього бою, агресії та виживання на далеких планетах.\n\n{PAWN_gender ? Один : Одна} з найкращих, [PAWN_nameDef] зрештою {PAWN_gender ? потрапив : потрапила} до відбірного корпусу штурмовиків орбітального десанту.</OffworldRecruit91.description>
   <!-- EN: offworld recruit -->
   <OffworldRecruit91.title>космічний рекрут</OffworldRecruit91.title>
   <!-- EN: recruit -->
@@ -1041,13 +1041,13 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: Heir -->
   <OldMoneyHeir46.titleShort>спадкоємець</OldMoneyHeir46.titleShort>
   <!-- EN: [PAWN_nameDef] was blessed with loving parents and a pleasant midworld life. [PAWN_pronoun] was an  optimistic and sociable kid who loved making friends and listening to their stories. [PAWN_possessive] imagination would run wild with ideas and questions. -->
-  <OptimisticChild30.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} в люблячій родині й безтурботно {PAWN_gender ? жив : жила} на середньому світі. [PAWN_pronoun] {PAWN_gender ? був : була} оптимістичною й товариською дитиною, яка любила заводити друзів і слухати їхні історії. [PAWN_possessive] уява аж буяла ідеями та запитаннями.</OptimisticChild30.description>
+  <OptimisticChild30.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} в люблячій родині й безтурботно {PAWN_gender ? жив : жила} у середньому світі. [PAWN_pronoun] {PAWN_gender ? був : була} оптимістичною й товариською дитиною, яка любила заводити друзів і слухати їхні історії. [PAWN_possessive] уява аж буяла ідеями та запитаннями.</OptimisticChild30.description>
   <!-- EN: optimistic child -->
   <OptimisticChild30.title>оптимістична дитина</OptimisticChild30.title>
   <!-- EN: optimistic -->
   <OptimisticChild30.titleShort>оптиміст</OptimisticChild30.titleShort>
   <!-- EN: Born in a brothel on a harsh world, [PAWN_nameDef] never really had a childhood. [PAWN_pronoun] did odd jobs to survive, and became distant from others. -->
-  <Orphan11.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в борделі на суворому світі й, по суті, не {PAWN_gender ? мав : мала} дитинства. Щоб вижити, [PAWN_pronoun] {PAWN_gender ? брався : бралася} за будь-яку роботу й {PAWN_gender ? замкнувся : замкнулася} в собі.</Orphan11.description>
+  <Orphan11.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в борделі у суворому світі й, по суті, не {PAWN_gender ? мав : мала} дитинства. Щоб вижити, [PAWN_pronoun] {PAWN_gender ? брався : бралася} за будь-яку роботу й {PAWN_gender ? замкнувся : замкнулася} в собі.</Orphan11.description>
   <!-- EN: orphan -->
   <Orphan11.title>сирота</Orphan11.title>
   <!-- EN: orphan -->
@@ -1077,7 +1077,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: orphan -->
   <OrphanOfWar60.titleShort>сирота</OrphanOfWar60.titleShort>
   <!-- EN: Born on a decadent glitterworld, [PAWN_nameDef] was given every expensive toy.\n\nThis pampered lifestyle caused [PAWN_objective] to miss many basic life lessons. [PAWN_pronoun] developed a special aversion to cooking, and always ordered the staff to do the kitchen work. -->
-  <Pampered87.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в декадентському блискосвіті й {PAWN_gender ? мав : мала} всі найдорожчі іграшки.\n\nЧерез таке розпещене життя [PAWN_pronoun] не {PAWN_gender ? засвоїв : засвоїла} багатьох елементарних життєвих уроків. Особливу відразу [PAWN_pronoun] {PAWN_gender ? мав : мала} до куховарства й завжди {PAWN_gender ? наказував : наказувала} прислузі поратися на кухні.</Pampered87.description>
+  <Pampered87.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в декадентському світі-раї й {PAWN_gender ? мав : мала} всі найдорожчі іграшки.\n\nЧерез таке розпещене життя [PAWN_pronoun] не {PAWN_gender ? засвоїв : засвоїла} багатьох елементарних життєвих уроків. Особливу відразу [PAWN_pronoun] {PAWN_gender ? мав : мала} до куховарства й завжди {PAWN_gender ? наказував : наказувала} прислузі поратися на кухні.</Pampered87.description>
   <!-- EN: pampered -->
   <Pampered87.title>розпещений</Pampered87.title>
   <!-- EN: pampered -->
@@ -1089,7 +1089,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: pet keeper -->
   <PetKeeper7.titleShort>доглядач</PetKeeper7.titleShort>
   <!-- EN: [PAWN_nameDef] was a student on a glitterworld. [PAWN_pronoun] had a hard time in school, since the other kids thought [PAWN_objective] rather strange.\n\n[PAWN_pronoun] always maintained a distance from these events, being continuously surprised by the many interesting and awkward ways life can go. -->
-  <Philosopher82.description>[PAWN_nameDef] {PAWN_gender ? навчався : навчалася} в блискосвіті. У школі [PAWN_objective] доводилося нелегко, бо інші діти вважали [PAWN_possessive] {PAWN_gender ? дивакуватим : дивакуватою}.\n\n[PAWN_pronoun] завжди {PAWN_gender ? тримався : трималася} осторонь цього й щоразу {PAWN_gender ? дивувався : дивувалася}, яких цікавих і недоладних поворотів може набувати життя.</Philosopher82.description>
+  <Philosopher82.description>[PAWN_nameDef] {PAWN_gender ? навчався : навчалася} у світі-раї. У школі [PAWN_objective] доводилося нелегко, бо інші діти вважали [PAWN_possessive] {PAWN_gender ? дивакуватим : дивакуватою}.\n\n[PAWN_pronoun] завжди {PAWN_gender ? тримався : трималася} осторонь цього й щоразу {PAWN_gender ? дивувався : дивувалася}, яких цікавих і недоладних поворотів може набувати життя.</Philosopher82.description>
   <!-- EN: philosopher -->
   <Philosopher82.title>філософ</Philosopher82.title>
   <!-- EN: thinker -->
@@ -1119,7 +1119,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: gladiator -->
   <PitGladiator19.titleShort>гладіатор</PitGladiator19.titleShort>
   <!-- EN: [PAWN_nameDef] loved boomrat pizza intensely. Rarely eating anything else, [PAWN_pronoun] was prone to bad health and low oxygen uptake.\n\n[PAWN_pronoun] loved bashing in the skulls of random creatures to see what was inside. -->
-  <PizzaLover94.description>[PAWN_nameDef] до нестями {PAWN_gender ? любив : любила} піцу з бумщура. Оскільки [PAWN_pronoun] майже нічого іншого не {PAWN_gender ? їв : їла}, здоров'я було кепське, а засвоєння кисню — низьке.\n\n[PAWN_pronoun] {PAWN_gender ? обожнював : обожнювала} розтрощувати черепи випадкових істот, щоб подивитися, що в них усередині.</PizzaLover94.description>
+  <PizzaLover94.description>[PAWN_nameDef] до нестями {PAWN_gender ? любив : любила} піцу з бумщура. Оскільки [PAWN_pronoun] майже нічого іншого не {PAWN_gender ? їв : їла}, здоров'я було кепське, а засвоєння кисню – низьке.\n\n[PAWN_pronoun] {PAWN_gender ? обожнював : обожнювала} розтрощувати черепи випадкових істот, щоб подивитися, що в них усередині.</PizzaLover94.description>
   <!-- EN: pizza lover -->
   <PizzaLover94.title>любитель піци</PizzaLover94.title>
   <!-- EN: pizza kid -->
@@ -1131,7 +1131,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: child -->
   <PlagueChild44.titleShort>дитя чуми</PlagueChild44.titleShort>
   <!-- EN: [PAWN_nameDef]'s childhood was cut short when a mysterious plague hit [PAWN_possessive] homeworld.\n\n[PAWN_pronoun] watched [PAWN_possessive] friends die, and [PAWN_possessive] compassion for humanity died with them. In its place a new thirst for knowledge emerged. -->
-  <PlagueProdigy12.description>Дитинство [PAWN_nameDef] обірвалося, коли на [PAWN_possessive] рідний світ обрушилася загадкова чума.\n\n[PAWN_pronoun] {PAWN_gender ? бачив : бачила}, як помирають друзі, і разом із ними померло [PAWN_possessive] співчуття до людства. На його місці прокинулася нова спрага знань.</PlagueProdigy12.description>
+  <PlagueProdigy12.description>[PAWN_nameDef] надто рано {PAWN_gender ? попрощався : попрощалася} з дитинством: на [PAWN_possessive] рідний світ обрушилася загадкова чума.\n\n[PAWN_pronoun] {PAWN_gender ? бачив : бачила}, як помирають друзі, і разом із ними померло [PAWN_possessive] співчуття до людства. На його місці прокинулася нова спрага знань.</PlagueProdigy12.description>
   <!-- EN: plague prodigy -->
   <PlagueProdigy12.title>чумний вундеркінд</PlagueProdigy12.title>
   <!-- EN: prodigy -->
@@ -1149,7 +1149,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: poor kid -->
   <PoorKid18.titleShort>бідне дитя</PoorKid18.titleShort>
   <!-- EN: "Knowledge is power." These words sparked something within [PAWN_nameDef], and came to form [PAWN_possessive] core drive. When not entombed within libraries, [PAWN_pronoun] would take things apart to see first-hand how they worked, with little regard for the border between mechanical and organic. -->
-  <PowerMadScholar30.description>«Знання — сила». Ці слова запалили щось у душі [PAWN_nameDef] і стали [PAWN_possessive] головним рушієм. Коли [PAWN_pronoun] не {PAWN_gender ? сидів замурований : сиділа замурована} в бібліотеках, то {PAWN_gender ? розбирав : розбирала} речі на частини, щоб на власні очі побачити, як вони працюють, не надто зважаючи на межу між механічним і органічним.</PowerMadScholar30.description>
+  <PowerMadScholar30.description>«Знання – сила». Ці слова глибоко запали [PAWN_objective] в душу й стали [PAWN_possessive] головним рушієм. Коли [PAWN_nameDef] не {PAWN_gender ? сидів замурований : сиділа замурована} в бібліотеках, то {PAWN_gender ? розбирав : розбирала} речі на частини, щоб на власні очі побачити, як вони працюють, не надто зважаючи на межу між механічним і органічним.</PowerMadScholar30.description>
   <!-- EN: power-mad scholar -->
   <PowerMadScholar30.title>божевільний вчений</PowerMadScholar30.title>
   <!-- EN: scholar -->
@@ -1161,7 +1161,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: privileged -->
   <PrivilegedChild86.titleShort>привілейований</PrivilegedChild86.titleShort>
   <!-- EN: [PAWN_nameDef] was recognized as gifted early in [PAWN_possessive] glitterworld upbringing. Luckily, [PAWN_possessive] family was in a position to cultivate that genius through advanced education. [PAWN_possessive] training included science, leadership, and the arts. -->
-  <PrivilegedProdigy70.description>Обдарованість [PAWN_nameDef] помітили ще в ранньому дитинстві, що минало в блискосвіті. На щастя, [PAWN_possessive] родина мала змогу розвивати цей геній за допомогою передової освіти. [PAWN_possessive] навчання охоплювало науки, лідерство й мистецтва.</PrivilegedProdigy70.description>
+  <PrivilegedProdigy70.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у світі-раї, і {PAWN_gender ? його : її} обдарованість помітили ще змалку. На щастя, родина мала змогу розвивати цей геній за допомогою передової освіти. [PAWN_possessive] навчання охоплювало науки, лідерство й мистецтва.</PrivilegedProdigy70.description>
   <!-- EN: privileged prodigy -->
   <PrivilegedProdigy70.title>привілейований вундеркінд</PrivilegedProdigy70.title>
   <!-- EN: prodigy -->
@@ -1179,7 +1179,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: pro gamer -->
   <ProfessionalGamer76.titleShort>геймер</ProfessionalGamer76.titleShort>
   <!-- EN: [PAWN_nameDef] was picked by government agents for the mysterious "Frame Project".\n\nDue to memory blockages, however, [PAWN_pronoun] remembers very little about this project or its true agenda - only that there were few survivors. -->
-  <ProjectSubject99.description>[PAWN_nameDef] {PAWN_gender ? потрапив : потрапила} до загадкового проєкту «Фрейм», куди [PAWN_possessive] відібрали урядові агенти.\n\nОднак через блокування пам'яті [PAWN_pronoun] майже нічого не пам'ятає ні про цей проєкт, ні про його справжню мету — лише те, що вижили одиниці.</ProjectSubject99.description>
+  <ProjectSubject99.description>[PAWN_nameDef] {PAWN_gender ? потрапив : потрапила} до загадкового проєкту «Фрейм», куди [PAWN_possessive] відібрали урядові агенти.\n\nОднак через блокування пам'яті [PAWN_pronoun] майже нічого не пам'ятає ні про цей проєкт, ні про його справжню мету – лише те, що вижили одиниці.</ProjectSubject99.description>
   <!-- EN: project subject -->
   <ProjectSubject99.title>суб'єкт проєкту</ProjectSubject99.title>
   <!-- EN: subject -->
@@ -1197,13 +1197,13 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: punk -->
   <Punk30.titleShort>панк</Punk30.titleShort>
   <!-- EN: On an industrial world, [PAWN_nameDef] learned early that if [PAWN_pronoun] wanted to eat, [PAWN_pronoun] had to work. So work [PAWN_pronoun] did. Kids fit in places adults can't, and where [PAWN_pronoun] was from, the safety laws were quite flexible.\n\n[PAWN_pronoun] was always a bit of a pyromaniac, and was banned from the kitchen after an unfortunate incident. -->
-  <PyroAssistant82.description>В індустріальному світі [PAWN_nameDef] рано {PAWN_gender ? засвоїв : засвоїла}: хочеш їсти — працюй. І [PAWN_pronoun] таки {PAWN_gender ? працював : працювала}. Діти пролазять туди, куди дорослим не дістатися, а там, звідки [PAWN_pronoun] {PAWN_gender ? походив : походила}, правила безпеки були вельми гнучкими.\n\n[PAWN_pronoun] завжди {PAWN_gender ? мав : мала} легку схильність до піроманії, і після одного прикрого випадку [PAWN_objective] заборонили заходити на кухню.</PyroAssistant82.description>
+  <PyroAssistant82.description>В індустріальному світі [PAWN_nameDef] рано {PAWN_gender ? засвоїв : засвоїла}: хочеш їсти – працюй. І [PAWN_pronoun] таки {PAWN_gender ? працював : працювала}. Діти пролазять туди, куди дорослим не дістатися, а там, звідки [PAWN_pronoun] {PAWN_gender ? походив : походила}, правила безпеки були вельми гнучкими.\n\n[PAWN_pronoun] завжди {PAWN_gender ? мав : мала} легку схильність до піроманії, і після одного прикрого випадку [PAWN_objective] заборонили заходити на кухню.</PyroAssistant82.description>
   <!-- EN: pyro assistant -->
   <PyroAssistant82.title>вогняний помічник</PyroAssistant82.title>
   <!-- EN: assistant -->
   <PyroAssistant82.titleShort>помічник</PyroAssistant82.titleShort>
   <!-- EN: [PAWN_nameDef] was raised by doting parents on a midworld. Instead of playing with other children, [PAWN_pronoun] read books voraciously.\n\n[PAWN_pronoun] was not particularly rugged, and struggled with physical labor. -->
-  <QuietNerd97.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} на середньому світі в родині, де батьки душі {PAWN_gender ? в ньому : в ній} не чули. Замість гратися з іншими дітьми, [PAWN_pronoun] запоєм {PAWN_gender ? читав : читала} книжки.\n\n[PAWN_pronoun] не {PAWN_gender ? вирізнявся : вирізнялася} міцною статурою й насилу {PAWN_gender ? давав : давала} собі раду з фізичною працею.</QuietNerd97.description>
+  <QuietNerd97.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у середньому світі в родині, де батьки душі {PAWN_gender ? в ньому : в ній} не чули. Замість гратися з іншими дітьми, [PAWN_pronoun] запоєм {PAWN_gender ? читав : читала} книжки.\n\n[PAWN_pronoun] не {PAWN_gender ? вирізнявся : вирізнялася} міцною статурою й насилу {PAWN_gender ? давав : давала} собі раду з фізичною працею.</QuietNerd97.description>
   <!-- EN: quiet nerd -->
   <QuietNerd97.title>тихий ботан</QuietNerd97.title>
   <!-- EN: nerd -->
@@ -1239,25 +1239,25 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: student -->
   <RebelStudent14.titleShort>учень</RebelStudent14.titleShort>
   <!-- EN: Early on, [PAWN_nameDef] developed a talent for writing. [PAWN_pronoun] was soon writing a popular online journal - anonymously, to hide [PAWN_possessive] age - on topics ranging from bioethics to political theory and xenosociology. -->
-  <RebelWriter82.description>Ще змалку [PAWN_nameDef] {PAWN_gender ? виявив : виявила} хист до письма. Невдовзі [PAWN_pronoun] вже {PAWN_gender ? вів : вела} популярний мережевий журнал — анонімно, щоб приховати свій вік, — на теми від біоетики до політичної теорії та ксеносоціології.</RebelWriter82.description>
+  <RebelWriter82.description>Ще змалку [PAWN_nameDef] {PAWN_gender ? виявив : виявила} хист до письма. Невдовзі [PAWN_pronoun] вже {PAWN_gender ? вів : вела} популярний мережевий журнал – анонімно, щоб приховати свій вік, – на теми від біоетики до політичної теорії та ксеносоціології.</RebelWriter82.description>
   <!-- EN: rebel writer -->
   <RebelWriter82.title>письменник-повстанець</RebelWriter82.title>
   <!-- EN: writer -->
   <RebelWriter82.titleShort>письменник</RebelWriter82.titleShort>
   <!-- EN: Growing up on a flourishing glitterworld afforded [PAWN_nameDef] the chance to fully devote [PAWN_objective]self to [PAWN_possessive] studies.\n\nHaving taken a keen interest in genetic modification and neural augmentation from a young age, [PAWN_pronoun] had little time (or desire) for a regular childhood. -->
-  <ReclusiveProdigy96.description>Завдяки дитинству в квітучому блискосвіті [PAWN_nameDef] {PAWN_gender ? міг : могла} цілковито присвятити себе навчанню.\n\nЗмалку [PAWN_pronoun] {PAWN_gender ? захоплювався : захоплювалася} генною модифікацією та нейроаугментацією, тож на звичайне дитинство [PAWN_objective] бракувало часу (та й бажання).</ReclusiveProdigy96.description>
+  <ReclusiveProdigy96.description>Завдяки дитинству в квітучому світі-раї [PAWN_nameDef] {PAWN_gender ? міг : могла} цілковито присвятити себе навчанню.\n\nЗмалку [PAWN_pronoun] {PAWN_gender ? захоплювався : захоплювалася} генною модифікацією та нейроаугментацією, тож на звичайне дитинство [PAWN_objective] бракувало часу (та й бажання).</ReclusiveProdigy96.description>
   <!-- EN: reclusive prodigy -->
   <ReclusiveProdigy96.title>вундеркінд-самітник</ReclusiveProdigy96.title>
   <!-- EN: prodigy -->
   <ReclusiveProdigy96.titleShort>вундеркінд</ReclusiveProdigy96.titleShort>
   <!-- EN: [PAWN_nameDef] lived on a midworld where the government cared about the youth. \n\n[PAWN_pronoun] was one of the many children who were taken from their parents and forced into the new education programs. -->
-  <ReEducatedYouth23.description>[PAWN_nameDef] {PAWN_gender ? жив : жила} на середньому світі, де уряд дуже дбав про молодь.\n\n[PAWN_pronoun] {PAWN_gender ? був : була} серед багатьох дітей, яких забрали від батьків і примусово віддали в нові освітні програми.</ReEducatedYouth23.description>
+  <ReEducatedYouth23.description>[PAWN_nameDef] {PAWN_gender ? жив : жила} у середньому світі, де уряд дуже дбав про молодь.\n\n[PAWN_pronoun] {PAWN_gender ? був : була} серед багатьох дітей, яких забрали від батьків і примусово віддали в нові освітні програми.</ReEducatedYouth23.description>
   <!-- EN: re-educated youth -->
   <ReEducatedYouth23.title>перевихована дитина</ReEducatedYouth23.title>
   <!-- EN: reeducated -->
   <ReEducatedYouth23.titleShort>перевихований</ReEducatedYouth23.titleShort>
   <!-- EN: [PAWN_nameDef] grew up on a midworld with loving parents, a cute pet and a lot of money - but no friends.\n\n[PAWN_pronoun] was always told by [PAWN_possessive] father that 'those peasants just want your money'. So, [PAWN_pronoun] spent most of [PAWN_possessive] time alone, or fighting other kids. -->
-  <RichBoy9.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} на середньому світі з люблячими батьками, милим домашнім улюбленцем і купою грошей — але без друзів.\n\nБатько завжди казав [PAWN_objective]: «Ці селюки хочуть лише твоїх грошей». Тож більшість часу [PAWN_pronoun] {PAWN_gender ? проводив : проводила} на самоті або в бійках з іншими дітьми.</RichBoy9.description>
+  <RichBoy9.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у середньому світі з люблячими батьками, милим домашнім улюбленцем і купою грошей – але без друзів.\n\nБатько завжди казав [PAWN_objective]: «Ці селюки хочуть лише твоїх грошей». Тож більшість часу [PAWN_pronoun] {PAWN_gender ? проводив : проводила} на самоті або в бійках з іншими дітьми.</RichBoy9.description>
   <!-- EN: rich boy -->
   <RichBoy9.title>багатий хлопець</RichBoy9.title>
   <!-- EN: rich boy -->
@@ -1269,7 +1269,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: sacrifice -->
   <RitualChild20.titleShort>пожертва</RitualChild20.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in one of the few remaining cities on a world ravaged by nuclear war.\n\n[PAWN_pronoun] learned to survive on [PAWN_possessive] own in this post-apocalyptic wasteland by scavenging for technology and supplies. -->
-  <Scavenger62.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в одному з небагатьох уцілілих міст на світі, спустошеному ядерною війною.\n\n[PAWN_pronoun] {PAWN_gender ? навчився : навчилася} самотужки виживати на цій постапокаліптичній пустці, нишпорячи в пошуках техніки й припасів.</Scavenger62.description>
+  <Scavenger62.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в одному з небагатьох уцілілих міст у світі, спустошеному ядерною війною.\n\n[PAWN_pronoun] {PAWN_gender ? навчився : навчилася} самотужки виживати на цій постапокаліптичній пустці, нишпорячи в пошуках техніки й припасів.</Scavenger62.description>
   <!-- EN: scavenger -->
   <Scavenger62.title>сміттяр</Scavenger62.title>
   <!-- EN: scavenger -->
@@ -1305,7 +1305,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: nice kid -->
   <SentimentalChild55.titleShort>добра дитина</SentimentalChild55.titleShort>
   <!-- EN: [PAWN_nameDef]'s family were space traders. One day, [PAWN_nameDef]'s cryptosleep pod failed in transit. [PAWN_pronoun] had to spend years awake on the ship as the other slept.\n\n[PAWN_pronoun] filled [PAWN_possessive] days creating beautiful contraptions from the ship's cargo - but [PAWN_pronoun] didn't learn a lot of basic planetary living skills. -->
-  <ShipChild46.description>[PAWN_possessive] родина займалася космічною торгівлею. Одного дня під час перельоту саркофаг криптосну [PAWN_nameDef] зламався. Довелося роками не спати на кораблі, поки решта спала.\n\n[PAWN_pronoun] {PAWN_gender ? заповнював : заповнювала} дні створенням дивовижних пристроїв із корабельного вантажу, але так і не {PAWN_gender ? опанував : опанувала} багатьох елементарних навичок життя на планеті.</ShipChild46.description>
+  <ShipChild46.description>[PAWN_possessive] родина займалася космічною торгівлею. Одного дня під час перельоту саркофаг криптосну, в якому спав [PAWN_nameDef], зламався. [PAWN_pronoun] {PAWN_gender ? мусив : мусила} роками не спати на кораблі, поки решта спала.\n\nДні [PAWN_pronoun] {PAWN_gender ? заповнював : заповнювала} тим, що {PAWN_gender ? майстрував : майструвала} з корабельного вантажу дивовижні пристрої, але так і не {PAWN_gender ? опанував : опанувала} багатьох елементарних навичок життя на планеті.</ShipChild46.description>
   <!-- EN: ship child -->
   <ShipChild46.title>корабельна дитина</ShipChild46.title>
   <!-- EN: ship child -->
@@ -1323,13 +1323,13 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: coma child -->
   <ShootingComa59.titleShort>дитя коми</ShootingComa59.titleShort>
   <!-- EN: Freya was born into a small, poor family. She was bullied relentlessly, beaten and hated. As she grew up she developed an   interest in guns. She usually studied from books, but occasionally managed to get some practice time with the real thing. Freya later   discovered a talent for art and began to teach herself how to draw and paint. -->
-  <ShunnedGirl30.description>{PAWN_nameDef} {PAWN_gender ? народився : народилася} в маленькій бідній родині. З {PAWN_gender ? нього : неї} безжально знущалися, {PAWN_possessive} били та ненавиділи. Коли {PAWN_pronoun} {PAWN_gender ? виріс : виросла}, {PAWN_pronoun} {PAWN_gender ? зацікавився : зацікавилася} зброєю.\n\nЗазвичай {PAWN_pronoun} {PAWN_gender ? вчився : вчилася} за книгами, але час від часу вдавалося попрактикуватися з реальними предметами. Пізніше {PAWN_nameDef} {PAWN_gender ? виявив : виявила} в собі талант до мистецтва і {PAWN_gender ? почав : почала} вчитися малювати.</ShunnedGirl30.description>
+  <ShunnedGirl30.description>Фрея народилася в маленькій бідній родині. З неї безжально знущалися, били її й ненавиділи. Підростаючи, вона зацікавилася зброєю. Здебільшого вона вчилася з книжок, але часом їй вдавалося попрактикуватися зі справжньою зброєю. Згодом Фрея відкрила в собі хист до мистецтва й почала самотужки вчитися малювати олівцем і фарбами.</ShunnedGirl30.description>
   <!-- EN: shunned girl -->
   <ShunnedGirl30.title>зацькований хлопчик</ShunnedGirl30.title>
   <!-- EN: shunned -->
   <ShunnedGirl30.titleShort>зацькований</ShunnedGirl30.titleShort>
   <!-- EN: It is not uncommon for a sickly child to be cast away. What is uncommon is for that child to survive and even thrive with such a weak body.\n\nUsing [PAWN_possessive] quick wit and silver tongue, [PAWN_nameDef] was able to get out of almost any situation - most of the time at the cost others around him. -->
-  <SicklyLiar3.description>Хворобливих дітей нерідко кидають напризволяще. Рідкістю є інше — коли така дитина не лише виживає, а й процвітає з таким кволим тілом.\n\nЗавдяки гострому розуму й добре підвішеному язику [PAWN_nameDef] {PAWN_gender ? умів : уміла} викрутитися майже з будь-якої ситуації — здебільшого коштом тих, хто був поруч.</SicklyLiar3.description>
+  <SicklyLiar3.description>Хворобливих дітей нерідко кидають напризволяще. Рідкість інше – щоб така дитина вижила й навіть процвітала з таким кволим тілом.\n\nЗавдяки гострому розуму й добре підвішеному язику [PAWN_nameDef] {PAWN_gender ? умів : уміла} викрутитися майже з будь-якої ситуації – здебільшого коштом тих, хто був поруч.</SicklyLiar3.description>
   <!-- EN: sickly liar -->
   <SicklyLiar3.title>хворий брехун</SicklyLiar3.title>
   <!-- EN: liar -->
@@ -1341,37 +1341,37 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: slave -->
   <SlaveFarmer99.titleShort>раб</SlaveFarmer99.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in an isolated midworld village, surrounded by opticows and countryside.\n\n[PAWN_possessive] parents taught [PAWN_objective] a wide range of useful domestic skills, but a peaceful and secure childhood left [PAWN_objective] with little understanding of the harder parts of life. -->
-  <SmallTownKid41.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у відлюдному селі на середньому світі, серед оптикорів і сільських краєвидів.\n\nБатьки навчили [PAWN_possessive] безлічі корисних побутових навичок, але мирне й безпечне дитинство майже не дало [PAWN_objective] уявлення про суворіші сторони життя.</SmallTownKid41.description>
+  <SmallTownKid41.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у глухому селі в середньому світі, серед оптикорів і сільських краєвидів.\n\nБатьки навчили [PAWN_possessive] безлічі корисних побутових навичок, але мирне й безпечне дитинство майже не дало [PAWN_objective] уявлення про суворіші сторони життя.</SmallTownKid41.description>
   <!-- EN: small town kid -->
   <SmallTownKid41.title>дитя малого села</SmallTownKid41.title>
   <!-- EN: town kid -->
   <SmallTownKid41.titleShort>селян</SmallTownKid41.titleShort>
   <!-- EN: [PAWN_nameDef]'s family never fit in. They were oddballs who couldn't conform to their regimented society. Because of this, they were forced into cryptosleep and sent to different rimworlds, never to see each other again. -->
-  <SocialPariah3.description>Родина [PAWN_nameDef] ніколи не вписувалася в оточення. Її члени були диваками, що не могли пристосуватися до свого регламентованого суспільства. Через це їх примусово занурили в криптосон і розіслали на різні прикордонні світи, щоб вони більше ніколи не побачили одне одного.</SocialPariah3.description>
+  <SocialPariah3.description>[PAWN_nameDef] і {PAWN_gender ? його : її} рідні ніколи не вписувалися в оточення. Вони були диваками, що не могли пристосуватися до свого регламентованого суспільства. Через це їх примусово занурили в криптосон і розіслали на різні прикордонні світи, щоб вони більше ніколи не побачили одне одного.</SocialPariah3.description>
   <!-- EN: social pariah -->
   <SocialPariah3.title>соціальний вигнанець</SocialPariah3.title>
   <!-- EN: pariah -->
   <SocialPariah3.titleShort>вигнанець</SocialPariah3.titleShort>
   <!-- EN: [PAWN_nameDef] grew up believing [PAWN_pronoun] was a normal, albeit slightly sheltered child.\n\nIn truth, [PAWN_pronoun] was part of an elaborate experiment. Researchers were conditioning [PAWN_objective] using social interactions and mechanite injections to try to produce an elite soldier. -->
-  <SoldierExperiment50.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} з вірою в те, що [PAWN_pronoun] — звичайна, хоч і трохи оберігана від світу дитина.\n\nНасправді ж [PAWN_pronoun] {PAWN_gender ? був : була} частиною складного експерименту. Дослідники формували [PAWN_possessive] за допомогою соціальних взаємодій та ін'єкцій механітів, намагаючись виростити елітного солдата.</SoldierExperiment50.description>
+  <SoldierExperiment50.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} з вірою в те, що [PAWN_pronoun] – звичайна, хоч і трохи оберігана від світу дитина.\n\nНасправді ж [PAWN_pronoun] {PAWN_gender ? був : була} частиною складного експерименту. Дослідники формували [PAWN_possessive] за допомогою соціальних взаємодій та ін'єкцій механітів, намагаючись виростити елітного солдата.</SoldierExperiment50.description>
   <!-- EN: soldier experiment -->
   <SoldierExperiment50.title>експериментальний солдат</SoldierExperiment50.title>
   <!-- EN: experiment -->
   <SoldierExperiment50.titleShort>експеримент</SoldierExperiment50.titleShort>
   <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out by a mysterious disease.\n\nFound alone and adopted by another band, [PAWN_pronoun] never became close with the other tribe members. [PAWN_pronoun] preferred to stay away from [PAWN_possessive] new home, wandering the woods and tending the animals. -->
-  <SoleSurvivor63.description>Усе плем'я [PAWN_nameDef] викосила загадкова хвороба.\n\n{PAWN_gender ? Його, єдиного вцілілого, : Її, єдину вцілілу,} прийняла інша громада, але [PAWN_pronoun] так і не {PAWN_gender ? зблизився : зблизилася} з її членами. [PAWN_pronoun] {PAWN_gender ? волів : воліла} триматися подалі від нової домівки — блукати лісами й доглядати тварин.</SoleSurvivor63.description>
+  <SoleSurvivor63.description>Загадкова хвороба викосила все плем'я, з якого {PAWN_gender ? походив : походила} [PAWN_nameDef].\n\n{PAWN_gender ? Його, єдиного вцілілого, : Її, єдину вцілілу,} прийняла інша громада, але [PAWN_pronoun] так і не {PAWN_gender ? зблизився : зблизилася} з її членами. [PAWN_pronoun] {PAWN_gender ? волів : воліла} триматися подалі від нової домівки – блукати лісами й доглядати тварин.</SoleSurvivor63.description>
   <!-- EN: sole survivor -->
   <SoleSurvivor63.title>єдиний вцілілий</SoleSurvivor63.title>
   <!-- EN: survivor -->
   <SoleSurvivor63.titleShort>вцілілий</SoleSurvivor63.titleShort>
   <!-- EN: In the mountains of the planet Ticonderoga, [PAWN_nameDef] was raised by [PAWN_possessive] tribal mother. She taught [PAWN_objective] survival skills - trapping, tracking, shooting, skinning, cooking and healing.\n\n[PAWN_possessive] departed father had left behind an old bolt-action rifle, and [PAWN_nameDef] practiced with it every chance [PAWN_pronoun] got. -->
-  <SonOfAHuntress75.description>У горах планети Тікондерога [PAWN_nameDef] {PAWN_gender ? ріс : росла} з матір'ю — мисливицею з племені. Вона навчила [PAWN_possessive] навичок виживання: ставити пастки, вистежувати, стріляти, білувати, готувати їжу й лікувати.\n\nБатько, якого вже не було поруч, залишив по собі стару гвинтівку, і [PAWN_nameDef] {PAWN_gender ? тренувався : тренувалася} з нею за кожної нагоди.</SonOfAHuntress75.description>
+  <SonOfAHuntress75.description>У горах планети Тікондерога [PAWN_nameDef] {PAWN_gender ? ріс : росла} з матір'ю – мисливицею з племені. Вона навчила [PAWN_possessive] навичок виживання: ставити пастки, вистежувати, стріляти, білувати, готувати їжу й лікувати.\n\nБатько, якого вже не було поруч, залишив по собі стару гвинтівку, і [PAWN_nameDef] {PAWN_gender ? тренувався : тренувалася} з нею за кожної нагоди.</SonOfAHuntress75.description>
   <!-- EN: son of a huntress -->
   <SonOfAHuntress75.title>дитя мисливиці</SonOfAHuntress75.title>
   <!-- EN: hunter -->
   <SonOfAHuntress75.titleShort>мисливець</SonOfAHuntress75.titleShort>
   <!-- EN: Growing up on a rural farm-world leaves little opportunity for excitement and adventure, so when the Royal Fleet began a recruiting program on [PAWN_possessive] home planet, [PAWN_nameDef] threw down [PAWN_possessive] hoe and cattle prod to took up arms for the crown.\n\n[PAWN_pronoun] served on the interplanetary super-destroyer HMS Thunder-Child. -->
-  <SpaceCadet77.description>Дитинство на сільській фермерській планеті не багате на пригоди й гострі відчуття, тож коли Королівський флот оголосив набір рекрутів на рідній планеті, [PAWN_nameDef] {PAWN_gender ? кинув : кинула} сапу й електрошокер для худоби та {PAWN_gender ? взявся : взялася} до зброї во славу корони.\n\n[PAWN_pronoun] {PAWN_gender ? служив : служила} на міжпланетному есмінці-гіганті HMS Thunder-Child.</SpaceCadet77.description>
+  <SpaceCadet77.description>Дитинство на сільській фермерській планеті не багате на пригоди й гострі відчуття, тож коли Королівський флот оголосив набір рекрутів на рідній планеті, [PAWN_nameDef] {PAWN_gender ? кинув : кинула} сапу й електрошокер для худоби та {PAWN_gender ? взявся : взялася} до зброї во славу корони.\n\n[PAWN_pronoun] {PAWN_gender ? служив : служила} на міжпланетному суперзнищувачі Його Величності «Дитя грому».</SpaceCadet77.description>
   <!-- EN: space cadet -->
   <SpaceCadet77.title>космічний курсант</SpaceCadet77.title>
   <!-- EN: cadet -->
@@ -1389,13 +1389,13 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: space nerd -->
   <SpaceNerd97.titleShort>ботан</SpaceNerd97.titleShort>
   <!-- EN: Born among stars to a spacefaring family, the [PAWN_nameDef] was the only survivor when [PAWN_possessive] family's ship was destroyed.\n\n[PAWN_pronoun] was forced to find a way to survive, and seek the joy of knowing another family. -->
-  <SpacerOrphan77.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} серед зірок у родині космічних мандрівників і {PAWN_gender ? став єдиним, хто вцілів : стала єдиною, хто вцілів}, коли родинний корабель було знищено.\n\n[PAWN_pronoun] {PAWN_gender ? мусив : мусила} самотужки шукати способи вижити — і {PAWN_gender ? мріяв : мріяла} знову пізнати радість мати родину.</SpacerOrphan77.description>
+  <SpacerOrphan77.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} серед зірок у родині космічних мандрівників і {PAWN_gender ? став єдиним, хто вцілів : стала єдиною, хто вцілів}, коли родинний корабель було знищено.\n\n[PAWN_pronoun] {PAWN_gender ? мусив : мусила} самотужки шукати способи вижити – і {PAWN_gender ? мріяв : мріяла} знову пізнати радість мати родину.</SpacerOrphan77.description>
   <!-- EN: spacer orphan -->
   <SpacerOrphan77.title>космічний сирота</SpacerOrphan77.title>
   <!-- EN: orphan -->
   <SpacerOrphan77.titleShort>сирота</SpacerOrphan77.titleShort>
   <!-- EN: [PAWN_nameDef]'s parents used [PAWN_objective] to help smuggle contraband between a cluster of rimworlds.\n\nAided by [PAWN_possessive] small size, [PAWN_nameDef] became very adept at carrying out [PAWN_possessive] parents' missions, learning weaponry, negotiations, and most of all smuggling. -->
-  <SpaceSmuggler6.description>Батьки [PAWN_nameDef] використовували {PAWN_gender ? сина : доньку}, щоб перевозити контрабанду між скупченням прикордонних світів.\n\nЗавдяки своєму малому зросту [PAWN_nameDef] {PAWN_gender ? став : стала} справжнім майстром у виконанні батьківських доручень і {PAWN_gender ? опанував : опанувала} зброю, мистецтво перемовин, а понад усе — контрабанду.</SpaceSmuggler6.description>
+  <SpaceSmuggler6.description>[PAWN_nameDef] {PAWN_gender ? допомагав : допомагала} батькам перевозити контрабанду між скупченням прикордонних світів.\n\nЗавдяки своєму малому зросту [PAWN_pronoun] {PAWN_gender ? став : стала} справжнім майстром у виконанні батьківських доручень і {PAWN_gender ? опанував : опанувала} зброю, мистецтво перемовин, а понад усе – контрабанду.</SpaceSmuggler6.description>
   <!-- EN: space smuggler -->
   <SpaceSmuggler6.title>космічний контрабандист</SpaceSmuggler6.title>
   <!-- EN: smuggler -->
@@ -1407,19 +1407,19 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: pilot -->
   <SpaceyachtPilot89.titleShort>пілот</SpaceyachtPilot89.titleShort>
   <!-- EN: [PAWN_nameDef] was the son of a fern farmer in the towering forests of Khalderia.\n\n[PAWN_pronoun] found [PAWN_possessive] first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of [PAWN_possessive] homeworld. The seedy underworld of racing also forced [PAWN_objective] to learn to defend [PAWN_objective]self with a quick word or a quicker shot. -->
-  <SpeederRacer71.description>[PAWN_nameDef] {PAWN_gender ? був сином : була донькою} фермера, що вирощував папороті у височенних лісах Халдерії.\n\nПершим коханням [PAWN_nameDef] стали гонки на спідерах: [PAWN_pronoun] {PAWN_gender ? мчав : мчала} крізь велетенські крони та повз мальовничі краєвиди рідного світу. Кримінальне підґрунтя перегонів також навчило [PAWN_possessive] захищатися влучним словом або ще влучнішим пострілом.</SpeederRacer71.description>
+  <SpeederRacer71.description>[PAWN_nameDef] {PAWN_gender ? був сином : була донькою} фермера, що вирощував папороті у височенних лісах Халдерії.\n\nПершим [PAWN_possessive] коханням стали гонки на спідерах: [PAWN_pronoun] {PAWN_gender ? мчав : мчала} крізь велетенські крони та повз мальовничі краєвиди рідного світу. Кримінальне підґрунтя перегонів також навчило {PAWN_gender ? його : її} захищатися влучним словом або ще влучнішим пострілом.</SpeederRacer71.description>
   <!-- EN: speeder racer -->
   <SpeederRacer71.title>швидкий гонщик</SpeederRacer71.title>
   <!-- EN: racer -->
   <SpeederRacer71.titleShort>гонщик</SpeederRacer71.titleShort>
   <!-- EN: Born in a rich family, [PAWN_nameDef] was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.\n\n[PAWN_pronoun] was expected to become one of the best doctors in the world. -->
-  <SpoiledBrat59.description>Народившись у багатій родині, [PAWN_nameDef] {PAWN_gender ? отримував : отримувала} все, що забажає, проте [PAWN_pronoun] не {PAWN_gender ? отримав : отримала} елементарної трудової етики чи основ незалежності особистості.\n\nОчікувалося, що [PAWN_pronoun] стане {PAWN_gender ? одним : одною} із найкращих лікарів у світі.</SpoiledBrat59.description>
+  <SpoiledBrat59.description>Народившись у багатій родині, [PAWN_nameDef] {PAWN_gender ? отримував : отримувала} все, чого {PAWN_gender ? бажав : бажала}, тож так і не {PAWN_gender ? навчився : навчилася} ні старанно працювати, ні покладатися на себе.\n\nВід {PAWN_gender ? нього : неї} чекали, що [PAWN_pronoun] стане {PAWN_gender ? одним : однією} з найкращих лікарів у світі.</SpoiledBrat59.description>
   <!-- EN: spoiled brat -->
   <SpoiledBrat59.title>розпещена дитина</SpoiledBrat59.title>
   <!-- EN: brat -->
   <SpoiledBrat59.titleShort>розпещений</SpoiledBrat59.titleShort>
   <!-- EN: [PAWN_nameDef] grew up the child of an industrious colony manager. In this position, most manual and dangerous tasks were forbidden by [PAWN_possessive] parents, but on the rim everyone has to dirty their hands. -->
-  <SpoiledChild33.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} в родині заповзятливого управителя колонії. Через це батьки забороняли [PAWN_objective] більшість фізичної та небезпечної роботи, але на прикордонних світах кожному доводиться бруднити руки.</SpoiledChild33.description>
+  <SpoiledChild33.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} в родині заповзятливого управителя колонії. Через це батьки забороняли [PAWN_objective] більшість фізичної та небезпечної роботи, але у прикордонних світах бруднити руки доводиться кожному.</SpoiledChild33.description>
   <!-- EN: spoiled child -->
   <SpoiledChild33.title>розпещена дитина</SpoiledChild33.title>
   <!-- EN: spoiled -->
@@ -1437,19 +1437,19 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: stableboy -->
   <Stableboy49.titleShort>конюх</Stableboy49.titleShort>
   <!-- EN: Raised on Amen-Ti, glitterworld capital of the Star Empire, [PAWN_nameFull] had an easy childhood.\n\nAs a youth, [PAWN_nameDef] decided that joining the Starforce would be [PAWN_possessive] way of giving back to the Empire. -->
-  <StarforceCadet79.description>[PAWN_nameFull] {PAWN_gender ? виріс : виросла} на Амен-Ті, блискосвіті-столиці Зоряної імперії, і {PAWN_gender ? мав : мала} безтурботне дитинство.\n\nУ юності [PAWN_nameDef] {PAWN_gender ? вирішив : вирішила}, що вступ до Зоряних сил стане способом віддячити Імперії.</StarforceCadet79.description>
+  <StarforceCadet79.description>[PAWN_nameFull] {PAWN_gender ? виріс : виросла} на Амен-Ті, світі-раї та столиці Зоряної імперії, і {PAWN_gender ? мав : мала} безтурботне дитинство.\n\nУ юності [PAWN_nameDef] {PAWN_gender ? вирішив : вирішила}, що вступ до Зоряних сил стане [PAWN_possessive] способом віддячити Імперії.</StarforceCadet79.description>
   <!-- EN: starforce cadet -->
   <StarforceCadet79.title>космічний курсант</StarforceCadet79.title>
   <!-- EN: cadet -->
   <StarforceCadet79.titleShort>курсант</StarforceCadet79.titleShort>
   <!-- EN: Born on a medieval world, [PAWN_nameDef]'s first memory is of gazing up into the night's sky. \n\nEver since, [PAWN_pronoun] dreamed of squiring for a knight amidst the star-filled heavens. [PAWN_possessive] focus on that vision left [PAWN_objective] somewhat single-minded. -->
-  <StarSquire9.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в середньовічному світі, і найперший [PAWN_possessive] спогад — нічне небо, у яке [PAWN_pronoun] {PAWN_gender ? вдивлявся : вдивлялася}.\n\nВідтоді [PAWN_pronoun] {PAWN_gender ? мріяв : мріяла} стати зброєносцем лицаря серед зоряних небес. Ця мрія настільки поглинула [PAWN_possessive], що [PAWN_pronoun] {PAWN_gender ? став : стала} дещо {PAWN_gender ? зашореним : зашореною}.</StarSquire9.description>
+  <StarSquire9.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в середньовічному світі, і найперший [PAWN_possessive] спогад – нічне небо, у яке [PAWN_pronoun] {PAWN_gender ? вдивлявся : вдивлялася}.\n\nВідтоді [PAWN_pronoun] {PAWN_gender ? мріяв : мріяла} стати зброєносцем лицаря серед зоряних небес. Ця мрія настільки поглинула [PAWN_possessive], що [PAWN_pronoun] {PAWN_gender ? став : стала} дещо {PAWN_gender ? зашореним : зашореною}.</StarSquire9.description>
   <!-- EN: star squire -->
   <StarSquire9.title>зоряний лицар</StarSquire9.title>
   <!-- EN: squire -->
   <StarSquire9.titleShort>лицар</StarSquire9.titleShort>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood as a penniless orphan living on a space station. [PAWN_pronoun] managed to scrape by doing filthy jobs and stealing. [PAWN_pronoun] became so violent due to poor treatment by [PAWN_possessive] “betters” that [PAWN_pronoun] was banished from the station, just to be picked up by space pirates. -->
-  <StationWhelp94.description>[PAWN_nameDef] {PAWN_gender ? провів : провела} дитинство безгрошовим сиротою на космічній станції. [PAWN_pronoun] сяк-так {PAWN_gender ? зводив : зводила} кінці з кінцями, виконуючи брудну роботу та крадучи. Через зневагу з боку «кращих» [PAWN_pronoun] {PAWN_gender ? став таким жорстоким : стала такою жорстокою}, що [PAWN_possessive] вигнали зі станції — і невдовзі [PAWN_possessive] підібрали космічні пірати.</StationWhelp94.description>
+  <StationWhelp94.description>[PAWN_nameDef] {PAWN_gender ? провів : провела} дитинство {PAWN_gender ? безгрошовим сиротою : безгрошовою сиротою} на космічній станції. [PAWN_pronoun] сяк-так {PAWN_gender ? зводив : зводила} кінці з кінцями, виконуючи брудну роботу та крадучи. Через зневагу з боку «кращих» [PAWN_pronoun] {PAWN_gender ? став таким жорстоким : стала такою жорстокою}, що {PAWN_gender ? його : її} вигнали зі станції – і невдовзі {PAWN_gender ? його : її} підібрали космічні пірати.</StationWhelp94.description>
   <!-- EN: station whelp -->
   <StationWhelp94.title>щеня станції</StationWhelp94.title>
   <!-- EN: whelp -->
@@ -1473,7 +1473,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: straggler -->
   <Straggler71.titleShort>відсталий</Straggler71.titleShort>
   <!-- EN: [PAWN_nameDef]'s drug-addicted mother died, leaving [PAWN_objective] an orphan at a young age. To stay alive, [PAWN_pronoun] resorted to theft, and when necessary, prostitution. When [PAWN_nameDef] was caught stealing from a church, the priestess saw a wounded but smart child, and took [PAWN_objective] in to give [PAWN_objective] a second chance at life. -->
-  <StreetChild4.description>Мати [PAWN_nameDef], наркоманка, померла, і [PAWN_pronoun] ще {PAWN_gender ? малим : малою} {PAWN_gender ? залишився : залишилася} сиротою. Щоб вижити, [PAWN_pronoun] {PAWN_gender ? вдавався : вдавалася} до крадіжок, а коли доводилося, то й до проституції. Коли [PAWN_nameDef] {PAWN_gender ? попався : попалася} на крадіжці в церкві, жриця побачила в {PAWN_gender ? ньому : ній} скалічену життям, але кмітливу дитину й прихистила [PAWN_possessive], давши другий шанс.</StreetChild4.description>
+  <StreetChild4.description>[PAWN_possessive] мати, наркоманка, померла, і [PAWN_nameDef] ще {PAWN_gender ? малим : малою} {PAWN_gender ? залишився : залишилася} сиротою. Щоб вижити, [PAWN_pronoun] {PAWN_gender ? вдавався : вдавалася} до крадіжок, а коли доводилося, то й до проституції. Коли [PAWN_pronoun] {PAWN_gender ? попався : попалася} на крадіжці в церкві, жриця побачила в {PAWN_gender ? ньому : ній} скалічену життям, але кмітливу дитину й прихистила, давши другий шанс.</StreetChild4.description>
   <!-- EN: street child -->
   <StreetChild4.title>дитя вулиць</StreetChild4.title>
   <!-- EN: street -->
@@ -1509,13 +1509,13 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: grifter -->
   <StreetUrchin74.titleShort>шахрай</StreetUrchin74.titleShort>
   <!-- EN: [PAWN_nameDef] studied chemistry and quantum mechanics for entertainment.\n\n[PAWN_pronoun] was very good at convincing others to do [PAWN_possessive] physical work, and made it a goal in life to avoid manual labor. -->
-  <Student65.description>[PAWN_nameDef] {PAWN_gender ? вивчав : вивчала} хімію та квантову механіку заради розваги.\n\n[PAWN_pronoun] чудово {PAWN_gender ? вмів : вміла} вмовляти інших виконувати за {PAWN_gender ? нього : неї} фізичну роботу й {PAWN_gender ? поставив : поставила} собі життєву мету — уникати ручної праці.</Student65.description>
+  <Student65.description>[PAWN_nameDef] {PAWN_gender ? вивчав : вивчала} хімію та квантову механіку заради розваги.\n\n[PAWN_pronoun] чудово {PAWN_gender ? вмів : вміла} вмовляти інших виконувати за {PAWN_gender ? нього : неї} фізичну роботу й {PAWN_gender ? поставив : поставила} собі життєву мету – уникати ручної праці.</Student65.description>
   <!-- EN: student -->
   <Student65.title>студент</Student65.title>
   <!-- EN: student -->
   <Student65.titleShort>студент</Student65.titleShort>
   <!-- EN: A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel {PAWN_gender ? Boy : Girl}”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective]. -->
-  <StudentEngineer34.description>[PAWN_nameDef] {PAWN_gender ? був : була} дитиною-генієм, тож [PAWN_possessive] зарахували до спеціальної навчальної програми з аерокосмічних бойових дій та інженерії.\n\nОдного дня [PAWN_pronoun] {PAWN_gender ? спробував : спробувала} подружитися з білкою, подарувавши їй браслет. Білка вкусила [PAWN_possessive], і відтоді [PAWN_objective] причепилося прізвисько «{PAWN_gender ? Білчин хлопчик : Білчина дівчинка}».\n\n[PAWN_nameDef] {PAWN_gender ? дійшов : дійшла} висновку, що ручна праця — нижче [PAWN_possessive] гідності.</StudentEngineer34.description>
+  <StudentEngineer34.description>[PAWN_nameDef] {PAWN_gender ? був : була} дитиною-генієм, тож [PAWN_possessive] зарахували до спеціальної навчальної програми з аерокосмічних бойових дій та інженерії.\n\nОдного дня [PAWN_pronoun] {PAWN_gender ? спробував : спробувала} подружитися з білкою, подарувавши їй браслет. Білка вкусила [PAWN_possessive], і відтоді [PAWN_objective] причепилося прізвисько «{PAWN_gender ? Білчин хлопчик : Білчина дівчинка}».\n\n[PAWN_nameDef] {PAWN_gender ? дійшов : дійшла} висновку, що ручна праця – нижче [PAWN_possessive] гідності.</StudentEngineer34.description>
   <!-- EN: student engineer -->
   <StudentEngineer34.title>студент інженерії</StudentEngineer34.title>
   <!-- EN: engineer -->
@@ -1557,19 +1557,19 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: farm kid -->
   <TechScholar75.titleShort>фермер</TechScholar75.titleShort>
   <!-- EN: Test subject #11,529,914 of experiment #56,048 spent [PAWN_possessive] childhood in white rooms performing mental and physical tests.\n\n[PAWN_possessive] only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment. -->
-  <TestSubject82.description>{PAWN_gender ? Піддослідний : Піддослідна} №11 529 914 з експерименту №56 048 {PAWN_gender ? провів : провела} дитинство в білих кімнатах, проходячи розумові й фізичні тести.\n\nЄдиним [PAWN_possessive] товаришем був голос, що називав себе Матір'ю. Мати винагороджувала успіхи похвалою, а невдачі — суворим покаранням.</TestSubject82.description>
+  <TestSubject82.description>{PAWN_gender ? Піддослідний : Піддослідна} №11 529 914 з експерименту №56 048 {PAWN_gender ? провів : провела} дитинство в білих кімнатах, проходячи розумові й фізичні тести.\n\nЄдиним [PAWN_possessive] товаришем був голос, що називав себе Матір'ю. Мати винагороджувала успіхи похвалою, а невдачі – суворим покаранням.</TestSubject82.description>
   <!-- EN: test subject -->
   <TestSubject82.title>піддослідний</TestSubject82.title>
   <!-- EN: subject -->
   <TestSubject82.titleShort>піддослідний</TestSubject82.titleShort>
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] spare time creating things from [PAWN_possessive] imagination out of scrap metal and discarded machinery.\n\n[PAWN_pronoun] created simple robots and small tools, for both for fun and for utility. -->
-  <Tinkerer11.description>У вільний час [PAWN_nameDef] {PAWN_gender ? майстрував : майструвала} з металобрухту та викинутих механізмів усе, що підказувала уява.\n\n[PAWN_pronoun] {PAWN_gender ? створював : створювала} простих роботів і невеликі інструменти — і для розваги, і для користі.</Tinkerer11.description>
+  <Tinkerer11.description>У вільний час [PAWN_nameDef] {PAWN_gender ? майстрував : майструвала} з металобрухту та викинутих механізмів усе, що підказувала уява.\n\n[PAWN_pronoun] {PAWN_gender ? створював : створювала} простих роботів і невеликі інструменти – і для розваги, і для користі.</Tinkerer11.description>
   <!-- EN: tinkerer -->
   <Tinkerer11.title>майстер</Tinkerer11.title>
   <!-- EN: tinkerer -->
   <Tinkerer11.titleShort>майстер</Tinkerer11.titleShort>
   <!-- EN: [PAWN_nameDef] grew up on a scrap-heap of a planet - the garbage dump of other planets in the system. [PAWN_pronoun] learned to make new machines from the dead parts of old ones. With some friends, [PAWN_pronoun] eventually escaped on a salvaged and repaired ship. -->
-  <Tinkerer79.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на планеті-смітнику — звалищі для решти планет системи. [PAWN_pronoun] {PAWN_gender ? навчився : навчилася} збирати нові машини з мертвих деталей старих. Зрештою разом із кількома друзями [PAWN_pronoun] {PAWN_gender ? утік : утекла} на знайденому серед брухту й відремонтованому кораблі.</Tinkerer79.description>
+  <Tinkerer79.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на планеті-смітнику – звалищі для решти планет системи. [PAWN_pronoun] {PAWN_gender ? навчився : навчилася} збирати нові машини з мертвих деталей старих. Зрештою разом із кількома друзями [PAWN_pronoun] {PAWN_gender ? утік : утекла} на знайденому серед брухту й відремонтованому кораблі.</Tinkerer79.description>
   <!-- EN: tinkerer -->
   <Tinkerer79.title>майстер</Tinkerer79.title>
   <!-- EN: tinkerer -->
@@ -1599,25 +1599,25 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: alchemist -->
   <TraineeAlchemist64.titleShort>алхімік</TraineeAlchemist64.titleShort>
   <!-- EN: A midworld child, [PAWN_nameDef]'s wealthy parents sent [PAWN_objective] to a nearby glitterworld to receive a better education.\n\n[PAWN_nameDef] was a talented student. However, due to [PAWN_possessive] family's wealth, [PAWN_pronoun] never had to do dumb labor. -->
-  <TransferStudent10.description>[PAWN_nameDef] {PAWN_gender ? був : була} дитиною середнього світу, і заможні батьки відправили [PAWN_possessive] на сусідній блискосвіт здобувати кращу освіту.\n\n[PAWN_nameDef] {PAWN_gender ? був талановитим учнем : була талановитою ученицею}. Проте завдяки статкам родини [PAWN_pronoun] ніколи не {PAWN_gender ? мусив : мусила} займатися тупою чорною роботою.</TransferStudent10.description>
+  <TransferStudent10.description>[PAWN_nameDef] {PAWN_gender ? був : була} дитиною середнього світу, і заможні батьки відправили [PAWN_possessive] до сусіднього світу-раю здобувати кращу освіту.\n\n[PAWN_nameDef] {PAWN_gender ? був талановитим учнем : була талановитою ученицею}. Проте завдяки статкам родини [PAWN_pronoun] ніколи не {PAWN_gender ? мусив : мусила} займатися тупою чорною роботою.</TransferStudent10.description>
   <!-- EN: transfer student -->
-  <TransferStudent10.title>студент блискосвіту</TransferStudent10.title>
+  <TransferStudent10.title>студент світу-раю</TransferStudent10.title>
   <!-- EN: student -->
   <TransferStudent10.titleShort>студент</TransferStudent10.titleShort>
   <!-- EN: [PAWN_nameDef] lived on a pleasant midworld.\n\n[PAWN_possessive] body purist mother fell sick with heart disease. In desperation, [PAWN_nameDef]'s father abducted innocent people and harvested their hearts. [PAWN_nameDef]'s father was arrested, but the child remained scarred from the experience. -->
-  <TraumatizedYouth87.description>[PAWN_nameDef] {PAWN_gender ? жив : жила} у приємному середньому світі.\n\n[PAWN_possessive] мати, переконана біоконсерваторка, захворіла на серце. У відчаї батько викрадав невинних людей і вирізав у них серця. Батька [PAWN_nameDef] заарештували, але пережите залишило в дитини глибокі шрами.</TraumatizedYouth87.description>
+  <TraumatizedYouth87.description>[PAWN_nameDef] {PAWN_gender ? жив : жила} у приємному середньому світі.\n\n[PAWN_possessive] мати, переконана біоконсерваторка, захворіла на серце. У відчаї батько викрадав невинних людей і вирізав у них серця. Батька заарештували, але пережите залишило в дитини глибокі шрами.</TraumatizedYouth87.description>
   <!-- EN: traumatized youth -->
   <TraumatizedYouth87.title>травмоване дитя</TraumatizedYouth87.title>
   <!-- EN: trauma -->
   <TraumatizedYouth87.titleShort>травмований</TraumatizedYouth87.titleShort>
   <!-- EN: Years ago, [PAWN_nameDef]'s tribe stumbled upon an abandoned gun vault. Believing the weapons to be sacred gifts, the shaman would select a child born under superstitious circumstances and assign them the honour of bearing one to defend the village. [PAWN_nameDef] is such a child. -->
-  <TribalThunderer45.description>Багато років тому плем'я [PAWN_nameDef] натрапило на покинуте сховище зброї. Вважаючи зброю священними дарами, шаман обирав дитину, народжену під особливим знаменням, і вшановував її правом носити одну з них для захисту селища. [PAWN_nameDef] — саме така дитина.</TribalThunderer45.description>
+  <TribalThunderer45.description>Багато років тому плем'я, з якого походить [PAWN_nameDef], натрапило на покинуте сховище зброї. Вважаючи зброю священними дарами, шаман обирав дитину, народжену під особливим знаменням, і вшановував її правом носити одну з них для захисту селища. [PAWN_nameDef] – саме така дитина.</TribalThunderer45.description>
   <!-- EN: tribal thunderer -->
   <TribalThunderer45.title>громовержець племені</TribalThunderer45.title>
   <!-- EN: thunderer -->
   <TribalThunderer45.titleShort>громовержець</TribalThunderer45.titleShort>
   <!-- EN: Born to settler folk, [PAWN_nameDef]'s family had a beloved herd of turtles, who protected them by absorbing shots from raiders.\n\nAt a young age, [PAWN_pronoun] was entrusted with the turtles. [PAWN_pronoun] bred them, successfully - too successfully. The massive turtle herds consumed every food source and destroyed the local ecosystem. -->
-  <TurtleHerder41.description>[PAWN_nameDef] {PAWN_gender ? походив : походила} з родини поселенців, яка мала улюблене стадо черепах — ті захищали господарів, приймаючи на себе постріли нападників.\n\nЩе змалку [PAWN_objective] довірили черепах. [PAWN_pronoun] {PAWN_gender ? розводив : розводила} їх успішно — навіть надто успішно. Величезні черепашачі стада знищили всі джерела їжі та зруйнували місцеву екосистему.</TurtleHerder41.description>
+  <TurtleHerder41.description>[PAWN_nameDef] {PAWN_gender ? походив : походила} з родини поселенців, яка мала улюблене стадо черепах – ті захищали господарів, приймаючи на себе постріли нападників.\n\nЩе змалку [PAWN_objective] довірили черепах. [PAWN_pronoun] {PAWN_gender ? розводив : розводила} їх успішно – навіть надто успішно. Величезні черепашачі стада знищили всі джерела їжі та зруйнували місцеву екосистему.</TurtleHerder41.description>
   <!-- EN: turtle herder -->
   <TurtleHerder41.title>пастух черепах</TurtleHerder41.title>
   <!-- EN: herder -->
@@ -1635,19 +1635,19 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: army brat -->
   <UrbworldArmyBrat84.titleShort>помічник</UrbworldArmyBrat84.titleShort>
   <!-- EN: [PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.\n\nWhen [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons. -->
-  <UrbworldChild56.description>{PAWN_nameDef} {PAWN_gender ? виріс : виросла} на ізольованих висотах урбанізованого світу. Через страх висоти, {PAWN_pronoun} більшість часу {PAWN_gender ? проводив : проводила} в квартирі.\n\nКоли ж {PAWN_pronoun} усе-таки {PAWN_gender ? виходив : виходила} з квартири, {PAWN_pronoun} {PAWN_gender ? полюбляв : полюбляла} грати у військові ігри, та навчатися володіти імітаційною зброєю.</UrbworldChild56.description>
+  <UrbworldChild56.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} відлюдно в урбанізованому світі. Через страх висоти [PAWN_pronoun] здебільшого {PAWN_gender ? сидів : сиділа} вдома й {PAWN_gender ? виріс замкнутим : виросла замкнутою}.\n\nА коли все ж {PAWN_gender ? виходив : виходила} на підвісні переходи міста, то {PAWN_gender ? полюбляв : полюбляла} гратися у війну й {PAWN_gender ? навчився : навчилася} вправно володіти різною імітаційною зброєю.</UrbworldChild56.description>
   <!-- EN: urbworld child -->
   <UrbworldChild56.title>дитя урбанізованого світу</UrbworldChild56.title>
   <!-- EN: urbkid -->
   <UrbworldChild56.titleShort>міська дитина</UrbworldChild56.titleShort>
   <!-- EN: Born into bad circumstance on an overpopulated urbworld, [PAWN_nameDef] turned to small-time crime as a way to avoid starvation and hypothermia.\n\nRobbery and murder were daily activities for [PAWN_objective]. [PAWN_nameDef] learned that surviving was winning. -->
-  <UrbworldCriminal6.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в лихих умовах перенаселеного урбанізованого світу й {PAWN_gender ? вдався : вдалася} до дрібних злочинів, щоб не померти від голоду й холоду.\n\nГрабунки та вбивства стали для {PAWN_gender ? нього : неї} буденністю. [PAWN_nameDef] {PAWN_gender ? засвоїв : засвоїла}: вижити — означає перемогти.</UrbworldCriminal6.description>
+  <UrbworldCriminal6.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в лихих умовах перенаселеного урбанізованого світу й {PAWN_gender ? вдався : вдалася} до дрібних злочинів, щоб не померти від голоду й холоду.\n\nГрабунки та вбивства стали для {PAWN_gender ? нього : неї} буденністю. [PAWN_nameDef] {PAWN_gender ? засвоїв : засвоїла}: вижити – означає перемогти.</UrbworldCriminal6.description>
   <!-- EN: urbworld criminal -->
   <UrbworldCriminal6.title>злодій урбанізованого світу</UrbworldCriminal6.title>
   <!-- EN: criminal -->
   <UrbworldCriminal6.titleShort>злодій</UrbworldCriminal6.titleShort>
   <!-- EN: [PAWN_nameDef] grew up in a dangerous urbworld. [PAWN_pronoun] quickly learned how to get [PAWN_possessive] daily meal - by crime. Such means left little to no space for cooking and growing activities. -->
-  <UrbworldHooligan12.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в небезпечному урбанізованому світі. [PAWN_pronoun] швидко {PAWN_gender ? навчився : навчилася} здобувати щоденну їжу — злочином. За такого способу життя на куховарство й вирощування рослин часу майже не лишалося.</UrbworldHooligan12.description>
+  <UrbworldHooligan12.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в небезпечному урбанізованому світі. [PAWN_pronoun] швидко {PAWN_gender ? навчився : навчилася} здобувати щоденну їжу – злочином. За такого способу життя на куховарство й вирощування рослин часу майже не лишалося.</UrbworldHooligan12.description>
   <!-- EN: urbworld hooligan -->
   <UrbworldHooligan12.title>хуліган урбанізованого світу</UrbworldHooligan12.title>
   <!-- EN: hooligan -->
@@ -1695,49 +1695,49 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: gamer -->
   <VideoGamer16.titleShort>геймер</VideoGamer16.titleShort>
   <!-- EN: [PAWN_nameDef] was raised in a glitterworld. Everything [PAWN_pronoun] wanted came to him. In school [PAWN_pronoun] was a social butterfly. At home, [PAWN_pronoun] spent [PAWN_possessive] time looking up the newest gadgets and playing [PAWN_possessive] favourite video games. -->
-  <VideoGamer55.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на блискосвіті. Усе, чого [PAWN_pronoun] {PAWN_gender ? бажав : бажала}, саме йшло [PAWN_objective] до рук. У школі [PAWN_pronoun] {PAWN_gender ? був : була} душею компанії. Удома [PAWN_pronoun] {PAWN_gender ? проводив : проводила} час, вишукуючи найновіші ґаджети та граючи в улюблені відеоігри.</VideoGamer55.description>
+  <VideoGamer55.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} у світі-раї. Усе, чого [PAWN_pronoun] {PAWN_gender ? бажав : бажала}, саме йшло [PAWN_objective] до рук. У школі [PAWN_pronoun] {PAWN_gender ? був : була} душею компанії. Удома [PAWN_pronoun] {PAWN_gender ? проводив : проводила} час, вишукуючи найновіші ґаджети та граючи в улюблені відеоігри.</VideoGamer55.description>
   <!-- EN: video gamer -->
   <VideoGamer55.title>відеогеймер</VideoGamer55.title>
   <!-- EN: gamer -->
   <VideoGamer55.titleShort>геймер</VideoGamer55.titleShort>
   <!-- EN: [PAWN_nameDef]'s hobby was making videos for the popular video sharing service Vidtube. [PAWN_pronoun] made everything from video game reviews to pasta cooking guides.\n\n[PAWN_pronoun] gained over a million followers. -->
-  <VidtubeStar98.description>Хобі [PAWN_nameDef] було знімати відео для популярного відеосервісу Vidtube. [PAWN_pronoun] {PAWN_gender ? знімав : знімала} все — від оглядів відеоігор до інструкцій із приготування пасти.\n\n[PAWN_pronoun] {PAWN_gender ? набрав : набрала} понад мільйон підписників.</VidtubeStar98.description>
+  <VidtubeStar98.description>[PAWN_nameDef] {PAWN_gender ? захоплювався : захоплювалася} зйомкою відео для популярного відеосервісу «Відтуб». [PAWN_pronoun] {PAWN_gender ? знімав : знімала} все – від оглядів відеоігор до інструкцій із приготування пасти.\n\n[PAWN_pronoun] {PAWN_gender ? набрав : набрала} понад мільйон підписників.</VidtubeStar98.description>
   <!-- EN: vidtube star -->
   <VidtubeStar98.title>зірка Vidtube</VidtubeStar98.title>
   <!-- EN: vidtuber -->
   <VidtubeStar98.titleShort>відтубер</VidtubeStar98.titleShort>
   <!-- EN: [PAWN_nameDef] was raised on an R&D starship, and spent most of [PAWN_possessive] childhood travelling through the void.\n\nApproaching a mysterious planetoid, the ship was severely damaged. [PAWN_possessive] next memory is of the ship heading out of orbit, fully repaired. [PAWN_pronoun] soon developed an unnatural gift for technological research. -->
-  <VoyagerChild94.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на борту науково-дослідного зорельота й {PAWN_gender ? провів : провела} майже все дитинство в мандрах крізь порожнечу.\n\nНаближаючись до загадкового планетоїда, корабель зазнав тяжких пошкоджень. Наступне, що [PAWN_pronoun] пам'ятає, — корабель покидає орбіту, повністю відремонтований. Невдовзі в [PAWN_nameDef] відкрився неприродний хист до технологічних досліджень.</VoyagerChild94.description>
+  <VoyagerChild94.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на борту науково-дослідного зорельота й {PAWN_gender ? провів : провела} майже все дитинство в мандрах крізь порожнечу.\n\nБіля загадкового планетоїда корабель зазнав тяжких пошкоджень. Наступне, що [PAWN_pronoun] пам'ятає, – корабель покидає орбіту, повністю відремонтований. Невдовзі [PAWN_pronoun] {PAWN_gender ? виявив : виявила} в собі неприродний хист до технологічних досліджень.</VoyagerChild94.description>
   <!-- EN: voyager child -->
   <VoyagerChild94.title>дитина-мандрівник</VoyagerChild94.title>
   <!-- EN: voyager -->
   <VoyagerChild94.titleShort>мандрівник</VoyagerChild94.titleShort>
   <!-- EN: [PAWN_nameDef] was a VR head - someone who is permanently jacked into the virtual gaming universe by [PAWN_possessive] spinal plug. [PAWN_pronoun] moved through [PAWN_possessive] daily tasks barely aware of the physical reality around him. This left [PAWN_objective] nearly unable to socialize. -->
-  <VRAddict29.description>[PAWN_nameDef] {PAWN_gender ? був : була} «ВР-головою» — так називають тих, хто постійно під'єднаний до віртуального ігрового всесвіту через роз'єм у хребті. Повсякденні справи [PAWN_pronoun] {PAWN_gender ? виконував : виконувала}, ледь помічаючи фізичну реальність довкола. Через це [PAWN_pronoun] майже не {PAWN_gender ? вмів : вміла} спілкуватися з людьми.</VRAddict29.description>
+  <VRAddict29.description>[PAWN_nameDef] {PAWN_gender ? був : була} «ВР-головою» – так називають тих, хто постійно під'єднаний до віртуального ігрового всесвіту через роз'єм у хребті. Повсякденні справи [PAWN_pronoun] {PAWN_gender ? виконував : виконувала}, ледь помічаючи фізичну реальність довкола. Через це [PAWN_pronoun] майже не {PAWN_gender ? вмів : вміла} спілкуватися з людьми.</VRAddict29.description>
   <!-- EN: VR addict -->
   <VRAddict29.title>ВР-залежний</VRAddict29.title>
   <!-- EN: VR addict -->
   <VRAddict29.titleShort>ВР-залежний</VRAddict29.titleShort>
   <!-- EN: [PAWN_nameDef]'s parents were drafted into a civil war. Growing up surrounded by fighting and death, [PAWN_pronoun] became well-accustomed to tragedy. [PAWN_possessive] expressive side, however, never developed. -->
-  <WarChild24.description>Батьків [PAWN_nameDef] мобілізували на громадянську війну. Зростаючи серед боїв і смертей, [PAWN_pronoun] {PAWN_gender ? звик : звикла} до трагедій. Проте виражати свої почуття [PAWN_pronoun] так і не {PAWN_gender ? навчився : навчилася}.</WarChild24.description>
+  <WarChild24.description>[PAWN_possessive] батьків мобілізували на громадянську війну. Зростаючи серед боїв і смертей, [PAWN_nameDef] {PAWN_gender ? звик : звикла} до трагедій. Проте виражати свої почуття [PAWN_pronoun] так і не {PAWN_gender ? навчився : навчилася}.</WarChild24.description>
   <!-- EN: war child -->
   <WarChild24.title>дитя війни</WarChild24.title>
   <!-- EN: war child -->
   <WarChild24.titleShort>дитя війни</WarChild24.titleShort>
   <!-- EN: A war broke on out [PAWN_nameDef]'s home planet.\n\nGathering what little food and belongings they could, [PAWN_nameDef] and [PAWN_possessive] father stole a ship and escaped into space. -->
-  <WarRefugee96.description>На рідній планеті [PAWN_nameDef] спалахнула війна.\n\nЗібравши ту дещицю їжі й речей, яку вдалося, [PAWN_nameDef] разом із батьком викрали корабель і втекли в космос.</WarRefugee96.description>
+  <WarRefugee96.description>На рідній планеті, де {PAWN_gender ? жив : жила} [PAWN_nameDef], спалахнула війна.\n\nЗібравши ту дещицю їжі й речей, яку вдалося, [PAWN_pronoun] разом із батьком {PAWN_gender ? викрав : викрала} корабель і {PAWN_gender ? втік : втекла} у космос.</WarRefugee96.description>
   <!-- EN: war refugee -->
   <WarRefugee96.title>біженець</WarRefugee96.title>
   <!-- EN: refugee -->
   <WarRefugee96.titleShort>біженець</WarRefugee96.titleShort>
   <!-- EN: Born into a wealthy family on a desert world, [PAWN_nameDef] was cast out after a hired attack squad destroyed [PAWN_possessive] ancestral home.\n\nThe boy managed to hide in a cooling duct beneath [PAWN_possessive] family's villa. Vowing revenge against the killers and whomever had hired them, [PAWN_nameDef] struck out into the wasteland, alone. -->
-  <WastelandWanderer81.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в заможній родині на пустельній планеті, але {PAWN_gender ? лишився : лишилася} без нічого, коли найманий загін знищив родовий маєток.\n\n{PAWN_gender ? Хлопчикові : Дівчинці} вдалося сховатися в охолоджувальному каналі під родинною віллою. Поклявшись помститися вбивцям і тим, хто їх найняв, [PAWN_nameDef] {PAWN_gender ? вирушив : вирушила} в пустку — {PAWN_gender ? сам : сама}.</WastelandWanderer81.description>
+  <WastelandWanderer81.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в заможній родині на пустельній планеті, але {PAWN_gender ? лишився : лишилася} без нічого, коли найманий загін знищив родовий маєток.\n\n{PAWN_gender ? Хлопчикові : Дівчинці} вдалося сховатися в охолоджувальному каналі під родинною віллою. Поклявшись помститися вбивцям і тим, хто їх найняв, [PAWN_nameDef] {PAWN_gender ? вирушив : вирушила} в пустку – {PAWN_gender ? сам : сама}.</WastelandWanderer81.description>
   <!-- EN: wasteland wanderer -->
   <WastelandWanderer81.title>мандрівник пусткою</WastelandWanderer81.title>
   <!-- EN: wanderer -->
   <WastelandWanderer81.titleShort>мандрівник</WastelandWanderer81.titleShort>
   <!-- EN: [PAWN_nameDef] was born on a wealthy glitterworld. [PAWN_pronoun] studied at the Caspian school of Engineering, and excelled in mathematics and computer programming.\n\n[PAWN_nameDef] grew up in clean, sterile environments. [PAWN_pronoun] never saw a farm or livestock. -->
-  <WealthyStudent59.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на заможному блискосвіті. [PAWN_pronoun] {PAWN_gender ? навчався : навчалася} в Каспійській інженерній школі й {PAWN_gender ? досяг : досягла} блискучих успіхів у математиці та програмуванні.\n\n[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в чистому, стерильному середовищі. [PAWN_pronoun] ніколи не {PAWN_gender ? бачив : бачила} ні ферми, ні худоби.</WealthyStudent59.description>
+  <WealthyStudent59.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} у заможному світі-раї. [PAWN_pronoun] {PAWN_gender ? навчався : навчалася} в Каспійській інженерній школі й {PAWN_gender ? досяг : досягла} блискучих успіхів у математиці та програмуванні.\n\n[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в чистому, стерильному середовищі. [PAWN_pronoun] ніколи не {PAWN_gender ? бачив : бачила} ні ферми, ні худоби.</WealthyStudent59.description>
   <!-- EN: wealthy student -->
   <WealthyStudent59.title>заможний учень</WealthyStudent59.title>
   <!-- EN: student -->
@@ -1773,7 +1773,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: slider -->
   <WorldSlider42.titleShort>мандрівник</WorldSlider42.titleShort>
   <!-- EN: Born to two medics, [PAWN_nameDef] longed for power. [PAWN_possessive] keen intellect and charisma helped [PAWN_objective] gain the respect of [PAWN_possessive] peers.\n\nDeciding that the best way to gain power was to climb the ranks of the imperial military, [PAWN_pronoun] joined at the youngest possible age. -->
-  <YoungMaster23.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в родині двох медиків і {PAWN_gender ? прагнув : прагнула} влади. Гострий розум і харизма допомогли [PAWN_objective] здобути повагу однолітків.\n\nВирішивши, що найкращий шлях до влади — підніматися щаблями імперської армії, [PAWN_pronoun] {PAWN_gender ? вступив : вступила} до її лав у наймолодшому дозволеному віці.</YoungMaster23.description>
+  <YoungMaster23.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в родині двох медиків і {PAWN_gender ? прагнув : прагнула} влади. Гострий розум і харизма допомогли [PAWN_objective] здобути повагу однолітків.\n\nВирішивши, що найкращий шлях до влади – підніматися щаблями імперської армії, [PAWN_pronoun] {PAWN_gender ? вступив : вступила} до її лав у наймолодшому дозволеному віці.</YoungMaster23.description>
   <!-- EN: young master -->
   <YoungMaster23.title>молодий майстер</YoungMaster23.title>
   <!-- EN: master -->
@@ -1785,7 +1785,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: pirate -->
   <YoungPirate71.titleShort>пірат</YoungPirate71.titleShort>
   <!-- EN: [PAWN_nameDef] was born and raised on a poor midworld, in the front passenger seat of [PAWN_possessive] mother's cab.\n\nWatching pedestrians and listening to the taxi passengers all day long, [PAWN_pronoun] soon became very good at figuring out someone's real purpose. -->
-  <YoungPsychologist58.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} й {PAWN_gender ? виріс : виросла} в бідному середньому світі — на передньому пасажирському сидінні маминого таксі.\n\nЦілими днями спостерігаючи за перехожими й слухаючи пасажирів, [PAWN_pronoun] швидко {PAWN_gender ? навчився : навчилася} розгадувати справжні наміри людей.</YoungPsychologist58.description>
+  <YoungPsychologist58.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} й {PAWN_gender ? виріс : виросла} в бідному середньому світі – на передньому пасажирському сидінні маминого таксі.\n\nЦілими днями спостерігаючи за перехожими й слухаючи пасажирів, [PAWN_pronoun] швидко {PAWN_gender ? навчився : навчилася} розгадувати справжні наміри людей.</YoungPsychologist58.description>
   <!-- EN: young psychologist -->
   <YoungPsychologist58.title>молодий психолог</YoungPsychologist58.title>
   <!-- EN: psych -->

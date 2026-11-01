@@ -42,18 +42,19 @@
     <li>r_name(p=0.2)->[businesstype] «[np_tree]»</li>
     <li>r_name(p=0.2)->[businesstype] «[np_vegetable]»</li>
     <li>r_name(p=0.2)->[np_direction]</li>
-    <li>maybe_adjective-></li>
     <li>maybe_adjective->[Color]</li>
     <li>maybe_adjective->[AdjectiveFriendly]</li>
     <li>maybe_adjective->[AdjectiveBadass]</li>
-    <li>maybe_adjective_f-></li>
     <li>maybe_adjective_f->[Color_f]</li>
     <li>maybe_adjective_f->[AdjectiveFriendly_f]</li>
     <li>maybe_adjective_f->[AdjectiveBadass_f]</li>
-    <li>maybe_adjective_n-></li>
     <li>maybe_adjective_n->[Color_n]</li>
     <li>maybe_adjective_n->[AdjectiveFriendly_n]</li>
     <li>maybe_adjective_n->[AdjectiveBadass_n]</li>
+    <li>np_animal(p=3)->[Animal]</li>
+    <li>np_natural(p=3)->[NaturalObject]</li>
+    <li>np_tree(p=3)->[TreeType]</li>
+    <li>np_vegetable(p=3)->[Vegetable]</li>
     <li>np_animal(p=5)->[maybe_adjective] [Animal_m]</li>
     <li>np_animal(p=4)->[maybe_adjective_f] [Animal_f]</li>
     <li>np_animal(p=1)->[maybe_adjective_n] [Animal_n]</li>

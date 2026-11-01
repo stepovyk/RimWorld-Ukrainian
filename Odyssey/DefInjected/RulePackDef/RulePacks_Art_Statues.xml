@@ -166,7 +166,7 @@
     <li>prop->human heart</li>
   -->
   <ArtDescription_Statue.rulePack.rulesStrings>
-    <li>r_statue_description->Ця статуя [statueDepicts] [SUBJECT_nameFull_acc], що [statueSubjectDesc_acc]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Ця статуя [statueDepicts] [SUBJECT_nameFull_acc], що [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
     <li>r_statue_description->Це [statueAdj] статуя [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
     <li>r_statue_description->[carvedAdverb] Це [carvedVerb] статуя [SUBJECT_nameFull]. Вона [statueDepicts] [SUBJECT_indefinite] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
     <li>r_statue_description->Статуя, що зображає [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
@@ -329,6 +329,18 @@
     <li>statueBodyPart_acc->спині</li>
     <li>statueBodyPart->голова</li>
     <li>statueBodyPart_gen->голови</li>
+    <li>prop->книга</li>
+    <li>prop->меч</li>
+    <li>prop->спис</li>
+    <li>prop->рушниця</li>
+    <li>prop->псі-реліквія</li>
+    <li>prop->людське серце</li>
+    <li>prop->книга</li>
+    <li>prop->меч</li>
+    <li>prop->спис</li>
+    <li>prop->рушниця</li>
+    <li>prop->псі-реліквія</li>
+    <li>prop->людське серце</li>
   </ArtDescription_Statue.rulePack.rulesStrings>
   <!-- EN:
     <li>r_statue_name(p=4)->[SUBJECT_nameFull]</li>
@@ -408,7 +420,7 @@
     <li>r_statue_name(p=4)->[SUBJECT_nameFull]</li>
     <li>r_statue_name->Статуя [SUBJECT_indefinite]</li>
     <li>r_statue_name->Вивчення [SUBJECT_gen]</li>
-    <li>r_statue_name->Дослідження [statueIdea_gen]</li>
+    <li>r_statue_name->Етюд «[statueIdea]»</li>
     <li>r_statue_name->[statueAdj] статуя [SUBJECT_gen]</li>
     <li>r_statue_name->[SUBJECT_indefinite], [statueAdj] статуя</li>
     <li>r_statue_name->[statueAdj] [subjectNoun]</li>

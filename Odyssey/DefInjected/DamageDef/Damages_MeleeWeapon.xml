@@ -7,5 +7,5 @@
   <!-- EN: scratch -->
   <PorcupineScratch.label>глибока подряпина</PorcupineScratch.label>
   <!-- EN: {0} has been torn to death. -->
-  <PorcupineScratch.deathMessage>{0} стікає на смерть кров'ю з подряпин.</PorcupineScratch.deathMessage>
+  <PorcupineScratch.deathMessage>{0} помирає від рваних ран.</PorcupineScratch.deathMessage>
 </LanguageData>

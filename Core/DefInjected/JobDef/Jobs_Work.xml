@@ -13,45 +13,45 @@
   <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>переносить {TargetA}</CarryDownedPawnToExit.reportString>
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToPortal.reportString>носить до {lookup: {TargetA}; Case; 2}</CarryDownedPawnToPortal.reportString>
+  <CarryDownedPawnToPortal.reportString>несе {lookup: {TargetA}; Case; 3}</CarryDownedPawnToPortal.reportString>
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>несе {lookup: {TargetA_labelShort}; Case; 3} до саркофага криптосну.</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>несе {lookup: {TargetA}; Case; 3} до саркофага криптосну.</CarryToCryptosleepCasket.reportString>
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasketDrafted.reportString>несе {lookup: {TargetA_labelShort}; Case; 3} до саркофага криптосну.</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>несе {lookup: {TargetA}; Case; 3} до саркофага криптосну.</CarryToCryptosleepCasketDrafted.reportString>
   <!-- EN: arresting TargetA. -->
   <CarryToPrisonerBedDrafted.reportString>арештовує {TargetA}</CarryToPrisonerBedDrafted.reportString>
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>прибирає {lookup: {TargetA}; Case; 3}</Clean.reportString>
   <!-- EN: cutting TargetA. -->
-  <CutPlant.reportString>рубає {lookup: {TargetA}; Case; 3}</CutPlant.reportString>
+  <CutPlant.reportString>зрізає {lookup: {TargetA}; Case; 3}</CutPlant.reportString>
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>рубає {lookup: {TargetA}; Case; 3}</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>зрізає {lookup: {TargetA}; Case; 3}</CutPlantDesignated.reportString>
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>розбирає {lookup: {TargetA}; Case; 3}</Deconstruct.reportString>
   <!-- EN: deconstructing TargetA. -->
-  <DeconstructForBlueprint.reportString>розібрати {lookup: {TargetA}; Case; 3}</DeconstructForBlueprint.reportString>
+  <DeconstructForBlueprint.reportString>розбирає {lookup: {TargetA}; Case; 3}</DeconstructForBlueprint.reportString>
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>несе {lookup: {TargetA}; Case; 3} для {lookup: {TargetB}; Case; 1}</DeliverFood.reportString>
+  <DeliverFood.reportString>годує {lookup: {TargetB}; Case; 3} {lookup: {TargetA}; Case; 4}</DeliverFood.reportString>
   <!-- EN: doing bill at TargetA. -->
-  <DoBill.reportString>робить необхідне для {lookup: {TargetA}; Case; 1}</DoBill.reportString>
+  <DoBill.reportString>працює за {lookup: {TargetA}; Case; 4}</DoBill.reportString>
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>супроводжує в'язня {TargetA}</EscortPrisonerToBed.reportString>
   <!-- EN: extracting skull from TargetA. -->
-  <ExtractSkull.reportString>дістає череп з {lookup: {TargetA}; Case; 2}.</ExtractSkull.reportString>
+  <ExtractSkull.reportString>дістає череп з {lookup: {TargetA}; Case; 1}.</ExtractSkull.reportString>
   <!-- EN: extracting TargetA. -->
   <ExtractTree.reportString>викопує {lookup: {TargetA}; Case; 3}</ExtractTree.reportString>
   <!-- EN: feeding TargetA to TargetB. -->
-  <FeedPatient.reportString>несе {lookup: {TargetA}; Case; 3} для {lookup: {TargetB}; Case; 2}.</FeedPatient.reportString>
+  <FeedPatient.reportString>годує {lookup: {TargetB}; Case; 3} {lookup: {TargetA}; Case; 4}.</FeedPatient.reportString>
   <!-- EN: filling in TargetA. -->
   <FillIn.reportString>засипає {lookup: {TargetA}; Case; 3}.</FillIn.reportString>
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>будує {lookup: {TargetA}; Case; 3}</FinishFrame.reportString>
   <!-- EN: replacing broken components in TargetA. -->
-  <FixBrokenDownBuilding.reportString>замінює зламаний компонент {lookup: {TargetA}; Case; 1}</FixBrokenDownBuilding.reportString>
+  <FixBrokenDownBuilding.reportString>замінює зламані компоненти {lookup: {TargetA}; Case; 1}</FixBrokenDownBuilding.reportString>
   <!-- EN: executing TargetA. -->
   <GuiltyColonistExecution.reportString>страчує {TargetA}</GuiltyColonistExecution.reportString>
   <!-- EN: hacking TargetA. -->
-  <Hack.reportString>зламує {lookup: TargetA; Case; 3}.</Hack.reportString>
+  <Hack.reportString>зламує {lookup: {TargetA}; Case; 3}.</Hack.reportString>
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>збирає {lookup: {TargetA}; Case; 3}</Harvest.reportString>
   <!-- EN: harvesting TargetA. -->
@@ -67,15 +67,15 @@
   <!-- EN: milking TargetA. -->
   <Milk.reportString>доїть {lookup: {TargetA}; Case; 3}</Milk.reportString>
   <!-- EN: digging at TargetA. -->
-  <Mine.reportString>копає {lookup: {TargetA}; Case; 3}</Mine.reportString>
+  <Mine.reportString>видобуває {lookup: {TargetA}; Case; 3}</Mine.reportString>
   <!-- EN: drilling at TargetA. -->
   <OperateDeepDrill.reportString>бурить, використовуючи {lookup: {TargetA}; Case; 3}</OperateDeepDrill.reportString>
   <!-- EN: scanning at TargetA. -->
   <OperateScanner.reportString>сканує, використовуючи {lookup: {TargetA}; Case; 3}</OperateScanner.reportString>
   <!-- EN: painting TargetA. -->
-  <PaintBuilding.reportString>розфарбовує {lookup: {TargetA}; Case; 3}</PaintBuilding.reportString>
+  <PaintBuilding.reportString>фарбує {lookup: {TargetA}; Case; 3}</PaintBuilding.reportString>
   <!-- EN: painting TargetA. -->
-  <PaintFloor.reportString>розфарбовує {lookup: {TargetA}; Case; 3}</PaintFloor.reportString>
+  <PaintFloor.reportString>фарбує {lookup: {TargetA}; Case; 3}</PaintFloor.reportString>
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>будує {lookup: {TargetA}; Case; 3}</PlaceNoCostFrame.reportString>
   <!-- EN: planting TargetA. -->
@@ -91,27 +91,27 @@
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>знімає підлогу</RemoveFloor.reportString>
   <!-- EN: removing bridges. -->
-  <RemoveFoundation.reportString>прибирає фундамент.</RemoveFoundation.reportString>
+  <RemoveFoundation.reportString>розбирає мости.</RemoveFoundation.reportString>
   <!-- EN: removing paint from TargetA. -->
-  <RemovePaintBuilding.reportString>знімає фарбу з {lookup: {TargetA}; Case; 3}</RemovePaintBuilding.reportString>
+  <RemovePaintBuilding.reportString>знімає фарбу з {lookup: {TargetA}; Case; 1}</RemovePaintBuilding.reportString>
   <!-- EN: removing paint from TargetA. -->
-  <RemovePaintFloor.reportString>знімає фарбу з {lookup: {TargetA}; Case; 3}</RemovePaintFloor.reportString>
+  <RemovePaintFloor.reportString>знімає фарбу з {lookup: {TargetA}; Case; 1}</RemovePaintFloor.reportString>
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>знімає дах</RemoveRoof.reportString>
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>ремонтує {lookup: {TargetA}; Case; 3}</Repair.reportString>
   <!-- EN: replanting TargetA. -->
-  <Replant.reportString>засіює {lookup: {TargetA}; Case; 3}</Replant.reportString>
+  <Replant.reportString>пересаджує {lookup: {TargetA}; Case; 3}</Replant.reportString>
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>рятує {TargetA}</Rescue.reportString>
   <!-- EN: researching. -->
   <Research.reportString>досліджує</Research.reportString>
   <!-- EN: leading TargetA to hitching spot. -->
-  <RopeRoamerToHitchingPost.reportString>веде {lookup: {TargetA}; Case; 3} до місця збору</RopeRoamerToHitchingPost.reportString>
+  <RopeRoamerToHitchingPost.reportString>веде {lookup: {TargetA}; Case; 3} до місця прив'язі</RopeRoamerToHitchingPost.reportString>
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeRoamerToUnenclosedPen.reportString>веде {lookup: {TargetA}; Case; 3} до {TargetC}</RopeRoamerToUnenclosedPen.reportString>
+  <RopeRoamerToUnenclosedPen.reportString>веде {lookup: {TargetA}; Case; 3} до {lookup: {TargetC}; Case; 1}</RopeRoamerToUnenclosedPen.reportString>
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeToPen.reportString>веде {lookup: {TargetA}; Case; 3} до {TargetC}</RopeToPen.reportString>
+  <RopeToPen.reportString>веде {lookup: {TargetA}; Case; 3} до {lookup: {TargetC}; Case; 1}</RopeToPen.reportString>
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>стриже {lookup: {TargetA}; Case; 3}</Shear.reportString>
   <!-- EN: slaughtering TargetA. -->
@@ -121,7 +121,7 @@
   <!-- EN: smoothing wall. -->
   <SmoothWall.reportString>вирівнює стіну</SmoothWall.reportString>
   <!-- EN: sowing TargetA. -->
-  <Sow.reportString>саджає {lookup: {TargetA}; Case; 3}</Sow.reportString>
+  <Sow.reportString>висіває {lookup: {TargetA}; Case; 3}</Sow.reportString>
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>краде {lookup: {TargetA}; Case; 3}</Steal.reportString>
   <!-- EN: Studying TargetA. -->
@@ -129,15 +129,15 @@
   <!-- EN: Studying TargetA. -->
   <StudyItem.reportString>Вивчає {lookup: {TargetA}; Case; 3}.</StudyItem.reportString>
   <!-- EN: taking TargetA to bed. -->
-  <TakeDownedPawnToBedDrafted.reportString>відносить {TargetA} у ліжко</TakeDownedPawnToBedDrafted.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>несе {TargetA} до ліжка</TakeDownedPawnToBedDrafted.reportString>
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>відносить {TargetA} у ліжко.</TakeToBedToOperate.reportString>
+  <TakeToBedToOperate.reportString>несе {TargetA} до ліжка.</TakeToBedToOperate.reportString>
   <!-- EN: taking wounded prisoner TargetA. -->
   <TakeWoundedPrisonerToBed.reportString>переносить пораненого в'язня {TargetA}</TakeWoundedPrisonerToBed.reportString>
   <!-- EN: taming TargetA. -->
   <Tame.reportString>приручає {lookup: {TargetA}; Case; 3}</Tame.reportString>
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>доглядає за {TargetA}</TendPatient.reportString>
+  <TendPatient.reportString>лікує {lookup: {TargetA}; Case; 3}</TendPatient.reportString>
   <!-- EN: training TargetA. -->
   <Train.reportString>тренує {lookup: {TargetA}; Case; 3}</Train.reportString>
   <!-- EN: uninstalling TargetA. -->
@@ -145,5 +145,5 @@
   <!-- EN: unroping TargetA. -->
   <Unrope.reportString>відв'язує {lookup: {TargetA}; Case; 3}</Unrope.reportString>
   <!-- EN: using comms console. -->
-  <UseCommsConsole.reportString>використовує консоль зв'язку.</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>користується терміналом зв'язку.</UseCommsConsole.reportString>
 </LanguageData>

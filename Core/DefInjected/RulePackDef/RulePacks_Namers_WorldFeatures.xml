@@ -219,6 +219,8 @@
     <li>terrain_word_n->безводдя</li>
     <li>terrain_word->бархани</li>
     <li>terrain_word_pl->бархани</li>
+    <li>terrain_word->солончак</li>
+    <li>terrain_word_m->солончак</li>
   </NamerDesert.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -433,6 +435,8 @@
     <li>terrain_word_pl->простори</li>
     <li>terrain_word->безмір'я</li>
     <li>terrain_word_n->безмір'я</li>
+    <li>terrain_word->гладінь</li>
+    <li>terrain_word_f->гладінь</li>
   </NamerOcean.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
@@ -550,6 +554,8 @@
     <li>terrain_word_pl->мочари</li>
     <li>terrain_word->плавні</li>
     <li>terrain_word_pl->плавні</li>
+    <li>terrain_word->очерет</li>
+    <li>terrain_word_m->очерет</li>
   </NamerSwamp.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
@@ -615,6 +621,8 @@
     <li>terrain_word_pl->нетрі</li>
     <li>terrain_word->хащі</li>
     <li>terrain_word_pl->хащі</li>
+    <li>terrain_word->лісовище</li>
+    <li>terrain_word_n->лісовище</li>
   </NamerTropicalRainforest.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>

@@ -41,13 +41,13 @@
   <!-- EN: individualist agreement -->
   <Individualist_Individualist.label>солідарність з індивідуалізмом</Individualist_Individualist.label>
   <!-- EN: individualist vs proselytizer -->
-  <Individualist_Proselytizer.label>індивідуалзім проти прозелітизму</Individualist_Proselytizer.label>
+  <Individualist_Proselytizer.label>індивідуалізм проти прозелітизму</Individualist_Proselytizer.label>
   <!-- EN: loyalist -->
   <Loyalist_All.label>лоялізм</Loyalist_All.label>
   <!-- EN: male supremacy vs individualist -->
   <MaleSupremacy_Individualist.label>патріархат проти індивідуалізму</MaleSupremacy_Individualist.label>
   <!-- EN: male supremacy agreement -->
-  <MaleSupremacy_MaleSupremacy.label>солідарність в патріархаті</MaleSupremacy_MaleSupremacy.label>
+  <MaleSupremacy_MaleSupremacy.label>солідарність з патріархатом</MaleSupremacy_MaleSupremacy.label>
   <!-- EN: nature primacy vs animal personhood -->
   <NaturePrimacy_AnimalPersonhood.label>верховенство природи проти тварин-особистостей</NaturePrimacy_AnimalPersonhood.label>
   <!-- EN: nature primacy vs human primacy -->
@@ -59,7 +59,7 @@
   <!-- EN: nudism agreement -->
   <Nudism_Nudism.label>солідарність з нудизмом</Nudism_Nudism.label>
   <!-- EN: pain is virtue agreement -->
-  <PainIsVirtue_PainIsVirtue.label>солідарність у флагеланством</PainIsVirtue_PainIsVirtue.label>
+  <PainIsVirtue_PainIsVirtue.label>солідарність із флагеланством</PainIsVirtue_PainIsVirtue.label>
   <!-- EN: raider -->
   <Raider_All.label>рейдерство</Raider_All.label>
   <!-- EN: rancher vs animal personhood -->
@@ -67,7 +67,7 @@
   <!-- EN: rancher vs nature primacy -->
   <Rancher_NaturePrimacy.label>скотарство проти верховенства природи</Rancher_NaturePrimacy.label>
   <!-- EN: both follow {0_name} -->
-  <SameIdeo.label>обидві фракції слідують {0_name}</SameIdeo.label>
+  <SameIdeo.label>обидві фракції сповідують {0_name}</SameIdeo.label>
   <!-- EN: supremacist -->
   <Supremacist_All.label>супремасизм</Supremacist_All.label>
   <!-- EN: transhumanist agreement -->

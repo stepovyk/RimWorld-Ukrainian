@@ -15,5 +15,5 @@
   <!-- EN: Caravan ambushed (manhunters) -->
   <ManhunterAmbush.letterLabel>На караван напали тварини</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
-  <ManhunterAmbush.letterText>На {0} напали агресивні {1} заражені скаріозом!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>На {0} напали агресивні {1}, заражені скаріозом!</ManhunterAmbush.letterText>
 </LanguageData>

@@ -7,9 +7,9 @@
   <!-- EN: a digested part -->
   <Digested.labelNoun>перетравлена частина</Digested.labelNoun>
   <!-- EN: digested {1} -->
-  <Digested.labelNounPretty>перетравлена {1}</Digested.labelNounPretty>
+  <Digested.labelNounPretty>перетравлена частина ({1})</Digested.labelNounPretty>
   <!-- EN: Digested -->
-  <Digested.injuryProps.destroyedLabel>Digested</Digested.injuryProps.destroyedLabel>
+  <Digested.injuryProps.destroyedLabel>Перетравлено</Digested.injuryProps.destroyedLabel>
   <!-- EN: energy bolt -->
   <EnergyBolt.label>енергетичний заряд</EnergyBolt.label>
   <!-- EN: A wound from an energy bolt. -->
@@ -19,9 +19,9 @@
   <!-- EN: old energy bolt wound -->
   <EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>стара рана від енергетичного заряду</EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Blasted off -->
-  <EnergyBolt.injuryProps.destroyedLabel>відстрілено</EnergyBolt.injuryProps.destroyedLabel>
+  <EnergyBolt.injuryProps.destroyedLabel>Відстрілено</EnergyBolt.injuryProps.destroyedLabel>
   <!-- EN: Blasted out -->
-  <EnergyBolt.injuryProps.destroyedOutLabel>відстрілено</EnergyBolt.injuryProps.destroyedOutLabel>
+  <EnergyBolt.injuryProps.destroyedOutLabel>Вибито</EnergyBolt.injuryProps.destroyedOutLabel>
   <!-- EN: an energy bolt wound -->
   <EnergyBolt.labelNoun>рана від енергетичного заряду</EnergyBolt.labelNoun>
   <!-- EN: {0} in the {1} -->

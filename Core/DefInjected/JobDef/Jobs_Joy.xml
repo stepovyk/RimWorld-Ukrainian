@@ -23,17 +23,17 @@
   <!-- EN: praying. -->
   <Pray.reportString>молиться</Pray.reportString>
   <!-- EN: skygazing. -->
-  <Skygaze.reportString>споглядає на небо</Skygaze.reportString>
+  <Skygaze.reportString>споглядає небо</Skygaze.reportString>
   <!-- EN: relaxing socially. -->
-  <SocialRelax.reportString>соціально розслабляється</SocialRelax.reportString>
+  <SocialRelax.reportString>відпочиває в компанії</SocialRelax.reportString>
   <!-- EN: using telescope. -->
-  <UseTelescope.reportString>дивиться на зорі</UseTelescope.reportString>
+  <UseTelescope.reportString>дивиться в телескоп</UseTelescope.reportString>
   <!-- EN: viewing art. -->
   <ViewArt.reportString>насолоджується мистецтвом</ViewArt.reportString>
   <!-- EN: visiting grave. -->
   <VisitGrave.reportString>відвідує могилу</VisitGrave.reportString>
   <!-- EN: cheering up patient TargetA. -->
-  <VisitSickPawn.reportString>відвідує хворого TargetA</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>підбадьорює пацієнта TargetA</VisitSickPawn.reportString>
   <!-- EN: watching television. -->
   <WatchTelevision.reportString>дивиться телевізор</WatchTelevision.reportString>
 </LanguageData>

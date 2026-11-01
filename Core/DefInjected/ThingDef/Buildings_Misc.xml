@@ -3,11 +3,11 @@
   <!-- EN: ancient cryptosleep casket -->
   <AncientCryptosleepCasket.label>старовинна капсула криптосну</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>Ця капсула криптосну виглядає так, наче вона була тут дуже довго. Хто знає, що воно може містити?</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>Схоже, цей саркофаг криптосну стоїть тут уже дуже давно. Хтозна, що в ньому?</AncientCryptosleepCasket.description>
   <!-- EN: caravan hitching spot -->
   <CaravanPackingSpot.label>місце збору каравану</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
-  <CaravanPackingSpot.description>Призначає місце для причеплення тварин і формування караванів. Це місце також можна призначати під час зупинок під час подорожей.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Позначає місце, де прив'язують тварин і формують каравани. Колоністи прив'язуватимуть тут тварин, поки вантажать караван. Таке місце можна ставити й під час пригод далеко від дому, щоб тварини не розбрідалися.</CaravanPackingSpot.description>
   <!-- EN: cave exit -->
   <CaveExit.label>вихід з печери</CaveExit.label>
   <!-- EN: A rope line which links to the surface above. -->
@@ -15,9 +15,9 @@
   <!-- EN: comms console -->
   <CommsConsole.label>термінал зв'язку</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>Дозволяє встановити радіозв'язок з іншими фракціями та орбітальними торговцями.</CommsConsole.description>
+  <CommsConsole.description>Дає змогу зв'язатися по радіо з іншими фракціями й орбітальними торговцями.</CommsConsole.description>
   <!-- EN: Summon diabolus threat -->
-  <CommsConsole.comps.CompUsable.useLabel>Викликати механоїда-диявола</CommsConsole.comps.CompUsable.useLabel>
+  <CommsConsole.comps.CompUsable.useLabel>Викликати диявола</CommsConsole.comps.CompUsable.useLabel>
   <!-- EN: crater -->
   <CraterLarge.label>кратер</CraterLarge.label>
   <!-- EN: A small pit formed by a powerful impact or explosion. -->
@@ -39,11 +39,11 @@
   <!-- EN: egg box -->
   <EggBox.label>коробка для яєць</EggBox.label>
   <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
-  <EggBox.description>Коробка з м’якого матеріалу для зберігання яєць. Тварини, що несуть яйця, будуть відкладати яйця в коробки. Щоб заощадити час, ваші тваринники збиратимуть яйця лише тоді, коли коробка буде заповнена. Коробка також захищає яйця від псування на відкритому повітрі, хоча вона не захищає від температури.</EggBox.description>
+  <EggBox.description>Коробка з м'якою підстилкою для яєць. Тварини-несучки за можливості відкладатимуть яйця в такі коробки. Щоб заощадити час, ваші вантажники забиратимуть яйця, лише коли коробка заповниться. Коробка також захищає яйця від псування надворі, але не від шкідливої температури.</EggBox.description>
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>пристрій з протипожежною піною</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>При взаємодії з вогнем або ручною активацією вибухає і розпорошує у певному радіусі навколо себе протипожежну піну.</FirefoamPopper.description>
+  <FirefoamPopper.description>Виявивши вогонь, цей захисний пристрій спрацьовує й розпилює довкола себе вогнегасну піну. Можна активувати й вручну.</FirefoamPopper.description>
   <!-- EN: Trigger {0_label} -->
   <FirefoamPopper.comps.CompUsable.useLabel>Застосувати {lookup: {0_label}; Case; 3}</FirefoamPopper.comps.CompUsable.useLabel>
   <!-- EN: grave -->

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: {FACTION_pawnsPlural} from {FACTION_name} are attacking! They've used the gravcore to lure you into an ambush. -->
-  <GravcoreAbandonedSettlementRaid>{FACTION_pawnsPlural} з фракції «{FACTION_name}» атакують! Вони заманили вас у пастку за допомогою гравядра.</GravcoreAbandonedSettlementRaid>
+  <GravcoreAbandonedSettlementRaid>{FACTION_pawnsPlural} з фракції «{FACTION_name}» атакують! Вони заманили вас у засідку на гравядро.</GravcoreAbandonedSettlementRaid>
   <!-- EN: More reinforcements are on their way, and will arrive in the next few days. Prepare for their attack, or escape before they arrive. -->
-  <GravcoreAbandonedSettlementRaid_Reinforcements>До них вже вирушили підкріплення, які прибудуть за кілька днів. Або готуйтеся відбивати напад, або тікайте, перш ніж вони прибудуть.</GravcoreAbandonedSettlementRaid_Reinforcements>
+  <GravcoreAbandonedSettlementRaid_Reinforcements>Наближаються нові підкріплення – вони прибудуть за кілька днів. Підготуйтеся до нападу або тікайте, поки вони не прибули.</GravcoreAbandonedSettlementRaid_Reinforcements>
   <!-- EN: Relay defense response -->
-  <GravcoreMechRelayRaidLetterLabel>Реагування охорони вузла</GravcoreMechRelayRaidLetterLabel>
+  <GravcoreMechRelayRaidLetterLabel>Захисники вузла</GravcoreMechRelayRaidLetterLabel>
   <!-- EN: Mechanoids are arriving to defend the relay!\n\nThey are arriving by transport pod and will attack immediately. -->
-  <GravcoreMechRelayRaidLetterText>Механоїди вирушають на захист вузла!\n\nВони прибудуть на транспортній капсулі й негайно нападуть.</GravcoreMechRelayRaidLetterText>
+  <GravcoreMechRelayRaidLetterText>Механоїди прибувають захищати вузол!\n\nВони летять у транспортних капсулах і нападуть одразу ж.</GravcoreMechRelayRaidLetterText>
   <!-- EN: Amongst the remnants of the crashed mechanoid platform, a still-intact grav engine hums with energy.\n\nYou can build gravship substructure around the engine to create a new gravship. The engine pushes against gravity, levitating the ship and allowing long-distance travel.\n\nLaunch a gravship by researching basic gravtech, then building fuel tanks, thrusters, and a pilot console.\n\nLaunching a gravship will abandon your current map unless you build a grav anchor first.\n\n  - Research unlocked: Basic gravtech\n  - Flooring unlocked: Gravship substructure -->
-  <GravEngineInspectedLetterContents>Серед решток розбитої платформи механоїдів ви бачите вцілілий гравдвигун, що аж гуде від енергії.\n\nВи можете побудувати навколо нього субструктуру корабля, створивши новий гравкорабель. Двигун відштовхується від гравітаційного поля, піднімаючи корабель в повітря і даючи можливість подорожувати на великі відстані.\n\nЗапустіть гравкорабель, дослідивши будівництво гравкораблів, а потім побудувавши паливні баки, рушії і пульт пілота.\n\nЗапустивши гравкорабель, ви залишите поточну мапу.\n\n - Дослідження розблоковано: будівництво гравкорабля\n - Підлогу розблоковано: субструктура корабля</GravEngineInspectedLetterContents>
+  <GravEngineInspectedLetterContents>Серед решток розбитої платформи механоїдів знайшовся цілий гравдвигун, що аж гуде від енергії.\n\nПобудуйте навколо нього субструктуру гравкорабля, щоб створити новий гравкорабель. Двигун протидіє гравітації: він піднімає корабель у повітря й дає змогу долати великі відстані.\n\nЩоб запустити гравкорабель, дослідіть базову гравтехніку, а потім побудуйте паливні баки, рушії й пульт пілота.\n\nЗапуск гравкорабля означає, що ви покинете поточну мапу, якщо заздалегідь не побудуєте гравякір.\n\n  - Відкрито дослідження: базова гравтехніка\n  - Відкрито підлогу: субструктура гравкорабля</GravEngineInspectedLetterContents>
   <!-- EN: View quest -->
   <ViewQuest>Переглянути завдання</ViewQuest>
   <!-- Asteroid -->
   <!-- EN: {RESOURCE} asteroid -->
   <AsteroidLetter>Астероїд: {RESOURCE}</AsteroidLetter>
   <!-- EN: You've discovered the location of an asteroid orbiting the planet. It contains significant amounts of {RESOURCE}, and potentially other resources.\n\nOrbital miners steer valuable asteroids into planetary orbit so that they can be easily mined and sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. -->
-  <AsteroidLetterText>Ви відкрили місцезнаходження астероїда, що обертається навколо планети. На ньому знаходиться {RESOURCE}, і дуже багато, а можливо, й інші ресурси.\n\nОрбітальні шахтарі часто виводять цінні астероїди на орбіту, щоб видобувати копалини на місці й одразу ж продавати орбітальним торговцям. Ви не виявили на астероїді жодних ознак життя.\n\nАстероїда можна дістатися на транспортній капсулі, шатлі або гравкораблі.</AsteroidLetterText>
+  <AsteroidLetterText>Ви виявили астероїд на орбіті планети. На ньому є чимало ресурсу «{RESOURCE}», а можливо, й інших.\n\nОрбітальні шахтарі виводять цінні астероїди на орбіту планети, щоб їх було легко розробляти, а видобуте продавати орбітальним торговцям. Ознак життя на астероїді не виявлено.\n\nДо астероїда можна дістатися на транспортних капсулах, шатлах або гравкораблі.</AsteroidLetterText>
   <!-- EN: {RESOURCE} asteroid -->
   <AsteroidName>Астероїд: {RESOURCE}</AsteroidName>
   <!-- Ancient Reactor -->
   <!-- EN: Ancient reactor -->
-  <AncientReactorArrivedLetter>Древній реактор</AncientReactorArrivedLetter>
+  <AncientReactorArrivedLetter>Старовинний реактор</AncientReactorArrivedLetter>
   <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is damaged and leaking, covering the region in toxic fallout. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
-  <AncientReactorArrivedLetterText>Руїни неподалік приховують древній реактор. Реактор пошкоджено, і він протікає, отруюючи токсичними речовинами усю область. Знайдіть і деактивуйте реактор, щоб отримати гравядро та зупинити зараження.</AncientReactorArrivedLetterText>
+  <AncientReactorArrivedLetterText>У руїнах неподалік схований старовинний реактор. Він пошкоджений і протікає, вкриваючи місцевість токсичними опадами. Знайдіть і вимкніть реактор, щоб отримати гравядро й зупинити опади.</AncientReactorArrivedLetterText>
   <!-- Frozen Terraformer -->
   <!-- EN: Ancient terraformer -->
-  <FrozenTerraformerArrivedLetter>Древній тераформер.</FrozenTerraformerArrivedLetter>
+  <FrozenTerraformerArrivedLetter>Старовинний тераформер</FrozenTerraformerArrivedLetter>
   <!-- EN: The malfunctioning terraformer has encased itself in solid ice. The gravcore energy signal is coming from somewhere within. Find and destroy the terraformer to obtain the gravcore. -->
-  <FrozenTerraformerArrivedLetterText>Несправний тераформер замерз десь у твердому льоді. Але звідкілясь зсередини випромінюється енергетичний профіль гравядра. Знайдіть та знищте тераформер, щоб отримати гравядро.</FrozenTerraformerArrivedLetterText>
+  <FrozenTerraformerArrivedLetterText>Несправний тераформер скував себе суцільною кригою. Енергетичний сигнал гравядра йде звідкись зсередини. Знайдіть і знищте тераформер, щоб отримати гравядро.</FrozenTerraformerArrivedLetterText>
   <!-- Ancient Stockpile -->
   <!-- EN: Ancient stockpile -->
-  <AncientStockpileArrivedLetter>Древнє сховище</AncientStockpileArrivedLetter>
+  <AncientStockpileArrivedLetter>Старовинний склад</AncientStockpileArrivedLetter>
   <!-- EN: The gravcore energy signal is coming from one of the nearby underground stockpiles. Hack the entrances and search the stockpiles to find the gravcore.\n\nBe careful, some of the defense systems may still be active. -->
-  <AncientStockpileArrivedLetterText>З одного із тутешніх підземних сховищ випромінюється енергетичний сигнал гравядра. Хакніть входи та обшукайте сховища, щоб знайти гравядро.\n\nІ будьте обережні, частина древніх систем безпеки ще може бути активна.</AncientStockpileArrivedLetterText>
+  <AncientStockpileArrivedLetterText>Енергетичний сигнал гравядра йде з одного з підземних складів неподалік. Зламайте входи й обшукайте склади, щоб знайти гравядро.\n\nОбережно: деякі оборонні системи можуть досі працювати.</AncientStockpileArrivedLetterText>
   <!-- Orbital Mechanoid Platform -->
   <!-- EN: Mechanoid platform -->
   <OrbitalMechanoidPlatformLetterArrived>Платформа механоїдів</OrbitalMechanoidPlatformLetterArrived>
   <!-- EN: This orbital platform is built to service and deploy combat mechanoids, likely as part of some ancient planet-spanning war machine.\n\nThe gravcore signal is coming from somewhere within. -->
-  <OrbitalMechanoidPlatformLetterArrivedText>Цю орбітальну платформу створено для зборки та обслуговування бойових механоїдів, мабуть, як частину якоїсь древньої всепланетної бойової машини.\n\nЗвідкись зсередини випромінюється сигнал гравядра.</OrbitalMechanoidPlatformLetterArrivedText>
+  <OrbitalMechanoidPlatformLetterArrivedText>Цю орбітальну платформу збудували для обслуговування й розгортання бойових механоїдів – імовірно, як частину якоїсь древньої військової машини планетного масштабу.\n\nСигнал гравядра йде звідкись зсередини.</OrbitalMechanoidPlatformLetterArrivedText>
   <!-- Orbital Ancient Platform -->
   <!-- EN: Ancient platform -->
-  <OrbitalAncientPlatformLetterArrived>Древня платформа</OrbitalAncientPlatformLetterArrived>
+  <OrbitalAncientPlatformLetterArrived>Старовинна платформа</OrbitalAncientPlatformLetterArrived>
   <!-- EN: The people who once inhabited this orbital platform are long gone and its original purpose has long been forgotten.\n\nThe gravcore signal is coming from somewhere within. -->
-  <OrbitalAncientPlatformLetterArrivedText>Хто б не жив на цій орбітальній платформі, їх вже давно немає, і про її призначення давно забули.\n\nАле звідкись зсередини випромінюється сигнал гравядра.</OrbitalAncientPlatformLetterArrivedText>
+  <OrbitalAncientPlatformLetterArrivedText>Ті, хто колись населяв цю орбітальну платформу, давно зникли, а її первісне призначення давно забуте.\n\nСигнал гравядра йде звідкись зсередини.</OrbitalAncientPlatformLetterArrivedText>
   <!-- Ancient Reactor -->
   <!-- EN: Crashed mechanoid platform -->
   <CrashedPlatformArrivedLetter>Розбита платформа механоїдів</CrashedPlatformArrivedLetter>

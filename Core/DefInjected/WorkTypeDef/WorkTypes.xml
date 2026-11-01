@@ -11,7 +11,7 @@
   <!-- EN: Do art at -->
   <Art.verb>Творити</Art.verb>
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>Прості завдання, що не потребують спеціальних навичок:</BasicWorker.description>
+  <BasicWorker.description>Прості завдання, що не потребують навичок: звільнення в'язнів, перемикання вимикачів на механізмах.</BasicWorker.description>
   <!-- EN: basic tasks -->
   <BasicWorker.gerundLabel>базові завдання</BasicWorker.gerundLabel>
   <!-- EN: basic -->
@@ -21,7 +21,7 @@
   <!-- EN: Deal with -->
   <BasicWorker.verb>Працювати</BasicWorker.verb>
   <!-- EN: Clear snow and clean the floor in the home area. -->
-  <Cleaning.description>Прибирання снігу, забруднення і брудної підлоги в домашній області.</Cleaning.description>
+  <Cleaning.description>Прибирання снігу й чищення підлоги в домашній області.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>прибирання</Cleaning.gerundLabel>
   <!-- EN: clean -->
@@ -31,7 +31,7 @@
   <!-- EN: Clean -->
   <Cleaning.verb>Прибрати</Cleaning.verb>
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>Будівництво різноманітних споруд та їхній ремонт.</Construction.description>
+  <Construction.description>Будівництво позначених споруд і ремонт пошкоджених чи зламаних будівель.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>будівництво</Construction.gerundLabel>
   <!-- EN: construct -->
@@ -41,7 +41,7 @@
   <!-- EN: Construct -->
   <Construction.verb>Будувати</Construction.verb>
   <!-- EN: Prepare meals and butcher meat. -->
-  <Cooking.description>Готування страв та розбирання туш.</Cooking.description>
+  <Cooking.description>Готування страв і розбирання туш.</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.gerundLabel>готування їжі</Cooking.gerundLabel>
   <!-- EN: cook -->
@@ -51,7 +51,7 @@
   <!-- EN: Cook -->
   <Cooking.verb>Готувати</Cooking.verb>
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>Робота, що не потребує спеціальних навичок: обробка кам'яних уламків, плавка металобрухту тощо.</Crafting.description>
+  <Crafting.description>Проста робота за верстатами, що не вимагає високої кваліфікації: виготовлення кам'яних блоків, переплавлення тощо.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>ремесло</Crafting.gerundLabel>
   <!-- EN: craft -->
@@ -61,7 +61,7 @@
   <!-- EN: Craft at -->
   <Crafting.verb>Працювати</Crafting.verb>
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>Лікування, годування та догляд за хворими. Лікарі дбають як про колоністів, так і про увʼязнених.</Doctor.description>
+  <Doctor.description>Лікування хворих, годування, підбадьорювання й призначені операції. Лікарі доглядають і за колоністами, і за в'язнями.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>лікування</Doctor.gerundLabel>
   <!-- EN: doctor -->
@@ -71,7 +71,7 @@
   <!-- EN: Care for -->
   <Doctor.verb>Лікувати</Doctor.verb>
   <!-- EN: Extinguish fires in the colony. -->
-  <Firefighter.description>Гасіння пожеж в домашній області.</Firefighter.description>
+  <Firefighter.description>Гасіння пожеж у колонії.</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>гасіння пожеж</Firefighter.gerundLabel>
   <!-- EN: firefight -->
@@ -81,7 +81,7 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>Загасити</Firefighter.verb>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
-  <Growing.description>Посів та збір врожаю та дикорослої їжі.</Growing.description>
+  <Growing.description>Сівба, збирання врожаю та дикорослих рослин.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>вирощування</Growing.gerundLabel>
   <!-- EN: grow -->
@@ -91,7 +91,7 @@
   <!-- EN: Grow -->
   <Growing.verb>Виростити</Growing.verb>
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
-  <Handling.description>Приручення, тренування, забивання тварин та отримання продуктів тваринного походження.</Handling.description>
+  <Handling.description>Приручення й дресирування тварин, отримання від них продуктів і забій.</Handling.description>
   <!-- EN: handling -->
   <Handling.gerundLabel>робота з тваринами</Handling.gerundLabel>
   <!-- EN: handle -->
@@ -101,7 +101,7 @@
   <!-- EN: Handle -->
   <Handling.verb>Працювати з тваринами</Handling.verb>
   <!-- EN: Carry things to where they need to be. -->
-  <Hauling.description>Перенесення предметів до відповідних сховищ.</Hauling.description>
+  <Hauling.description>Перенесення речей туди, де їм належить бути.</Hauling.description>
   <!-- EN: hauling -->
   <Hauling.gerundLabel>перенесення вантажів</Hauling.gerundLabel>
   <!-- EN: haul -->
@@ -121,7 +121,7 @@
   <!-- EN: Hunt -->
   <Hunting.verb>Полювати</Hunting.verb>
   <!-- EN: Digging and drilling. -->
-  <Mining.description>Видобування гірських порід та використання бурової установки.</Mining.description>
+  <Mining.description>Видобування гірських порід і буріння.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>гірництво</Mining.gerundLabel>
   <!-- EN: mine -->
@@ -131,7 +131,7 @@
   <!-- EN: Mine -->
   <Mining.verb>Видобути</Mining.verb>
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
-  <Patient.description>Перебування в медичному ліжку під час проблем зі станом здоров'я.</Patient.description>
+  <Patient.description>Лікування в медичному ліжку, якщо стан здоров'я безпосередньо загрожує життю.</Patient.description>
   <!-- EN: patienting -->
   <Patient.gerundLabel>отримання лікування</Patient.gerundLabel>
   <!-- EN: patient -->
@@ -141,7 +141,7 @@
   <!-- EN: Become patient -->
   <Patient.verb>Лікуватися</Patient.verb>
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
-  <PatientBedRest.description>Відпочинок та сон.</PatientBedRest.description>
+  <PatientBedRest.description>Постільний режим для одужання від недуг, які не загрожують життю негайно.</PatientBedRest.description>
   <!-- EN: resting in bed -->
   <PatientBedRest.gerundLabel>постільний режим</PatientBedRest.gerundLabel>
   <!-- EN: bed rest -->
@@ -151,7 +151,7 @@
   <!-- EN: Become patient -->
   <PatientBedRest.verb>Відпочивати</PatientBedRest.verb>
   <!-- EN: Cut or harvest plants as designated. -->
-  <PlantCutting.description>Вирубування позначених рослин та вирізання бур'янів.</PlantCutting.description>
+  <PlantCutting.description>Зрізання чи збирання позначених рослин.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>зрізання рослин</PlantCutting.gerundLabel>
   <!-- EN: plant cut -->
@@ -161,7 +161,7 @@
   <!-- EN: Cut -->
   <PlantCutting.verb>Зрубати</PlantCutting.verb>
   <!-- EN: Perform research work. -->
-  <Research.description>Інтелектуальна діяльність.</Research.description>
+  <Research.description>Дослідницька робота.</Research.description>
   <!-- EN: researching -->
   <Research.gerundLabel>дослідження</Research.gerundLabel>
   <!-- EN: research -->
@@ -171,7 +171,7 @@
   <!-- EN: Research at -->
   <Research.verb>Дослідити</Research.verb>
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
-  <Smithing.description>Створює зброю та інструменти з сировини, працюючи ковалем або на верстатах. Також ремонтуйте механоїдів, якщо колоніст є механітором.</Smithing.description>
+  <Smithing.description>Виготовлення зброї та інструментів із сировини – у кузні чи на механічному верстаті.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>ковальство</Smithing.gerundLabel>
   <!-- EN: smith -->
@@ -181,7 +181,7 @@
   <!-- EN: Smith at -->
   <Smithing.verb>Створювати</Smithing.verb>
   <!-- EN: Create apparel from raw materials. -->
-  <Tailoring.description>Пошиття одягу</Tailoring.description>
+  <Tailoring.description>Пошиття одягу із сировини.</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>кравецтво</Tailoring.gerundLabel>
   <!-- EN: tailor -->
@@ -191,7 +191,7 @@
   <!-- EN: Tailor at -->
   <Tailoring.verb>Шити</Tailoring.verb>
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
-  <Warden.description>Нагляд, годування, вербування та спілкування із вʼязнями.</Warden.description>
+  <Warden.description>Нагляд за в'язнями: годування, розмови й вербування.</Warden.description>
   <!-- EN: wardening -->
   <Warden.gerundLabel>нагляд за в'язнями</Warden.gerundLabel>
   <!-- EN: warden -->

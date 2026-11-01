@@ -13,7 +13,7 @@
   <!-- EN: banished -->
   <Banished68.titleShort>вигнанець</Banished68.titleShort>
   <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
-  <Brave88.description>У битвах за своє плем'я [PAWN_nameDef] {PAWN_gender ? орудував : орудувала} іквами, сокирами, кийками та іншою зброєю ближнього бою.</Brave88.description>
+  <Brave88.description>У битвах за своє плем'я [PAWN_nameDef] {PAWN_gender ? орудував : орудувала} іквами, сокирами, дубинами та іншою зброєю ближнього бою.</Brave88.description>
   <!-- EN: brave -->
   <Brave88.title>сміливець</Brave88.title>
   <!-- EN: brave -->
@@ -55,7 +55,7 @@
   <!-- EN: excavator -->
   <Excavator55.titleShort>археолог</Excavator55.titleShort>
   <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
-  <Framer37.description>[PAWN_nameDef] {PAWN_gender ? відповідав : відповідала} за зведення осель для своїх одноплемінників — як тимчасових споруд для кочових переходів, так і постійних поселень. Збирати будівельні матеріали з місцевих рослин теж входило до [PAWN_possessive] обов'язків.</Framer37.description>
+  <Framer37.description>[PAWN_nameDef] {PAWN_gender ? відповідав : відповідала} за зведення осель для своїх одноплемінників – як тимчасових споруд для кочових переходів, так і постійних поселень. Збирати будівельні матеріали з місцевих рослин теж входило до [PAWN_possessive] обов'язків.</Framer37.description>
   <!-- EN: framer -->
   <Framer37.title>племінний будівельник</Framer37.title>
   <!-- EN: framer -->
@@ -139,7 +139,7 @@
   <!-- EN: stewkeeper -->
   <StewKeeper95.titleShort>кухар</StewKeeper95.titleShort>
   <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
-  <Tamer79.description>Роль [PAWN_nameDef] у племені полягала в тому, щоб підтримувати зв'язок із навколишнім світом природи — особливо зі світом тварин. Окрім духовного служіння, [PAWN_pronoun] також {PAWN_gender ? приручав : приручала} диких звірів і {PAWN_gender ? доглядав : доглядала} за ними, поки ті служили племені.</Tamer79.description>
+  <Tamer79.description>Роль [PAWN_nameDef] у племені полягала в тому, щоб підтримувати зв'язок із навколишнім світом природи – особливо зі світом тварин. Окрім духовного служіння, [PAWN_pronoun] також {PAWN_gender ? приручав : приручала} диких звірів і {PAWN_gender ? доглядав : доглядала} за ними, поки ті служили племені.</Tamer79.description>
   <!-- EN: tamer -->
   <Tamer79.title>духовний тваринник</Tamer79.title>
   <!-- EN: tamer -->
@@ -151,7 +151,7 @@
   <!-- EN: treehouse builder -->
   <TreehouseBuilder86.titleShort>будівельник</TreehouseBuilder86.titleShort>
   <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
-  <VengefulHunter32.description>Коли близький друг [PAWN_nameDef] загинув від нападу звіра, [PAWN_pronoun] {PAWN_gender ? вистежив : вистежила} винуватця. Слід привів до сусіднього селища — і там [PAWN_pronoun] {PAWN_gender ? побачив : побачила} одного з селян, вдягненого в шкуру того самого звіра.</VengefulHunter32.description>
+  <VengefulHunter32.description>Коли близький друг [PAWN_nameDef] загинув від нападу звіра, [PAWN_pronoun] {PAWN_gender ? вистежив : вистежила} винуватця. Слід привів до сусіднього селища – і там [PAWN_pronoun] {PAWN_gender ? побачив : побачила} одного з селян, вдягненого в шкуру того самого звіра.</VengefulHunter32.description>
   <!-- EN: vengeful hunter -->
   <VengefulHunter32.title>мстивий мисливець</VengefulHunter32.title>
   <!-- EN: vengeful -->
