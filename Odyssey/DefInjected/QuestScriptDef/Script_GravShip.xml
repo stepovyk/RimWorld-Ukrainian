@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Gravcore detected: Ancient reactor -->
-  <Gravcore_AncientReactor.questAvailableLetterLabel>Виявлено гравядро: древній реактор</Gravcore_AncientReactor.questAvailableLetterLabel>
+  <Gravcore_AncientReactor.questAvailableLetterLabel>Виявлено гравядро: старовинний реактор</Gravcore_AncientReactor.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient decaying reactor. The location is marked on the world map.\n\nCracks in the reactor's shielding are leaking harmful material, bathing the nearby area in toxic fallout. The reactor itself will be heavily guarded by ancient security systems.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
@@ -15,7 +15,7 @@
     <li>questName->древній реактор</li>
   </Gravcore_AncientReactor.questNameRules.rulesStrings>
   <!-- EN: Gravcore detected: Ancient stockpile -->
-  <Gravcore_AncientStockpile.questAvailableLetterLabel>Виявлено гравядро: древнє сховище</Gravcore_AncientStockpile.questAvailableLetterLabel>
+  <Gravcore_AncientStockpile.questAvailableLetterLabel>Виявлено гравядро: старовинне сховище</Gravcore_AncientStockpile.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient underground stockpile. The location is marked on the world map.\n\nUnderground stockpiles must be hacked to enter. This process can take days to complete.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->

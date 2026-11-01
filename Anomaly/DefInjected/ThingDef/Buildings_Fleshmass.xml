@@ -31,7 +31,7 @@
   <!-- EN: Induce tachycardiac death -->
   <FleshmassHeart.comps.CompDestroyHeart.jobString>Викликати тахікардіальне перевантаження</FleshmassHeart.comps.CompDestroyHeart.jobString>
   <!-- EN: underground emergence -->
-  <FleshmassHeartSpawner.label>Виникнення з-під землі</FleshmassHeartSpawner.label>
+  <FleshmassHeartSpawner.label>поява з-під землі</FleshmassHeartSpawner.label>
   <!-- EN: Something is emerging from the ground here. -->
   <FleshmassHeartSpawner.description>Щось виринає з-під землі.</FleshmassHeartSpawner.description>
   <!-- EN: Fleshmass heart -->

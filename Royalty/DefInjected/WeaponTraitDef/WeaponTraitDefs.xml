@@ -13,7 +13,7 @@
   <!-- EN: This weapon's persona finds purpose in bloodshed. If it does not kill for 20 days, it will become angry and psychically complain to whoever is bonded to it. -->
   <NeedKill.description>ШІ цієї зброї вважає кровопролиття своїм призначенням. Якщо цією зброєю нікого не вбивати впродовж 20 днів, вона розлютиться та буде скаржитись на це власнику.</NeedKill.description>
   <!-- EN: neural cooling -->
-  <NeuralHeatRecoveryGain.label>зниження нейро-напруги</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.label>зниження нейронапруги</NeuralHeatRecoveryGain.label>
   <!-- EN: This weapon's persona has the ability to help dissipate the wielder's neural heat. The wielder's neural heat dissipation is improved by 0.15 per second. -->
   <NeuralHeatRecoveryGain.description>ШІ цієї зброї має здатність допомагати розвіювати нейро-напругу власника. Нейро-напруга власника знижується на 0,15 кожну секунду.</NeuralHeatRecoveryGain.description>
   <!-- EN: freewielder -->

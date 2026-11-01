@@ -17,13 +17,13 @@
   <!-- EN: gravel -->
   <GravelInEyes.labelNoun>гравій</GravelInEyes.labelNoun>
   <!-- EN: mud -->
-  <MudInEyes.label>мул</MudInEyes.label>
+  <MudInEyes.label>багно</MudInEyes.label>
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <MudInEyes.description>Частинки мулу в очах. Погіршують видимість, але легко вичищаються.</MudInEyes.description>
   <!-- EN: blind -->
   <MudInEyes.battleStateLabel>сліпота</MudInEyes.battleStateLabel>
   <!-- EN: mud -->
-  <MudInEyes.labelNoun>мул</MudInEyes.labelNoun>
+  <MudInEyes.labelNoun>багно</MudInEyes.labelNoun>
   <!-- EN: sand -->
   <SandInEyes.label>пісок</SandInEyes.label>
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->

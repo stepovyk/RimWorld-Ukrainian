@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: toxalope -->
-  <Toxalope.label>токсилопа</Toxalope.label>
+  <Toxalope.label>токсалопа</Toxalope.label>
   <!-- EN: A pollution-adapted cousin of the boomalope, the toxalope grows toxic pouches on its back. When it dies, the toxic material explodes and produces a deadly toxic cloud. Unlike the boomalope, the toxalope cannot be milked. -->
   <Toxalope.description>Родич бумалопи, що адаптувався до токсинів, у токсилопи на спині з’являються токсичні мішки. При смерті, токсичний матеріал вибухає і створює смертоносну токсичну хмару. На відміну від бумалопи, токсалопу не можна доїти.</Toxalope.description>
   <!-- EN: head -->

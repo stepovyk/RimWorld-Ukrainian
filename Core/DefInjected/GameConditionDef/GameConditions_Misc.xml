@@ -53,7 +53,7 @@
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
   <Planetkiller.description>Міжзоряна зброя "Руйнівник планет" наближається до цієї планети. Вона розтрощить планету, наче куля яйце, винищуючи усе живе.</Planetkiller.description>
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>гул</PsychicDrone.label>
+  <PsychicDrone.label>психічний гул</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
   <PsychicDrone.description>Далекий архотек випромінює психоактивні сигнали. Вони досягають планети через орбітальний підсилювач і зводять людей з розуму.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->

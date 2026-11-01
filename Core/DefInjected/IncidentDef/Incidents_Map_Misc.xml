@@ -17,13 +17,13 @@
   <!-- EN: farm animals wander in -->
   <FarmAnimalsWanderIn.label>тварини приєдналися</FarmAnimalsWanderIn.label>
   <!-- EN: flashstorm -->
-  <Flashstorm.label>грозовий шторми</Flashstorm.label>
+  <Flashstorm.label>грозовий шторм</Flashstorm.label>
   <!-- EN: Flashstorm -->
   <Flashstorm.letterLabel>Грозовий шторм</Flashstorm.letterLabel>
   <!-- EN: heat wave -->
-  <HeatWave.label>хвиля спеки</HeatWave.label>
+  <HeatWave.label>аномальна спека</HeatWave.label>
   <!-- EN: Heat wave -->
-  <HeatWave.letterLabel>Хвиля спеки</HeatWave.letterLabel>
+  <HeatWave.letterLabel>Аномальна спека</HeatWave.letterLabel>
   <!-- EN: herd migration -->
   <HerdMigration.label>міграція тварин</HerdMigration.label>
   <!-- EN: Animal migration: {0} -->
@@ -37,7 +37,7 @@
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
   <MeteoriteImpact.letterText>Великий метеорит впав неподалік. У місці падіння можна знайти скупчення {lookup: {0}; Case; 1}.</MeteoriteImpact.letterText>
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>гул</PsychicDrone.label>
+  <PsychicDrone.label>психічний гул</PsychicDrone.label>
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>психічне заспокоєння</PsychicSoothe.label>
   <!-- EN: ransom demand -->

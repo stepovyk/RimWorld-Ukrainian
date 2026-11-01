@@ -5,7 +5,7 @@
   <!-- EN: Hunger is increased by the psychic influence of a bonded weapon. -->
   <HungerMaker.description>Голод, викликаний впливом синхрозброї.</HungerMaker.description>
   <!-- EN: assisted neural cooling -->
-  <NeuralHeatRecoveryGain.label>пси-розсіювання нейро-напруги</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.label>пси-розсіювання нейронапруги</NeuralHeatRecoveryGain.label>
   <!-- EN: Neural heat dissipation is improved by the psychic influence of a bonded weapon. -->
   <NeuralHeatRecoveryGain.description>Спад нейро-напруги прискорено завдяки впливу синхрозброї.</NeuralHeatRecoveryGain.description>
   <!-- EN: psychic painlessness -->

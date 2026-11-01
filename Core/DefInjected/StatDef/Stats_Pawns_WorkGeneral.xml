@@ -53,11 +53,11 @@
   <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
   <MiningYield.description>Відсоток корисних копалин, який зможе видобути шахтар.\n\nЦей показник застосовується як до поверхневого, так і глибинного видобутку.\nНе впливає на видобуток пустих клітин при глибинному бурінні.</MiningYield.description>
   <!-- EN: plant harvest yield -->
-  <PlantHarvestYield.label>ефективність збору</PlantHarvestYield.label>
+  <PlantHarvestYield.label>урожайність</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
   <PlantHarvestYield.description>Кількість врожаю, яку персонаж отримує при зборі рослин.\n\nЧим нижче це значення, тим вищий шанс, що персонаж втратить зібраний урожай.</PlantHarvestYield.description>
   <!-- EN: plant work speed -->
-  <PlantWorkSpeed.label>швидкість фермерства</PlantWorkSpeed.label>
+  <PlantWorkSpeed.label>швидкість роботи з рослинами</PlantWorkSpeed.label>
   <!-- EN: The speed at which this person sows and harvests plants. -->
   <PlantWorkSpeed.description>Швидкість, з якою персонаж сіє та збирає рослини.</PlantWorkSpeed.description>
   <!-- EN: reading speed -->

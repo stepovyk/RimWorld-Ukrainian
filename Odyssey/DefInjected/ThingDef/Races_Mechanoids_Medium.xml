@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: cyclops -->
-  <Mech_Cyclops.label>циклопи</Mech_Cyclops.label>
+  <Mech_Cyclops.label>циклоп</Mech_Cyclops.label>
   <!-- EN: A front-line combat mechanoid named for its large optical array. The cyclops specializes in counter-shield attacks. It takes a long time to lock onto a target, but once locked on, it fires a near endless barrage of shield-piercing beams. -->
   <Mech_Cyclops.description>Штурмовий механоїд, названий по своєму великому оптичному сенсору. Спеціалізується по атакам, що руйнують щити. Довго наводиться на ціль, але потім випускає майже нескінченну кількість променів, що пробивають щити.</Mech_Cyclops.description>
   <!-- EN: front left leg -->

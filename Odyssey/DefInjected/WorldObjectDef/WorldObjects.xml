@@ -29,7 +29,7 @@
   <!-- EN: The launch site of a gravship. -->
   <GravshipLaunch.description>Місце запуску гравкорабля.</GravshipLaunch.description>
   <!-- EN: mechhive -->
-  <Mechhive.label>меха-вулик</Mechhive.label>
+  <Mechhive.label>мехвулик</Mechhive.label>
   <!-- EN: orbital item stash -->
   <OrbitalItemStash.label>орбітальний сховок предметів</OrbitalItemStash.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->

@@ -69,7 +69,7 @@
   <!-- EN: Total time spent mining. -->
   <TimeMining.description>Час, за видобутком.</TimeMining.description>
   <!-- EN: time on fire -->
-  <TimeOnFire.label>У вогні</TimeOnFire.label>
+  <TimeOnFire.label>у вогні</TimeOnFire.label>
   <!-- EN: Total time spent on fire. -->
   <TimeOnFire.description>Час, проведений у вогні.</TimeOnFire.description>
   <!-- EN: time repairing -->

@@ -79,7 +79,7 @@
   <!-- EN: head -->
   <Bullfrog.tools.head.label>голова</Bullfrog.tools.head.label>
   <!-- EN: scimitar cat -->
-  <Cat_Scimitar.label>шаблезубий тигр</Cat_Scimitar.label>
+  <Cat_Scimitar.label>шаблезубий кіт</Cat_Scimitar.label>
   <!-- EN: A bioengineered predator that resembles its long-extinct namesake. Originally bred to populate iceworld hunting reserves, these animals are now common pets among glitterworld socialites. Their ferocity should not be underestimated. -->
   <Cat_Scimitar.description>Створений за допомогою біоінженерії хижак, що нагадує давно вимерлого викопного. Колись їх було створено для заселення сафарі-парків на крижаних світах, але вони давно увійшли в моду як хатні тварини серед еліти блискучих світів. Не варто недооцінювати їхню лютість.</Cat_Scimitar.description>
   <!-- EN: left claw -->
@@ -141,7 +141,7 @@
   <!-- EN: head -->
   <Mastodon.tools.head.label>голова</Mastodon.tools.head.label>
   <!-- EN: megavole -->
-  <Megavole.label>мегакріт</Megavole.label>
+  <Megavole.label>мегаполівка</Megavole.label>
   <!-- EN: A massive burrowing rodent, bred for its size and strength. It's almost completely blind but can be surprisingly aggressive when cornered. On some low-tech worlds, these creatures are trained to dig for valuable minerals. -->
   <Megavole.description>Великий риючий гризун, якого розводять заради його розміру та сили. Майже повністю сліпий, але може бути дуже агресивним, якщо загнати в кут. На деяких низькотехнологічних світах їх тренують копати в пошуках цінних мінералів.</Megavole.description>
   <!-- EN: left claw -->

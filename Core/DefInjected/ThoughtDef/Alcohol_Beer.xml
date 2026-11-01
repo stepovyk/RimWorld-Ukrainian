@@ -25,7 +25,7 @@
   <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
   <Inebriated.stages.quite_inebriated.description>Мене трохи хитає! І це весело.</Inebriated.stages.quite_inebriated.description>
   <!-- EN: drunk -->
-  <Inebriated.stages.drunk.label>{PAWN_gender ? п’яний : п'яна}</Inebriated.stages.drunk.label>
+  <Inebriated.stages.drunk.label>{PAWN_gender ? п'яний : п'яна}</Inebriated.stages.drunk.label>
   <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
   <Inebriated.stages.drunk.description>Я відчуваю себе настільки розкуто і безстрашно! Це прекрасно!</Inebriated.stages.drunk.description>
   <!-- EN: hammered -->

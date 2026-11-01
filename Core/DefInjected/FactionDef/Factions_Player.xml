@@ -13,7 +13,7 @@
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>колоністи</PlayerColony.pawnsPlural>
   <!-- EN: New Tribe -->
-  <PlayerTribe.label>Плем’я</PlayerTribe.label>
+  <PlayerTribe.label>Плем'я</PlayerTribe.label>
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>Ваше плем'я.</PlayerTribe.description>
   <!-- EN: leader -->

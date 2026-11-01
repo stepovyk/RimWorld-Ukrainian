@@ -217,7 +217,7 @@
     <li>subject_gerund->causing it to rain blood</li>
   </BloodRain.generalRules.rulesStrings>
   <!-- EN: brainwipe -->
-  <Brainwipe.label>промивка мізків</Brainwipe.label>
+  <Brainwipe.label>очищення мозку</Brainwipe.label>
   <!-- EN: Perform a psychic ritual which erases much of a person's episodic memories. Traumatic events will be forgotten. Resistant prisoners will become easier to recruit. Allows recruiting unwaveringly loyal prisoners. -->
   <Brainwipe.description>Можливість проводити ритуал, який стирає велику частину епізодичних спогадів людини. Травматичні події будуть забуті. В'язнів стане легше вербувати. Дозволяє вербувати непохитно відданих в'язнів.</Brainwipe.description>
   <!-- EN:
@@ -331,7 +331,7 @@
     <li>subject_gerund->виготовлення біоферитових фальшфеєрів</li>
   </DisruptorFlares.generalRules.rulesStrings>
   <!-- EN: electroharvester -->
-  <Electroharvester.label>поглинач енергії</Electroharvester.label>
+  <Electroharvester.label>збирач енергії</Electroharvester.label>
   <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
   <Electroharvester.description>Створення генератора, який поглинає електроенергію від утримуваних істот. Цей процес дратує істот, ускладнюючи їх утримання.</Electroharvester.description>
   <!-- EN:
@@ -353,7 +353,7 @@
     <li>subject_gerund->constructing electroharvesters</li>
   </Electroharvester.generalRules.rulesStrings>
   <!-- EN: entity containment -->
-  <EntityContainment.label>утримування аномалії</EntityContainment.label>
+  <EntityContainment.label>утримання сутностей</EntityContainment.label>
   <!-- EN: Build holding platforms and inhibitors to better contain entities. -->
   <EntityContainment.description>Створення платформ та інгібіторів для утримування аномалій.</EntityContainment.description>
   <!-- EN:
@@ -745,7 +745,7 @@
     <li>subject_gerund->performing a ritual of skip abduction</li>
   </SkipAbductionPlayer.generalRules.rulesStrings>
   <!-- EN: sleep suppressor -->
-  <SleepSuppressor.label>пригнічення сну</SleepSuppressor.label>
+  <SleepSuppressor.label>пригнічувач сну</SleepSuppressor.label>
   <!-- EN: Build shard-powered structures that stimulate those nearby to prevent fatigue. The device will irritate anyone nearby. -->
   <SleepSuppressor.description>Створення споруд, що працюють на архотехнологічних уламках та стимулюють тих, хто поруч, усуваючи їхню потребу у сні. Однак, цей пристрій буде дратувати будь-кого поблизу.</SleepSuppressor.description>
   <!-- EN:

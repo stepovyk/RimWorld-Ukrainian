@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: organ decay -->
-  <OrganDecayCreepjoiner.label>деградація органу</OrganDecayCreepjoiner.label>
+  <OrganDecayCreepjoiner.label>деградація органів</OrganDecayCreepjoiner.label>
   <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
   <OrganDecayCreepjoiner.description>Невиліковне дегенеративне захворювання, що вражає один орган. Причина може бути бактеріальним або вірусним. Хвороба, здається, вражає випадково з невідомого природного джерела; не передається безпосередньо між людьми.\n\nЦей орган повільно втрачає функцію, перш ніж повністю відмерти. Замініть його на біонічний або природний орган.</OrganDecayCreepjoiner.description>
   <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
@@ -15,7 +15,7 @@
   <!-- EN: extreme -->
   <OrganDecayCreepjoiner.stages.extreme.label>екстремальна</OrganDecayCreepjoiner.stages.extreme.label>
   <!-- EN: organ decay -->
-  <OrganDecayUndiagnosedCreepjoiner.label>деградація органу</OrganDecayUndiagnosedCreepjoiner.label>
+  <OrganDecayUndiagnosedCreepjoiner.label>деградація органів</OrganDecayUndiagnosedCreepjoiner.label>
   <!-- EN: This person is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. They will begin to display symptoms within a matter of days. -->
   <OrganDecayUndiagnosedCreepjoiner.description>У цієї людини спостерігаються ранні ознаки серйозного захворювання, що призведе до швидкого руйнування органів. Протягом кількох днів з’являться перші симптоми.</OrganDecayUndiagnosedCreepjoiner.description>
   <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
@@ -27,7 +27,7 @@
   <!-- EN: diagnosed -->
   <OrganDecayUndiagnosedCreepjoiner.stages.diagnosed.label>діагностовано</OrganDecayUndiagnosedCreepjoiner.stages.diagnosed.label>
   <!-- EN: organ decay -->
-  <OrganDecayUndiagnosedDuplicaton.label>деградація органу</OrganDecayUndiagnosedDuplicaton.label>
+  <OrganDecayUndiagnosedDuplicaton.label>деградація органів</OrganDecayUndiagnosedDuplicaton.label>
   <!-- EN: This person is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. They will begin to display symptoms within a matter of days. -->
   <OrganDecayUndiagnosedDuplicaton.description>У цієї людини спостерігаються ранні ознаки серйозного захворювання, що призведе до швидкого руйнування органів. Протягом кількох днів з’являться перші симптоми.</OrganDecayUndiagnosedDuplicaton.description>
   <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will cause their organs to rapidly deteriorate. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->

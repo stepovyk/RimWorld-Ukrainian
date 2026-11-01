@@ -175,7 +175,7 @@
     <li>subject_gerund->crafting flak armor</li>
   </FlakArmor.generalRules.rulesStrings>
   <!-- EN: foam turret -->
-  <FoamTurret.label>пінні турелі</FoamTurret.label>
+  <FoamTurret.label>протипожежні турелі</FoamTurret.label>
   <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
   <FoamTurret.description>Дозволяє споруджувати турелі, що розпорошують протипожежну піну під час активації.</FoamTurret.description>
   <!-- EN:

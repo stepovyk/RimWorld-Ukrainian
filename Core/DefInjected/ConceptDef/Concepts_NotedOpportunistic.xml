@@ -9,7 +9,7 @@
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
   <BillsTab.helpText>Щоб колоністи працювали за столами, оберіть стіл та відкрийте вкладку завдань. Тут ви можете вказати, яку їжу готувати, які речі створювати та яких істот обробляти.</BillsTab.helpText>
   <!-- EN: books -->
-  <Books.label>Книги</Books.label>
+  <Books.label>книги</Books.label>
   <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
   <Books.helpText>Колоністи читають книжки для відпочинку, отримання навичок, розблокування досліджень тощо. Ви можете побачити ефекти конкретної книги, вибравши її та відкривши вкладку "Деталі".\n\nЩоб вибрати, що читатимуть колоністи, відкрийте вкладку ПРИЗНАЧЕННЯ та налаштуйте ПОЛІТИКУ ЧИТАННЯ.\n\nЗберігайте книги у книжкових шафах, щоб пасивно покращити інтелектуальну та читацьку роботу, яка виконується поруч, а також покращити красу книжкової шафи. Книжкові шафи пасивно збільшують швидкість дослідження, XP, отриманий від читання, та відпочинок, отриманий від читання в одній кімнаті.</Books.helpText>
   <!-- EN: Build orbital trade beacon -->
@@ -31,7 +31,7 @@
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
   <Drafting.helpText>Щоб керувати колоністами в бою безпосередньо, виберіть їх та натисніть кнопку "Бойовий режим".\n\nУ бойовому режимі колоністи будуть виконувати лише бойові накази, що ви їм віддасте. Озброєні колоністи скористаються зброєю, коли це буде можливо.\n\nНіколи не лишайте мобілізованих колоністів без нагляду — вони зголодніють та їх настрій зіпсується.</Drafting.helpText>
   <!-- EN: Drug addiction -->
-  <DrugAddiction.label>Наркотична залежність</DrugAddiction.label>
+  <DrugAddiction.label>наркотична залежність</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
   <DrugAddiction.helpText>Слідкуйте за бажанням колоністів вжити наркотики на вкладці «Потреби».\n\nЯкщо покажчик їхньої потреби у наркотиках впаде до нуля - залежність викличе ломку, яка має різноманітні побічні ефекти.\n\nТим не менш, якщо говорити про більшість видів наркотиків, після досить довгого утримання від вживання, залежність зникне разом із необхідністю їх вживати.</DrugAddiction.helpText>
   <!-- EN: Drug burning -->

@@ -55,7 +55,7 @@
   <!-- EN: Had this person not been genetically deathless, they would have already died from their health conditions. Instead, they have fallen into a regeneration coma, during which they will regenerate their body. -->
   <RegenerationComa.description>Якби ця людина не була генетично смертною, вона б вже померла. Натомість вона впала в регенераційну кому, під час якої відновлює тіло.</RegenerationComa.description>
   <!-- EN: Scanning sickness -->
-  <ScanningSickness.label>недуг від сканування</ScanningSickness.label>
+  <ScanningSickness.label>хвороба від сканування</ScanningSickness.label>
   <!-- EN: This person was scanned by a softscanner to produce a mechanoid subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
   <ScanningSickness.description>Ця людина була просканована софт-сканером для виготовлення механоїдного суб'ядра. Пристрій з високою енергією сканування спричинив порушення хімічної реакції в мозку, що потребує часу для відновлення.</ScanningSickness.description>
   <!-- EN: vat growing -->

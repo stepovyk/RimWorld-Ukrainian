@@ -5,7 +5,7 @@
   <!-- EN: A stump left behind after an harbinger tree has been felled. The stump can be extracted but yields very little usable material. Left outdoors, the stump will deteriorate in time. -->
   <ChoppedStump_Harbinger.description>Пень від зрубаного дерева-провісника. Його можна викорчувати, але придатного матеріалу у ньому дуже мало. Якщо пень залишити на відкритому повітрі, через якийсь час він перетвориться на пил.</ChoppedStump_Harbinger.description>
   <!-- EN: harbinger seed -->
-  <HarbingerSeed.label>саджанець дерева-провісника</HarbingerSeed.label>
+  <HarbingerSeed.label>насінина дерева-провісника</HarbingerSeed.label>
   <!-- EN: The seed of a harbinger tree. It can be planted to grow a new harbinger tree, which will eat any corpses or meat placed nearby. -->
   <HarbingerSeed.description>Саджанець дерева-провісника. Його можна посадити, щоб виростити нове дерево-провісник, яке з'їсть будь-які трупи або м'ясо, покладене поруч з ним.</HarbingerSeed.description>
   <!-- EN: harbinger tree -->

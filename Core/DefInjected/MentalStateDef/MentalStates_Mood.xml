@@ -43,7 +43,7 @@
   <!-- EN: {0} is no longer pigging out on food. -->
   <Binging_Food.recoveryMessage>{0} заспокоюється.</Binging_Food.recoveryMessage>
   <!-- EN: corpse obsession -->
-  <CorpseObsession.label>знущання над трупами</CorpseObsession.label>
+  <CorpseObsession.label>одержимість трупами</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
   <CorpseObsession.baseInspectLine>Психічний стан: знущання над трупами</CorpseObsession.baseInspectLine>
   <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->

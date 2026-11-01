@@ -25,7 +25,7 @@
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
   <SterileTile.description>Стерильна плитка допомагає зберегти підлогу в чистоті, що особливо корисно у лікарнях та дослідницьких лабораторіях. Укладання такої плитки - дуже трудомістка робота, зате її легко чистити.</SterileTile.description>
   <!-- EN: straw matting -->
-  <StrawMatting.label>солом’яне покриття</StrawMatting.label>
+  <StrawMatting.label>солом'яне покриття</StrawMatting.label>
   <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
   <StrawMatting.description>Груба солом'яна підстилка для використання в хлівах для тварин. Вона дешева і майже не брудниться.</StrawMatting.description>
   <!-- EN: wood floor -->

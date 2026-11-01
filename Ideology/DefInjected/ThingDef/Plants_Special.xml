@@ -5,7 +5,7 @@
   <!-- EN: A stump left behind after a gauranlen tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
   <ChoppedStump_Gauranlen.description>Пень від зрубаного дерева Гауранлен. Його можна викорчувати, але придатної деревини у ньому дуже мало. Якщо пень залишити на відкритому повітрі, через якийсь час він перетвориться на пил.</ChoppedStump_Gauranlen.description>
   <!-- EN: Gauranlen seed -->
-  <GauranlenSeed.label>сім'я Гауранлен</GauranlenSeed.label>
+  <GauranlenSeed.label>насінина Гауранлен</GauranlenSeed.label>
   <!-- EN: The seed of a Gauranlen tree. It can be planted to create a new Gauranlen tree. -->
   <GauranlenSeed.description>Насінина дерева Гауранлен. Її можна посадити, щоб виросло нове дерево Гауранлен.</GauranlenSeed.description>
   <!-- EN: fibercorn -->

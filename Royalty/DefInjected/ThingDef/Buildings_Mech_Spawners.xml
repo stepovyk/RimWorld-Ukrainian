@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: mech birther -->
-  <MechAssembler.label>родильна фабрика мехів</MechAssembler.label>
+  <MechAssembler.label>родильна фабрика механоїдів</MechAssembler.label>
   <!-- EN: An automated fast-acting mechanoid gestator. It periodically births and deploys fresh mechanoids. -->
   <MechAssembler.description>Автоматизований швидкодіючий формувач механоїдів, який періодично народжує й випускає нових механоїдів.</MechAssembler.description>
   <!-- EN: mech capsule -->

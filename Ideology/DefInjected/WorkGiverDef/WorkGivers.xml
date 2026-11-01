@@ -11,7 +11,7 @@
   <!-- EN: converting -->
   <ConvertPrisoner.gerund>конвертувати</ConvertPrisoner.gerund>
   <!-- EN: convert -->
-  <ConvertPrisoner.verb>конвертувати</ConvertPrisoner.verb>
+  <ConvertPrisoner.verb>навертати</ConvertPrisoner.verb>
   <!-- EN: emancipate slaves -->
   <EmancipateSlave.label>звільняти рабів</EmancipateSlave.label>
   <!-- EN: emancipating -->
@@ -25,7 +25,7 @@
   <!-- EN: enslave -->
   <EnslavePrisoner.verb>поневолювати</EnslavePrisoner.verb>
   <!-- EN: execute prisoners -->
-  <ExecuteSlave.label>стратити в'язнів</ExecuteSlave.label>
+  <ExecuteSlave.label>страчувати в'язнів</ExecuteSlave.label>
   <!-- EN: executing -->
   <ExecuteSlave.gerund>стратити</ExecuteSlave.gerund>
   <!-- EN: execute -->

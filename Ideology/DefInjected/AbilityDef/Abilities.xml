@@ -19,7 +19,7 @@
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
   <ConversionRitual.description>Спробуйте переконати когось прийняти вашу ідеологію. В залежності від результату, у цілі може як знизитись впевненість в її ідеології, так і укріпитись.\n\nЩоб почати цей ритуал у певному місці, виберіть ритуальне місце або відповідний вівтар чи ідеограму.</ConversionRitual.description>
   <!-- EN: convert -->
-  <Convert.label>конвертація</Convert.label>
+  <Convert.label>навернення</Convert.label>
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
   <Convert.description>Спроба конвертувати когось у ідеологію оратора. Це зменшить впевненість цілі в її ідеології. Зменшення впевненості залежить від соціальних навичок оратора.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
@@ -53,7 +53,7 @@
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <MarksmanCommand.description>Коригує вогонь та підвищуйте навички стрільби усіх в певному радіусі. Ефект залишається протягом 24 годин.</MarksmanCommand.description>
   <!-- EN: mining command -->
-  <MiningCommand.label>шахтарські настанови</MiningCommand.label>
+  <MiningCommand.label>гірничі настанови</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <MiningCommand.description>Запропонуйте рекомендації щодо методів видобутку корисних копалин, що підвищують навички видобутку усіх в певному радіусі. Ефект залишається протягом 24 годин.</MiningCommand.description>
   <!-- EN: preach health -->
@@ -61,7 +61,7 @@
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
   <PreachHealth.description>Проповідуйте моральну силу для хворої чи пораненої людини через концепції вашої ідеології. Це збільшить швидкість загоєння ран та формування імунітету.</PreachHealth.description>
   <!-- EN: production command -->
-  <ProductionCommand.label>будівельні настанови</ProductionCommand.label>
+  <ProductionCommand.label>виробничі настанови</ProductionCommand.label>
   <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <ProductionCommand.description>Запропонуйте рекомендації щодо технік будівництва, що підвищують навички будівництва усіх в певному радіусі. Ефект залишається протягом 24 годин.</ProductionCommand.description>
   <!-- EN: reassure -->

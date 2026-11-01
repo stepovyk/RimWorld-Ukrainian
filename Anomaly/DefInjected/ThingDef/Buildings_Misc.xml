@@ -141,7 +141,7 @@
   <!-- EN: A small hole connecting to some unseen cave network deep under the surface. The walls are too steep to climb. It is inherently unstable and will collapse after some time. -->
   <PitBurrow.description>Маленький отвір, що з’єднується з якоюсь невидимою мережею печер глибоко під поверхнею. Стіни занадто круті, щоб спуститися. За своєю суттю нора нестабільна і через деякий час зруйнується.</PitBurrow.description>
   <!-- EN: underground emergence -->
-  <PitBurrowSpawner.label>Поява з-під землі</PitBurrowSpawner.label>
+  <PitBurrowSpawner.label>поява з-під землі</PitBurrowSpawner.label>
   <!-- EN: Something is emerging from the ground here. -->
   <PitBurrowSpawner.description>Тут щось виринає з-під землі.</PitBurrowSpawner.description>
   <!-- EN: pit gate -->
@@ -157,7 +157,7 @@
   <!-- EN: A rope line which links to the surface above. -->
   <PitGateExit.description>Мотузка, якою можна вибратися на поверхню.</PitGateExit.description>
   <!-- EN: underground emergence -->
-  <PitGateSpawner.label>Поява з-під землі</PitGateSpawner.label>
+  <PitGateSpawner.label>поява з-під землі</PitGateSpawner.label>
   <!-- EN: Something is emerging from the ground here. -->
   <PitGateSpawner.description>Тут щось виринає з-під землі.</PitGateSpawner.description>
   <!-- EN: Pit gate opened -->

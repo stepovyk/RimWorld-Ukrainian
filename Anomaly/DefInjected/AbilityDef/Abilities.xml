@@ -15,7 +15,7 @@
   <!-- EN: Use the corrosive heart to spray acid a short distance. The heart pumps the corrosive fluid through a surgically implanted duct, allowing the ghoul to spew it from their mouth at high velocity. -->
   <CorrosiveSpray.description>Використання корозійного серця для розпилення кислоти на невелику відстань. Серце качає їдку рідину через хірургічно імплантований канал, що дозволяє гулю вивергати її з рота на великій швидкості.</CorrosiveSpray.description>
   <!-- EN: entity skip -->
-  <EntitySkip.label>аномальний стрибок</EntitySkip.label>
+  <EntitySkip.label>стрибок сутності</EntitySkip.label>
   <!-- EN: Teleport to a target destination. -->
   <EntitySkip.description>Телепортація до місця призначення.</EntitySkip.description>
   <!-- EN: fleshmelter bolt -->
@@ -23,7 +23,7 @@
   <!-- EN: Launch a large bolt of energy which generates a high-temperature explosion. -->
   <FleshmelterBolt.description>Запустити великий енергетичний заряд, який створює високотемпературний вибух.</FleshmelterBolt.description>
   <!-- EN: ghoul frenzy -->
-  <GhoulFrenzy.label>шаленство гуля</GhoulFrenzy.label>
+  <GhoulFrenzy.label>лють гуля</GhoulFrenzy.label>
   <!-- EN: Use the adrenal heart to saturate the bloodstream with stress hormones and liquid energy, permitting the ghoul to move and attack at incredible speeds for a short time. -->
   <GhoulFrenzy.description>Використання адреналінового серця, щоб наситити кров гормонами стресу й рідкою енергією, що дозволяє гулю рухатися та атакувати з неймовірною швидкістю протягом короткого часу.</GhoulFrenzy.description>
   <!-- EN: heatspikes -->
@@ -71,7 +71,7 @@
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompTransmute.failedMessage>Має бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.comps.CompTransmute.failedMessage>
   <!-- EN: entity skip -->
-  <UnnaturalCorpseSkip.label>аномальний стрибок</UnnaturalCorpseSkip.label>
+  <UnnaturalCorpseSkip.label>стрибок сутності</UnnaturalCorpseSkip.label>
   <!-- EN: Teleport to a target destination. -->
   <UnnaturalCorpseSkip.description>Телепортація до місця призначення.</UnnaturalCorpseSkip.description>
   <!-- EN: unnatural healing -->

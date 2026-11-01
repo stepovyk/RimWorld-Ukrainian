@@ -5,7 +5,7 @@
   <!-- EN: A clear day. No penalties or modifiers. -->
   <Clear.description>Ясний день. Ніяких штрафів чи модифікацій.</Clear.description>
   <!-- EN: dry thunderstorm -->
-  <DryThunderstorm.label>гроза з дощем</DryThunderstorm.label>
+  <DryThunderstorm.label>суха гроза</DryThunderstorm.label>
   <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
   <DryThunderstorm.description>Сухі грози небезпечні, тому що блискавка може почати пожежу, і немає дощу щоб її загасити.</DryThunderstorm.description>
   <!-- EN: fog -->

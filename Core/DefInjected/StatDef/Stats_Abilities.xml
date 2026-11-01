@@ -21,7 +21,7 @@
   <!-- EN: The radius of the area of effect of this ability. -->
   <Ability_EffectRadius.description>Радіус області ефекту цієї здібності.</Ability_EffectRadius.description>
   <!-- EN: neural heat gain -->
-  <Ability_EntropyGain.label>нейро-напруга</Ability_EntropyGain.label>
+  <Ability_EntropyGain.label>приріст нейронапруги</Ability_EntropyGain.label>
   <!-- EN: How much neural heat will be added as a result of performing this ability. -->
   <Ability_EntropyGain.description>Наскільки збільшиться нейро-напруга в результаті застосування цієї здібності.</Ability_EntropyGain.description>
   <!-- EN: goodwill impact -->

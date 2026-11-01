@@ -137,7 +137,7 @@
     <li>subject_gerund->producing drugs</li>
   </DrugProduction.generalRules.rulesStrings>
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>виробництво Go-соку</GoJuiceProduction.label>
+  <GoJuiceProduction.label>виробництво гоу-соку</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
   <GoJuiceProduction.description>Виготовляйте Go-сік - синтетичний препарат, що підвищує навички стрільби, ближнього бою та мобільності, а також притупляє біль.</GoJuiceProduction.description>
   <!-- EN:

@@ -39,9 +39,9 @@
   <!-- EN: mysterious cargo corpse -->
   <MysteriousCargoUnnaturalCorpse.label>таємничий вантаж: труп</MysteriousCargoUnnaturalCorpse.label>
   <!-- EN: nociosphere -->
-  <Nociosphere.label>сфера ночі</Nociosphere.label>
+  <Nociosphere.label>ноціосфера</Nociosphere.label>
   <!-- EN: Nociosphere -->
-  <Nociosphere.letterLabel>Сфера ночі</Nociosphere.letterLabel>
+  <Nociosphere.letterLabel>Ноціосфера</Nociosphere.letterLabel>
   <!-- EN: A strange metallic sphere has appeared. It hurts to be near it.\n\nYou could attack it, though you're not sure how it might defend itself. Or, you could capture it using a holding platform and learn to make use of its power.\n\nIt seems quiet for now, but it is gaining energy over time. You can suppress the sphere when it is captured to a holding platform, reducing its energy. -->
   <Nociosphere.letterText>З'явилася дивна металева сфера. Боляче знаходитися поруч з нею.\n\nВи можете напасти на неї, хоча ви не знаєте, як вона збирається захищатися. Або ви можете захопити її та утримувати на платформі, щоб навчитися використовувати її силу.\n\nПоки що вона здається тихою, але з часом набирає енергії. Ви можете придушити сферу, коли вона розміщена на платформу для утримання, зменшуючи її енергію.</Nociosphere.letterText>
   <!-- EN: pit gate -->
@@ -67,9 +67,9 @@
   <!-- EN: A mysterious obelisk has crashed nearby.\n\nThe obelisk hums with putrid psychic energy, gradually intensifying as it approaches some dangerous limit. You can send colonists to suppress the obelisk to prevent it from activating.\n\nYou can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can always attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
   <WarpedObelisk_Abductor.letterText>Поруч з'явився таємничий обеліск.\n\nОбеліск дзижчить спотвореною психічною енергією, яка поступово посилюється та наближається до небезпечної межі. Ви можете надіслати колоністів придушити обеліск, щоб запобігти його активації.\n\nВи також можете позначити обеліск для вивчення, щоб спробувати дізнатися його призначення та, можливо, використати його.\n\nВи завжди можете атакувати обеліск, щоб знищити його , але це може призвести до неприродних і небезпечних явищ.</WarpedObelisk_Abductor.letterText>
   <!-- EN: corrupted obelisk -->
-  <WarpedObelisk_Duplicator.label>спотворений обеліск</WarpedObelisk_Duplicator.label>
+  <WarpedObelisk_Duplicator.label>пошкоджений обеліск</WarpedObelisk_Duplicator.label>
   <!-- EN: Corrupted obelisk -->
-  <WarpedObelisk_Duplicator.letterLabel>Спотворений обеліск</WarpedObelisk_Duplicator.letterLabel>
+  <WarpedObelisk_Duplicator.letterLabel>Пошкоджений обеліск</WarpedObelisk_Duplicator.letterLabel>
   <!-- EN: A mysterious obelisk has crashed nearby.\n\nThe obelisk hums with putrid psychic energy, gradually intensifying as it approaches some dangerous limit. You can send colonists to suppress the obelisk to prevent it from activating.\n\nYou can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can always attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
   <WarpedObelisk_Duplicator.letterText>Поруч з'явився таємничий обеліск.\n\nОбеліск дзижчить спотвореною психічною енергією, яка поступово посилюється та наближається до небезпечної межі. Ви можете надіслати колоністів придушити обеліск, щоб запобігти його активації.\n\nВи також можете позначити обеліск для вивчення, щоб спробувати дізнатися його призначення та, можливо, використати його.\n\nВи завжди можете атакувати обеліск, щоб знищити його , але це може призвести до неприродних і небезпечних явищ.</WarpedObelisk_Duplicator.letterText>
   <!-- EN: twisted obelisk -->

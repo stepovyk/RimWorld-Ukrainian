@@ -5,7 +5,7 @@
   <!-- EN: A climate adjuster. -->
   <ClimateAdjuster.description>Регулятор клімату.</ClimateAdjuster.description>
   <!-- EN: EMI dynamo -->
-  <EMIDynamo.label>EMI-генератор</EMIDynamo.label>
+  <EMIDynamo.label>ЕМІ-генератор</EMIDynamo.label>
   <!-- EN: An EMI dynamo. -->
   <EMIDynamo.description>EMI-генератор.</EMIDynamo.description>
   <!-- EN: psychic droner -->

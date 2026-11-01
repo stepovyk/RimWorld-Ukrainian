@@ -29,7 +29,7 @@
   <!-- EN: left radius -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ліва променева кістка</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ліва долоня</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ліва кисть</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>мізинець лівої руки</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left ring finger -->
@@ -51,7 +51,7 @@
   <!-- EN: right radius -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>права променева кістка</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>права долоня</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>права кисть</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>мізинець правої руки</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->

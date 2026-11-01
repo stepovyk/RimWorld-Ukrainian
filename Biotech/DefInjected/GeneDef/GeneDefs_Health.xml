@@ -13,7 +13,7 @@
   <!-- EN: stout -->
   <Immunity_Strong.symbolPack.prefixSymbols.0.symbol>стоїчно</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: super immunity -->
-  <Immunity_SuperStrong.label>супер імунітет</Immunity_SuperStrong.label>
+  <Immunity_SuperStrong.label>суперімунітет</Immunity_SuperStrong.label>
   <!-- EN: Carriers of this gene gain immunity to diseases considerably faster than normal. -->
   <Immunity_SuperStrong.description>Носії цього гена формують імунітет до хвороб значно швидше, ніж звичайні люди.</Immunity_SuperStrong.description>
   <!-- EN: super-immune -->
@@ -49,7 +49,7 @@
   <!-- EN: scab -->
   <Superclotting.symbolPack.suffixSymbols.1.symbol>струп</Superclotting.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: partial antitoxic lungs -->
-  <ToxicEnvironmentResistance_Partial.label>токсино-стійкі легені</ToxicEnvironmentResistance_Partial.label>
+  <ToxicEnvironmentResistance_Partial.label>частково антитоксичні легені</ToxicEnvironmentResistance_Partial.label>
   <!-- EN: Carriers of this gene are resistant to environmental toxins. They get less toxic buildup from tox gas, polluted terrain, and toxic fallout, but are still vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure slower. -->
   <ToxicEnvironmentResistance_Partial.description>Носії цього гена стійкі до токсинів навколишнього середовища. Вони отримують менше токсичних накопичень від отруйних газів, забрудненої місцевості та токсичних опадів, але все ще вразливі до прямих атак отрутою чи введеною отрути. Крім того, вони повільніше отруюються трупним газом.</ToxicEnvironmentResistance_Partial.description>
   <!-- EN: tox-resistant -->
@@ -57,7 +57,7 @@
   <!-- EN: tox -->
   <ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>токсо</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: total antitoxic lungs -->
-  <ToxicEnvironmentResistance_Total.label>токсино-імунні легені</ToxicEnvironmentResistance_Total.label>
+  <ToxicEnvironmentResistance_Total.label>повністю антитоксичні легені</ToxicEnvironmentResistance_Total.label>
   <!-- EN: Carriers of this gene are immune to environmental toxins, but not from direct toxic attacks. They get no toxic buildup from tox gas, polluted terrain, or toxic fallout, and they are not bothered by acidic smog. They are still vulnerable to direct attacks like venom and injected poison. Additionally, they are immune to rot stink exposure. -->
   <ToxicEnvironmentResistance_Total.description>Носії цього гена мають імунітет до токсинів навколишнього середовища, але не до прямих токсичних атак. Вони не отримують токсичних накопичень від токсичних газів, забрудненої місцевості чи токсичних опадів, також їх не турбує кислотний смог. Вони все ще вразливі до прямих отруйних атак та введена отрути. Крім того, вони імунні до трупного газу.</ToxicEnvironmentResistance_Total.description>
   <!-- EN: Tox gas immunity -->

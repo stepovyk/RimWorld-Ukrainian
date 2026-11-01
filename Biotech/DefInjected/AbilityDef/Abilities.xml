@@ -5,7 +5,7 @@
   <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
   <AcidSpray.description>Розпилюйте липку кислотну речовину із залоз на шиї по області навколо цілі. Кислота прилипає до цілей і роз'їдає їх протягом певного часу.</AcidSpray.description>
   <!-- EN: animal warcall -->
-  <AnimalWarcall.label>звірячий вий</AnimalWarcall.label>
+  <AnimalWarcall.label>звіриний клич</AnimalWarcall.label>
   <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
   <AnimalWarcall.description>За допомогою потужного реву та екстрасенсорного зв'язку закликайте тварину на бій з вашими ворогами на кілька годин.</AnimalWarcall.description>
   <!-- EN: warcall -->
@@ -33,7 +33,7 @@
   <!-- EN: Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition. -->
   <FireSpew.description>Випльовує з рота струмінь липкої, легкозаймистої жовчі. Підпалити все, на що або на кого потрапить, а також утворить вогняні калюжі на землі.\n\nПалахка рідина виробляється і зберігається спеціальним органом у горлі, разом з пірофорним реагентом для запалювання.</FireSpew.description>
   <!-- EN: foam spray -->
-  <FoamSpray.label>пінний аерозоль</FoamSpray.label>
+  <FoamSpray.label>розпилення піни</FoamSpray.label>
   <!-- EN: Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches. -->
   <FoamSpray.description>Розпиляє густу протипожежну піну із залоз на шиї. Піна покриє невелику площу і загасить будь-який вогонь, на який потрапить.</FoamSpray.description>
   <!-- EN: longjump -->

@@ -9,5 +9,5 @@
   <!-- EN: a scarification -->
   <Scarification.labelNoun>шрамування</Scarification.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scarification.labelNounPretty>{0} в {1}</Scarification.labelNounPretty>
+  <Scarification.labelNounPretty>{0} ({1})</Scarification.labelNounPretty>
 </LanguageData>

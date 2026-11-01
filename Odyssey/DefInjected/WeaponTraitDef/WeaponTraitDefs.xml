@@ -15,7 +15,7 @@
   <!-- EN: self-aim -->
   <AimAssistance.traitAdjectives.4>автоматичний</AimAssistance.traitAdjectives.4>
   <!-- EN: bioferrite burner -->
-  <BioferriteBurner.label>пекельний пальник</BioferriteBurner.label>
+  <BioferriteBurner.label>біоферитний пальник</BioferriteBurner.label>
   <!-- EN: This weapon has a bioferrite-powered flamethrower unit. The burner generates a blast of flame from a pressurized bioferrite charge. Once used, it must be reloaded using bioferrite. -->
   <BioferriteBurner.description>В цю зброю вбудовано вогнемет на біофериті. Вогнемет випускає хвилю полум'я, використовуючи заряд біофериту під тиском. Після використання потребує біоферриту для перезаряджання.</BioferriteBurner.description>
   <!-- EN: burner charge -->

@@ -33,7 +33,7 @@
   <!-- EN: simple parts -->
   <BodyPartsSimple.label>прості частини</BodyPartsSimple.label>
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>ультра-технологічні</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ультратехнологічні</BodyPartsUltra.label>
   <!-- EN: bookEffects -->
   <BookEffects.label>ефекти книг</BookEffects.label>
   <!-- EN: books -->
@@ -119,7 +119,7 @@
   <!-- EN: research -->
   <ResearchGain.label>дослідження</ResearchGain.label>
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>матеріали</ResourcesRaw.label>
+  <ResourcesRaw.label>сировина</ResourcesRaw.label>
   <!-- EN: root -->
   <Root.label>корінь</Root.label>
   <!-- EN: skill gain -->

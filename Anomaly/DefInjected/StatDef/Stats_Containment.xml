@@ -5,7 +5,7 @@
   <!-- EN: This entity is less likely to escape if kept in a very cold room. -->
   <ColdContainmentBonus.description>Шанс, що ця аномалія спробує втекти буде меншим, якщо її утримувати в холодному приміщенні.</ColdContainmentBonus.description>
   <!-- EN: containment strength -->
-  <ContainmentStrength.label>Сила утримання</ContainmentStrength.label>
+  <ContainmentStrength.label>сила утримання</ContainmentStrength.label>
   <!-- EN: How securely this can contain an entity. This is improved by stronger walls and doors, more light, fewer other entities in the room, and special containment devices. Some entities are easier to contain in cold temperatures. -->
   <ContainmentStrength.description>Як добре це може утримувати аномалію. Цей показник можна покращити за допомогою міцніших дверей та стін, гарного освітлення, кількості інших аномалій у приміщенні та спеціальних пристроїв. Деяких аномалії легше утримувати в холодних температурах.</ContainmentStrength.description>
   <!-- EN: containment offset -->

@@ -47,7 +47,7 @@
     <li>subject_gerund->sculpting the human form</li>
   </Biosculpting.generalRules.rulesStrings>
   <!-- EN: neural supercharger -->
-  <NeuralSupercharger.label>нейронний надзаряд</NeuralSupercharger.label>
+  <NeuralSupercharger.label>нейронний надзарядник</NeuralSupercharger.label>
   <!-- EN: Construct neural supercharger devices. Neural superchargers improve consciousness and learning rate, but they also increase hunger and the effect must be refreshed daily. Transhumanists often hold neural supercharging as an important practice. -->
   <NeuralSupercharger.description>Дозволяє виготовити пристрій нейронного надзаряду. Нейронний надзаряд покращує свідомість і швидкість навчання, але також підсилює почуття голоду. Ефект потрібно оновлювати щодня. Трансгуманісти вважають нейронний надзаряд важливою практикою.</NeuralSupercharger.description>
   <!-- EN:

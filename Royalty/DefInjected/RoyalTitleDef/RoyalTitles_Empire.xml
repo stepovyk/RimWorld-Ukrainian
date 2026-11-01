@@ -13,11 +13,11 @@
   <!-- EN: The Imperial title of consul is a lower level of high nobility.\n\nIn the Empire, consuls control planets. At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets. Some command from a super-capital ship or control space-based megastructures. -->
   <Consul.description>Консул — це найнижчий імперський титул вищого кола дворян.\n\nВ імперії консули контролюють планети. На війні консул зазвичай може розгорнути армію чисельністю в декілька дивізій за підтримки кількох флотів. Дехто командує з головного корабля імперського флоту або керує космічними мегаструктурами.</Consul.description>
   <!-- EN: archon -->
-  <Count.label>граф</Count.label>
+  <Count.label>архонт</Count.label>
   <!-- EN: The title of archon is middle rank among the independent members of the psychic cult.\n\nIn peacetime, an archon may rule to a city or colony. A successful archon might have a small personal fleet, possibly including capital ships. -->
   <Count.description>Титул графа це середній рівень середнього кола дворян.\n\nУ мирний час графи володіють містом або колонією і можуть мати невеликий особистий флот, можливо, включаючи великі кораблі.</Count.description>
   <!-- EN: dominus -->
-  <Duke.label>герцог</Duke.label>
+  <Duke.label>домінус</Duke.label>
   <!-- EN: The Imperial title of dominus is the highest of the middle-ranked independent rulers.\n\nIn the Empire, domini control provinces, mega-cities, or moons. At war, a dominus can field a division-level force, or a fleet with capital ships and dozens of support craft. -->
   <Duke.description>Герцог — це найвищий імперський титул середнього кола дворян.\n\nВ імперії герцоги контролюють провінції, мегаміста або природні супутники. На війні герцог може розгорнути військові дивізії або флот із великими кораблями та десятками допоміжних кораблів.</Duke.description>
   <!-- EN: emperor -->
@@ -43,7 +43,7 @@
   <!-- EN: The Imperial title of stellarch represents dominion over an entire star system.\n\nIn the Empire, since interstellar travel times are years long, stellarchs rule their systems with a great degree of independence. They each swear fealty to the Emperor, but since the Emperor may be many light-years away, a stellarch may go years or decades without interacting with him. -->
   <Stellarch.description>Імперський титул стелларха означає панування над цілою зоряною системою.\n\nВ Імперії, оскільки час міжзоряних подорожей триває роки, стеллархи керують своїми системами з великим ступенем незалежності. Кожен з них присягає на вірність Імператору, але оскільки Імператор може бути за багато світлових років, стелларх може роками чи десятиліттями не взаємодіяти з ним.</Stellarch.description>
   <!-- EN: novice -->
-  <Yeoman.label>йомен</Yeoman.label>
+  <Yeoman.label>новіцій</Yeoman.label>
   <!-- EN: The Imperial title of novice is held by those who have recently been initiated into the ranks of the psychic cult. It gives the holder the right to use low-level psychic abilities as part of their learning.\n\nThis title is often held by senior soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals. Many important people spend their entire lives as novices. -->
   <Yeoman.description>Імператорський титул йомена носять ті, хто служить знатному лорду особливим чином. Хоча це не дворянський титул, він дає власнику право використовувати пси-здібності низького рівня.\n\nЦей титул часто носять старші солдати, пілоти бойових скіфів, шпигуни, радники, дипломати, оперативники вторгнення та інші ключові особи. Багато важливих людей проводять все своє життя як йомени, прагнучи досягти успіху поза обмеженнями дворянства.</Yeoman.description>
 </LanguageData>

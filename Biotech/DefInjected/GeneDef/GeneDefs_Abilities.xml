@@ -17,7 +17,7 @@
   <!-- EN: spitter -->
   <AcidSpray.symbolPack.suffixSymbols.1.symbol>плювач</AcidSpray.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: animal warcall -->
-  <AnimalWarcall.label>звіриний вий</AnimalWarcall.label>
+  <AnimalWarcall.label>звіриний клич</AnimalWarcall.label>
   <!-- EN: Carriers of this gene can perform an animal warcall, using a powerful bellow and psychic connection to call an animal to fight for them. -->
   <AnimalWarcall.description>Носії цього гену можуть призивати тварин на свій захист за допомогою потужного психічного реву.</AnimalWarcall.description>
   <!-- EN: war -->
@@ -105,7 +105,7 @@
   <!-- EN: igniter -->
   <FireSpew.symbolPack.wholeNameSymbols.1.symbol>запальник</FireSpew.symbolPack.wholeNameSymbols.1.symbol>
   <!-- EN: foam spray -->
-  <FoamSpray.label>розпилювач піни</FoamSpray.label>
+  <FoamSpray.label>розпилення піни</FoamSpray.label>
   <!-- EN: Carriers grow glands in the neck that generate and store a fire-retardant foam. They can spew this foam over an area to extinguish fires. -->
   <FoamSpray.description>У носіїв цього гена на шиї ростуть залози, які генерують і зберігають протипожежну піну. Вони можуть розпилювати цю піну на місцевості для гасіння пожеж.</FoamSpray.description>
   <!-- EN: foam -->

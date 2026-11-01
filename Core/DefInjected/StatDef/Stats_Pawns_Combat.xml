@@ -9,7 +9,7 @@
   <!-- EN: A multiplier on all incoming damage. -->
   <IncomingDamageFactor.description>Множник на всю вхідну шкоду.</IncomingDamageFactor.description>
   <!-- EN: melee armor penetration -->
-  <MeleeArmorPenetration.label>бронепробиття ближнього бою</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.label>бронепробиття в ближньому бою</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
   <MeleeArmorPenetration.description>Середнє бронепробиття усіх атак ближнього бою з цією зброєю.</MeleeArmorPenetration.description>
   <!-- EN: melee cooldown -->
@@ -25,11 +25,11 @@
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
   <MeleeDodgeChance.description>Шанс ухилитися від атаки ближнього бою.\n\nПерсонажі не будуть ухилятися під час прицілювання або стрільби із далекобійної зброї.</MeleeDodgeChance.description>
   <!-- EN: melee DPS -->
-  <MeleeDPS.label>DPS ближнього бою</MeleeDPS.label>
+  <MeleeDPS.label>шкода/с у ближньому бою</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
   <MeleeDPS.description>Середня шкода за секунду ближнього бою.\n\nЦей показник не враховує броню та ухилення цілі.</MeleeDPS.description>
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>шанс удару ближнього бою</MeleeHitChance.label>
+  <MeleeHitChance.label>шанс влучання в ближньому бою</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
   <MeleeHitChance.description>Шанс вразити ціль у ближньому бою.\n\nЦіль все ще може ухилятися, навіть якщо цей шанс спрацює.</MeleeHitChance.description>
   <!-- EN: Mortar miss radius multiplier -->
@@ -39,7 +39,7 @@
   <!-- EN: Mortar miss radius multiplier -->
   <MortarMissRadiusFactor.labelForFullStatList>множник розсіяння пострілів</MortarMissRadiusFactor.labelForFullStatList>
   <!-- EN: trap spring chance -->
-  <PawnTrapSpringChance.label>шанс пастки на активацію</PawnTrapSpringChance.label>
+  <PawnTrapSpringChance.label>імовірність активації</PawnTrapSpringChance.label>
   <!-- EN: Chance to spring a trap the character is unaware of. -->
   <PawnTrapSpringChance.description>Шанс активувати пастку, про яку цей персонаж не знає.</PawnTrapSpringChance.description>
   <!-- EN: ranged cooldown multiplier -->

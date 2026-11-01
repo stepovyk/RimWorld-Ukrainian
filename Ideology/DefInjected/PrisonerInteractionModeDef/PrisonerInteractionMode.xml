@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: convert -->
-  <Convert.label>конвертувати</Convert.label>
+  <Convert.label>навернути</Convert.label>
   <!-- EN: Wardens will attempt to convert the prisoner to their ideoligion. -->
   <Convert.description>Наглядачі намагатимуться конвертувати в'язня в свою ідеологію.</Convert.description>
   <!-- EN: enslave -->

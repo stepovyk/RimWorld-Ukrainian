@@ -47,7 +47,7 @@
   <!-- EN: Someone executed a prisoner -->
   <Execution_HorribleIfInnocent.comps.7.description>Хтось стратив в'язня</Execution_HorribleIfInnocent.comps.7.description>
   <!-- EN: required -->
-  <Execution_Required.label>потрібно</Execution_Required.label>
+  <Execution_Required.label>обов'язково</Execution_Required.label>
   <!-- EN: Prisoners must be executed on a regular basis. When they are, it is a happy occasion. -->
   <Execution_Required.description>Страту в'язнів потрібно робити на регулярній основі. Це непогано піднімає настрій.</Execution_Required.description>
   <!-- EN: Executed prisoner -->

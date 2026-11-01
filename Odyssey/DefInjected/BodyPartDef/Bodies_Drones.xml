@@ -5,7 +5,7 @@
   <!-- EN: core -->
   <DroneCore.label>ядро</DroneCore.label>
   <!-- EN: visual sensor -->
-  <DroneEye.label>датчик руху</DroneEye.label>
+  <DroneEye.label>зоровий датчик</DroneEye.label>
   <!-- EN: shell -->
   <DroneShell.label>панцир</DroneShell.label>
   <!-- EN: shell section -->

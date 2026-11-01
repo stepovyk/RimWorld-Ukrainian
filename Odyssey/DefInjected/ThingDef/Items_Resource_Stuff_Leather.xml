@@ -21,7 +21,7 @@
   <!-- EN: Tanned, dried, scraped mink skin. Soft, sleek, and subtly luxurious, mink is used in premium winter clothing and high-end furnishings, meaning it fetches a high price. -->
   <Leather_Mink.description>Оброблена, висушена та підготована шкіра норки. М'яка, гладенька й неймовірно розкішна. Не дивно, що з цього хутра роблять лише найкращий зимовий одяг і якісні меблі... тому і коштує вона чимало.</Leather_Mink.description>
   <!-- EN: sealskin -->
-  <Leather_Sealskin.label>шкіра морського котика</Leather_Sealskin.label>
+  <Leather_Sealskin.label>тюленяча шкіра</Leather_Sealskin.label>
   <!-- EN: The tanned skin of various pinnipeds, such as seals, sea lions, and walruses. It's not particularly tough but it is extremely well insulated. Sealskin is luxuriously soft to the touch, fetching a high price. -->
   <Leather_Sealskin.description>Насправді це оброблена шкіра не тільки морських котиків, але й інших ластоногих, таких як моржі, морські леви та інші. Не надто міцна, але дуже добре захищає від холоду. А ще вона неймовірно м'яка на дотик, завдяки чому її можна дорого продати.</Leather_Sealskin.description>
 </LanguageData>

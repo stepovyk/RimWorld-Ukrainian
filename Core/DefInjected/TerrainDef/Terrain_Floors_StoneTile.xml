@@ -13,7 +13,7 @@
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneMarble.description>Грубо оброблені кам'яні плитки. Вони некрасиві, але з них гарні поверхні для доріг і відкритих доріжок. Деконструкція плитного каменю не дає ресурсів.</FlagstoneMarble.description>
   <!-- EN: sandstone flagstone -->
-  <FlagstoneSandstone.label>піщана плита</FlagstoneSandstone.label>
+  <FlagstoneSandstone.label>пісковикова плита</FlagstoneSandstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
   <FlagstoneSandstone.description>Грубо оброблені кам'яні плитки. Вони некрасиві, але з них гарні поверхні для доріг і відкритих доріжок. Деконструкція плитного каменю не дає ресурсів.</FlagstoneSandstone.description>
   <!-- EN: slate flagstone -->
@@ -33,7 +33,7 @@
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
   <TileMarble.description>Ретельно вирізана та підігнана кам’яна плитка як в замку. Вона гарно виглядає, але її довго вкладати.</TileMarble.description>
   <!-- EN: sandstone tile -->
-  <TileSandstone.label>піщана плитка</TileSandstone.label>
+  <TileSandstone.label>пісковикова плитка</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
   <TileSandstone.description>Ретельно вирізана та підігнана кам’яна плитка як в замку. Вона гарно виглядає, але її довго вкладати.</TileSandstone.description>
   <!-- EN: slate tile -->

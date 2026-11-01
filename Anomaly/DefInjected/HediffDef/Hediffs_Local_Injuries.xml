@@ -25,7 +25,7 @@
   <!-- EN: an energy bolt wound -->
   <EnergyBolt.labelNoun>рана від енергетичного заряду</EnergyBolt.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <EnergyBolt.labelNounPretty>{0} {1}</EnergyBolt.labelNounPretty>
+  <EnergyBolt.labelNounPretty>{0} ({1})</EnergyBolt.labelNounPretty>
   <!-- EN: psychic burn -->
   <PsychicInjury.label>психічний опік</PsychicInjury.label>
   <!-- EN: A psychic burn. -->
@@ -37,7 +37,7 @@
   <!-- EN: a psychic burn -->
   <PsychicInjury.labelNoun>психічний опік</PsychicInjury.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <PsychicInjury.labelNounPretty>{0} {1}</PsychicInjury.labelNounPretty>
+  <PsychicInjury.labelNounPretty>{0} ({1})</PsychicInjury.labelNounPretty>
   <!-- EN: psychic burn -->
   <PsychicInjurySkin.label>психічний опік</PsychicInjurySkin.label>
   <!-- EN: A psychic burn. -->
@@ -49,7 +49,7 @@
   <!-- EN: a psychic burn -->
   <PsychicInjurySkin.labelNoun>психічний опік</PsychicInjurySkin.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <PsychicInjurySkin.labelNounPretty>{0} {1}</PsychicInjurySkin.labelNounPretty>
+  <PsychicInjurySkin.labelNounPretty>{0} ({1})</PsychicInjurySkin.labelNounPretty>
   <!-- EN: psychic burn -->
   <PsychicInjurySolid.label>психічний опік</PsychicInjurySolid.label>
   <!-- EN: A psychic burn. -->
@@ -61,5 +61,5 @@
   <!-- EN: a psychic burn -->
   <PsychicInjurySolid.labelNoun>психічний опік</PsychicInjurySolid.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <PsychicInjurySolid.labelNounPretty>{0} {1}</PsychicInjurySolid.labelNounPretty>
+  <PsychicInjurySolid.labelNounPretty>{0} ({1})</PsychicInjurySolid.labelNounPretty>
 </LanguageData>

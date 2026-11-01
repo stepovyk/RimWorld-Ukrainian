@@ -17,7 +17,7 @@
   <!-- EN: Bioferrite plates that can be surgically attached to a ghoul, protecting vulnerable areas. The plates will reduce incoming damage significantly but also slow the ghoul down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
   <GhoulPlating.description>Біоферитові пластини, які можна хірургічно прикріпити до гуля, захищаючи вразливі ділянки. Пластини значно зменшать вхідну шкоду, але також сповільнять гуля.\n\nЧерез надзвичайно болючу природу протеза, лише гулі можуть витримати цю модифікацію.</GhoulPlating.description>
   <!-- EN: metalblood heart -->
-  <MetalbloodHeart.label>серце металевої крові</MetalbloodHeart.label>
+  <MetalbloodHeart.label>серце залізної крові</MetalbloodHeart.label>
   <!-- EN: A special bioferrite prosthetic that can pump a small amount of metalblood into a ghoul's bloodstream, making it more resistant to damage for a short period of time. Metalblood also makes the ghoul more vulnerable to fire. The prosthetic causes widespread swelling, slowing the ghoul down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
   <MetalbloodHeart.description>Особливий біоферитний протез, який може перекачувати невелику кількість залізної крові в кровеносну систему гуля, роблячи його більш стійким до шкоди протягом короткого періоду часу. Металева кров також зробити гуля більш вразливим до вогню. Протез викликає набряк, сповільнюючи гуля.\n\nЧерез надзвичайно болісну природу протезування, лише гулі можуть перенести це.</MetalbloodHeart.description>
   <!-- EN: revenant vertebrae -->

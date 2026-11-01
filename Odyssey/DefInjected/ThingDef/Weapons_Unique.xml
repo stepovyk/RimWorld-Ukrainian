@@ -43,7 +43,7 @@
   <!-- EN: unique assault rifle -->
   <Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>унікальна штурмова гвинтівка</Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>
   <!-- EN: unique beam repeater -->
-  <Gun_BeamRepeater_Unique.label>унікальний променева помпова рушниця</Gun_BeamRepeater_Unique.label>
+  <Gun_BeamRepeater_Unique.label>унікальна променева помпова рушниця</Gun_BeamRepeater_Unique.label>
   <!-- EN: A beam repeater with customized parts. -->
   <Gun_BeamRepeater_Unique.description>Променева помпова рушниця, яку хтось покращив.</Gun_BeamRepeater_Unique.description>
   <!-- EN: charge -->

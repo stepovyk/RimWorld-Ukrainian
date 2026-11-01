@@ -29,9 +29,9 @@
   <!-- EN: creepy breathing -->
   <CreepyBreathing.stages.creepy_breathing.label>моторошно дихає</CreepyBreathing.stages.creepy_breathing.label>
   <!-- EN: disfigured -->
-  <Disfigured.stages.disfigured.label>Понівечена зовнішність</Disfigured.stages.disfigured.label>
+  <Disfigured.stages.disfigured.label>понівечена зовнішність</Disfigured.stages.disfigured.label>
   <!-- EN: drunk -->
-  <Drunk.stages.drunk.label>{1_gender ? П’яний : П’яна}</Drunk.stages.drunk.label>
+  <Drunk.stages.drunk.label>{1_gender ? П'яний : П'яна}</Drunk.stages.drunk.label>
   <!-- EN: executed prisoner -->
   <ExecutedPrisoner.stages.executed_prisoner.label>{1_gender ? Стратив : Стратила} в'язня</ExecutedPrisoner.stages.executed_prisoner.label>
   <!-- EN: hard worker vs lazy -->
@@ -79,9 +79,9 @@
   <!-- EN: body modder appreciation -->
   <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>пошана трансгуманіста</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
   <!-- EN: physically unsightly -->
-  <Ugly.stages.physically_unsightly.label>Відразлива зовнішність</Ugly.stages.physically_unsightly.label>
+  <Ugly.stages.physically_unsightly.label>відразлива зовнішність</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
-  <Ugly.stages.physically_hideous.label>Потворна зовнішність</Ugly.stages.physically_hideous.label>
+  <Ugly.stages.physically_hideous.label>потворна зовнішність</Ugly.stages.physically_hideous.label>
   <!-- EN: sleeping alone -->
   <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>спить наодинці</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
   <!-- EN: I should be sleeping with a lover or spouse. -->

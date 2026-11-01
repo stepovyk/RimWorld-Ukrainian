@@ -89,7 +89,7 @@
   <!-- EN: A large body of fresh water. -->
   <Lake.description>Велика прісноводна водойма.</Lake.description>
   <!-- EN: lakeshore -->
-  <Lakeshore.label>Берег озера.</Lakeshore.label>
+  <Lakeshore.label>берег озера</Lakeshore.label>
   <!-- EN: This tile borders a lake. -->
   <Lakeshore.description>Ця клітка межує з озером.</Lakeshore.description>
   <!-- EN: lake with island -->

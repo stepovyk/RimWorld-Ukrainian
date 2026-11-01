@@ -17,15 +17,15 @@
   <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
   <Beauty.degreeDatas.staggeringly_ugly.description>{PAWN_nameDef} — людина неймовірної потворності. {PAWN_possessive} обличчя виглядає як щось середнє між малюнком безталанної дитини, деформованим плодом у баночці з формальдегідом і твором сучасного мистецтва. Інші повинні докладати значних зусиль, щоб дивитися на {PAWN_gender ? нього : неї} під час розмови.</Beauty.degreeDatas.staggeringly_ugly.description>
   <!-- EN: chemical fascination -->
-  <DrugDesire.degreeDatas.chemical_fascination.label>захоплення "хімією"</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.label>захоплення хімією</DrugDesire.degreeDatas.chemical_fascination.label>
   <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
   <DrugDesire.degreeDatas.chemical_fascination.description>{PAWN_nameDef} отримує неймовірне задоволення від хімічних речовин. Вживання легких наркотиків покращує настрій, а утримання навпаки - призведе до зростання розчарування з часом і, можливо, до вживання більш важких наркотиків. {PAWN_pronoun} ігноруватиме накази не вживати легкі наркотики та вживатиме більше, ніж звичайна людина.</DrugDesire.degreeDatas.chemical_fascination.description>
   <!-- EN: chemical interest -->
-  <DrugDesire.degreeDatas.chemical_interest.label>цікавість до "хімії"</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.label>цікавість до хімії</DrugDesire.degreeDatas.chemical_interest.label>
   <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
   <DrugDesire.degreeDatas.chemical_interest.description>{PAWN_nameDef} отримує значне задоволення від хімічних речовин. Вживання легких наркотиків покращує настрій, а утримання навпаки - призведе до зростання розчарування з часом і, можливо, до вживання більш важких наркотиків. {PAWN_pronoun} ігноруватиме накази не вживати легкі наркотики та вживатиме більше, ніж звичайна людина.</DrugDesire.degreeDatas.chemical_interest.description>
   <!-- EN: teetotaler -->
-  <DrugDesire.degreeDatas.teetotaler.label>ЗСЖ</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.label>тверезник</DrugDesire.degreeDatas.teetotaler.label>
   <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
   <DrugDesire.degreeDatas.teetotaler.description>{PAWN_nameDef} ненавидить ідею отримання задоволення від хімікатів. {PAWN_pronoun} всіляко уникає алкоголю та наркотиків.</DrugDesire.degreeDatas.teetotaler.description>
   <!-- EN: super-immune -->

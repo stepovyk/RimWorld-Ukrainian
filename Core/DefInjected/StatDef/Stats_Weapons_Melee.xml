@@ -9,7 +9,7 @@
   <!-- EN: Average armor penetration in melee combat. -->
   <MeleeWeapon_AverageArmorPenetration.description>Середнє бронепробиття в ближньому бою.</MeleeWeapon_AverageArmorPenetration.description>
   <!-- EN: melee damage per second -->
-  <MeleeWeapon_AverageDPS.label>пошкодження ближнього бою в секунду</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_AverageDPS.label>шкода/с у ближньому бою</MeleeWeapon_AverageDPS.label>
   <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
   <MeleeWeapon_AverageDPS.description>Середня шкода, що наноситься в секунду ближнього бою, якщо всі атаки попадуть.</MeleeWeapon_AverageDPS.description>
   <!-- EN: melee cooldown -->

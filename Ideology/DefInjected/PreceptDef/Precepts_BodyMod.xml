@@ -9,7 +9,7 @@
   <!-- EN: Humans should strive to reach our full potential by improving our flawed natural bodies. -->
   <BodyMod_Approved.description>Люди повинні прагнути повністю розкрити свій потенціал, удосконалюючи свої пошкоджені природні тіла.</BodyMod_Approved.description>
   <!-- EN: disapproved -->
-  <BodyMod_Disapproved.label>не схвалюється</BodyMod_Disapproved.label>
+  <BodyMod_Disapproved.label>осуджується</BodyMod_Disapproved.label>
   <!-- EN: To modify the natural human body is an ugly, dirty act. -->
   <BodyMod_Disapproved.description>Змінювати природне людське тіло — це потворний, брудний вчинок.</BodyMod_Disapproved.description>
 </LanguageData>

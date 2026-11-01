@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: ancient ammo box -->
-  <AncientAmmoStack.label>коробка від старих набоїв</AncientAmmoStack.label>
+  <AncientAmmoStack.label>старовинний ящик з набоями</AncientAmmoStack.label>
   <!-- EN: A container of ancient ammunition. It's empty and any remaining rounds are corroded to uselessness. -->
   <AncientAmmoStack.description>Коробка від старих набоїв. Вона майже порожня, а ті набої, що лишилися, поіржавіли так, що з них жодної користі.</AncientAmmoStack.description>
   <!-- EN: ancient antenna -->
-  <AncientAntenna.label>древня антена</AncientAntenna.label>
+  <AncientAntenna.label>старовинна антена</AncientAntenna.label>
   <!-- EN: A rusted antenna used to transmit long-forgotten communications. -->
   <AncientAntenna.description>Іржава антена, з якої колись транслювали давно забуті повідомлення.</AncientAntenna.description>
   <!-- EN: ancient armchair -->
-  <AncientArmchair.label>старе крісло</AncientArmchair.label>
+  <AncientArmchair.label>старовинне крісло</AncientArmchair.label>
   <!-- EN: A faded and torn armchair. It's unusable in its current state. -->
   <AncientArmchair.description>Полиняле і розідране крісло з підлокітниками. В такому стані ним не скористаєшся.</AncientArmchair.description>
   <!-- EN: broken autocannon turret -->
@@ -29,19 +29,19 @@
   <!-- EN: An soggy cardboard box filled with old detritus. -->
   <AncientCardboardBox.description>Сира картонна коробка, повна старого мотлоху.</AncientCardboardBox.description>
   <!-- EN: ancient chembarrel -->
-  <AncientChembarrel.label>стара бочка від хімпалива</AncientChembarrel.label>
+  <AncientChembarrel.label>старовинна бочка хімпалива</AncientChembarrel.label>
   <!-- EN: A rusted barrel that once stored chemfuel. It's empty and corroded. -->
   <AncientChembarrel.description>Бочка, в якій колись давно зберігалося хімпаливо. Вона порожня і давно поіржавіла.</AncientChembarrel.description>
   <!-- EN: ancient chembarrel pallet -->
-  <AncientChembarrelPallet.label>старий піддон хімпалива</AncientChembarrelPallet.label>
+  <AncientChembarrelPallet.label>старовинний піддон з бочками хімпалива</AncientChembarrelPallet.label>
   <!-- EN: A stack of rusted barrels on a decayed pallet. Any valuable fuel leaked out long ago. -->
   <AncientChembarrelPallet.description>Іржаві бочки на гнилому піддоні. Якщо тут і було паливо, воно давно витекло.</AncientChembarrelPallet.description>
   <!-- EN: ancient chemtruck -->
-  <AncientChemtruck.label>стара машина хімпалива</AncientChemtruck.label>
+  <AncientChemtruck.label>старовинна цистерна хімпалива</AncientChemtruck.label>
   <!-- EN: An abandoned chemfuel transport truck. Any usable parts were looted long ago. -->
   <AncientChemtruck.description>Закинута машина для перевезення хімпалива. Все, що з неї можна було скрутити, вже давно скрутили.</AncientChemtruck.description>
   <!-- EN: ancient cold storage -->
-  <AncientColdStorage.label>старий холодильник</AncientColdStorage.label>
+  <AncientColdStorage.label>старовинний холодильник</AncientColdStorage.label>
   <!-- EN: An old refrigeration unit, now rusted shut. Any contents have long since decayed to dust. -->
   <AncientColdStorage.description>Старий холодильник, дверцята якого заіржавіли так, що не відкрити. Та й не варто, усе одно все всередині давно розсипалося на порох.</AncientColdStorage.description>
   <!-- EN: ruined crane arm -->
@@ -61,15 +61,15 @@
   <!-- EN: A vertical support column from a ruined crane. It's rusted and no longer stable. -->
   <AncientCraneColumn.description>Вертикальний каркас старого крана. Давно поіржавів та перекосився.</AncientCraneColumn.description>
   <!-- EN: ancient crate pallet -->
-  <AncientCratePallet.label>старий піддон з ящиками</AncientCratePallet.label>
+  <AncientCratePallet.label>старовинний піддон з ящиками</AncientCratePallet.label>
   <!-- EN: A pallet for stacking and transporting crates. The contents have been scavenged long ago. -->
   <AncientCratePallet.description>Піддон для транспортування ящиків. Звісно ж, їхній вміст поцупили вже дуже давно.</AncientCratePallet.description>
   <!-- EN: ancient destroyed console -->
-  <AncientDestroyedConsole.label>древній зламаний пульт</AncientDestroyedConsole.label>
+  <AncientDestroyedConsole.label>старовинний зламаний пульт</AncientDestroyedConsole.label>
   <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
   <AncientDestroyedConsole.description>Зламаний пульт. Скористатися ним неможливо. Всі корисні компоненті або розбито, або вкрадено.</AncientDestroyedConsole.description>
   <!-- EN: ancient destroyed console -->
-  <AncientDestroyedConsoleLarge.label>древній зламаний пульт</AncientDestroyedConsoleLarge.label>
+  <AncientDestroyedConsoleLarge.label>старовинний зламаний пульт</AncientDestroyedConsoleLarge.label>
   <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
   <AncientDestroyedConsoleLarge.description>Зламаний пульт. Скористатися ним неможливо. Всі корисні компоненті або розбито, або вкрадено.</AncientDestroyedConsoleLarge.description>
   <!-- EN: rusted double bed -->
@@ -81,7 +81,7 @@
   <!-- EN: A device meant for drilling deep into the earth. Any valuable parts were looted long ago. -->
   <AncientDrillPlatform.description>Пристрій для буріння земних надр. Все, що з неї можна було скрутити, вже давно скрутили.</AncientDrillPlatform.description>
   <!-- EN: ancient excavator -->
-  <AncientExcavator.label>старий екскаватор</AncientExcavator.label>
+  <AncientExcavator.label>старовинний екскаватор</AncientExcavator.label>
   <!-- EN: The remains of a mining vehicle. The valuable parts were looted long ago. -->
   <AncientExcavator.description>Залишки шахтарської техніки. Все, що з неї можна було скрутити, вже давно скрутили.</AncientExcavator.description>
   <!-- EN: rusted filing cabinet -->
@@ -93,7 +93,7 @@
   <!-- EN: A broken forklift, rusted and missing parts. It's far too damaged to be repaired. -->
   <AncientForklift.description>Зламаний вилковий навантажувач, іржавий і з відсутніми запчастинами. Надто пошкоджений, щоб було варто ремонтувати.</AncientForklift.description>
   <!-- EN: ancient industrial shelf -->
-  <AncientIndustrialShelf.label>стара промислова поличка</AncientIndustrialShelf.label>
+  <AncientIndustrialShelf.label>старовинний промисловий стелаж</AncientIndustrialShelf.label>
   <!-- EN: An industrial shelf covered in rust. It offers nothing of value. -->
   <AncientIndustrialShelf.description>Промислова поличка, покрита іржею. Цінності нуль.</AncientIndustrialShelf.description>
   <!-- EN: rusted industrial truck -->
@@ -105,7 +105,7 @@
   <!-- EN: A set of metal lockers, heavily rusted and bent. They've been thoroughly looted. -->
   <AncientLockers.description>Кілька сильно побитих життям іржавих металевих шафок. Усе цінне з них витягли вже дуже давно.</AncientLockers.description>
   <!-- EN: ancient container -->
-  <AncientMediumContainer.label>старий контейнер</AncientMediumContainer.label>
+  <AncientMediumContainer.label>старовинний контейнер</AncientMediumContainer.label>
   <!-- EN: A rusted shipping container. It's completely empty. -->
   <AncientMediumContainer.description>Іржавий транспортний контейнер. В ньому порожньо.</AncientMediumContainer.description>
   <!-- EN: rusted metal crate -->
@@ -113,11 +113,11 @@
   <!-- EN: A metal crate, now rusted shut. It's empty and worthless. -->
   <AncientMetalCrate.description>Металевий контейнер, кришку заклинило намертво. Порожній непотріб.</AncientMetalCrate.description>
   <!-- EN: ancient military barrier -->
-  <AncientMilitaryBarrier.label>старий військовий бар'єр</AncientMilitaryBarrier.label>
+  <AncientMilitaryBarrier.label>старовинний військовий бар'єр</AncientMilitaryBarrier.label>
   <!-- EN: A concrete barrier once used for military roadblocks. -->
   <AncientMilitaryBarrier.description>Бетонний бар'єр, який колись використовувався для військових блокпостів.</AncientMilitaryBarrier.description>
   <!-- EN: ancient military generator -->
-  <AncientMilitaryGeneratorSmall.label>старий військовий генератор</AncientMilitaryGeneratorSmall.label>
+  <AncientMilitaryGeneratorSmall.label>старовинний військовий генератор</AncientMilitaryGeneratorSmall.label>
   <!-- EN: A small rusted generator. The fuel tank is empty and the engine is beyond repair. -->
   <AncientMilitaryGeneratorSmall.description>Старий іржавий генератор. Паливний бак порожній, а сам генератор вже не відновити.</AncientMilitaryGeneratorSmall.description>
   <!-- EN: busted mortar -->
@@ -129,11 +129,11 @@
   <!-- EN: A rusted shipping container. Its contents are worthless. -->
   <AncientOpenContainer.description>Іржавий транспортний контейнер. Його вміст вже не розпізнати.</AncientOpenContainer.description>
   <!-- EN: ancient pipe -->
-  <AncientPipe.label>стара труба</AncientPipe.label>
+  <AncientPipe.label>старовинна труба</AncientPipe.label>
   <!-- EN: A segment of old corroded piping. -->
   <AncientPipe.description>Шмат старої іржавої труби.</AncientPipe.description>
   <!-- EN: ancient plant pot -->
-  <AncientPlantPot.label>старий горщик для рослин</AncientPlantPot.label>
+  <AncientPlantPot.label>старовинний вазон</AncientPlantPot.label>
   <!-- EN: A large cracked pot with dead soil. Nothing can grow here any more. -->
   <AncientPlantPot.description>Старий тріснутий горщик з висохлою землею. Тут вже нічого не виросте.</AncientPlantPot.description>
   <!-- EN: rusted microwave -->
@@ -141,7 +141,7 @@
   <!-- EN: An ancient microwave covered in rust. It's beyond repair. -->
   <AncientRustedMicrowave.description>Старовинна іржава мікрохвильовка. Ремонтувати — лише час гаяти.</AncientRustedMicrowave.description>
   <!-- EN: ancient shelf -->
-  <AncientShelf.label>стара поличка</AncientShelf.label>
+  <AncientShelf.label>старовинний стелаж</AncientShelf.label>
   <!-- EN: An ancient shelf. It holds nothing of interest. -->
   <AncientShelf.description>Стара поличка. На ній нічого цікавого.</AncientShelf.description>
   <!-- EN: cracked shower -->
@@ -149,7 +149,7 @@
   <!-- EN: A broken shower stall. The plumbing is corroded and the ceramics are shattered. -->
   <AncientShower.description>Зламана душова кабінка. Труби поіржавіли, а кераміку побито.</AncientShower.description>
   <!-- EN: ancient research bench -->
-  <AncientSimpleResearchBench.label>древній дослідницький стіл</AncientSimpleResearchBench.label>
+  <AncientSimpleResearchBench.label>старовинний дослідницький стіл</AncientSimpleResearchBench.label>
   <!-- EN: An old, rudimentary research bench with corroded tools and faded notes. Nothing of value remains. -->
   <AncientSimpleResearchBench.description>Старий простенький дослідницький стіл з іржавими інструментами та пожовтілими нотатками. Цінності нуль.</AncientSimpleResearchBench.description>
   <!-- EN: rusted bed -->
@@ -157,59 +157,59 @@
   <!-- EN: A single bed frame with rusted metal and a torn mattress. It's better than sleeping on the ground, but just barely. -->
   <AncientSingleBed.description>Іржаве односпальне ліжко з драним матрацом. Краще, ніж спати не землі, але лише трохи.</AncientSingleBed.description>
   <!-- EN: ancient container -->
-  <AncientSmallContainer.label>старий контейнер</AncientSmallContainer.label>
+  <AncientSmallContainer.label>старовинний контейнер</AncientSmallContainer.label>
   <!-- EN: A rusted shipping container. It's completely empty. -->
   <AncientSmallContainer.description>Іржавий транспортний контейнер. В ньому порожньо.</AncientSmallContainer.description>
   <!-- EN: ancient small shelf -->
-  <AncientSmallShelf.label>стара маленька поличка</AncientSmallShelf.label>
+  <AncientSmallShelf.label>старовинний малий стелаж</AncientSmallShelf.label>
   <!-- EN: An ancient shelf. There's nothing useful left on it. -->
   <AncientSmallShelf.description>Стара поличка. Можна навіть не шукати тут нічого корисного.</AncientSmallShelf.description>
   <!-- EN: ancient brewery -->
-  <AncientTableBrewery.label>стара пивоварня</AncientTableBrewery.label>
+  <AncientTableBrewery.label>старовинна пивоварня</AncientTableBrewery.label>
   <!-- EN: A dilapidated brewing table once used for fermentation. The equipment is rusted beyond use. -->
   <AncientTableBrewery.description>Розбитий стіл, що колись використовували для ферментації. Обладнання поіржавіло настільки, що з нього жодної користі.</AncientTableBrewery.description>
   <!-- EN: ancient butcher table -->
-  <AncientTableButcher.label>старий стіл м'ясника</AncientTableButcher.label>
+  <AncientTableButcher.label>старовинний стіл м'ясника</AncientTableButcher.label>
   <!-- EN: A broken butcher's table littered with old stains. -->
   <AncientTableButcher.description>Розбитий стіл м'ясника у засохлих старих плямах.</AncientTableButcher.description>
   <!-- EN: ancient drug lab -->
-  <AncientTableDrugLab.label>стара хімічна лабораторія</AncientTableDrugLab.label>
+  <AncientTableDrugLab.label>старовинна хімічна лабораторія</AncientTableDrugLab.label>
   <!-- EN: A crumbling lab table with shattered glassware. The equipment is useless and contaminated. -->
   <AncientTableDrugLab.description>Старий лабораторний стіл з розбитими колбами. Обладнанням із залишками бозна-чого вже не скористаєшся.</AncientTableDrugLab.description>
   <!-- EN: ancient machining table -->
-  <AncientTableMachining.label>старий механічний верстат</AncientTableMachining.label>
+  <AncientTableMachining.label>старовинний механічний верстат</AncientTableMachining.label>
   <!-- EN: A rusted machining table covered in debris. All useful parts have been scavenged. -->
   <AncientTableMachining.description>Іржавий механічний верстат, завалений мотлохом Усі корисні деталі хтось давно скрутив.</AncientTableMachining.description>
   <!-- EN: ancient electric smithy -->
-  <AncientTableSmithingElectric.label>закинута електрична кузня</AncientTableSmithingElectric.label>
+  <AncientTableSmithingElectric.label>старовинна електрична кузня</AncientTableSmithingElectric.label>
   <!-- EN: A ruined electric smithy with frayed wires and scorched surfaces. It's beyond repair. -->
   <AncientTableSmithingElectric.description>Зламана електрична кузня. Дроти порізано, усе погоріло. Ремонтувати — лише час гаяти.</AncientTableSmithingElectric.description>
   <!-- EN: ancient fueled smithy -->
-  <AncientTableSmithingFueled.label>стара дров'яна кузня</AncientTableSmithingFueled.label>
+  <AncientTableSmithingFueled.label>старовинна дров'яна кузня</AncientTableSmithingFueled.label>
   <!-- EN: An ancient smithy that once burned fuel for crafting. Now, it's covered in soot and rust. -->
   <AncientTableSmithingFueled.description>Старовинна кузня, яку колись розпалювали дровами. Тримається на самій іржі та сажі.</AncientTableSmithingFueled.description>
   <!-- EN: ancient electric stove -->
-  <AncientTableStoveElectric.label>закинута електрична плита</AncientTableStoveElectric.label>
+  <AncientTableStoveElectric.label>старовинна електрична плита</AncientTableStoveElectric.label>
   <!-- EN: An old electric stove with shattered heating elements. It's far too damaged to use. -->
   <AncientTableStoveElectric.description>Стара електрична плита з розбитими нагрівальними елементами. Надто пошкоджена для використання.</AncientTableStoveElectric.description>
   <!-- EN: ancient fueled stove -->
-  <AncientTableStoveFueled.label>стара дров'яна плита</AncientTableStoveFueled.label>
+  <AncientTableStoveFueled.label>старовинна дров'яна плита</AncientTableStoveFueled.label>
   <!-- EN: A rusted cooking stove. It's beyond unusable. -->
   <AncientTableStoveFueled.description>Іржава плита для готування. Нею вже не скористаєшся.</AncientTableStoveFueled.description>
   <!-- EN: ancient electric tailor bench -->
-  <AncientTableTailorElectric.label>стара швацька машина</AncientTableTailorElectric.label>
+  <AncientTableTailorElectric.label>старовинна швацька машина</AncientTableTailorElectric.label>
   <!-- EN: A ruined tailor's bench with torn fabric and broken tools. It's beyond salvage. -->
   <AncientTableTailorElectric.description>Тканини порвано, інструменти розтрощено... Тут вже нема чого ремонтувати.</AncientTableTailorElectric.description>
   <!-- EN: ancient hand tailor bench -->
-  <AncientTableTailorHand.label>старий стіл кравця</AncientTableTailorHand.label>
+  <AncientTableTailorHand.label>старовинний стіл кравця</AncientTableTailorHand.label>
   <!-- EN: A simple tailor's bench with splintered wood and rusted needles. Nothing useful remains. -->
   <AncientTableTailorHand.description>Простий стіл кравця. Дерево розбито, голки поіржавіли. Нічого корисного.</AncientTableTailorHand.description>
   <!-- EN: ancient tunneler claw -->
-  <AncientTunnelerClaw.label>старий ківш тунельника</AncientTunnelerClaw.label>
+  <AncientTunnelerClaw.label>старовинний ківш тунельника</AncientTunnelerClaw.label>
   <!-- EN: The claw of an ancient mining mechanoid. All the parts are degraded to uselessness. -->
   <AncientTunnelerClaw.description>Ківш старого шахтарського механоїда. Усі рухомі частини поїла іржа.</AncientTunnelerClaw.description>
   <!-- EN: ancient tunneler husk -->
-  <AncientTunnelerHusk.label>старий корпус тунельника</AncientTunnelerHusk.label>
+  <AncientTunnelerHusk.label>старовинний корпус тунельника</AncientTunnelerHusk.label>
   <!-- EN: The remains of an ancient mining mechanoid. Its complex parts are all degraded to uselessness. -->
   <AncientTunnelerHusk.description>Залишки старого шахтарського механоїда. Усі складні частини поїла іржа.</AncientTunnelerHusk.description>
   <!-- EN: busted television -->
@@ -221,7 +221,7 @@
   <!-- EN: A heavy turret designed to fire uranium slugs. The mechanism is smashed and the ammo is depleted. -->
   <AncientUraniumSlugTurret.description>Важка турель, розрахована під снаряди зі збідненого урану. Механізм зламано, а боєзапас скінчився вже дуже давно.</AncientUraniumSlugTurret.description>
   <!-- EN: ancient wind turbine -->
-  <AncientWindTurbineBody.label>стара вітрова турбіна</AncientWindTurbineBody.label>
+  <AncientWindTurbineBody.label>старовинна вітрова турбіна</AncientWindTurbineBody.label>
   <!-- EN: A toppled wind turbine with broken blades. It's been scavenged for parts long ago. -->
   <AncientWindTurbineBody.description>Перекинута вітрова турбіна зі зламаними лопатями. Все цінне з неї зняли вже дуже давно.</AncientWindTurbineBody.description>
   <!-- EN: old wooden crate -->

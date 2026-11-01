@@ -43,7 +43,7 @@
   <!-- EN: head -->
   <Dryad_Berrymaker.tools.head.label>голова</Dryad_Berrymaker.tools.head.label>
   <!-- EN: carrier dryad -->
-  <Dryad_Carrier.label>дріада-збирач</Dryad_Carrier.label>
+  <Dryad_Carrier.label>дріада-носій</Dryad_Carrier.label>
   <!-- EN: A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <Dryad_Carrier.description>Каста дріад, яка спеціалізується на перенесенні речей. Під впливом людини це може допомогти переносити речі туди, куди потрібно.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Carrier.description>
   <!-- EN: left claw -->
@@ -95,7 +95,7 @@
   <!-- EN: head -->
   <Dryad_Medicinemaker.tools.head.label>голова</Dryad_Medicinemaker.tools.head.label>
   <!-- EN: woodmaker dryad -->
-  <Dryad_Woodmaker.label>древесна дріада</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.label>деревна дріада</Dryad_Woodmaker.label>
   <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <Dryad_Woodmaker.description>Повільна та незграбна каста дріад, яка спеціалізується на виробництві деревини. Разом зі своїм деревом Гауранлен ця дріада може постійно виробляти матеріал, схожий на дерево. Однак вони повільні і неефективні під час бою.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Woodmaker.description>
   <!-- EN: left claw -->

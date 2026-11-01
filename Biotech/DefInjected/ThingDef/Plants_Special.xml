@@ -9,7 +9,7 @@
   <!-- EN: After generations of exposure, these trees have evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux trees do not create toxic wastepacks. -->
   <Plant_TreePolux.description>Після кількох поколінь впливу токсинів, ці дерева набули здатності метаболізувати забруднюючі речовини. Вони витягують токсичні речовини з землі через широку мережу коренів та повільно очищають забруднену місцевість поблизу. Однак вони не зможуть цього робити, якщо над їхнім корінням щось збудовано.\n\nНа відміну від більшості методів очищення забрудненої місцевості, дерева Полюкса не створюють токсичних пакетів відходів.</Plant_TreePolux.description>
   <!-- EN: polux seed -->
-  <PoluxSeed.label>паросток дерева Полюкса</PoluxSeed.label>
+  <PoluxSeed.label>насінина дерева Полюкса</PoluxSeed.label>
   <!-- EN: The seed of a polux tree. It can be planted to create a new polux tree which will absorb pollution from nearby terrain. -->
   <PoluxSeed.description>Паросток дерева Полюкса. Його можна використати для посадки нового дерева Полюкса. Це дерево здатне поглинати забруднення з прилеглих грунтів.</PoluxSeed.description>
   <!-- EN: smashed polux stump -->

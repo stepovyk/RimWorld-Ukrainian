@@ -11,7 +11,7 @@
   <!-- EN: extreme -->
   <PsilocapHigh.stages.extreme.label>надзвичайна</PsilocapHigh.stages.extreme.label>
   <!-- EN: psilocap tolerance -->
-  <PsilocapTolerance.label>толерантність до псилогрибів</PsilocapTolerance.label>
+  <PsilocapTolerance.label>звикання до псилогрибу</PsilocapTolerance.label>
   <!-- EN: An acquired tolerance to psilocap. The more severe this tolerance is, the more psilocap it takes to get the same effect. -->
   <PsilocapTolerance.description>Набута толерантність до псилогрибів Чим вона серйозніша, тим більше потрібно буде псилогрибів для досягнення однакового ефекту.</PsilocapTolerance.description>
   <!-- EN: small -->

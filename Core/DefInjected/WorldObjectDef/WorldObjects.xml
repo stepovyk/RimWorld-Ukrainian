@@ -33,13 +33,13 @@
   <!-- EN: A site designated for peace talks. -->
   <PeaceTalks.description>Місце мирних переговорів.</PeaceTalks.description>
   <!-- EN: pocket map -->
-  <PocketMap.label>кишенькова карта</PocketMap.label>
+  <PocketMap.label>кишенькова мапа</PocketMap.label>
   <!-- EN: waypoint -->
   <RoutePlannerWaypoint.label>точка маршруту</RoutePlannerWaypoint.label>
   <!-- EN: A temporary waypoint. -->
   <RoutePlannerWaypoint.description>Тимчасова точка маршруту.</RoutePlannerWaypoint.description>
   <!-- EN: settlement -->
-  <Settlement.label>база фракції</Settlement.label>
+  <Settlement.label>поселення</Settlement.label>
   <!-- EN: A base of one of the factions. -->
   <Settlement.description>База однієї з фракцій.</Settlement.description>
   <!-- EN: site -->

@@ -29,7 +29,7 @@
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Пара запальних снарядів, з’єднаних зі спусковим гачком, які детонують від дотику або пострілу. Оскільки пастки призначені для прихованого встановлення, їх не можна ставити поряд з іншими подібними пристроями. Тварини у спокійному стані обходять міни та пастки стороною, але все-одно можуть зачепити їх.</TrapIED_Incendiary.description>
   <!-- EN: IED smoke trap -->
-  <TrapIED_Smoke.label>СВП димова пастка</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>димова пастка</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Smoke.description>Пара димових шашок, з'єднаних з детонатором, який детонує від дотику або влучання кулі. Оскільки вона прихована в навколишньому ландшафті, її не можна розміщувати поруч з іншими пастками. Тварини можуть відчути їх у спокійному стані.</TrapIED_Smoke.description>
   <!-- EN: spike trap -->

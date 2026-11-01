@@ -5,11 +5,11 @@
   <!-- EN: Psychically command the target to approach the caster. -->
   <Beckon.description>Змушує ціль наблизитись до псионіка.</Beckon.description>
   <!-- EN: berserk -->
-  <Berserk.label>лють</Berserk.label>
+  <Berserk.label>берсерк</Berserk.label>
   <!-- EN: Induce an angry psychosis in the target's mind, causing them to attack anyone nearby. -->
   <Berserk.description>Викликає приступ некерованого гніву у цілі, спонукаючи її атакувати усіх довкола себе.</Berserk.description>
   <!-- EN: berserk pulse -->
-  <BerserkPulse.label>хвиля люті</BerserkPulse.label>
+  <BerserkPulse.label>хвиля берсерку</BerserkPulse.label>
   <!-- EN: Generate an overwhelming rush of undirected rage in everyone near the target point. -->
   <BerserkPulse.description>Викликати приступ неконтрольованого гніву у всіх у вибраній області, спонукаючи їх атакувати усіх довкола себе.</BerserkPulse.description>
   <!-- EN: blinding pulse -->
@@ -29,11 +29,11 @@
   <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
   <ChaosSkip.description>Переміщує ціль у випадкове місце неподалік від її відправної точки. Об'єкти, розмір яких перевищує допустиме значення, не можуть бути телепортовані.</ChaosSkip.description>
   <!-- EN: chunk skip -->
-  <Chunkskip.label>телепортація уламків</Chunkskip.label>
+  <Chunkskip.label>стрибок уламків</Chunkskip.label>
   <!-- EN: Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
   <Chunkskip.description>Розкидує 5 кам'яних чи металевих уламків навколо цільової точки. Це корисно для створення укриття під час наступальних операцій.</Chunkskip.description>
   <!-- EN: neural heat dump -->
-  <EntropyDump.label>скидання пси-напруги</EntropyDump.label>
+  <EntropyDump.label>скидання нейронапруги</EntropyDump.label>
   <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
   <EntropyDump.description>Миттєво переводить всю свою нейро-напругу на когось іншого. Як побічний ефект, ціль приблизно на день впаде у виснажливу, проте не шкідливу, кому. Ціль повинна погоджуватись на це на психічному рівні, тому лише притомні союзники можуть бути обрані в якості цілі.</EntropyDump.description>
   <!-- EN: farskip -->
@@ -41,7 +41,7 @@
   <!-- EN: Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
   <Farskip.description>Переміщує псионіка та усіх, хто поблизу нього до союзника в іншій місцевості. Ця здатність дозволяє переміщувати людей по планеті, але працює тільки якщо у пункті призначення знаходиться союзник, готовий виступити у якості "навігаційного маяка". Переміщені люди завжди з'являтимуться у точці призначення поблизу випадкового союзника.</Farskip.description>
   <!-- EN: flashstorm -->
-  <Flashstorm.label>виклик грозового шторму</Flashstorm.label>
+  <Flashstorm.label>грозовий шторм</Flashstorm.label>
   <!-- EN: Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
   <Flashstorm.description>Відкриває стрибкові ворота у атмосфері, викликаючи різницю тисків, для створення локалізованого грозового шторму. Деякий час шторм уражатиме область блискавками, перш ніж зникнути.</Flashstorm.description>
   <!-- EN: focus -->
@@ -75,7 +75,7 @@
   <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
   <Skip.description>Телепортує ціль у бажану позицію не надто далеко від вихідної точки. Занадто великі об'єкти не можуть бути телепортовані.</Skip.description>
   <!-- EN: smokepop -->
-  <Smokepop.label>пилова курява</Smokepop.label>
+  <Smokepop.label>димова завіса</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
   <Smokepop.description>Створює щільну завісу з частинок пилу. Через таку хмару не можуть стріляти турелі, а точність стрільби іншої зброї зменшується.</Smokepop.description>
   <!-- EN: solar pinhole -->
@@ -87,7 +87,7 @@
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
   <Speech.description>Почніть промову. Усі колоністи прийдуть і слухатимуть. В залежності від якості промови, настрій слухачів може як покращитися так і погіршитися. Результат залежить від соціальних здібностей промовця.</Speech.description>
   <!-- EN: stun -->
-  <Stun.label>приголомшення</Stun.label>
+  <Stun.label>оглушення</Stun.label>
   <!-- EN: Momentarily disrupt motor function in the target's brain, preventing any movement. -->
   <Stun.description>Миттєво порушує рухову функцію мозку цілі, запобігаючи будь-яким рухам.</Stun.description>
   <!-- EN: vertigo pulse -->

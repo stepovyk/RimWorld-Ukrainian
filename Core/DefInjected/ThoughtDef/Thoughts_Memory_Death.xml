@@ -73,11 +73,11 @@
   <!-- EN: My father died. He's gone forever. -->
   <MyFatherDied.stages.my_father_died.description>Мій батько помер. Я більше ніколи його не побачу.</MyFatherDied.stages.my_father_died.description>
   <!-- EN: my fiance {0} died -->
-  <MyFianceDied.stages.my_fiance_died.label>Мій наречений, {0}, помер</MyFianceDied.stages.my_fiance_died.label>
+  <MyFianceDied.stages.my_fiance_died.label>мій наречений, {0}, помер</MyFianceDied.stages.my_fiance_died.label>
   <!-- EN: My fiance died. Such a man... my future is gone. -->
   <MyFianceDied.stages.my_fiance_died.description>Мій наречений помер. Я не знаю як далі жити.</MyFianceDied.stages.my_fiance_died.description>
   <!-- EN: my fiancée {0} died -->
-  <MyFianceeDied.stages.my_fiance_died.label>Моя наречена, {0}, померла</MyFianceeDied.stages.my_fiance_died.label>
+  <MyFianceeDied.stages.my_fiance_died.label>моя наречена, {0}, померла</MyFianceeDied.stages.my_fiance_died.label>
   <!-- EN: My fiancée died. Such a woman... my future is gone. -->
   <MyFianceeDied.stages.my_fiance_died.description>Моя наречена померла. Я не знаю як далі жити.</MyFianceeDied.stages.my_fiance_died.description>
   <!-- EN: my grandchild {0} died -->
@@ -93,7 +93,7 @@
   <!-- EN: My half-sibling died. My own flesh and blood... -->
   <MyHalfSiblingDied.stages.my_halfsibling_died.description>{1_gender ? Мій зведений брат помер : Моя зведена сестра померла}. Я більше ніколи її не побачу.</MyHalfSiblingDied.stages.my_halfsibling_died.description>
   <!-- EN: my husband {0} died -->
-  <MyHusbandDied.stages.my_husband_died.label>Мій чоловік, {0}, помер</MyHusbandDied.stages.my_husband_died.label>
+  <MyHusbandDied.stages.my_husband_died.label>мій чоловік, {0}, помер</MyHusbandDied.stages.my_husband_died.label>
   <!-- EN: My husband is dead. I am alone. -->
   <MyHusbandDied.stages.my_husband_died.description>Помер мій чоловік. Я тепер на самоті.</MyHusbandDied.stages.my_husband_died.description>
   <!-- EN: my kin {0} died -->

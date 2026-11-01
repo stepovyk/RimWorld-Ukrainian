@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: ageless -->
-  <Ageless.label>вічність</Ageless.label>
+  <Ageless.label>вічна молодість</Ageless.label>
   <!-- EN: Carriers of this gene have archites in the bloodstream which continuously reverse the process of aging. Starting at the age of 13, carriers begin to biologically age slower. By 18, the aging process stops completely. -->
   <Ageless.description>У носіїв цього гена в крові є архіти, які безперервно гальмують процес старіння. Починаючи з 13 років, носії починають біологічно старіти повільніше. До 18 років процес старіння повністю припиняється.</Ageless.description>
   <!-- EN: god -->
@@ -69,11 +69,11 @@
   <!-- EN: pyrophobic -->
   <FireTerror.labelShortAdj>пірофобний</FireTerror.labelShortAdj>
   <!-- EN: tinderskin -->
-  <FireWeakness.label>тонка шкіра</FireWeakness.label>
+  <FireWeakness.label>займиста шкіра</FireWeakness.label>
   <!-- EN: Carriers have dry, thin skin which burns easily from fire, and their immune systems react very poorly to this kind of threat. Damage from fire is multiplied by 4. -->
   <FireWeakness.description>Носії цього гена мають суху, тонку шкіру, яка легко обгорає від вогню, а їхня імунна система дуже погано реагує на такого роду загрози. Шкода від вогню множаться на 4.</FireWeakness.description>
   <!-- EN: tinderskin -->
-  <FireWeakness.labelShortAdj>тонкошкірий</FireWeakness.labelShortAdj>
+  <FireWeakness.labelShortAdj>займистий</FireWeakness.labelShortAdj>
   <!-- EN: dry -->
   <FireWeakness.symbolPack.prefixSymbols.0.symbol>сухо</FireWeakness.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: tinder -->

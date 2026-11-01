@@ -51,7 +51,7 @@
   <!-- EN: This creature's reproductive system has been permanently shut down. -->
   <Sterilized.description>Репродуктивна система цієї істоти більше ніколи не функціонуватиме.</Sterilized.description>
   <!-- EN: trauma savant -->
-  <TraumaSavant.label>синдром Саванта</TraumaSavant.label>
+  <TraumaSavant.label>травматичний савантизм</TraumaSavant.label>
   <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
   <TraumaSavant.description>Виняткова особливість, спричинена травмою голови. Мозок адаптується до ушкоджень, розвиваючи неймовірні здібності у деяких областях, але втрачаючи здатність розмовляти.</TraumaSavant.description>
   <!-- EN: trauma -->

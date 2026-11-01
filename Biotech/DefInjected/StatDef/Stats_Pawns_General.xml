@@ -19,7 +19,7 @@
   <!-- EN: Fertility affects the chance of a pregnancy occurring. Pregnancy chance is dependent on the fertility of both partners. This also affects the chance of successfully implanting an embryo in a surrogate. -->
   <Fertility.description>Плодовитість впливає на ймовірність вагітності. Шанс вагітності залежить від плодовитості обох партнерів. Це також впливає на ймовірність успішної імплантації ембріона сурогатній матері.</Fertility.description>
   <!-- EN: growth vat occupant speed -->
-  <GrowthVatOccupantSpeed.label>Швидкість росту в інкубаторі</GrowthVatOccupantSpeed.label>
+  <GrowthVatOccupantSpeed.label>швидкість росту в інкубаторі</GrowthVatOccupantSpeed.label>
   <!-- EN: A multiplier on how quickly this person will grow when in a growth vat. -->
   <GrowthVatOccupantSpeed.description>Визначає швидкість росту в інкубаторі.</GrowthVatOccupantSpeed.description>
   <!-- EN: hemogen gain multiplier -->

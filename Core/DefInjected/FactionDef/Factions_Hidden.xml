@@ -7,7 +7,7 @@
   <!-- EN: leader -->
   <Ancients.leaderTitle>лідер</Ancients.leaderTitle>
   <!-- EN: Ancient soldiers are attacking. -->
-  <Ancients.messageDefendersAttacking>Стародавні воїни атакують.</Ancients.messageDefendersAttacking>
+  <Ancients.messageDefendersAttacking>Древні воїни атакують.</Ancients.messageDefendersAttacking>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>древній</Ancients.pawnSingular>
   <!-- EN: ancients -->
@@ -19,7 +19,7 @@
   <!-- EN: leader -->
   <AncientsHostile.leaderTitle>лідер</AncientsHostile.leaderTitle>
   <!-- EN: Ancient soldiers are attacking. -->
-  <AncientsHostile.messageDefendersAttacking>Стародавні воїни атакують.</AncientsHostile.messageDefendersAttacking>
+  <AncientsHostile.messageDefendersAttacking>Древні воїни атакують.</AncientsHostile.messageDefendersAttacking>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>древній</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->

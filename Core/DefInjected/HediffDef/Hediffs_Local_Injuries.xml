@@ -11,7 +11,7 @@
   <!-- EN: an acid burn -->
   <AcidBurn.labelNoun>кислотний опік</AcidBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <AcidBurn.labelNounPretty>{0} на {1}</AcidBurn.labelNounPretty>
+  <AcidBurn.labelNounPretty>{0} ({1})</AcidBurn.labelNounPretty>
   <!-- EN: Dissolved -->
   <AcidBurn.injuryProps.destroyedOutLabel>Dissolved</AcidBurn.injuryProps.destroyedOutLabel>
   <!-- EN: beam burn -->
@@ -29,7 +29,7 @@
   <!-- EN: a beam burn -->
   <BeamWound.labelNoun>променевий опік</BeamWound.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <BeamWound.labelNounPretty>{0} в {1}</BeamWound.labelNounPretty>
+  <BeamWound.labelNounPretty>{0} ({1})</BeamWound.labelNounPretty>
   <!-- EN: bite -->
   <Bite.label>укус</Bite.label>
   <!-- EN: A bite wound. -->
@@ -43,7 +43,7 @@
   <!-- EN: a bite wound -->
   <Bite.labelNoun>укус</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>{0} {1}</Bite.labelNounPretty>
+  <Bite.labelNounPretty>{0} ({1})</Bite.labelNounPretty>
   <!-- EN: bruise -->
   <Bruise.label>забій</Bruise.label>
   <!-- EN: A bruise. -->
@@ -51,7 +51,7 @@
   <!-- EN: a bruise -->
   <Bruise.labelNoun>забій</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bruise.labelNounPretty>{0} на {1}</Bruise.labelNounPretty>
+  <Bruise.labelNounPretty>{0} ({1})</Bruise.labelNounPretty>
   <!-- EN: Destroyed -->
   <Bruise.injuryProps.destroyedLabel>Destroyed</Bruise.injuryProps.destroyedLabel>
   <!-- EN: burn -->
@@ -67,7 +67,7 @@
   <!-- EN: a burn -->
   <Burn.labelNoun>опік</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Burn.labelNounPretty>{0} на {1}</Burn.labelNounPretty>
+  <Burn.labelNounPretty>{0} ({1})</Burn.labelNounPretty>
   <!-- EN: chemical burn -->
   <ChemicalBurn.label>хімічний опік</ChemicalBurn.label>
   <!-- EN: A chemical burn. -->
@@ -81,7 +81,7 @@
   <!-- EN: a chemical burn -->
   <ChemicalBurn.labelNoun>хімічний опік</ChemicalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ChemicalBurn.labelNounPretty>{0} {1}</ChemicalBurn.labelNounPretty>
+  <ChemicalBurn.labelNounPretty>{0} ({1})</ChemicalBurn.labelNounPretty>
   <!-- EN: crack -->
   <Crack.label>тріщина</Crack.label>
   <!-- EN: A crack. -->
@@ -91,7 +91,7 @@
   <!-- EN: a crack wound -->
   <Crack.labelNoun>тріщина</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crack.labelNounPretty>{0} на {1}</Crack.labelNounPretty>
+  <Crack.labelNounPretty>{0} ({1})</Crack.labelNounPretty>
   <!-- EN: Shattered -->
   <Crack.injuryProps.destroyedLabel>Shattered</Crack.injuryProps.destroyedLabel>
   <!-- EN: crush -->
@@ -103,7 +103,7 @@
   <!-- EN: a crush wound -->
   <Crush.labelNoun>розтрощена рана</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crush.labelNounPretty>{0} на {1}</Crush.labelNounPretty>
+  <Crush.labelNounPretty>{0} ({1})</Crush.labelNounPretty>
   <!-- EN: Crushed -->
   <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
   <!-- EN: cut -->
@@ -119,7 +119,7 @@
   <!-- EN: a cut -->
   <Cut.labelNoun>поріз</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Cut.labelNounPretty>{0} на {1}</Cut.labelNounPretty>
+  <Cut.labelNounPretty>{0} ({1})</Cut.labelNounPretty>
   <!-- EN: decayed organ -->
   <Decayed.label>деградація органу</Decayed.label>
   <!-- EN: This organ has completely decayed. -->
@@ -143,7 +143,7 @@
   <!-- EN: an electrical burn -->
   <ElectricalBurn.labelNoun>електричний опік</ElectricalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ElectricalBurn.labelNounPretty>{0} на {1}</ElectricalBurn.labelNounPretty>
+  <ElectricalBurn.labelNounPretty>{0} ({1})</ElectricalBurn.labelNounPretty>
   <!-- EN: cut -->
   <ExecutionCut.label>розріз</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
@@ -155,7 +155,7 @@
   <!-- EN: a cut -->
   <ExecutionCut.labelNoun>розріз</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ExecutionCut.labelNounPretty>{0} на {1}</ExecutionCut.labelNounPretty>
+  <ExecutionCut.labelNounPretty>{0} ({1})</ExecutionCut.labelNounPretty>
   <!-- EN: frostbite -->
   <Frostbite.label>обмороження</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
@@ -165,7 +165,7 @@
   <!-- EN: Lost to frostbite -->
   <Frostbite.injuryProps.destroyedLabel>відморожено</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
-  <Frostbite.labelNounPretty>{0} {1}</Frostbite.labelNounPretty>
+  <Frostbite.labelNounPretty>{0} ({1})</Frostbite.labelNounPretty>
   <!-- EN: gunshot -->
   <Gunshot.label>вогнепальне поранення</Gunshot.label>
   <!-- EN: A gunshot wound. -->
@@ -181,7 +181,7 @@
   <!-- EN: a gunshot wound -->
   <Gunshot.labelNoun>вогнепальне поранення</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Gunshot.labelNounPretty>{0} {1}</Gunshot.labelNounPretty>
+  <Gunshot.labelNounPretty>{0} ({1})</Gunshot.labelNounPretty>
   <!-- EN: wound -->
   <Misc.label>рана</Misc.label>
   <!-- EN: Miscellaneous injuries. -->
@@ -191,7 +191,7 @@
   <!-- EN: an injury -->
   <Misc.labelNoun>поранення</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Misc.labelNounPretty>{0} {1}</Misc.labelNounPretty>
+  <Misc.labelNounPretty>{0} ({1})</Misc.labelNounPretty>
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>Destroyed</Misc.injuryProps.destroyedLabel>
   <!-- EN: missing body part -->
@@ -215,7 +215,7 @@
   <!-- EN: a scratch -->
   <Scratch.labelNoun>рвана рана</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scratch.labelNounPretty>{0} на {1}</Scratch.labelNounPretty>
+  <Scratch.labelNounPretty>{0} ({1})</Scratch.labelNounPretty>
   <!-- EN: shredded -->
   <Shredded.label>вибухова травма</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
@@ -229,7 +229,7 @@
   <!-- EN: a shredded wound -->
   <Shredded.labelNoun>вибухова травма</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Shredded.labelNounPretty>{0} {1}</Shredded.labelNounPretty>
+  <Shredded.labelNounPretty>{0} ({1})</Shredded.labelNounPretty>
   <!-- EN: stab -->
   <Stab.label>колота рана</Stab.label>
   <!-- EN: A stab wound. -->
@@ -243,7 +243,7 @@
   <!-- EN: a stab wound -->
   <Stab.labelNoun>колота рана</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Stab.labelNounPretty>{0} {1}</Stab.labelNounPretty>
+  <Stab.labelNounPretty>{0} ({1})</Stab.labelNounPretty>
   <!-- EN: surgical cut -->
   <SurgicalCut.label>хірургічний поріз</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
@@ -253,5 +253,5 @@
   <!-- EN: a surgical cut -->
   <SurgicalCut.labelNoun>хірургічний поріз</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <SurgicalCut.labelNounPretty>{0} на {1}</SurgicalCut.labelNounPretty>
+  <SurgicalCut.labelNounPretty>{0} ({1})</SurgicalCut.labelNounPretty>
 </LanguageData>

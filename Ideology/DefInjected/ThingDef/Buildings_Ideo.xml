@@ -25,7 +25,7 @@
   <!-- EN: Heal all fresh wounds, blood loss, and one random infectious disease. -->
   <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>Вилікувати всі свіжі рани, втрату крові та одне випадкове інфекційне захворювання.</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>
   <!-- EN: bioregeneration -->
-  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>регенерації</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>біорегенерація</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
   <!-- EN: Heal all fresh wounds, heal one random permanent injury, and restore small missing body parts like fingers and toes. -->
   <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>Вилікувати всі свіжі рани, одну з випадкових постійних травм і відновити відсутню частину тіла, таку як палець на руці чи нозі.</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
   <!-- EN: age reversal -->
@@ -69,7 +69,7 @@
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
   <IncenseShrine.description>Колекція упакованих контейнерів з пахощами. Їх можна підпалити та створити потужний ефект пахощів для проведення ритуалу. Знищується при використанні.</IncenseShrine.description>
   <!-- EN: neural supercharger -->
-  <NeuralSupercharger.label>нейронний стимулятор</NeuralSupercharger.label>
+  <NeuralSupercharger.label>нейронний надзарядник</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
   <NeuralSupercharger.description>Пристрій, який може забезпечити один нейронний надзаряд щодня. Людина з нейронним надзарядом думатиме та навчатиметься швидше, але також споживатиме більше їжі. Ефект проходить через добу. Нейронні стимулятори споживають багато електроенергії.</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
@@ -79,7 +79,7 @@
   <!-- EN: A wooden tower for ritual burning. -->
   <Pyre.description>Дерев'яна вежа для ритуального спалення.</Pyre.description>
   <!-- EN: ritual spot -->
-  <RitualSpot.label>ритуальне місце</RitualSpot.label>
+  <RitualSpot.label>місце для ритуалів</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
   <RitualSpot.description>Місце для проведення певних ритуалів.</RitualSpot.description>
   <!-- EN: sacrificial flag -->

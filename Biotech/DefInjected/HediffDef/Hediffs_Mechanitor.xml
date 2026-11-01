@@ -5,7 +5,7 @@
   <!-- EN: This mechanitor's bandwidth is being increased thanks to the influence of a band node structure. -->
   <BandNode.description>Пропускна здатність цього механітора збільшується завдяки впливу структури смугових вузлів.</BandNode.description>
   <!-- EN: control sublink -->
-  <ControlSublinkImplant.label>саблінк</ControlSublinkImplant.label>
+  <ControlSublinkImplant.label>сублінк керування</ControlSublinkImplant.label>
   <!-- EN: An implant which increases a mechanitor's control group count and the work speed of a mechanitor's mechs.\n\nThis implant can be installed up to 6 times to increase its effect. -->
   <ControlSublinkImplant.description>Імплант, який збільшує кількість контрольних груп механітора та швидкість їх роботи.\n\nЦей імплантат можна встановлювати до 6 разів для посилення його ефекту.</ControlSublinkImplant.description>
   <!-- EN: mech gestation processor -->

@@ -143,7 +143,7 @@
     <li>subject_gerund->constructing general-use advanced armor</li>
   </PoweredArmor.generalRules.rulesStrings>
   <!-- EN: recon armor -->
-  <ReconArmor.label>розвідувальна броня</ReconArmor.label>
+  <ReconArmor.label>броня розвідника</ReconArmor.label>
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
   <ReconArmor.description>Створюйте розвідувальну броню — легку броня, яка використовується розвідниками, що потребують захисту та мобільності. Потребує передових компонентів для конструювання.</ReconArmor.description>
   <!-- EN:

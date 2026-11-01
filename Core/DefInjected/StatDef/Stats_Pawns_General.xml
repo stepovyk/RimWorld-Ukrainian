@@ -59,7 +59,7 @@
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
   <ImmunityGainSpeed.description>Швидкість, з якою цей персонаж виробляє імунітет до хвороб.\n\nЯкщо цей параметр занадто низький, персонаж помре від хвороби до того, як виробить імунітет.</ImmunityGainSpeed.description>
   <!-- EN: injury healing factor -->
-  <InjuryHealingFactor.label>Множник загоєння травм</InjuryHealingFactor.label>
+  <InjuryHealingFactor.label>множник загоєння травм</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
   <InjuryHealingFactor.description>Множник, застосований до швидкості загоєння травм персонажа.</InjuryHealingFactor.description>
   <!-- EN: recreation fall rate -->
@@ -115,11 +115,11 @@
   <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>Максимальний рівень болю, при якому ця істота здатна стояти на ногах.</PainShockThreshold.description>
   <!-- EN: neural heat limit -->
-  <PsychicEntropyMax.label>межа нейро-напруги</PsychicEntropyMax.label>
+  <PsychicEntropyMax.label>межа нейронапруги</PsychicEntropyMax.label>
   <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
   <PsychicEntropyMax.description>Максимальний рівень нейро-напруги, яку цей персонаж здатен витримати.</PsychicEntropyMax.description>
   <!-- EN: neural heat recovery rate -->
-  <PsychicEntropyRecoveryRate.label>швидкість розсіювання нейро-напруги</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.label>швидкість розсіювання нейронапруги</PsychicEntropyRecoveryRate.label>
   <!-- EN: The rate at which this person reduces neural heat. -->
   <PsychicEntropyRecoveryRate.description>Швидкість, з якою цей персонаж зменшує свій рівень нейро-напруги.</PsychicEntropyRecoveryRate.description>
   <!-- EN: {0}/s -->

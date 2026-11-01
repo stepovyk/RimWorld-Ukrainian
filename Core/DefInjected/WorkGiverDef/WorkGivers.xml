@@ -97,13 +97,13 @@
   <!-- EN: deliver food for -->
   <DeliverFoodToPrisoner.verb>віднести їжу</DeliverFoodToPrisoner.verb>
   <!-- EN: deliver resources to blueprints -->
-  <DeliverResourcesToBlueprints.label>доставляти матеріали до проєктів</DeliverResourcesToBlueprints.label>
+  <DeliverResourcesToBlueprints.label>доставляти ресурси до проєктів</DeliverResourcesToBlueprints.label>
   <!-- EN: delivering to -->
   <DeliverResourcesToBlueprints.gerund>доставити матеріали до</DeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver to -->
   <DeliverResourcesToBlueprints.verb>доставити матеріали до</DeliverResourcesToBlueprints.verb>
   <!-- EN: deliver resources to frames -->
-  <DeliverResourcesToFrames.label>доставляти матеріали до будівництва</DeliverResourcesToFrames.label>
+  <DeliverResourcesToFrames.label>доставляти ресурси до будівництва</DeliverResourcesToFrames.label>
   <!-- EN: delivering to -->
   <DeliverResourcesToFrames.gerund>доставити матеріали до</DeliverResourcesToFrames.gerund>
   <!-- EN: deliver to -->

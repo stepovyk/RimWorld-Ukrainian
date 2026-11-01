@@ -31,7 +31,7 @@
   <!-- EN: hush -->
   <Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>тишо</Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: hyper-aggressive -->
-  <Aggression_HyperAggressive.label>гіпер-агресивність</Aggression_HyperAggressive.label>
+  <Aggression_HyperAggressive.label>гіперагресивність</Aggression_HyperAggressive.label>
   <!-- EN: Carriers of this gene are hormonally high-strung and very aggressive. They are three times as likely to start social fights. Any mental break they have will be of an aggressive type. -->
   <Aggression_HyperAggressive.description>Носії цього гена гормонально напружені та дуже агресивні. Вони втричі частіше починають соціальні бійки. Будь-який нервовий зрив у них буде агресивного типу.</Aggression_HyperAggressive.description>
   <!-- EN: aggro -->
@@ -123,7 +123,7 @@
   <!-- EN: fragi -->
   <Delicate.symbolPack.prefixSymbols.6.symbol>крихко</Delicate.symbolPack.prefixSymbols.6.symbol>
   <!-- EN: quick study -->
-  <Learning_Fast.label>здібність в навчанні</Learning_Fast.label>
+  <Learning_Fast.label>здібність до навчання</Learning_Fast.label>
   <!-- EN: Carriers of this gene have excellent memories and grasp new ideas quickly. They learn faster than others. -->
   <Learning_Fast.description>Носії цього гена мають відмінну пам'ять і швидко схоплюють нові ідеї. Вони навчаються швидше за інших.</Learning_Fast.description>
   <!-- EN: brain -->
@@ -143,7 +143,7 @@
   <!-- EN: brain -->
   <Learning_Fast.symbolPack.suffixSymbols.1.symbol>мозок</Learning_Fast.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: slow study -->
-  <Learning_Slow.label>повільність в навчанні</Learning_Slow.label>
+  <Learning_Slow.label>повільне навчання</Learning_Slow.label>
   <!-- EN: Carriers of this gene have deficient long-term memories and don't understand new ideas quickly. They are slow at learning new skills and knowledge. -->
   <Learning_Slow.description>Носії цього гена мають погану довготривалу пам'ять і не швидко розуміють нові ідеї. Вони повільно засвоюють нові навички та знання.</Learning_Slow.description>
   <!-- EN: thag -->
@@ -179,7 +179,7 @@
   <!-- EN: night -->
   <LowSleep.symbolPack.prefixSymbols.1.symbol>нічно</LowSleep.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: heat super-tolerant -->
-  <MaxTemp_LargeIncrease.label>сильна звичність до тепла</MaxTemp_LargeIncrease.label>
+  <MaxTemp_LargeIncrease.label>висока стійкість до спеки</MaxTemp_LargeIncrease.label>
   <!-- EN: Carriers of this gene are more comfortable in warm temperatures. -->
   <MaxTemp_LargeIncrease.description>Носії цього гена більш комфортно почувають себе в теплих температурах.</MaxTemp_LargeIncrease.description>
   <!-- EN: hot -->
@@ -205,7 +205,7 @@
   <!-- EN: cool -->
   <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>прохолода</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: heat tolerant -->
-  <MaxTemp_SmallIncrease.label>звичність до тепла</MaxTemp_SmallIncrease.label>
+  <MaxTemp_SmallIncrease.label>стійкість до спеки</MaxTemp_SmallIncrease.label>
   <!-- EN: Carriers of this gene are slightly more comfortable in warm temperatures. -->
   <MaxTemp_SmallIncrease.description>Носії цього гена дещо комфортніше почувають себе в теплих температурах.</MaxTemp_SmallIncrease.description>
   <!-- EN: warm -->
@@ -249,7 +249,7 @@
   <!-- EN: anemo -->
   <MeleeDamage_Weak.symbolPack.prefixSymbols.4.symbol>легко</MeleeDamage_Weak.symbolPack.prefixSymbols.4.symbol>
   <!-- EN: cold super-tolerant -->
-  <MinTemp_LargeDecrease.label>сильна звичність до холоду</MinTemp_LargeDecrease.label>
+  <MinTemp_LargeDecrease.label>висока стійкість до холоду</MinTemp_LargeDecrease.label>
   <!-- EN: Carriers of this gene are much more comfortable in cold temperatures. -->
   <MinTemp_LargeDecrease.description>Носії цього гена більш комфортно почувають себе в холодних температурах.</MinTemp_LargeDecrease.description>
   <!-- EN: cold -->
@@ -257,7 +257,7 @@
   <!-- EN: ice -->
   <MinTemp_LargeDecrease.symbolPack.prefixSymbols.0.symbol>крижано</MinTemp_LargeDecrease.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: cold tolerant -->
-  <MinTemp_SmallDecrease.label>звичність до холоду</MinTemp_SmallDecrease.label>
+  <MinTemp_SmallDecrease.label>стійкість до холоду</MinTemp_SmallDecrease.label>
   <!-- EN: Carriers of this gene are slightly more comfortable in cold temperatures. -->
   <MinTemp_SmallDecrease.description>Носії цього гена дещо комфортно почувають себе в холодних температурах.</MinTemp_SmallDecrease.description>
   <!-- EN: cool -->
@@ -275,7 +275,7 @@
   <!-- EN: warm -->
   <MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>тепло</MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: very unhappy -->
-  <Mood_Depressive.label>дуже нещасливий</Mood_Depressive.label>
+  <Mood_Depressive.label>сильна похмурість</Mood_Depressive.label>
   <!-- EN: Carriers of this gene are highly predisposed to negative emotion. They'll see the bad in every situation and have a much lower mood than others. -->
   <Mood_Depressive.description>Носії цього гена дуже схильні до негативних емоцій. Вони побачать погане в кожній ситуації та матимуть набагато гірший настрій, ніж інші.</Mood_Depressive.description>
   <!-- EN: sad -->
@@ -287,7 +287,7 @@
   <!-- EN: lachry -->
   <Mood_Depressive.symbolPack.prefixSymbols.3.symbol>плаче</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: happy -->
-  <Mood_Optimist.label>щасливий</Mood_Optimist.label>
+  <Mood_Optimist.label>життєрадісність</Mood_Optimist.label>
   <!-- EN: Carriers of this gene are predisposed to optimistic feelings. They'll have higher mood than others. -->
   <Mood_Optimist.description>Носії цього гену налаштовані на оптимістичні відчуття, їхній настрій вищий, ніж інші.</Mood_Optimist.description>
   <!-- EN: bright -->
@@ -305,7 +305,7 @@
   <!-- EN: bright -->
   <Mood_Optimist.symbolPack.suffixSymbols.0.symbol>яскравий</Mood_Optimist.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: unhappy -->
-  <Mood_Pessimist.label>депресивність</Mood_Pessimist.label>
+  <Mood_Pessimist.label>похмурість</Mood_Pessimist.label>
   <!-- EN: Carriers of this gene are predisposed to pessimistic perceptions. They'll tend to interpret things negatively and have lower mood than others. -->
   <Mood_Pessimist.description>Носії цього гена дуже схильні до негативних емоцій. Вони побачать погане в кожній ситуації та матимуть набагато гірший настрій, ніж інші.</Mood_Pessimist.description>
   <!-- EN: sad -->
@@ -317,7 +317,7 @@
   <!-- EN: lachry -->
   <Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>плаче</Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: very happy -->
-  <Mood_Sanguine.label>дуже щасливий</Mood_Sanguine.label>
+  <Mood_Sanguine.label>сильна життєрадісність</Mood_Sanguine.label>
   <!-- EN: Carriers of this gene are highly predisposed to optimism and not at all inclined to think negatively. They'll have much higher mood than others. -->
   <Mood_Sanguine.description>Носії цього гена дуже схильні до оптимізму і зовсім не схильні мислити негативно. Настрій у них буде набагато вище, ніж у інших.</Mood_Sanguine.description>
   <!-- EN: bright -->
@@ -421,7 +421,7 @@
   <!-- EN: night -->
   <Neversleep.symbolPack.prefixSymbols.1.symbol>нічно</Neversleep.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: extra pain -->
-  <Pain_Extra.label>чутливість до болю</Pain_Extra.label>
+  <Pain_Extra.label>підвищена чутливість до болю</Pain_Extra.label>
   <!-- EN: Carriers of this gene feel more pain than others given the same injuries. Neuron activity in the brain's nociception center is amplified, so pain feels extra-intense and fiery. This can be protective, but overall it's considered a negative and makes it hard to push through difficult situations. -->
   <Pain_Extra.description>Носії цього гена відчувають біль сильніше, ніж інші, при однакових травмах. Активність нейронів у центрі ноцицепції посилюється, тому біль відчувається надзвичайно інтенсивно та пекуче. Це може бути захисною реакцією, але в цілому вважається негативом і заважає долати складні ситуації.</Pain_Extra.description>
   <!-- EN: wimpy -->
@@ -439,7 +439,7 @@
   <!-- EN: wimp -->
   <Pain_Extra.symbolPack.suffixSymbols.1.symbol>слабак</Pain_Extra.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: reduced pain -->
-  <Pain_Reduced.label>менша чутливість болю</Pain_Reduced.label>
+  <Pain_Reduced.label>знижена чутливість до болю</Pain_Reduced.label>
   <!-- EN: Carriers of this gene feel half as much pain compared to a baseliner. Reduced neuron activity in the brain's nociception centers makes pain dull and faint. This can be advantageous sometimes, and dangerous other times. -->
   <Pain_Reduced.description>Носії цього гена відчувають вдвічі менше болю ніж зазвичай. Знижена активність нейронів у центрі ноцицепції робить біль притупленим і слабким. Іноді це може бути корисно, а іноді — небезпечно.</Pain_Reduced.description>
   <!-- EN: pain-dull -->
@@ -505,7 +505,7 @@
   <!-- EN: sensi -->
   <PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>сенсор</PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: robust -->
-  <Robust.label>міцний горішок</Robust.label>
+  <Robust.label>витривалість</Robust.label>
   <!-- EN: Carriers of this gene take less injuries than others from the same damage. They have thickened, densified bones, nearly-solid ribcages, and strengthened binding factors in joints and flesh. -->
   <Robust.description>Носії цього гена отримують менше травм, ніж інші, при однакових пошкодженнях. У них потовщені, ущільнені кістки, майже суцільні грудні клітки, посилені зв'язуючі фактори в суглобах і м'язах.</Robust.description>
   <!-- EN: tough -->
@@ -537,7 +537,7 @@
   <!-- EN: loaf -->
   <Sleepy.symbolPack.suffixSymbols.0.symbol>ледаре</Sleepy.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: tox resistance -->
-  <ToxResist_Partial.label>токсична стійкість</ToxResist_Partial.label>
+  <ToxResist_Partial.label>стійкість до токсинів</ToxResist_Partial.label>
   <!-- EN: Carriers of this gene are resistant to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain half the amount of toxic buildup compared to others.\n\nCellular filters in the lung and skin reduce the dose of toxins entering the bloodstream. -->
   <ToxResist_Partial.description>Носії цього гена стійкі до накопичення токсичних речовин з будь-якого джерела. Це включає забруднення, токсичні опади, токсичні гази та прямі атаки отрутою чи введеною отрути. Вони отримають половину кількості токсичних накопичень порівняно з іншими.\n\nКлітинні фільтри в легенях і шкірі зменшують дозу токсинів, що надходять у кров.</ToxResist_Partial.description>
   <!-- EN: tox-resistant -->

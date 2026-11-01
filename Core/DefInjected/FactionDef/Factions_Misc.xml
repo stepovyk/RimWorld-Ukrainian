@@ -45,9 +45,9 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <TribeCivil.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</TribeCivil.messageDefendersAttacking>
   <!-- EN: tribesman -->
-  <TribeCivil.pawnSingular>абориген</TribeCivil.pawnSingular>
+  <TribeCivil.pawnSingular>член племені</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCivil.pawnsPlural>аборигени</TribeCivil.pawnsPlural>
+  <TribeCivil.pawnsPlural>члени племені</TribeCivil.pawnsPlural>
   <!-- EN: fierce tribe -->
   <TribeRough.label>войовниче плем'я</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
@@ -57,9 +57,9 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <TribeRough.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</TribeRough.messageDefendersAttacking>
   <!-- EN: tribesman -->
-  <TribeRough.pawnSingular>абориген</TribeRough.pawnSingular>
+  <TribeRough.pawnSingular>член племені</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeRough.pawnsPlural>аборигени</TribeRough.pawnsPlural>
+  <TribeRough.pawnsPlural>члени племені</TribeRough.pawnsPlural>
   <!-- EN: savage tribe -->
   <TribeSavage.label>дике плем'я</TribeSavage.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
@@ -69,7 +69,7 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <TribeSavage.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</TribeSavage.messageDefendersAttacking>
   <!-- EN: tribesman -->
-  <TribeSavage.pawnSingular>абориген</TribeSavage.pawnSingular>
+  <TribeSavage.pawnSingular>член племені</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeSavage.pawnsPlural>аборигени</TribeSavage.pawnsPlural>
+  <TribeSavage.pawnsPlural>члени племені</TribeSavage.pawnsPlural>
 </LanguageData>

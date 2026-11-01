@@ -43,7 +43,7 @@
   <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
   <Wildlife.description>Список тварин в районі яких можна вполювати або приручити.</Wildlife.description>
   <!-- EN: work -->
-  <Work.label>праця</Work.label>
+  <Work.label>робота</Work.label>
   <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
   <Work.description>Розподіл робіт та налаштування пріоритетів.</Work.description>
   <!-- EN: world -->

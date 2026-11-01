@@ -105,11 +105,11 @@
   <!-- EN: I don't feel very well. -->
   <Sick.stages.sick.description>Я не дуже добре почуваюся. Схоже я {PAWN_gender ? захворів : захворіла}.</Sick.stages.sick.description>
   <!-- EN: interesting textbook -->
-  <SkillBookPassion.stages.interesting_textbook.label>Цікавий підручник</SkillBookPassion.stages.interesting_textbook.label>
+  <SkillBookPassion.stages.interesting_textbook.label>цікавий підручник</SkillBookPassion.stages.interesting_textbook.label>
   <!-- EN: This book covers a topic I'm passionate about. It's interesting. -->
   <SkillBookPassion.stages.interesting_textbook.description>Ця книга охоплює тему, якою я цікавлюся. Мені подобається.</SkillBookPassion.stages.interesting_textbook.description>
   <!-- EN: amazing textbook -->
-  <SkillBookPassion.stages.amazing_textbook.label>Неймовірний підручник</SkillBookPassion.stages.amazing_textbook.label>
+  <SkillBookPassion.stages.amazing_textbook.label>неймовірний підручник</SkillBookPassion.stages.amazing_textbook.label>
   <!-- EN: This book covers a topic I'm very passionate about. It's captivating. -->
   <SkillBookPassion.stages.amazing_textbook.description>Ця книга охоплює тему, якою я дуже цікавлюся. Це захоплює.</SkillBookPassion.stages.amazing_textbook.description>
   <!-- EN: wearing {0} apparel -->

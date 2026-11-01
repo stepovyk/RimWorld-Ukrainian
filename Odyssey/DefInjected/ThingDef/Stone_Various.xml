@@ -11,7 +11,7 @@
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkVacstone.description>Уламок гірської породи. Можна обтесати в придатні для будівництва блоки.</ChunkVacstone.description>
   <!-- EN: smoothed solid ice -->
-  <SmoothedSolidIce.label>полірований щільний лід</SmoothedSolidIce.label>
+  <SmoothedSolidIce.label>відполірований твердий лід</SmoothedSolidIce.label>
   <!-- EN: Solid glacial ice. It can be mined through with relative ease. The polished surface glistens a soft light blue. -->
   <SmoothedSolidIce.description>Щільний лід льодовика. Його можна видобувати відносно легко. Полірована поверхня блищить м'яким блакитним відблиском.</SmoothedSolidIce.description>
   <!-- EN: smoothed vacstone -->

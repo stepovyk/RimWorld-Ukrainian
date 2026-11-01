@@ -51,7 +51,7 @@
   <!-- EN: An advanced chemfuel thruster with a heat-resistant vacstone liner. It greatly increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to six large thrusters. -->
   <LargeThruster.description>Просунутий рушій на хімпаливи з жарозахисним вакскаменевим покриттям. Суттєво збільшує радіус польоту гравкорабля. Для роботи рушіїв потрібний вільний простір, не зайнятий великими будівлями та субструктурою гравкорабля.\n\nПотребує вакскаменевих блоків, які можна добути на орбітальних астероїдах.\n\nГравкорабель підтримує до шести великих рушіїв.</LargeThruster.description>
   <!-- EN: minified thing -->
-  <MinifiedGravEngine.label>мініатюрізований предмет</MinifiedGravEngine.label>
+  <MinifiedGravEngine.label>мініатюризований предмет</MinifiedGravEngine.label>
   <!-- EN: pilot console -->
   <PilotConsole.label>пульт пілота</PilotConsole.label>
   <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine. -->

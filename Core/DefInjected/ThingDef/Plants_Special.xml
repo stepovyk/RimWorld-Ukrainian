@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: burned stump -->
-  <BurnedTree.label>згоріле дерево</BurnedTree.label>
+  <BurnedTree.label>обгорілий пень</BurnedTree.label>
   <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
   <BurnedTree.description>Повністю обгоріле дерево. Жахливе на вигляд. З нього можна отримати дуже мало корисної деревини.</BurnedTree.description>
   <!-- EN: chopped stump -->

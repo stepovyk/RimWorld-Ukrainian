@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: required -->
-  <Raiding_Required.label>потрібно</Raiding_Required.label>
+  <Raiding_Required.label>обов'язково</Raiding_Required.label>
   <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame. -->
   <Raiding_Required.description>Ми не працюємо як звичайні робітники, ми беремо у слабких, як належить сильним. Не забирати своє по праву – величезна ганьба.</Raiding_Required.description>
   <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->

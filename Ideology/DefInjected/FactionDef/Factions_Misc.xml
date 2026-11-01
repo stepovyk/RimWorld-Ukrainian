@@ -33,9 +33,9 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <NudistTribe.messageDefendersAttacking>{0} з фракції {1} атакують ваших {lookup: {2}; Case; 3}.</NudistTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
-  <NudistTribe.pawnSingular>абориген</NudistTribe.pawnSingular>
+  <NudistTribe.pawnSingular>член племені</NudistTribe.pawnSingular>
   <!-- EN: tribespeople -->
-  <NudistTribe.pawnsPlural>аборигени</NudistTribe.pawnsPlural>
+  <NudistTribe.pawnsPlural>члени племені</NudistTribe.pawnsPlural>
   <!-- EN: pilgrims -->
   <Pilgrims.label>паломники</Pilgrims.label>
   <!-- EN: A group of pilgrims seeking to venerate an ancient relic. -->
@@ -57,7 +57,7 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <TribeCannibal.messageDefendersAttacking>{0} з фракції {1} атакують ваших {lookup: {2}; Case; 3}.</TribeCannibal.messageDefendersAttacking>
   <!-- EN: tribesman -->
-  <TribeCannibal.pawnSingular>абориген</TribeCannibal.pawnSingular>
+  <TribeCannibal.pawnSingular>член племені</TribeCannibal.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCannibal.pawnsPlural>аборигени</TribeCannibal.pawnsPlural>
+  <TribeCannibal.pawnsPlural>члени племені</TribeCannibal.pawnsPlural>
 </LanguageData>
