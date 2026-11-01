@@ -35,7 +35,7 @@
   <!-- EN: They were leading efforts to destroy us, and I took them down! -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>{OTHERPAWN_gender ? Він очолював : Вона очолювала} боротьбу за наше знищення, а я {PAWN_gender ? поклав : поклала} цьому край!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   <!-- EN: defeated hostile leader -->
-  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>переміг ворожого лідера</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>перемога над ворожим лідером</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   <!-- EN: defeated insect hive -->
   <DefeatedInsectHive.stages.defeated_insect_hive.label>вулик комах знищено</DefeatedInsectHive.stages.defeated_insect_hive.label>
   <!-- EN: The only good bug is a dead bug! -->

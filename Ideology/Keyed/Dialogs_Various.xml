@@ -106,7 +106,7 @@
   <!-- EN: {PAWN_labelShort}'s certainty loss factor from {IDEO_name} -->
   <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>Множник втрати впевненості {PAWN_labelShort} від ідеології {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
   <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
-  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} - {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} – {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>Риса «{TRAIT}»</AbilityIdeoConvertBreakdownTrait>
   <!-- EN: Precept {PRECEPT} -->

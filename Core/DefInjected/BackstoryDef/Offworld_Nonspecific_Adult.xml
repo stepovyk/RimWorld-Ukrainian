@@ -173,7 +173,7 @@
   <!-- EN: inventor -->
   <Inventor6.titleShort>винахідник</Inventor6.titleShort>
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
-  <Jailbird40.description>{PAWN_nameDef} {PAWN_gender ? провів : провела} більшу частину життя у в'язницях, де {PAWN_gender ? його : її} ставили працювати на кухні. {PAWN_pronoun} {PAWN_gender ? мав : мавла} звичку встрявати в бійки й {PAWN_gender ? набув : набула} агресивної манери говорити.</Jailbird40.description>
+  <Jailbird40.description>{PAWN_nameDef} {PAWN_gender ? провів : провела} більшу частину життя у в'язницях, де {PAWN_gender ? його : її} ставили працювати на кухні. {PAWN_pronoun} {PAWN_gender ? мав : мала} звичку встрявати в бійки й {PAWN_gender ? набув : набула} агресивної манери говорити.</Jailbird40.description>
   <!-- EN: jailbird -->
   <Jailbird40.title>рецидивіст</Jailbird40.title>
   <!-- EN: jailbird -->
@@ -197,7 +197,7 @@
   <!-- EN: grunt -->
   <LowWageWorker7.titleShort>різнороб</LowWageWorker7.titleShort>
   <!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
-  <MachineCollector55.description>{PAWN_nameDef} {PAWN_gender ? був одержимий : була одержима} старими машинами й таємничими технологічними штуками. {PAWN_pronoun} {PAWN_gender ? діставав : діставала} їх, де тільки {PAWN_gender ? міг : могла}, і {PAWN_gender ? обожнював : обожнювавла} розбирати, щоб побачити, як вони працюють.\n\nА ще {PAWN_pronoun} {PAWN_gender ? мав : мавла} звичку розповідати про свою колекцію ще довго після того, як усі довкола переставали слухати.</MachineCollector55.description>
+  <MachineCollector55.description>{PAWN_nameDef} {PAWN_gender ? був одержимий : була одержима} старими машинами й таємничими технологічними штуками. {PAWN_pronoun} {PAWN_gender ? діставав : діставала} їх, де тільки {PAWN_gender ? міг : могла}, і {PAWN_gender ? обожнював : обожнювала} розбирати, щоб побачити, як вони працюють.\n\nА ще {PAWN_pronoun} {PAWN_gender ? мав : мала} звичку розповідати про свою колекцію ще довго після того, як усі довкола переставали слухати.</MachineCollector55.description>
   <!-- EN: machine collector -->
   <MachineCollector55.title>колекціонер машин</MachineCollector55.title>
   <!-- EN: collector -->
@@ -215,11 +215,11 @@
   <!-- EN: model -->
   <Model99.titleShort>модель</Model99.titleShort>
   <!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
-  <Nurse61.description>{PAWN_nameDef} {PAWN_gender ? працював : працювала} в лікарні й {PAWN_gender ? виконував : виконувала} рутинні справи: {PAWN_gender ? міняв : мінявла} пов'язки, {PAWN_gender ? міряв : мірявла} температуру.\n\nРобота була напружена, але {PAWN_pronoun} завжди {PAWN_gender ? знаходив : знаходила} час побалакати з пацієнтом.</Nurse61.description>
+  <Nurse61.description>{PAWN_nameDef} {PAWN_gender ? працював : працювала} в лікарні й {PAWN_gender ? виконував : виконувала} рутинні справи: {PAWN_gender ? міняв : міняла} пов'язки, {PAWN_gender ? міряв : міряла} температуру.\n\nРобота була напружена, але {PAWN_pronoun} завжди {PAWN_gender ? знаходив : знаходила} час побалакати з пацієнтом.</Nurse61.description>
   <!-- EN: nurse -->
-  <Nurse61.title>медбрат</Nurse61.title>
+  <Nurse61.title>медпрацівник</Nurse61.title>
   <!-- EN: nurse -->
-  <Nurse61.titleShort>медбрат</Nurse61.titleShort>
+  <Nurse61.titleShort>медик</Nurse61.titleShort>
   <!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
   <Paramedic45.description>Робота {PAWN_nameDef} полягала в тому, щоб швидко реагувати на медичні надзвичайні ситуації. {PAWN_pronoun} {PAWN_gender ? звик : звикла} мати справу з тяжкими травмами, маючи під рукою мінімум медичних засобів.\n\nЗа ці роки {PAWN_pronoun} {PAWN_gender ? вилікував : вилікувала} стільки вогнепальних поранень, що навіть вигляд зброї викликає в {PAWN_gender ? нього : неї} неспокій.</Paramedic45.description>
   <!-- EN: paramedic -->
@@ -267,7 +267,7 @@
   <!-- EN: slaughterer -->
   <Slaughterer58.titleShort>різник</Slaughterer58.titleShort>
   <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
-  <Teacher20.description>{PAWN_nameDef} {PAWN_gender ? здобув : здобула} гуманітарну освіту й {PAWN_gender ? викладав : викладала} в державній школі. {PAWN_pronoun} {PAWN_gender ? мав : мавла} широкі знання, і учні {PAWN_gender ? його : її} дуже любили.</Teacher20.description>
+  <Teacher20.description>{PAWN_nameDef} {PAWN_gender ? здобув : здобула} гуманітарну освіту й {PAWN_gender ? викладав : викладала} в державній школі. {PAWN_pronoun} {PAWN_gender ? мав : мала} широкі знання, і учні {PAWN_gender ? його : її} дуже любили.</Teacher20.description>
   <!-- EN: teacher -->
   <Teacher20.title>вчитель</Teacher20.title>
   <!-- EN: teacher -->

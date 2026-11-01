@@ -92,7 +92,7 @@
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state. -->
   <CantRomanceInitiateMessageMentalState>{0_labelShort} не може спробувати завести роман через свій психічний стан.</CantRomanceInitiateMessageMentalState>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is unable to speak. -->
-  <CantRomanceInitiateMessageTalk>{0_labelShort} не може спробувати завести роман: {0_pronoun} не здатен говорити.</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageTalk>{0_labelShort} не може спробувати завести роман, бо {0_pronoun} не {0_gender ? здатен : здатна} говорити.</CantRomanceInitiateMessageTalk>
   <!-- EN: {0_labelShort} tried romancing recently and must wait {1} until trying again. -->
   <CantRomanceInitiateMessageCooldown>{0_labelShort} недавно вже {0_gender ? пробував : пробувала} завести роман і має зачекати {1}, перш ніж спробувати знову.</CantRomanceInitiateMessageCooldown>
   <!-- EN: {0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful. -->

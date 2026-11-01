@@ -4,7 +4,7 @@
   <!-- EN: Any mechanitor -->
   <AnyMechanitor>Будь-який механітор</AnyMechanitor>
   <!-- EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
-  <BossgroupWarningDialog>Виклик загрози «{LEADERKIND_label}» приведе таких ворожих механоїдів:\n\n{PAWNS}\n\nМеханоїди прибудуть упродовж кількох найближчих годин або днів. Ви готові до бою?</BossgroupWarningDialog>
+  <BossgroupWarningDialog>Якщо викликати загрозу «{LEADERKIND_label}», з'являться такі ворожі механоїди:\n\n{PAWNS}\n\nМеханоїди прибудуть упродовж кількох найближчих годин або днів. Ви готові до бою?</BossgroupWarningDialog>
   <!-- EN: {PAWN_labelShort} is downed. -->
   <MechControllerDowned>{PAWN_labelShort} {PAWN_gender ? знерухомлений : знерухомлена}.</MechControllerDowned>
   <!-- EN: {PAWN_labelShort} is a prisoner. -->
