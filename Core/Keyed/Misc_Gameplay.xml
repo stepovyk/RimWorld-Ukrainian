@@ -2,7 +2,7 @@
 <LanguageData>
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>Міцність</HitPointsBasic>
+  <HitPointsBasic>запас міцності</HitPointsBasic>
   <!-- EN: Work left -->
   <WorkLeft>Роботи лишилося</WorkLeft>
   <!-- EN: Contents -->
@@ -12,11 +12,11 @@
   <!-- EN: For prisoner use -->
   <ForPrisonerUse>Для в'язнів</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>У тюремній камері - для в'язнів</InPrisonCell>
+  <InPrisonCell>У тюремній камері: для в'язнів</InPrisonCell>
   <!-- EN: For colonist use -->
   <ForColonistUse>Для колоністів</ForColonistUse>
   <!-- EN: Medical -->
-  <MedicalBed>Лікарняне</MedicalBed>
+  <MedicalBed>Медичне</MedicalBed>
   <!-- EN: Owner -->
   <Owner>Власник</Owner>
   <!-- EN: Owners -->
@@ -34,11 +34,11 @@
   <!-- EN: Unowned -->
   <Unowned>Нічиє</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>Мертвий ({0})</DeadTime>
+  <DeadTime>Мертвий уже {0}</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>швидкість пересування {0}</WalkSpeed>
+  <WalkSpeed>швидкість ходьби {0}</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>родючість</FertShort>
+  <FertShort>родюч.</FertShort>
   <!-- EN: dying -->
   <DyingLower>помирає</DyingLower>
   <!-- EN: Filth on feet: -->
@@ -50,19 +50,19 @@
   <!-- EN: Nothing -->
   <Nothing>Нічого</Nothing>
   <!-- EN: Adapted -->
-  <Adapted>Стійкість</Adapted>
+  <Adapted>Адаптовано</Adapted>
   <!-- EN: fresh -->
-  <FreshMissingBodyPart>нещодавно</FreshMissingBodyPart>
+  <FreshMissingBodyPart>свіжа</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
   <DevelopedImmunityLower>вироблений імунітет</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Потребує лікування</NeedsTendingNow>
+  <NeedsTendingNow>Потребує лікування зараз</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>Можна лікувати</CanTendNow>
+  <CanTendNow>Можна лікувати зараз</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>Термін лікування спливе через {0}</TreatmentExpiresIn>
+  <TreatmentExpiresIn>Дія лікування спливе через {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Повторне лікування через {0}</NextTendIn>
+  <NextTendIn>Наступне лікування через {0}</NextTendIn>
   <!-- EN: Tend quality -->
   <TendQuality>Якість лікування</TendQuality>
   <!-- EN: Total tend quality -->
@@ -72,7 +72,7 @@
   <!-- EN: Immunity -->
   <Immunity>Імунітет</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>Кількість днів, для відновлення: {0}</DaysToRecover>
+  <DaysToRecover>{0} дн. до одужання</DaysToRecover>
   <!-- EN: Ineffective -->
   <Ineffective>Неефективно</Ineffective>
   <!-- EN: illegal -->
@@ -84,7 +84,7 @@
   <!-- EN: Description -->
   <Description>Опис</Description>
   <!-- EN: Equipment -->
-  <Equipment>Зброя</Equipment>
+  <Equipment>Спорядження</Equipment>
   <!-- EN: Apparel -->
   <Apparel>Одяг</Apparel>
   <!-- EN: Inventory -->
@@ -94,9 +94,9 @@
   <!-- EN: Drop -->
   <DropThing>Викинути</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>Тимчасові члени фракції не будуть викидати свої речі.</DropThingLodger>
+  <DropThingLodger>Тимчасові члени фракції не викидатимуть своїх речей.</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>Ця людина відмовляється викинути цю річ.</DropThingLocked>
+  <DropThingLocked>Ця людина відмовляється це викидати.</DropThingLocked>
   <!-- EN: Rename -->
   <Rename>Перейменувати</Rename>
   <!-- EN: Rename animal -->
@@ -108,63 +108,63 @@
   <!-- EN: Execute -->
   <Execute>Стратити</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>Стратити винного колоніста\n\nЯкщо ввімкнено - наглядач приступить до страти цієї особи.</ExecuteColonist>
+  <ExecuteColonist>Стратити винного колоніста\n\nЯкщо ввімкнути, наглядач піде стратити цю людину.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>{0_labelShort} очікує страти, {0_possessive} стратить доступний наглядач, з відповідним пріоритетом робіт.</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>{0_labelShort} тепер очікує страти. Найближчий вільний наглядач піде виконати вирок.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>{0} в {1}</TitleOfFaction>
+  <TitleOfFaction>{0} ({1})</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Ця дія змусить {PAWN_nameDef} втратити свій титул {lookup: {TITLE}; Case; 1}. Ви не отримаєте ніякої компенсації за відмову від титулу.\n\nЦе рішення буде мати такі наслідки:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>Через цю дію {PAWN_nameDef} втратить титул «{TITLE}». За відмову від титулу ви не отримаєте жодної компенсації.\n\nНаслідки:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_pronoun} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_pronoun} втратить наступні привілеї</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>Буде втрачено такі привілеї</RenounceTitleWillLoosePermits>
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
-  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} втратить {POINTS} од. привілей у фракції {FACTION_name}.</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} втратить {POINTS} невитрачених очок привілеїв у фракції {FACTION_name}.</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
-  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} збереже всі свої рівні пси-зв'язку та пси-здібності.</RenounceTitleWillKeepPsylinkLevels>
+  <RenounceTitleWillKeepPsylinkLevels>Усі рівні пси-зв'язку й пси-здібності збережуться.</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>невідомо</UnknownLower>
   <!-- EN: On -->
-  <On>Увімкнути</On>
+  <On>Увімк.</On>
   <!-- EN: Off -->
-  <Off>Вимкнути</Off>
+  <Off>Вимк.</Off>
   <!-- EN: {0} {1} -->
   <SourceToolLabel>{0} {lookup: {1}; Case; 1}</SourceToolLabel>
   <!-- EN: Power -->
   <PowerSwitch_Power>Живлення</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>Звичність</JoyTolerances>
+  <JoyTolerances>Звикання до видів дозвілля</JoyTolerances>
   <!-- EN: Milk fullness -->
   <MilkFullness>Накопичено молока</MilkFullness>
   <!-- EN: Wool growth -->
   <WoolGrowth>Виросло вовни</WoolGrowth>
   <!-- EN: Egg progress -->
-  <EggProgress>Яйце</EggProgress>
+  <EggProgress>Розвиток яйця</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>Запліднена</Fertilized>
+  <Fertilized>Запліднене</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>Прогрес зупинився до запліднення</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Розвиток зупинено до запліднення</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
   <HatchesIn>Вилупиться через</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>потрібно {0} рівня {2}, зараз {1}</SkillTooLow>
+  <SkillTooLow>потрібна навичка «{0}» рівня {2}, зараз {1}</SkillTooLow>
   <!-- EN: Freezing -->
   <Freezing>Переохолодження</Freezing>
   <!-- EN: Overheating -->
   <Overheating>Перегрів</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>Померло через температурні умови.</RuinedByTemperature>
+  <RuinedByTemperature>Зіпсовано через температуру.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
   <CorpsePercentMissing>Відсутні частини тіла</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>Розплодиться через</HiveReproducesIn>
+  <HiveReproducesIn>Розмножиться через</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>Не відтворюється: сплячка.</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Сплячий: не розмножується.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>Наступ. {0} через</NextSpawnedItemIn>
+  <NextSpawnedItemIn>Наступне ({0}) через</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>Наступ. порція ресурсу через</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>Наступна порція ресурсу через</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
-  <BrokenDown>Несправно</BrokenDown>
+  <BrokenDown>Зламано</BrokenDown>
   <!-- EN: (bond) -->
   <BondBrackets>(прив'язаність)</BondBrackets>
   <!-- EN: Fuel -->

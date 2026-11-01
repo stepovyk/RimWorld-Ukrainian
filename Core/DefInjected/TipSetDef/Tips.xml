@@ -151,7 +151,7 @@
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
   <GameplayTips.AnimalFilth>Деякі тварини дуже смітять. Тримайте слонів і худобу надворі.</GameplayTips.AnimalFilth>
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
-  <GameplayTips.PredatorsAndFences>Хижаки не полюють на тварин, що перебувають по той бік огорожі чи барикади.</GameplayTips.PredatorsAndFences>
+  <GameplayTips.PredatorsAndFences>Хижаки не полюють на тварин, що перебувають по той бік паркану чи барикади.</GameplayTips.PredatorsAndFences>
   <!-- EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
   <GameplayTips.NeverGameOver>Гра ніколи не закінчується остаточно. Якщо всі загинули чи пішли, можна створити нових мандрівників, які успадкують рештки вашої колонії.</GameplayTips.NeverGameOver>
   <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->

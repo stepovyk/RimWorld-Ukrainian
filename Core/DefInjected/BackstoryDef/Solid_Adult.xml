@@ -43,7 +43,7 @@
   <!-- EN: programmer -->
   <AIProgrammer22.titleShort>розробник</AIProgrammer22.titleShort>
   <!-- EN: [PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication. -->
-  <AIResearcher94.description>[PAWN_nameDef] {PAWN_gender ? був відомим дослідником : була відомою дослідницею} штучного інтелекту, робототехніки й інтерактивної голографії. Дружба зі створеними {PAWN_gender ? ним : нею} штучними розумами додала {PAWN_gender ? йому : їй} впевненості в спілкуванні зі справжніми людьми, і невдовзі воно вже давалося {PAWN_gender ? йому : їй} чудово.</AIResearcher94.description>
+  <AIResearcher94.description>[PAWN_nameDef] {PAWN_gender ? був відомим дослідником : була відомою дослідницею} штучного інтелекту, робототехніки й інтерактивної голографії. Дружба зі створеними {PAWN_gender ? ним : нею} штучними розумами додала {PAWN_gender ? йому : їй} впевненості в спілкуванні зі справжніми людьми, і невдовзі {PAWN_gender ? він : вона} вже чудово {PAWN_gender ? порозумівався : порозумівалася} з будь-ким.</AIResearcher94.description>
   <!-- EN: AI researcher -->
   <AIResearcher94.title>дослідник ШІ</AIResearcher94.title>
   <!-- EN: researcher -->

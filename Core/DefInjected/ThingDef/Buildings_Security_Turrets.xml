@@ -3,7 +3,7 @@
   <!-- EN: mortar -->
   <Artillery_Mortar.label>міномет</Artillery_Mortar.label>
   <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
-  <Artillery_Mortar.description>Міномет. Може перекидати снаряди через перешкоди. Дуже низька точність, але висока дальність.</Artillery_Mortar.description>
+  <Artillery_Mortar.description>Мінометна установка. Перекидає снаряди через стіни. Дуже неточна, але далекобійна.</Artillery_Mortar.description>
   <!-- EN: mortar -->
   <Artillery_Mortar.verbs.Verb_Shoot.label>міномет</Artillery_Mortar.verbs.Verb_Shoot.label>
   <!-- EN: autocannon shell -->
@@ -15,25 +15,25 @@
   <!-- EN: autocannon -->
   <Gun_AutocannonTurret.label>озброєння важкої турелі</Gun_AutocannonTurret.label>
   <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
-  <Gun_AutocannonTurret.description>Самозарядна крупнокаліберна зброя, призначена для кріплення до турельної установки.</Gun_AutocannonTurret.description>
+  <Gun_AutocannonTurret.description>Самозарядна великокаліберна гармата для встановлення на турель.</Gun_AutocannonTurret.description>
   <!-- EN: autocannon -->
   <Gun_AutocannonTurret.verbs.Verb_Shoot.label>озброєння важкої турелі</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
   <!-- EN: mini-turret gun -->
   <Gun_MiniTurret.label>озброєння міні-турелі</Gun_MiniTurret.label>
   <!-- EN: A simple automatic gun made to be mounted on a turret. -->
-  <Gun_MiniTurret.description>Проста автоматична зброя, призначена для кріплення до турельної установки.</Gun_MiniTurret.description>
+  <Gun_MiniTurret.description>Проста автоматична зброя для встановлення на турель.</Gun_MiniTurret.description>
   <!-- EN: mini-turret gun -->
   <Gun_MiniTurret.verbs.Verb_Shoot.label>озброєння міні-турелі</Gun_MiniTurret.verbs.Verb_Shoot.label>
   <!-- EN: rocketswarm tube -->
   <Gun_RocketswarmLauncher.label>залповий блок</Gun_RocketswarmLauncher.label>
   <!-- EN: A rocketswarm tube of the type usually mounted on a rocketswarm launcher turret. -->
-  <Gun_RocketswarmLauncher.description>Залповий блок, що встановлюється на залпову систему.</Gun_RocketswarmLauncher.description>
+  <Gun_RocketswarmLauncher.description>Блок залпового вогню – такі зазвичай ставлять на турель залпової системи.</Gun_RocketswarmLauncher.description>
   <!-- EN: rocketswarm tube -->
   <Gun_RocketswarmLauncher.verbs.Verb_Shoot.label>залповий блок</Gun_RocketswarmLauncher.verbs.Verb_Shoot.label>
   <!-- EN: foam sprayer -->
   <Gun_TurretFoam.label>розбризкувач піни</Gun_TurretFoam.label>
   <!-- EN: A high-pressure firefoam sprayer usually mounted on a turret. -->
-  <Gun_TurretFoam.description>Розбризкувач піни високого тиску, призначений для кріплення до турельної установки.</Gun_TurretFoam.description>
+  <Gun_TurretFoam.description>Розпилювач вогнегасної піни під високим тиском, що зазвичай стоїть на турелі.</Gun_TurretFoam.description>
   <!-- EN: foam sprayer -->
   <Gun_TurretFoam.verbs.Verb_ArcSprayProjectile.label>розбризкувач піни</Gun_TurretFoam.verbs.Verb_ArcSprayProjectile.label>
   <!-- EN: uranium slug cannon -->

@@ -3,9 +3,9 @@
   <!-- EN: berserk -->
   <BerserkShort.label>берсерк</BerserkShort.label>
   <!-- EN: Mental state: Berserk -->
-  <BerserkShort.baseInspectLine>Психічний стан: Лють</BerserkShort.baseInspectLine>
+  <BerserkShort.baseInspectLine>Психічний стан: берсерк</BerserkShort.baseInspectLine>
   <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
-  <BerserkShort.beginLetter>{0} переповнюється люттю.\n\n[PAWN_pronoun] атакує будь-кого, кого побачить.</BerserkShort.beginLetter>
+  <BerserkShort.beginLetter>{0} впадає в шал берсерка.\n\n{PAWN_gender ? Він : Вона} нападатиме на всіх, кого побачить.</BerserkShort.beginLetter>
   <!-- EN: {0}'s berserk rage has come to an end. -->
   <BerserkShort.recoveryMessage>{0} заспокоюється.</BerserkShort.recoveryMessage>
   <!-- EN: cube sculpting -->

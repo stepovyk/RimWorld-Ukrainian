@@ -8,9 +8,9 @@
   <!-- EN: not enough fuel -->
   <CannotLaunchNotEnoughFuel>недостатньо палива</CannotLaunchNotEnoughFuel>
   <!-- EN: Cannot reach this destination -->
-  <CannotLaunchDestination>Не може дістатися цих координат</CannotLaunchDestination>
+  <CannotLaunchDestination>Неможливо дістатися цього місця</CannotLaunchDestination>
   <!-- EN: Cannot land on the same tile -->
-  <CannotLandOnSameTile>Неможливо приземлитися на тій же клітинці</CannotLandOnSameTile>
+  <CannotLandOnSameTile>Неможливо приземлитися на тій самій ділянці</CannotLandOnSameTile>
   <!-- EN: Connected substructure -->
   <ConnectedSubstructure>З'єднано з субструктурою</ConnectedSubstructure>
   <!-- EN: Substructure blueprints placed -->

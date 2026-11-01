@@ -48,83 +48,83 @@
   <!-- EN: Crashed mechanoid platform -->
   <CrashedPlatformArrivedLetter>Розбита платформа механоїдів</CrashedPlatformArrivedLetter>
   <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
-  <CrashedPlatformArrivedLetterText>Неподалік видно залишки орбітальної платформи. Будьте обережні, в руїнах помічено ворожих механоїдів.\n\nПроте звідкись зсередини випромінюється сигнал гравядра.</CrashedPlatformArrivedLetterText>
+  <CrashedPlatformArrivedLetterText>Неподалік розкидані рештки орбітальної платформи. Обережно: серед уламків є ворожі механоїди.\n\nСигнал гравядра йде звідкись із місця аварії.</CrashedPlatformArrivedLetterText>
   <!-- Lava Incidents-->
   <!-- EN: Lava emergence -->
-  <LetterLabelLavaEmergence>викид лави</LetterLabelLavaEmergence>
+  <LetterLabelLavaEmergence>Виверження лави</LetterLabelLavaEmergence>
   <!-- EN: Lava is emerging from cracks in the ground! It'll continue to pool until it creates a small lake. It will then take several days to cool, after which it can be removed. -->
-  <LetterLavaEmergence>З тріщин в землі починає литися лава! Це буде продовжуватися, поки лава не утворить невелике озеро. Кілька днів лава буде застигати, після чого її можна буде прибрати.</LetterLavaEmergence>
+  <LetterLavaEmergence>З тріщин у землі виступає лава! Вона розтікатиметься, доки не утворить невелике озеро. Потім кілька днів застигатиме, і тоді її можна буде прибрати.</LetterLavaEmergence>
   <!-- EN: Lava flow -->
-  <LetterLabelLavaFlow>потік лави</LetterLabelLavaFlow>
+  <LetterLabelLavaFlow>Потік лави</LetterLabelLavaFlow>
   <!-- EN: Lava has begun to pour into the region, flooding the low-lying volcanic rock. Keep your colonists out of harm's way! -->
-  <LetterLavaFlow>В цю область почала затікати лава, накопичуючись в низинах з вулканічного каменю. Не дозволяйте своїм колоністам наближатися до неї!</LetterLavaFlow>
+  <LetterLavaFlow>У місцевість почала стікати лава, заливаючи низини з вулканічною породою. Тримайте колоністів подалі від небезпеки!</LetterLavaFlow>
   <!-- Seasonal Flooding -->
   <!-- EN: Seasonal flooding -->
-  <LetterLabelSeasonalFlooding>сезонна повінь</LetterLabelSeasonalFlooding>
+  <LetterLabelSeasonalFlooding>Сезонна повінь</LetterLabelSeasonalFlooding>
   <!-- EN: Rainfall upriver is causing the river to swell. The flooding will subside after several days. -->
-  <LetterSeasonalFlooding>Злива у витоках ріки змушує ріку виходити з берегів. Повінь спаде за кілька днів.</LetterSeasonalFlooding>
+  <LetterSeasonalFlooding>Дощі вгору за течією переповнили річку. Повінь спаде за кілька днів.</LetterSeasonalFlooding>
   <!-- EN: Low temperatures have begun to freeze the river. Flooding is subsiding. -->
-  <MessageSeasonalFloodingFrozen>Через низьку температуру ріка почала замерзати. Повінь спадає.</MessageSeasonalFloodingFrozen>
+  <MessageSeasonalFloodingFrozen>Через низьку температуру річка почала замерзати. Повінь спадає.</MessageSeasonalFloodingFrozen>
   <!-- EN: Flooding is subsiding. -->
   <MessageFloodingSubsiding>Повінь спадає.</MessageFloodingSubsiding>
   <!-- Fishing -->
   <!-- EN: Rare catch -->
   <LetterLabelRareCatch>Рідкісний вилов</LetterLabelRareCatch>
   <!-- EN: While fishing, {PAWN_nameDef} made an unusual catch -->
-  <LetterTextRareCatch>Під час риболовлі {PAWN_nameDef} ловить щось рідкісне</LetterTextRareCatch>
+  <LetterTextRareCatch>Під час риболовлі {PAWN_nameDef} {PAWN_gender ? впіймав : впіймала} щось незвичайне</LetterTextRareCatch>
   <!-- Pursuing Mechanoids -->
   <!-- EN: Incoming mechanoids -->
-  <LetterLabelMechanoidThreat>Механоїди-переслідувачі</LetterLabelMechanoidThreat>
+  <LetterLabelMechanoidThreat>Механоїди наближаються</LetterLabelMechanoidThreat>
   <!-- EN: The mechhive's scanning process is close to determining your location. When it locates your gravship, it will send a massive mechanoid force to kill you.\n\nGather your supplies, then flee the map by selecting the pilot console, and selecting launch. -->
-  <LetterTextMechanoidThreat>Сканування меха-вулика близьке до виявлення вашого місцезнаходження. Як тільки він визначить, де ваш гравкорабель, він відправить величезний загін механоїдів, щоб вбити вас.\n\nЗберіть усі матеріали та припаси, а потім тікайте з мапи, вибравши пульт пілота, а потім команду запуску.</LetterTextMechanoidThreat>
+  <LetterTextMechanoidThreat>Мехвулик майже визначив, де ви. Щойно він знайде ваш гравкорабель, то надішле величезне військо механоїдів, щоб вас знищити.\n\nЗберіть припаси й тікайте з мапи: виберіть пульт пілота й натисніть «Запуск».</LetterTextMechanoidThreat>
   <!-- Mechhive -->
   <!-- EN: Mechhive signal -->
-  <LetterLabelMechhiveWarning>Сигнал меха-вулика</LetterLabelMechhiveWarning>
+  <LetterLabelMechhiveWarning>Сигнал мехвулика</LetterLabelMechhiveWarning>
   <!-- EN: You have detected a massive gravtech energy reading indicating that the mechhive is hidden somewhere in orbit. If you could find it, you could shut it down - or make use of its power.\n\nMechhives are production-and-control platforms that birth mechanoids and coordinate their actions around the planet. They're powered by a persona core.\n\nCollect more gravship technology to track down the mechhive's location. -->
-  <LetterTextMechhiveWarning>Ви виявили потужний гравсигнал, який означає, що меха-вулик приховано десь на орбіті. Якщо ви зможете його знайти, то зможете й відключити... або скористатися його силою.\n\nМеха-вулики — це платформи виробництва та контролю, що не тільки виробляють механоїдів, але й координують їхні дії по всій планеті. В центрі кожного — ядро особистості.\n\nВідкривайте більше технологій гравкорабля, щоб відстежити місцезнаходження меха-вулика.</LetterTextMechhiveWarning>
+  <LetterTextMechhiveWarning>Ви зафіксували потужний сплеск гравтехнічної енергії: десь на орбіті прихований мехвулик. Якщо знайти його, можна його вимкнути – або скористатися його силою.\n\nМехвулики – це платформи виробництва й керування, що породжують механоїдів і координують їхні дії по всій планеті. Живить їх ядро ШІ.\n\nЗбирайте технології гравкораблів, щоб відстежити, де мехвулик.</LetterTextMechhiveWarning>
   <!-- EN: Cerebrex core -->
   <OrbitalMechhiveLetterArrived>Ядро церебрекса</OrbitalMechhiveLetterArrived>
   <!-- EN: At the center of the orbital platform sits a massive mechanoid structure made of hair-fine ultratech filaments supporting an AI persona core. This is the intelligence core of the mechhive that directs mechanoids all over the planet.\n\nThe structure is protected by nearby stabilizers, making it nearly invulnerable. Find and destroy the cerebrex stabilizers to lower the core's defenses. -->
-  <OrbitalMechhiveLetterArrivedText>В центрі орбітальної платформи знаходиться масивна структура механоїдів, зроблена з ультратехнологічних волокон товщиною з волос, що підтримують ядро ШІ-персони. Це ядро розуму меха-вулика, що керує механоїдами по всій планеті.\n\nСтруктуру захищають стабілізатори поблизу, що роблять її майже невразливою. Знайдіть і знищте стабілізатори церебрекса, щоб зменшити захист ядра.</OrbitalMechhiveLetterArrivedText>
+  <OrbitalMechhiveLetterArrivedText>У центрі орбітальної платформи височіє масивна механоїдна споруда з тонких, як волосина, ультратехнологічних ниток, що тримають ядро ШІ. Це мозковий центр мехвулика, який керує механоїдами по всій планеті.\n\nСпоруду захищають стабілізатори поблизу, тож вона майже невразлива. Знайдіть і знищте стабілізатори церебрекса, щоб послабити захист ядра.</OrbitalMechhiveLetterArrivedText>
   <!-- EN: Mechanoid assault -->
   <MechhiveRaidLetterLabel>Напад механоїдів</MechhiveRaidLetterLabel>
   <!-- EN: The cerebrex core is sending mechanoids to attack you. Get ready! -->
-  <MechhiveRaidLetterText>Ядро церебрекса відправляє механоїдів убити вас. Будьте готові!</MechhiveRaidLetterText>
+  <MechhiveRaidLetterText>Ядро церебрекса надсилає механоїдів атакувати вас. Готуйтеся!</MechhiveRaidLetterText>
   <!-- EN: Defense response -->
   <MechhiveDefenseResponseLetterLabel>Захисна реакція</MechhiveDefenseResponseLetterLabel>
   <!-- EN: The mechanoid hive has summoned mechanoid reinforcements to defend itself. They are arriving by transport pod and will attack immediately! -->
-  <MechhiveDefenseResponseLetterText>Вулик механоїдів покликав собі на захист підкріплення механоїдів. Вони прибудуть транспортною капсулою і негайно атакують!</MechhiveDefenseResponseLetterText>
+  <MechhiveDefenseResponseLetterText>Вулик механоїдів викликав на свій захист підкріплення. Механоїди прибувають у транспортних капсулах і нападуть негайно!</MechhiveDefenseResponseLetterText>
   <!-- EN: Cerebrex core -->
   <CerebrexCoreLoweredLetterLabel>Ядро церебрекса</CerebrexCoreLoweredLetterLabel>
   <!-- EN: By destroying the stabilizers, you've lowered the cerebrex core's defenses. Send a colonist to inspect the core. -->
-  <CerebrexCoreLoweredLetterText>Знищення стабілізаторів відключило захист ядра церебрекса. Відправте колоніста оглянути ядро.</CerebrexCoreLoweredLetterText>
+  <CerebrexCoreLoweredLetterText>Знищивши стабілізатори, ви послабили захист ядра церебрекса. Відправте колоніста оглянути ядро.</CerebrexCoreLoweredLetterText>
   <!-- EN: Mechanoids deactivated -->
-  <CerebrexCoreDestroyedLetterLabel>Механоїди деактивовані</CerebrexCoreDestroyedLetterLabel>
+  <CerebrexCoreDestroyedLetterLabel>Механоїдів деактивовано</CerebrexCoreDestroyedLetterLabel>
   <!-- EN: By destroying the cerebrex core, {PAWN_nameDef} has deactivated mechanoids across the planet.\n\nThe mechanoid threat is over. -->
-  <CerebrexCoreDestroyedLetterText>Знищивши ядро церебрекса, {PAWN_nameDef} деактивує механоїдів по всій планеті.\n\nЗагроза механоїдів скінчилася.</CerebrexCoreDestroyedLetterText>
+  <CerebrexCoreDestroyedLetterText>Знищивши ядро церебрекса, {PAWN_nameDef} {PAWN_gender ? деактивував : деактивувала} механоїдів по всій планеті.\n\nЗагрозі механоїдів настав кінець.</CerebrexCoreDestroyedLetterText>
   <!-- EN: Cerebrex node -->
   <CerebrexCoreScavengedLetterLabel>Вузол церебрекса</CerebrexCoreScavengedLetterLabel>
   <!-- EN: The scavenged node from the cerebrex core lies nearby. It responds strongly to the core, clearly still linked to it.\n\nEquip the node to a colonist to make use of it. -->
-  <CerebrexCoreScavengedLetterText>Поблизу лежить добутий вами вузол церебрекса з ядра церебрекса. Він чітко реагує на ядро, бо досі з ним зв'язаний.\n\nЗабезпечте колоніста вузлом, щоб скористатися ним.</CerebrexCoreScavengedLetterText>
+  <CerebrexCoreScavengedLetterText>Поруч лежить вузол, видобутий з ядра церебрекса. Він бурхливо реагує на ядро – очевидно, досі з ним пов'язаний.\n\nЩоб скористатися вузлом, вдягніть його на колоніста.</CerebrexCoreScavengedLetterText>
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
   <LetterLabelGravshipEnteredEnemyBase>Атака почалася</LetterLabelGravshipEnteredEnemyBase>
   <!-- EN: Your gravship has landed at {0} and is ready to begin the attack. -->
-  <LetterGravshipEnteredEnemyBase>Ваш гравкорабель сів на {0} і готовий почати атаку.</LetterGravshipEnteredEnemyBase>
+  <LetterGravshipEnteredEnemyBase>Ваш гравкорабель приземлився біля «{0}» і готовий почати атаку.</LetterGravshipEnteredEnemyBase>
   <!-- Survey Scanner -->
   <!-- EN: Surveying scanner -->
-  <LetterLabelSurveyScannerArrived>дослідницький сканер</LetterLabelSurveyScannerArrived>
+  <LetterLabelSurveyScannerArrived>Дослідницький сканер</LetterLabelSurveyScannerArrived>
   <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
-  <LetterSurveyScannerArrived>Захищайте сканер, поки він не закінчить сканувати область. На це піде {DURATION}.</LetterSurveyScannerArrived>
+  <LetterSurveyScannerArrived>Захищайте сканер, доки він не завершить обстеження місцевості. Це триватиме {DURATION}.</LetterSurveyScannerArrived>
   <!-- Psilocaps -->
   <!-- EN: Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginPsilocap>Завдяки споживанню псилокапів, [PAWN_nameIndef] відчуває натхнення!</LetterInspirationBeginPsilocap>
+  <LetterInspirationBeginPsilocap>Після вживання псилогрибів [PAWN_nameIndef] відчуває натхнення!</LetterInspirationBeginPsilocap>
   <!-- EN: This happened due to ingesting psilocaps. -->
-  <MentalBreakReason_Psilocap>Це сталося в наслідок споживання псилокапів.</MentalBreakReason_Psilocap>
+  <MentalBreakReason_Psilocap>Це сталося через вживання псилогрибів.</MentalBreakReason_Psilocap>
   <!-- EN: Insect lair -->
   <EnteredMegahiveLabel>Лігво комах</EnteredMegahiveLabel>
   <!-- EN: {PAWN_nameDef} has arrived in the depths of a massive underground insect lair. The air is heavy with the stench of insect secretions. -->
-  <EnteredMegahiveText>{PAWN_nameDef} опиняється в глибинах величезного підземного гнізда комах. В повітрі стоїть важкий запах комашиних феромонів.</EnteredMegahiveText>
+  <EnteredMegahiveText>{PAWN_nameDef} спускається в глибини величезного підземного лігва комах. Повітря важке від смороду комашиних виділень.</EnteredMegahiveText>
   <!-- EN: The gravcore signal is coming from somewhere behind the burrow walls. Attack the burrow walls to explore further. -->
-  <EnteredMegahiveGravcoreExtra>Але звідкись з-за стін гнізда випромінюється сигнал гравядра. Атакуйте стіни гнізда, щоб почати дослідження.</EnteredMegahiveGravcoreExtra>
+  <EnteredMegahiveGravcoreExtra>Сигнал гравядра йде звідкись із-за стін нори. Пробивайте стіни нори, щоб досліджувати далі.</EnteredMegahiveGravcoreExtra>
 </LanguageData>
