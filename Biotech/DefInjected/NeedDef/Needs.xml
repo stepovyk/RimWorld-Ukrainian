@@ -7,7 +7,7 @@
   <!-- EN: kill satiety -->
   <KillThirst.label>насиченість убивствами</KillThirst.label>
   <!-- EN: Kill satiety fulfills a built-in desire to do violence at close range to human victims. If it isn't satiated, the person will become very unhappy. -->
-  <KillThirst.description>Насиченість убивствами вгамовує вроджену жагу до насильства над людьми впритул. Якщо її не вгамувати, людина почуватиметься дуже нещасною.</KillThirst.description>
+  <KillThirst.description>Насиченість убивствами задовольняє вроджену жагу до насильства над людьми впритул. Якщо її не вгамувати, людина почуватиметься дуже нещасною.</KillThirst.description>
   <!-- EN: learning -->
   <Learning.label>навчання</Learning.label>
   <!-- EN: Children need new lessons and experiences to grow up well, and will become unhappy without them.\n\nChildren will only do learning activities when their schedule is set to Recreation or Anything.\n\nActivities that fulfill a child's desire to learn include:\n{ACTIVITIES}\n\nA satisfied learning need helps children gain growth tiers faster, giving them more passions and choices during growth moments. -->

@@ -13,7 +13,7 @@
   <!-- EN: The {0} psychic ritual has been completed. -->
   <PsychicRitualCompleted>Психічний ритуал {lookup: {0}; Case; 1} завершено.</PsychicRitualCompleted>
   <!-- EN: attending {RITUALNAME} psychic ritual -->
-  <PsychicRitualAttending>проведення психічного ритуалу {RITUALNAME}</PsychicRitualAttending>
+  <PsychicRitualAttending>участь у психічному ритуалі {RITUALNAME}</PsychicRitualAttending>
   <!-- EN: {0_labelShort} is participating in the {1} psychic ritual. -->
   <ParticipatingInPsychicRitual>{0_labelShort} бере участь у психічному ритуалі {lookup: {1}; Case; 1}.</ParticipatingInPsychicRitual>
   <!-- EN: {0_labelShort} is participating in the {1} psychic ritual. -->

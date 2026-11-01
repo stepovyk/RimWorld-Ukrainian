@@ -9,5 +9,5 @@
   <!-- EN: gathering supplies. -->
   <PrepareCaravan_GatherItems.reportString>збирає припаси</PrepareCaravan_GatherItems.reportString>
   <!-- EN: taking TargetA back to a pen. -->
-  <ReturnedCaravan_PenAnimals.reportString>повертає TargetA назад у загін</ReturnedCaravan_PenAnimals.reportString>
+  <ReturnedCaravan_PenAnimals.reportString>відводить TargetA назад у загін</ReturnedCaravan_PenAnimals.reportString>
 </LanguageData>

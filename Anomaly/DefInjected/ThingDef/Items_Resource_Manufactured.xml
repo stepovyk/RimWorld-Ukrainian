@@ -21,7 +21,7 @@
   <!-- EN: metalblood serum -->
   <MetalbloodSerum.label>сироватка залізної крові</MetalbloodSerum.label>
   <!-- EN: A syringe full of rust-colored liquid that constantly hardens and liquifies. When injected into the bloodstream, the metalblood substance can harden the flesh when it anticipates a blow, making the user more resistant to damage. However, the bioferrite-based chemistry of this serum also makes the user particularly vulnerable to fire. -->
-  <MetalbloodSerum.description>Шприц з іржавою рідиною, яка безперервно то твердне, то розріджується. Потрапивши в кров, залізна кров робить плоть твердою, щойно відчуває наближення удару, і так підвищує стійкість до шкоди. Проте через біоферитову основу ця сироватка робить людину особливо вразливою до вогню.</MetalbloodSerum.description>
+  <MetalbloodSerum.description>Шприц з іржавою рідиною, яка безперервно то твердне, то розріджується. У кровотоці ця речовина робить плоть твердою, щойно відчуває наближення удару, і так підвищує стійкість до шкоди. Проте через біоферитову основу сироватка робить людину особливо вразливою до вогню.</MetalbloodSerum.description>
   <!-- EN: Use {0_label} -->
   <MetalbloodSerum.comps.CompUsable.useLabel>Використати {lookup: {0_label}; Case; 3}</MetalbloodSerum.comps.CompUsable.useLabel>
   <!-- EN: Ingest {0} -->

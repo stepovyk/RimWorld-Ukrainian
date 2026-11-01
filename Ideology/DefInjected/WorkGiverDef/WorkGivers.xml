@@ -5,7 +5,7 @@
   <!-- EN: changing dryad caste for -->
   <ChangeTreeMode.gerund>змінити касту дріад для</ChangeTreeMode.gerund>
   <!-- EN: change dryad caste for -->
-  <ChangeTreeMode.verb>змінювати касту дріад для</ChangeTreeMode.verb>
+  <ChangeTreeMode.verb>змінити касту дріад для</ChangeTreeMode.verb>
   <!-- EN: convert prisoners -->
   <ConvertPrisoner.label>конвертувати</ConvertPrisoner.label>
   <!-- EN: converting -->
@@ -35,7 +35,7 @@
   <!-- EN: filling -->
   <HaulToBiosculpterPod.gerund>заповнити</HaulToBiosculpterPod.gerund>
   <!-- EN: fill -->
-  <HaulToBiosculpterPod.verb>заповняти</HaulToBiosculpterPod.verb>
+  <HaulToBiosculpterPod.verb>заповнювати</HaulToBiosculpterPod.verb>
   <!-- EN: imprison slaves -->
   <ImprisonSlave.label>ув'язнювати рабів</ImprisonSlave.label>
   <!-- EN: imprisoning -->
@@ -45,9 +45,9 @@
   <!-- EN: prune Gauranlen trees -->
   <PruneGauranlenTree.label>доглядати за деревом Гауранлен</PruneGauranlenTree.label>
   <!-- EN: pruning -->
-  <PruneGauranlenTree.gerund>доглядати</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.gerund>підрізати</PruneGauranlenTree.gerund>
   <!-- EN: prune -->
-  <PruneGauranlenTree.verb>доглядати</PruneGauranlenTree.verb>
+  <PruneGauranlenTree.verb>підрізати</PruneGauranlenTree.verb>
   <!-- EN: suppress slaves -->
   <SuppressSlave.label>пригнічувати рабів</SuppressSlave.label>
   <!-- EN: suppressing -->

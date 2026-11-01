@@ -11,7 +11,7 @@
   <!-- EN: ancient defender turret -->
   <Turret_AncientArmoredTurret.label>старовинна захисна турель</Turret_AncientArmoredTurret.label>
   <!-- EN: An armored security turret containing a long-lasting battery. -->
-  <Turret_AncientArmoredTurret.description>Броньована автоматична турель з довготривалою батареєю.</Turret_AncientArmoredTurret.description>
+  <Turret_AncientArmoredTurret.description>Броньована охоронна турель з довговічною батареєю.</Turret_AncientArmoredTurret.description>
   <!-- EN: Disabled -->
   <Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>Відключено</Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>
 </LanguageData>

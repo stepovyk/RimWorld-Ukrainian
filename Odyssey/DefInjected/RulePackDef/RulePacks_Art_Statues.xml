@@ -341,6 +341,12 @@
     <li>prop->рушниця</li>
     <li>prop->псі-реліквія</li>
     <li>prop->людське серце</li>
+    <li>prop->книга</li>
+    <li>prop->меч</li>
+    <li>prop->спис</li>
+    <li>prop->рушниця</li>
+    <li>prop->псі-реліквія</li>
+    <li>prop->людське серце</li>
   </ArtDescription_Statue.rulePack.rulesStrings>
   <!-- EN:
     <li>r_statue_name(p=4)->[SUBJECT_nameFull]</li>

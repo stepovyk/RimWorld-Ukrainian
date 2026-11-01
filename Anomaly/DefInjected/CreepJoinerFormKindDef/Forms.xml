@@ -5,7 +5,7 @@
   <!-- EN: A blind healer is approaching the colony. -->
   <Blindhealer.letterLabel>До колонії наближається сліпий цілитель.</Blindhealer.letterLabel>
   <!-- EN: A small, withered {PAWN_genderNoun} stands in front of you. Where {PAWN_possessive} eyes should be, there are only scar-crusted holes in {PAWN_possessive} flesh. Yet, even without eyes, {PAWN_pronoun} somehow looks at you with kindness. {PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
-  <Blindhealer.letterPrompt>Перед вами стоїть {PAWN_gender ? маленький висохлий : маленька висохла} {PAWN_genderNoun}. Там, де мали б бути очі, у плоті зяють лише вкриті струпами отвори. Та навіть без очей {PAWN_pronoun} якось дивиться на вас із добротою. {PAWN_pronoun} каже, що знає: тут потрібні {PAWN_gender ? його : її} вміння, – і хоче трохи побути у вас.</Blindhealer.letterPrompt>
+  <Blindhealer.letterPrompt>Перед вами стоїть {PAWN_gender ? маленький висохлий : маленька висохла} {PAWN_genderNoun}. Там, де мали б бути очі, у плоті зяють лише вкриті струпами отвори. Та навіть без очей {PAWN_pronoun} якось дивиться на вас із добротою. {PAWN_pronoun} каже, що тут потрібні {PAWN_gender ? його : її} вміння, і хоче трохи побути у вас.</Blindhealer.letterPrompt>
   <!-- EN: drifter -->
   <CreepDrifter.label>бродяга</CreepDrifter.label>
   <!-- EN: A visitor is approaching the colony. -->

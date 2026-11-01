@@ -117,7 +117,7 @@
   <!-- EN: Spoilage and freezers -->
   <SpoilageAndFreezers.label>Псування й морозильні камери</SpoilageAndFreezers.label>
   <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
-  <SpoilageAndFreezers.helpText>Більшість продуктів досить швидко псується.\n\nЩоб цього не сталося, збудуйте морозильну камеру.\n\nДля цього звведіть закрите приміщення й вбудуйте в стіну один-два кондиціонери. Задайте кондиціонерам від'ємну цільову температуру.\n\nЗаморожена їжа не псується ніколи.</SpoilageAndFreezers.helpText>
+  <SpoilageAndFreezers.helpText>Більшість продуктів досить швидко псується.\n\nЩоб цього не сталося, збудуйте морозильну камеру.\n\nДля цього зведіть закрите приміщення й вбудуйте в стіну один-два кондиціонери. Задайте кондиціонерам від'ємну цільову температуру.\n\nЗаморожена їжа не псується ніколи.</SpoilageAndFreezers.helpText>
   <!-- EN: Stockpiles -->
   <Stockpiles.label>Склади</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->

@@ -21,7 +21,7 @@
   <!-- EN: The cold snap is over. -->
   <ColdSnap.endMessage>Заморозки скінчилися.</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>Ударили незвичні заморозки.\n\nЗаморозки можуть швидко вбити переохолодженням. Облаштуйте опалюване приміщення, вдягніться по погоді й постарайтеся зібрати врожай, поки рослини не замерзли й не загинули.</ColdSnap.letterText>
+  <ColdSnap.letterText>Ударили незвичні заморозки.\n\nЗаморозки можуть швидко вбити гіпотермією. Облаштуйте опалюване приміщення, вдягніться по погоді й постарайтеся зібрати врожай, поки рослини не замерзли й не загинули.</ColdSnap.letterText>
   <!-- EN: eclipse -->
   <Eclipse.label>затемнення</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
@@ -55,7 +55,7 @@
   <!-- EN: psychic drone -->
   <PsychicDrone.label>психічний гул</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>Далекий архотек випромінює психічні сигнали через орбітальний підсилювач, доводячи людей до божевілля.</PsychicDrone.description>
+  <PsychicDrone.description>Далекий архотех випромінює психічні сигнали через орбітальний підсилювач, доводячи людей до божевілля.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
   <PsychicDrone.descriptionFuture>[psychicDroneLevel] психічний гул лунатиме довкола [map_definite] протягом [gameConditionDuration_duration], доводячи до божевілля {replace: [psychicDroneGender]; "чоловік"-"чоловіків"; "жінка"-"жінок"}</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
@@ -65,7 +65,7 @@
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>психічне заспокоєння</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>Далекий архотек випромінює психічні сигнали через орбітальний підсилювач, заспокоюючи людей і врівноважуючи їхню психіку.</PsychicSoothe.description>
+  <PsychicSoothe.description>Далекий архотех випромінює психічні сигнали через орбітальний підсилювач, заспокоюючи людей і врівноважуючи їхню психіку.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
   <PsychicSoothe.endMessage>Психічне заспокоєння минає.</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->

@@ -388,7 +388,7 @@
   <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
   <PenFoodTab_NutritionConsumptionDescription>Поживність, потрібна тваринам, які зараз у загоні.\n\nЩоб їжі було більше, розширте загін, охопивши більше дикорослих рослин, або привозьте в загін заготовлену їжу, як-от сіно.</PenFoodTab_NutritionConsumptionDescription>
   <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
-  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Примітка: швидкість росту рослин залежить від сезону, погоди, того, що поїдають дикі тварини, та інших чинників. Ці розрахунки приблизні.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Примітка: швидкість росту рослин залежить від сезону, погоди, поїдання дикими тваринами та інших чинників. Ці розрахунки приблизні.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
   <!-- EN: Total consumption -->
   <PenFoodTab_NutritionConsumedPerDay_ColumLabel>Загальне споживання</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
   <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->

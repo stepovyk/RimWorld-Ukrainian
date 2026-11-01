@@ -7,13 +7,13 @@
   <!-- EN: broken up with by {0} -->
   <BrokeUpWithMeMood.stages.broken_up_with_by.label>розлука з {0}</BrokeUpWithMeMood.stages.broken_up_with_by.label>
   <!-- EN: I was just dumped like a load of garbage. -->
-  <BrokeUpWithMeMood.stages.broken_up_with_by.description>{1_gender ? Він : Вона} просто {1_gender ? кинув : кинула} мене, як непотріб!</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>Мене щойно викинули, як мішок сміття.</BrokeUpWithMeMood.stages.broken_up_with_by.description>
   <!-- EN: cheated on me -->
   <CheatedOnMe.stages.cheated_on_me.label>{1_gender ? зрадив : зрадила} мені</CheatedOnMe.stages.cheated_on_me.label>
   <!-- EN: cheated on by {0} -->
   <CheatedOnMeMood.stages.cheated_on_by.label>{0} {1_gender ? зрадив : зрадила} мені</CheatedOnMeMood.stages.cheated_on_by.label>
   <!-- EN: How could someone cheat on me! -->
-  <CheatedOnMeMood.stages.cheated_on_by.description>Як {1_gender ? він осмілився : вона осмілилась} зрадити мені!</CheatedOnMeMood.stages.cheated_on_by.description>
+  <CheatedOnMeMood.stages.cheated_on_by.description>Як мені могли зрадити!</CheatedOnMeMood.stages.cheated_on_by.description>
   <!-- EN: chitchat -->
   <Chitchat.stages.chitchat.label>побазікали</Chitchat.stages.chitchat.label>
   <!-- EN: crashed together -->
@@ -25,7 +25,7 @@
   <!-- EN: divorced by {0} -->
   <DivorcedMeMood.stages.divorced_by.label>розлука з {0}</DivorcedMeMood.stages.divorced_by.label>
   <!-- EN: We made a commitment, and they just tore it apart. -->
-  <DivorcedMeMood.stages.divorced_by.description>Ми взяли на себе зобов’язання, а {1_gender ? він : вона} просто {1_gender ? розірвав : розірвала} їх.</DivorcedMeMood.stages.divorced_by.description>
+  <DivorcedMeMood.stages.divorced_by.description>Ми дали одне одному обіцянку, а {OTHERPAWN_gender ? він просто її розтоптав : вона просто її розтоптала}.</DivorcedMeMood.stages.divorced_by.description>
   <!-- EN: failed to romance me -->
   <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>{1_gender ? чіплявся : чіплялась} до мене</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
   <!-- EN: had to rebuff {0} -->

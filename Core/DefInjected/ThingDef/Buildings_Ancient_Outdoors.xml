@@ -15,7 +15,7 @@
   <!-- EN: ancient dropship engine -->
   <AncientDropshipEngine.label>старовинний двигун десантного корабля</AncientDropshipEngine.label>
   <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
-  <AncientDropshipEngine.description>Старовинний двигун десантного корабля. Імовірно, він відвалився від військового транспортного корабля. Його делікатні нутрощі поіржавіли й стали непридатними, а цінні частини давно розграбовано.</AncientDropshipEngine.description>
+  <AncientDropshipEngine.description>Старовинний двигун десантного корабля. Імовірно, він відвалився від військового транспортника. Його тендітні нутрощі поіржавіли й стали непридатними, а цінні частини давно розграбовано.</AncientDropshipEngine.description>
   <!-- EN: ancient fence -->
   <AncientFence.label>старовинний паркан</AncientFence.label>
   <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
@@ -31,7 +31,7 @@
   <!-- EN: ancient jet engine -->
   <AncientJetEngine.label>старовинний реактивний двигун</AncientJetEngine.label>
   <!-- EN: An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
-  <AncientJetEngine.description>Старовинний реактивний двигун, імовірно, від великого літака. Його делікатні нутрощі поіржавіли й стали непридатними, а цінні частини давно розграбовано.</AncientJetEngine.description>
+  <AncientJetEngine.description>Старовинний реактивний двигун, імовірно, від великого літака. Його тендітні нутрощі поіржавіли й стали непридатними, а цінні частини давно розграбовано.</AncientJetEngine.description>
   <!-- EN: ancient container -->
   <AncientLargeContainer.label>старовинний контейнер</AncientLargeContainer.label>
   <!-- EN: A shipping container from some ancient freight-carrying vehicle. It has long since deteriorated into uselessness. -->

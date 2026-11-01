@@ -7,7 +7,7 @@
   <!-- EN: decree ignored -->
   <DecreeUnmet.stages.decree_ignored.label>наказ ігнорується</DecreeUnmet.stages.decree_ignored.label>
   <!-- EN: My decree has been ignored for far too long {0}. -->
-  <DecreeUnmet.stages.decree_ignored.description>Мій наказ ігнорують уже надто довго {0}.</DecreeUnmet.stages.decree_ignored.description>
+  <DecreeUnmet.stages.decree_ignored.description>Мій указ ігнорують уже надто довго {0}.</DecreeUnmet.stages.decree_ignored.description>
   <!-- EN: joyfuzz -->
   <Joyfuzz.stages.joyfuzz.label>хвилі радості</Joyfuzz.stages.joyfuzz.label>
   <!-- EN: No matter what happens, I feel like I'm okay with it for some reason. -->

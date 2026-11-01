@@ -97,7 +97,7 @@
   <!-- EN: defeated -->
   <DefeatedLower>переможені</DefeatedLower>
   <!-- EN: Enemy of {0} -->
-  <HostileTo>Ворог фракції {0}</HostileTo>
+  <HostileTo>Ворог фракції «{0}»</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>Ворог фракцій:</EnemyOf>
   <!-- EN: Recent events -->

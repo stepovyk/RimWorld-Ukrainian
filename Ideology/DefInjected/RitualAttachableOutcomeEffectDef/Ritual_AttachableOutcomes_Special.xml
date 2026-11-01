@@ -33,7 +33,7 @@
   <!-- EN: random recruit -->
   <RandomRecruit.label>шанс на поповнення</RandomRecruit.label>
   <!-- EN: 50% chance of random recruit of the same ideoligion joining your colony. -->
-  <RandomRecruit.effectDesc>50% ймовірність, що випадковий мандрівник тієї ж ідеології захоче приєднатися до вас.</RandomRecruit.effectDesc>
+  <RandomRecruit.effectDesc>з імовірністю 50% до колонії приєднається випадковий новобранець тієї ж ідеології.</RandomRecruit.effectDesc>
   <!-- EN: A wanderer has arrived and wants to join your colony. -->
   <RandomRecruit.letterInfoText>Прибув мандрівник і хоче приєднатися до вашої колонії.</RandomRecruit.letterInfoText>
 </LanguageData>

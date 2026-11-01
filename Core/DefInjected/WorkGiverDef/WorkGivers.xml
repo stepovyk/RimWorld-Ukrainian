@@ -63,15 +63,15 @@
   <!-- EN: smooth floors -->
   <ConstructSmoothFloors.label>шліфувати підлогу</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothFloors.gerund>шліфувати</ConstructSmoothFloors.gerund>
+  <ConstructSmoothFloors.gerund>вирівняти</ConstructSmoothFloors.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothFloors.verb>шліфувати</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.verb>вирівняти</ConstructSmoothFloors.verb>
   <!-- EN: smooth walls -->
   <ConstructSmoothWalls.label>шліфувати стіни</ConstructSmoothWalls.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothWalls.gerund>шліфувати</ConstructSmoothWalls.gerund>
+  <ConstructSmoothWalls.gerund>вирівняти</ConstructSmoothWalls.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothWalls.verb>шліфувати</ConstructSmoothWalls.verb>
+  <ConstructSmoothWalls.verb>вирівняти</ConstructSmoothWalls.verb>
   <!-- EN: fill food hoppers -->
   <CookFillHopper.label>наповнювати лійки</CookFillHopper.label>
   <!-- EN: filling -->
@@ -183,9 +183,9 @@
   <!-- EN: synthesize drugs -->
   <DoBillsProduceDrugs.label>синтезувати препарати</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
-  <DoBillsProduceDrugs.gerund>синтезувати препарати, використовуючи</DoBillsProduceDrugs.gerund>
+  <DoBillsProduceDrugs.gerund>синтезувати наркотики, використовуючи</DoBillsProduceDrugs.gerund>
   <!-- EN: produce drugs at -->
-  <DoBillsProduceDrugs.verb>синтезувати препарати, використовуючи</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.verb>синтезувати наркотики, використовуючи</DoBillsProduceDrugs.verb>
   <!-- EN: work at refinery -->
   <DoBillsRefinery.label>працювати за біопаливним апаратом</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->

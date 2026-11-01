@@ -204,7 +204,7 @@
   <!-- EN: Activity level -->
   <ActivityLevel>Рівень активності</ActivityLevel>
   <!-- EN: Psychic suppression -->
-  <IsPsychicallySuppressed>Психічне приглушення</IsPsychicallySuppressed>
+  <IsPsychicallySuppressed>Психічне придушення</IsPsychicallySuppressed>
   <!-- EN: Increase rate -->
   <ActivityIncrease>Швидкість зростання</ActivityIncrease>
   <!-- EN: Not in sealed room -->
@@ -693,7 +693,7 @@
   <!-- EN: Activate void structures to complete the monolith awakening. -->
   <StructuresActivatedAlertDescription>Активуйте споруди порожнечі, щоб завершити пробудження моноліту.</StructuresActivatedAlertDescription>
   <!-- EN: {PAWN_nameDef}'s connection to the void monolith has been broken. It must be activated again. -->
-  <GleamingMonolithInterrupted>З’єднання {PAWN_nameDef} із монолітом порожнечі розірвано. Його потрібно активувати знову.</GleamingMonolithInterrupted>
+  <GleamingMonolithInterrupted>Зв'язок {PAWN_nameDef} з монолітом порожнечі розірвано. Його потрібно активувати знову.</GleamingMonolithInterrupted>
   <!-- HediffComp_GiveLovinMTBFactor -->
   <!-- EN: Increases the chance of lovin` -->
   <IncreasesChanceOfLovin>Підвищує шанс фізичної близькості</IncreasesChanceOfLovin>

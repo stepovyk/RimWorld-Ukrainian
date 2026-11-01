@@ -5,7 +5,7 @@
   <!-- EN: Caravan ambushed -->
   <Ambush.letterLabel>Караван потрапив до засідки</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>{0} потрапив до засідки {lookup: {1}; Case; 1} з фракції {2}!</Ambush.letterText>
+  <Ambush.letterText>{0} потрапляє в засідку {lookup: {1}; Case; 1} з фракції {2}!</Ambush.letterText>
   <!-- EN: payment demand -->
   <CaravanDemand.label>вимога плати за прохід</CaravanDemand.label>
   <!-- EN: caravan meeting -->
