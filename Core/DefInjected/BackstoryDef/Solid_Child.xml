@@ -1026,7 +1026,9 @@
   <OfficerCadet25.title>офіцерський курсант</OfficerCadet25.title>
   <!-- EN: cadet -->
   <OfficerCadet25.titleShort>курсант</OfficerCadet25.titleShort>
-  <!-- EN: [PAWN_nameDef] was born an raised in an offworld soldier growth facility. From a very young age, [PAWN_pronoun] was taught close-quarters combat tactics, aggression, and how to survive on distant planets.\n\nOne of the best, [PAWN_nameDef] was eventually chose to enter the orbital-deployment shock troop corps. -->
+  <!-- EN: [PAWN_nameDef] was born and raised in an offworld soldier growth facility. From a very young age, [PAWN_pronoun] was taught close-quarters combat tactics, aggression, and how to survive on distant planets.
+
+One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deployment shock troop corps. -->
   <OffworldRecruit91.description>[PAWN_nameDef] {PAWN_gender ? народився й виріс : народилася й виросла} в позапланетному центрі вирощування солдатів. З раннього дитинства [PAWN_possessive] навчали тактики ближнього бою, агресії та виживання на далеких планетах.\n\n{PAWN_gender ? Один : Одна} з найкращих, [PAWN_nameDef] зрештою {PAWN_gender ? був обраний : була обрана} до корпусу штурмовиків орбітального десанту.</OffworldRecruit91.description>
   <!-- EN: offworld recruit -->
   <OffworldRecruit91.title>космічний рекрут</OffworldRecruit91.title>
@@ -1460,7 +1462,7 @@
   <SteamworldTinker38.titleShort>майстер</SteamworldTinker38.titleShort>
   <!-- EN: A steward on medieval merchant ships, [PAWN_nameDef] was well-traveled on [PAWN_possessive] homeworld by [PAWN_possessive] early teens.\n\nThe constant orders from [PAWN_possessive] captain, however, fostered a defiant streak, as well as a general disaste for anything [PAWN_pronoun] considered to be busywork. -->
   <StewardsAssisant28.description>[PAWN_nameDef] {PAWN_gender ? служив : служила} стюардом на середньовічних торговельних кораблях і вже в ранньому підлітковому віці {PAWN_gender ? встиг : встигла} чимало помандрувати рідним світом.\n\nОднак через безупинні накази капітана {PAWN_gender ? в ньому : в ній} прокинулася бунтарська жилка, а також відраза до всього, що [PAWN_pronoun] {PAWN_gender ? вважав : вважала} марною метушнею.</StewardsAssisant28.description>
-  <!-- EN: Steward's assisant -->
+  <!-- EN: Steward's assistant -->
   <StewardsAssisant28.title>помічник стюарда</StewardsAssisant28.title>
   <!-- EN: Steward -->
   <StewardsAssisant28.titleShort>стюард</StewardsAssisant28.titleShort>

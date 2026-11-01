@@ -138,7 +138,7 @@
   <RestRateMultiplier.description>Показник, що вказує на швидкість відпочинку істоти під час сну.</RestRateMultiplier.description>
   <!-- EN: toxic environment resistance -->
   <ToxicEnvironmentResistance.label>стійкість до токсичного середовища</ToxicEnvironmentResistance.label>
-  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
   <ToxicEnvironmentResistance.description>Наскільки ця істота стійка до впливу токсинів навколишнього середовища. Захищає від токсичного і трупного газу, токсичних опадів і забрудненої місцевості, але не від прямих атак отрутою чи отруєння. Чим вище цей показник, тим менше тіло персонажа схильне до отруєння токсинами від перерахованих факторів.</ToxicEnvironmentResistance.description>
   <!-- EN: toxic resistance -->
   <ToxicResistance.label>стійкість до токсинів</ToxicResistance.label>

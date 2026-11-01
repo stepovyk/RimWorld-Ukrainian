@@ -135,7 +135,7 @@
   <!-- EN: {0} has been lost!\n\nThe following people will suffer a mood reduction:\n{1} -->
   <LetterTextRelicLost>Реліквія {0} втрачена!\n\nУ наступних послідовників погіршиться настрій:\n{1}</LetterTextRelicLost>
   <!-- Caravan destroyed -->
-  <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded. -->
+  <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disbanded. -->
   <LetterOnlySlaveCaravanColonistsLeft>Усі не поневолені учасники {0} загинули. Інші раби пішли своїм шляхом. Караван втрачено.</LetterOnlySlaveCaravanColonistsLeft>
   <!-- Hacker lost -->
   <!-- EN: Last hacker lost -->

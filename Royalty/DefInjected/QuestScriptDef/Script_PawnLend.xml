@@ -96,4 +96,36 @@
   <PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>Шатл, що відправили забрати колоністів, було залишено.</PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>
   <!-- EN: Colonists returned -->
   <PawnLend.LetterLabelColonistsReturned.slateRef>Колоністи повернулися</PawnLend.LetterLabelColonistsReturned.slateRef>
+  <!-- EN:
+    <li>dutyDescription->gather the harvest</li>
+    <li>dutyDescription->fortify a settlement</li>
+    <li>dutyDescription->set up a settlement</li>
+    <li>dutyDescription->watch for raiders</li>
+    <li>dutyDescription->set up a hospital</li>
+    <li>dutyDescription->contain an outbreak of [disease]</li>
+  -->
+  <PawnLend.DutyRulesAny.rulesStrings>
+    <li>dutyDescription->gather the harvest</li>
+    <li>dutyDescription->fortify a settlement</li>
+    <li>dutyDescription->set up a settlement</li>
+    <li>dutyDescription->watch for raiders</li>
+    <li>dutyDescription->set up a hospital</li>
+    <li>dutyDescription->contain an outbreak of [disease]</li>
+  </PawnLend.DutyRulesAny.rulesStrings>
+  <!-- EN:
+    <li>dutyRoyalDescription->prepare a ceremony</li>
+    <li>dutyRoyalDescription->negotiate with a tribe</li>
+    <li>dutyRoyalDescription->explore a swamp</li>
+    <li>dutyRoyalDescription->translate a book</li>
+    <li>dutyRoyalDescription->set up a training ground</li>
+    <li>dutyRoyalDescription->harvest crops</li>
+  -->
+  <PawnLend.DutyRulesRoyal.rulesStrings>
+    <li>dutyRoyalDescription->prepare a ceremony</li>
+    <li>dutyRoyalDescription->negotiate with a tribe</li>
+    <li>dutyRoyalDescription->explore a swamp</li>
+    <li>dutyRoyalDescription->translate a book</li>
+    <li>dutyRoyalDescription->set up a training ground</li>
+    <li>dutyRoyalDescription->harvest crops</li>
+  </PawnLend.DutyRulesRoyal.rulesStrings>
 </LanguageData>

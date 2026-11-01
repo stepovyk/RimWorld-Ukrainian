@@ -8,7 +8,9 @@
   <Artilleryman28.titleFemale>артилеристка</Artilleryman28.titleFemale>
   <!-- EN: artilleer -->
   <Artilleryman28.titleShort>артилерист</Artilleryman28.titleShort>
-  <!-- EN: [PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.\n\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.\n\n[PAWN_nameDef] learned to draw in the hospital. -->
+  <!-- EN: [PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrificed to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.
+\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.
+\n[PAWN_nameDef] learned to draw in the hospital. -->
   <BrokenSoldier29.description>[PAWN_pronoun] {PAWN_gender ? був : була} загартованим солдатом у затяжній війні за престол. В останній битві [PAWN_possessive] підрозділом пожертвували, щоб прикрити відступ. [PAWN_nameDef] {PAWN_gender ? бачив : бачила}, як гинуть побратими, і {PAWN_gender ? єдиний вижив : єдина вижила}.\n\nПережите зламало [PAWN_possessive] зсередини, і [PAWN_pronoun] {PAWN_gender ? втратив : втратила} здатність стримувати власні емоції.\n\nУ шпиталі [PAWN_nameDef] {PAWN_gender ? навчився : навчилася} малювати.</BrokenSoldier29.description>
   <!-- EN: broken soldier -->
   <BrokenSoldier29.title>зламаний солдат</BrokenSoldier29.title>

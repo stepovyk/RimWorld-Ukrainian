@@ -8,4 +8,8 @@
   <TileVacstone.label>ваккам'яна плитка</TileVacstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
   <TileVacstone.description>Ретельно вирізана та підігнана кам’яна плитка як в замку. Вона гарно виглядає, але її довго вкладати.</TileVacstone.description>
+  <!-- EN: ancient heavy bridge -->
+  <AncientHeavyBridge.label>ancient heavy bridge</AncientHeavyBridge.label>
+  <!-- EN: An ancient bridge which supports heavy structures on top. You can build a whole colony on water with this. -->
+  <AncientHeavyBridge.description>An ancient bridge which supports heavy structures on top. You can build a whole colony on water with this.</AncientHeavyBridge.description>
 </LanguageData>

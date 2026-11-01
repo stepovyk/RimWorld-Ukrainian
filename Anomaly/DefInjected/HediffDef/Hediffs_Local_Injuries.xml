@@ -8,6 +8,8 @@
   <Digested.labelNoun>перетравлена частина</Digested.labelNoun>
   <!-- EN: digested {1} -->
   <Digested.labelNounPretty>перетравлена {1}</Digested.labelNounPretty>
+  <!-- EN: Digested -->
+  <Digested.injuryProps.destroyedLabel>Digested</Digested.injuryProps.destroyedLabel>
   <!-- EN: energy bolt -->
   <EnergyBolt.label>енергетичний заряд</EnergyBolt.label>
   <!-- EN: A wound from an energy bolt. -->

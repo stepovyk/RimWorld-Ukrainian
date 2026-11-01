@@ -1221,7 +1221,7 @@
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
   <ShowLearningHelperWhenEmptyToggleButton>Відображення помічника.\n\nВідображає помічника навіть якщо немає активної теми для вивчення.</ShowLearningHelperWhenEmptyToggleButton>
-  <!-- EN: Toggle visiblity of zones. -->
+  <!-- EN: Toggle visibility of zones. -->
   <ZoneVisibilityToggleButton>Видимість зон.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
   <ShowBeautyToggleButton>Відображення краси оточення.\n\nПоказує красу оточення, як її сприймає персонаж, який стоїть у квадраті, на який вказує курсор.</ShowBeautyToggleButton>

@@ -54,11 +54,11 @@
   <ConstructRemoveFloors.gerund>знімання підлоги</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
   <ConstructRemoveFloors.verb>знімати підлогу</ConstructRemoveFloors.verb>
-  <!-- EN: remove foundation -->
+  <!-- EN: remove bridges -->
   <ConstructRemoveFoundations.label>прибрати фундамент</ConstructRemoveFoundations.label>
-  <!-- EN: removing foundation -->
+  <!-- EN: removing bridge -->
   <ConstructRemoveFoundations.gerund>прибрати фундамент</ConstructRemoveFoundations.gerund>
-  <!-- EN: remove foundation -->
+  <!-- EN: remove bridge -->
   <ConstructRemoveFoundations.verb>прибрати фундамент</ConstructRemoveFoundations.verb>
   <!-- EN: smooth floors -->
   <ConstructSmoothFloors.label>шліфувати підлогу</ConstructSmoothFloors.label>

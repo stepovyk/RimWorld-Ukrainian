@@ -69,7 +69,7 @@
   <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.description>Видозмінити сталь на атомному рівні, перетворивши її на випадковий цінний матеріал. Може бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.description>
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
-  <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Має бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
+  <TransmuteSteel.comps.CompTransmute.failedMessage>Має бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.comps.CompTransmute.failedMessage>
   <!-- EN: entity skip -->
   <UnnaturalCorpseSkip.label>аномальний стрибок</UnnaturalCorpseSkip.label>
   <!-- EN: Teleport to a target destination. -->

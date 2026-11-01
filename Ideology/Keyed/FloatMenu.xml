@@ -148,7 +148,7 @@
   <BiosculpterAutoAgeReversalLabel>Автоматичне омолодження для {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
   <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
   <BiosculpterAutoAgeReversalDescription>Дозволити {PAWN_labelShort} самостійно проходити цикл омолодження щороку, відповідно до {PAWN_possessive} переконань. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
-  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treatment in {TIME} if the pod is ready. -->
   <BiosculpterAutoAgeReversalDescriptionFuture>Якщо активно, {PAWN_labelShort} самостійно пройде цикл через {TIME}, якщо біоскульптор буде готовий.</BiosculpterAutoAgeReversalDescriptionFuture>
   <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
   <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} вже планує свій наступний цикл омолодження, якщо відповідно опція активна.</BiosculpterAutoAgeReversalDescriptionNow>

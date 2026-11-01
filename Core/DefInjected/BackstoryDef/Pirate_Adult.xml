@@ -12,9 +12,9 @@
   <Gigolo30.title>жиголо</Gigolo30.title>
   <!-- EN: gigolo -->
   <Gigolo30.titleFemale>повія</Gigolo30.titleFemale>
-  <!-- EN: courtesean -->
+  <!-- EN: courtesan -->
   <Gigolo30.titleShort>жиголо</Gigolo30.titleShort>
-  <!-- EN: courtesean -->
+  <!-- EN: courtesan -->
   <Gigolo30.titleShortFemale>повія</Gigolo30.titleShortFemale>
   <!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
   <IllegalShipwright76.description>Є закон, який забороняє встановлювати тераватні лазери на вантажні човни.  Особливо, якщо їх замаскувати під вигляд антени зв’язку, для підвищення ефективності засідки. {PAWN_nameDef} {PAWN_gender ? виявив : виявила}, що ті, хто не зацікавлений у подібних законах, можуть принести великий прибуток.</IllegalShipwright76.description>

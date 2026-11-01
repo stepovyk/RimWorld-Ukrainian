@@ -82,11 +82,11 @@
   <EggTurkeyUnfertilized.description>Незапліднене яйце індички. Можна їсти сирим, проте краще приготувати.</EggTurkeyUnfertilized.description>
   <!-- EN: insect jelly -->
   <InsectJelly.label>комашине желе</InsectJelly.label>
-  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.\n\nOddly, its texture and nutrient balance makes it an ideal baby food. -->
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
   <InsectJelly.description>Желе що зберігається та використовується великими комахами як їжа. Воно м'яке, поживне та на диво смачне. Через унікальні біологічні властивості воно може споживатися практично будь-ким і ніколи не гниє.\n\nКомашине желе, завдяки своїй текстурі та балансу поживних речовин чудове, для годування немовлят.</InsectJelly.description>
   <!-- EN: milk -->
   <Milk.label>молоко</Milk.label>
-  <!-- EN: Milk from an animal.\n\nMilk can be fed to human babies. -->
+  <!-- EN: Milk from an animal. -->
   <Milk.description>Тваринне молоко.\n\nМолоком можна годувати немовлят.</Milk.description>
   <!-- EN: skull -->
   <Skull.label>череп</Skull.label>

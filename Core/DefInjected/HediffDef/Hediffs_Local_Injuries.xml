@@ -12,6 +12,8 @@
   <AcidBurn.labelNoun>кислотний опік</AcidBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
   <AcidBurn.labelNounPretty>{0} на {1}</AcidBurn.labelNounPretty>
+  <!-- EN: Dissolved -->
+  <AcidBurn.injuryProps.destroyedOutLabel>Dissolved</AcidBurn.injuryProps.destroyedOutLabel>
   <!-- EN: beam burn -->
   <BeamWound.label>променевий опік</BeamWound.label>
   <!-- EN: A beam burn. -->
@@ -50,6 +52,8 @@
   <Bruise.labelNoun>забій</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Bruise.labelNounPretty>{0} на {1}</Bruise.labelNounPretty>
+  <!-- EN: Destroyed -->
+  <Bruise.injuryProps.destroyedLabel>Destroyed</Bruise.injuryProps.destroyedLabel>
   <!-- EN: burn -->
   <Burn.label>опік</Burn.label>
   <!-- EN: A burn. -->
@@ -88,6 +92,8 @@
   <Crack.labelNoun>тріщина</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crack.labelNounPretty>{0} на {1}</Crack.labelNounPretty>
+  <!-- EN: Shattered -->
+  <Crack.injuryProps.destroyedLabel>Shattered</Crack.injuryProps.destroyedLabel>
   <!-- EN: crush -->
   <Crush.label>розтрощена рана</Crush.label>
   <!-- EN: A crushing wound. -->
@@ -98,6 +104,8 @@
   <Crush.labelNoun>розтрощена рана</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crush.labelNounPretty>{0} на {1}</Crush.labelNounPretty>
+  <!-- EN: Crushed -->
+  <Crush.injuryProps.destroyedLabel>Crushed</Crush.injuryProps.destroyedLabel>
   <!-- EN: cut -->
   <Cut.label>поріз</Cut.label>
   <!-- EN: A cut. -->
@@ -120,9 +128,11 @@
   <Decayed.labelNoun>деградований орган</Decayed.labelNoun>
   <!-- EN: decayed {1} -->
   <Decayed.labelNounPretty>{1} (деградовано)</Decayed.labelNounPretty>
+  <!-- EN: Decayed -->
+  <Decayed.injuryProps.destroyedLabel>Decayed</Decayed.injuryProps.destroyedLabel>
   <!-- EN: electrical burn -->
   <ElectricalBurn.label>електричний опік</ElectricalBurn.label>
-  <!-- EN: An electical burn. -->
+  <!-- EN: An electrical burn. -->
   <ElectricalBurn.description>Електричний опік.</ElectricalBurn.description>
   <!-- EN: electrical burn scar -->
   <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>рубець від електричного опіку</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
@@ -182,6 +192,8 @@
   <Misc.labelNoun>поранення</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Misc.labelNounPretty>{0} {1}</Misc.labelNounPretty>
+  <!-- EN: Destroyed -->
+  <Misc.injuryProps.destroyedLabel>Destroyed</Misc.injuryProps.destroyedLabel>
   <!-- EN: missing body part -->
   <MissingBodyPart.label>відсутня частина тіла</MissingBodyPart.label>
   <!-- EN: A body part is entirely missing. -->

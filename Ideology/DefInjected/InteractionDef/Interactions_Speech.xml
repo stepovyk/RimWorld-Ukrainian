@@ -188,7 +188,7 @@
     <li>praisetopic->досвід та надії</li>
     <li>praisetopic->лють та силу</li>
   </Speech_Duel.logRulesInitiator.rulesStrings>
-  <!-- EN: exceution speech -->
+  <!-- EN: execution speech -->
   <Speech_Execution.label>промова перед стратою</Speech_Execution.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>

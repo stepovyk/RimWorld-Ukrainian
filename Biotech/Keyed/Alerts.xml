@@ -10,7 +10,7 @@
   <AlertMechLacksOverseerMayGoFeral>Наступні механоїди неконтрольовані і можуть здичавіти в будь-який момент</AlertMechLacksOverseerMayGoFeral>
   <!-- EN: {0} is low on resources -->
   <AlertWarqueenHasLowResources>Королева війни має мало ресурсів</AlertWarqueenHasLowResources>
-  <!-- EN: One or more {0} are low on resoures. They will be unable to produce mechs on command if they run out of resources. -->
+  <!-- EN: One or more {0} are low on resources. They will be unable to produce mechs on command if they run out of resources. -->
   <AlertWarqueenHasLowResourcesDesc>Одна чи більше королев війни мають мало ресурсів. Вони втратять можливість виробляти механоїдів, якщо у них закінчаться ресурси.</AlertWarqueenHasLowResourcesDesc>
   <!-- EN: {PAWN} needs deathrest -->
   <AlertLowDeathrestPawn>{PAWN} потребує летаргічного сну</AlertLowDeathrestPawn>

@@ -192,4 +192,42 @@
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>колоніст</Colonist>
+  <!-- EN: Build asset pack -->
+  <UploadBuildAssetPack>Build asset pack</UploadBuildAssetPack>
+  <!-- EN: Packs textures and sounds into an asset pack in each load folder before uploading, to improve download and load times. Untick this to upload the mod folder as it is. -->
+  <UploadBuildAssetPackTip>Packs textures and sounds into an asset pack in each load folder before uploading, to improve download and load times. Untick this to upload the mod folder as it is.</UploadBuildAssetPackTip>
+  <!-- EN: Don't upload source textures -->
+  <UploadSkipSourceTextures>Don't upload source textures</UploadSkipSourceTextures>
+  <!-- EN: Skips uploading the original image and sound files that were included in asset packs. Leave this unticked if you need compatibility with RimWorld 1.6 or earlier. -->
+  <UploadSkipSourceTexturesTip>Skips uploading the original image and sound files that were included in asset packs. Leave this unticked if you need compatibility with RimWorld 1.6 or earlier.</UploadSkipSourceTexturesTip>
+  <!-- EN: Baking asset packs -->
+  <BakingModAssetPacks>Baking asset packs</BakingModAssetPacks>
+  <!-- EN: Baking asset packs for {0} -->
+  <BakingModAssetPacksFor>Baking asset packs for {0}</BakingModAssetPacksFor>
+  <!-- EN: Baking the asset packs for {0} failed, the mod was not uploaded: -->
+  <ModAssetPackBakeFailed>Baking the asset packs for {0} failed, the mod was not uploaded:</ModAssetPackBakeFailed>
+  <!-- EN: Respect system display scaling -->
+  <RespectSystemScaling>Respect system display scaling</RespectSystemScaling>
+  <!-- EN: When enabled, the UI scale is multiplied by the operating system's display scaling. Disable to apply the UI scale as-is. -->
+  <RespectSystemScaling_Tooltip>When enabled, the UI scale is multiplied by the operating system's display scaling. Disable to apply the UI scale as-is.</RespectSystemScaling_Tooltip>
+  <!-- EN: Texture compression in the Waylith engine is higher quality and always enabled. -->
+  <TextureCompressionAlwaysOn_Tooltip>Texture compression in the Waylith engine is higher quality and always enabled.</TextureCompressionAlwaysOn_Tooltip>
+  <!-- EN: Display mode -->
+  <DisplayMode>Display mode</DisplayMode>
+  <!-- EN: Windowed -->
+  <DisplayMode_Windowed>Windowed</DisplayMode_Windowed>
+  <!-- EN: Exclusive fullscreen -->
+  <DisplayMode_ExclusiveFullscreen>Exclusive fullscreen</DisplayMode_ExclusiveFullscreen>
+  <!-- EN: Monitor -->
+  <Monitor>Monitor</Monitor>
+  <!-- EN: Automatic -->
+  <Monitor_Automatic>Automatic</Monitor_Automatic>
+  <!-- EN: Graphics card -->
+  <Gpu>Graphics card</Gpu>
+  <!-- EN: Automatic -->
+  <Gpu_Automatic>Automatic</Gpu_Automatic>
+  <!-- EN: {0} (in use) -->
+  <Gpu_InUse>{0} (in use)</Gpu_InUse>
+  <!-- EN: Changing the graphics card requires a restart. Unsaved progress will be lost.\n\nRestart now? -->
+  <GpuChangedRestart>Changing the graphics card requires a restart. Unsaved progress will be lost.\n\nRestart now?</GpuChangedRestart>
 </LanguageData>
