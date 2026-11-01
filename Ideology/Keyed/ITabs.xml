@@ -38,7 +38,7 @@
   <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
   <TerrorDescription>Жах допомагає тримати рабів пригніченими. Він зростає, коли раб перебуває поруч із чимось жахливим, наприклад зі скульптурами жаху. Одночасно на раба можуть діяти лише три джерела жаху.\n\nПоки жах високий, пригнічення знижується повільніше</TerrorDescription>
   <!-- EN: Recent terrifying observations -->
-  <TerrorCurrentThoughts>Нещодавно побачене жахливе</TerrorCurrentThoughts>
+  <TerrorCurrentThoughts>Нещодавні жахливі видовища</TerrorCurrentThoughts>
   <!-- EN: Base interval -->
   <SuppressionBaseInterval>Базовий інтервал</SuppressionBaseInterval>
   <!-- EN: Moving capacity -->

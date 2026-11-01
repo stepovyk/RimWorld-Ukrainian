@@ -15,7 +15,7 @@
   <!-- EN: wild healroot -->
   <Plant_HealrootWild.label>дикий цілющий корінь</Plant_HealrootWild.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
-  <Plant_HealrootWild.description>Повільноросла рослина, що під час збору дає лікарські рослини.\n\nДикий цілющий корінь витриваліший за одомашнений, але його надто важко вирощувати. Його дуже цінують племена холодних країв.</Plant_HealrootWild.description>
+  <Plant_HealrootWild.description>Повільноросла трава, з якої під час збору отримують лікарські рослини.\n\nДикий цілющий корінь витриваліший за одомашнений, але його надто важко вирощувати. Його дуже цінують племена холодних країв.</Plant_HealrootWild.description>
   <!-- EN: tall grass -->
   <Plant_TallGrass.label>висока трава</Plant_TallGrass.label>
   <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
