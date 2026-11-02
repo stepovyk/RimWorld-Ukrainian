@@ -13,7 +13,7 @@
   <!-- EN: Curious farm animals have wandered in, attracted by the commotion. -->
   <FarmAnimalsWanderIn.letterInfoText>Допитливі свійські тварини прибилися до вас, привабившись метушнею.</FarmAnimalsWanderIn.letterInfoText>
   <!-- EN: gauranlen pod sprout -->
-  <GauranlenTreePod.label>поява паростка дерева Гауранлен</GauranlenTreePod.label>
+  <GauranlenTreePod.label>поява кокона Гауранлен</GauranlenTreePod.label>
   <!-- EN: a Gauranlen pod will sprout at a random location on the map, if it can. -->
   <GauranlenTreePod.effectDesc>у випадковому місці мапи проросте кокон Гауранлен, якщо знайдеться місце.</GauranlenTreePod.effectDesc>
   <!-- EN: A Gauranlen pod sprouted nearby. -->
@@ -25,7 +25,7 @@
   <!-- EN: A giant insect colony underground has deposited some insect jelly. -->
   <InsectJellyTunnels.letterInfoText>Гігантська підземна колонія комах залишила трохи комашиного желе.</InsectJellyTunnels.letterInfoText>
   <!-- EN: nearby faction goodwill -->
-  <NearbyFactionGoodwill.label>покращення відносин з сусідньою фракцією</NearbyFactionGoodwill.label>
+  <NearbyFactionGoodwill.label>прихильність сусідньої фракції</NearbyFactionGoodwill.label>
   <!-- EN: you will gain goodwill from the nearest faction base. -->
   <NearbyFactionGoodwill.effectDesc>найближча база фракції підвищить до вас прихильність.</NearbyFactionGoodwill.effectDesc>
   <!-- EN: You gained {AMOUNT} goodwill with {FACTION_name}. -->

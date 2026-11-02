@@ -7,7 +7,7 @@
   <!-- EN: acute -->
   <AgonyPulse.stages.acute.label>гострий</AgonyPulse.stages.acute.label>
   <!-- EN: lingering -->
-  <AgonyPulse.stages.lingering.label>пронизливий</AgonyPulse.stages.lingering.label>
+  <AgonyPulse.stages.lingering.label>затяжний</AgonyPulse.stages.lingering.label>
   <!-- EN: awoken hypnosis -->
   <AwokenHypnosis.label>гіпноз пробудженого</AwokenHypnosis.label>
   <!-- EN: This person has been hypnotized by an awoken unnatural corpse. The trance is absolute, but if the awoken corpse breaks its gaze then the hypnosis will end. -->
@@ -33,9 +33,9 @@
   <!-- EN: severe -->
   <BloodRage.stages.severe.label>сильна</BloodRage.stages.severe.label>
   <!-- EN: extreme -->
-  <BloodRage.stages.extreme-0.label>екстремальний</BloodRage.stages.extreme-0.label>
+  <BloodRage.stages.extreme-0.label>екстремальна</BloodRage.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <BloodRage.stages.extreme-1.label>екстремальний</BloodRage.stages.extreme-1.label>
+  <BloodRage.stages.extreme-1.label>екстремальна</BloodRage.stages.extreme-1.label>
   <!-- EN: brainwipe coma -->
   <BrainwipeComa.label>кома очищення мозку</BrainwipeComa.label>
   <!-- EN: This person has had their memories erased. The violent nature of the process has put them into a coma. -->
@@ -119,7 +119,7 @@
   <!-- EN: Cube rage: {PAWN_nameDef} -->
   <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>Лють куба: {PAWN_nameDef}</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>
   <!-- EN: cube withdrawal -->
-  <CubeWithdrawal.label>залежність від куба</CubeWithdrawal.label>
+  <CubeWithdrawal.label>ломка без куба</CubeWithdrawal.label>
   <!-- EN: This person obsessively wants to find their golden cube. Their skin itches and their mind races, thinking of ways to get closer to the cube. Their symptoms will get worse until they play with the cube. -->
   <CubeWithdrawal.description>Ця людина одержимо прагне знайти свій золотий куб. Шкіра свербить, думки скачуть – як би дістатися до куба. Симптоми посилюватимуться, доки людина не погратиметься з кубом.</CubeWithdrawal.description>
   <!-- EN: inital -->
@@ -237,7 +237,7 @@
   <!-- EN: A searing pain caused by the presence of a psychically active entity nearby. The effect intensifies when the entity is more active. -->
   <PainField.description>Пекучий біль від присутності психічно активної сутності поблизу. Що активніша сутність, то сильніший біль.</PainField.description>
   <!-- EN: pleasure pulse -->
-  <PleasurePulse.label>заспокійливий імпульс</PleasurePulse.label>
+  <PleasurePulse.label>імпульс насолоди</PleasurePulse.label>
   <!-- EN: This person has been impacted by a psychic pulse of pleasurable sensations and emotions. They feel unnaturally happy, distracting them from their work. -->
   <PleasurePulse.description>На цю людину подіяв психічний імпульс приємних відчуттів та емоцій. Вона неприродно щаслива, і це відволікає її від роботи.</PleasurePulse.description>
   <!-- EN: psychically dead -->

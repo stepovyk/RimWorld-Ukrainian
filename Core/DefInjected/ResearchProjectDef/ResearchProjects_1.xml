@@ -21,7 +21,7 @@
     <li>subject_gerund->варіння пива</li>
   </Brewing.generalRules.rulesStrings>
   <!-- EN: carpet-making -->
-  <CarpetMaking.label>шиття килимів</CarpetMaking.label>
+  <CarpetMaking.label>ткання килимів</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
   <CarpetMaking.description>Тчіть гарні килими з тканини.</CarpetMaking.description>
   <!-- EN:
@@ -61,7 +61,7 @@
     <li>subject_gerund->вирощування какао</li>
   </Cocoa.generalRules.rulesStrings>
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>пошиття одягу</ComplexClothing.label>
+  <ComplexClothing.label>складний одяг</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
   <ComplexClothing.description>Шийте складний одяг: штани, плащі, ковбойські капелюхи тощо.</ComplexClothing.description>
   <!-- EN:
@@ -79,7 +79,7 @@
     <li>subject_gerund->пошиття складного одягу</li>
   </ComplexClothing.generalRules.rulesStrings>
   <!-- EN: complex furniture -->
-  <ComplexFurniture.label>меблі</ComplexFurniture.label>
+  <ComplexFurniture.label>складні меблі</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiards tables, and poker tables, vents, sarcophagi, and more. -->
   <ComplexFurniture.description>Створюйте складні меблі: ліжка, тумбочки, стільці, крісла, комоди, шафи для інструментів, більярдні й покерні столи, вентиляцію, саркофаги тощо.</ComplexFurniture.description>
   <!-- EN:
@@ -247,7 +247,7 @@
     <li>subject_gerund->синтезування пеноксициліну</li>
   </PenoxycylineProduction.generalRules.rulesStrings>
   <!-- EN: plate armor -->
-  <PlateArmor.label>пластинчата броня</PlateArmor.label>
+  <PlateArmor.label>пластинчасті обладунки</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
   <PlateArmor.description>Куйте пластинчасті обладунки з металу чи дерева. Ця важка броня помітно сповільнює рух, але дуже добре захищає.</PlateArmor.description>
   <!-- EN:
@@ -283,7 +283,7 @@
     <li>subject_gerund->перероблення психіту</li>
   </PsychiteRefining.generalRules.rulesStrings>
   <!-- EN: psychoid brewing -->
-  <PsychoidBrewing.label>психітовий чай</PsychoidBrewing.label>
+  <PsychoidBrewing.label>заварювання психолисту</PsychoidBrewing.label>
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
   <PsychoidBrewing.description>Заварюйте на багатті чи кухонній плиті чай з листя психолисту, що викликає легку ейфорію та звикання.</PsychoidBrewing.description>
   <!-- EN:

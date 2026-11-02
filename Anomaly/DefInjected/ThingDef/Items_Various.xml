@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: fleshmass neural lump -->
-  <FleshmassNeuralLump.label>пучок нервів біомаси</FleshmassNeuralLump.label>
+  <FleshmassNeuralLump.label>нервовий згусток м'ясної маси</FleshmassNeuralLump.label>
   <!-- EN: A clump of fleshmass nervous tissue and fibres. You can analyze it to find a way to kill the fleshmass heart itself. -->
   <FleshmassNeuralLump.description>Згусток нервової тканини й волокон м'ясної маси. Проаналізувавши його, можна знайти спосіб убити саме серце м'ясної маси.</FleshmassNeuralLump.description>
   <!-- EN: Analyze the fleshmass neural sample. Once enough neural samples are collected and analyzed, you should be able to figure out a way to kill the heart. -->

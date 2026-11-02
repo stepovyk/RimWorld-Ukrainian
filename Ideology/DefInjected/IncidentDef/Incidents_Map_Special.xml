@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Gauranlen pod sprout -->
-  <GauranlenPodSpawn.label>паросток дерева Гауранлен</GauranlenPodSpawn.label>
+  <GauranlenPodSpawn.label>проростання кокона Гауранлен</GauranlenPodSpawn.label>
   <!-- EN: Gauranlen pod sprout -->
-  <GauranlenPodSpawn.letterLabel>Паросток дерева Гауранлен</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterLabel>Проріс кокон Гауранлен</GauranlenPodSpawn.letterLabel>
   <!-- EN: A Gauranlen pod has sprouted nearby!\n\nHarvest it to collect a Gauranlen seed. This special seed can be used to plant the majestic Gauranlen tree.\n\nYour colonists can connect with Gauranlen trees and make them spawn resources and helpful dryads to work or fight for you. -->
   <GauranlenPodSpawn.letterText>Неподалік проріс кокон Гауранлен!\n\nЗберіть його, щоб отримати насінину Гауранлен. З цієї особливої насінини можна виростити величне дерево Гауранлен.\n\nВаші колоністи можуть поєднатися з деревами Гауранлен, і ті даватимуть ресурси та корисних дріад, які працюватимуть чи битимуться за вас.</GauranlenPodSpawn.letterText>
   <!-- EN: beggars arrive -->

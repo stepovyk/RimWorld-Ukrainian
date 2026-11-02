@@ -27,15 +27,15 @@
   <!-- EN: My sculpture... my beautiful sculpture! -->
   <CubeSculptures.stages.cube_sculpture.description>Моя скульптура... моя прекрасна скульптура!</CubeSculptures.stages.cube_sculpture.description>
   <!-- EN: cube withdrawal -->
-  <CubeWithdrawl.stages.cube_withdrawal-0.label>залежність від куба</CubeWithdrawl.stages.cube_withdrawal-0.label>
+  <CubeWithdrawl.stages.cube_withdrawal-0.label>ломка без куба</CubeWithdrawl.stages.cube_withdrawal-0.label>
   <!-- EN: I need to see the golden cube. Just once more. Please. -->
   <CubeWithdrawl.stages.cube_withdrawal-0.description>Мені треба побачити золотий куб. Ще хоч раз. Будь ласка.</CubeWithdrawl.stages.cube_withdrawal-0.description>
   <!-- EN: cube withdrawal -->
-  <CubeWithdrawl.stages.cube_withdrawal-1.label>залежність від куба</CubeWithdrawl.stages.cube_withdrawal-1.label>
+  <CubeWithdrawl.stages.cube_withdrawal-1.label>ломка без куба</CubeWithdrawl.stages.cube_withdrawal-1.label>
   <!-- EN: Where's that cube? I miss it. I need it! -->
   <CubeWithdrawl.stages.cube_withdrawal-1.description>Де той куб? Я скучаю за ним. Він мені потрібен!</CubeWithdrawl.stages.cube_withdrawal-1.description>
   <!-- EN: cube withdrawal -->
-  <CubeWithdrawl.stages.cube_withdrawal-2.label>залежність від куба</CubeWithdrawl.stages.cube_withdrawal-2.label>
+  <CubeWithdrawl.stages.cube_withdrawal-2.label>ломка без куба</CubeWithdrawl.stages.cube_withdrawal-2.label>
   <!-- EN: Where is my cube? Where is it? -->
   <CubeWithdrawl.stages.cube_withdrawal-2.description>Де мій куб? Де він?</CubeWithdrawl.stages.cube_withdrawal-2.description>
   <!-- EN: deadlife dust -->
@@ -111,7 +111,7 @@
   <!-- EN: Rage in my head murderous rip the skin deserves it the black ocean terror deep... -->
   <HateChantDrone.stages.extreme_hate_chanting.description>Лють у голові вбивча роздерти шкіру заслужили чорний океан жах глибоко...</HateChantDrone.stages.extreme_hate_chanting.description>
   <!-- EN: imprisoned with entity -->
-  <ImprisonedWithEntity.stages.imprisoned_with_entity.label>ув'язнення з аномалією</ImprisonedWithEntity.stages.imprisoned_with_entity.label>
+  <ImprisonedWithEntity.stages.imprisoned_with_entity.label>ув'язнення із сутністю</ImprisonedWithEntity.stages.imprisoned_with_entity.label>
   <!-- EN: I'm trapped in here with that twisted thing! -->
   <ImprisonedWithEntity.stages.imprisoned_with_entity.description>Я в пастці разом з цією потворною штукою!</ImprisonedWithEntity.stages.imprisoned_with_entity.description>
   <!-- EN: Joyous presence -->
@@ -123,19 +123,19 @@
   <!-- EN: This stuff messes with my head. I can't stop thinking the worst things. -->
   <JuggernautSerum.stages.juggernaut_serum.description>Ця штука щось робить із моєю головою. Не можу перестати думати про найгірше.</JuggernautSerum.stages.juggernaut_serum.description>
   <!-- EN: neurosis pulse -->
-  <NeurosisPulse.stages.neurosis_pulse.label>нервовий імпульс</NeurosisPulse.stages.neurosis_pulse.label>
+  <NeurosisPulse.stages.neurosis_pulse.label>нервозний імпульс</NeurosisPulse.stages.neurosis_pulse.label>
   <!-- EN: Leave me alone! I have work to do! -->
   <NeurosisPulse.stages.neurosis_pulse.description>Дайте мені спокій! Я маю працювати!</NeurosisPulse.stages.neurosis_pulse.description>
   <!-- EN: pleasure pulse -->
-  <PleasurePulse.stages.pleasure_pulse.label>заспокійливий імпульс</PleasurePulse.stages.pleasure_pulse.label>
+  <PleasurePulse.stages.pleasure_pulse.label>імпульс насолоди</PleasurePulse.stages.pleasure_pulse.label>
   <!-- EN: My body ripples with joy. The world is a soft and fuzzy place. -->
   <PleasurePulse.stages.pleasure_pulse.description>Моє тіло тремтить від радості. Світ такий м'який і пухнастий.</PleasurePulse.stages.pleasure_pulse.description>
   <!-- EN: Fascinating tome -->
-  <ReadingTome.stages.Fascinating_tome.label>Захоплюючий фоліант</ReadingTome.stages.Fascinating_tome.label>
+  <ReadingTome.stages.Fascinating_tome.label>Захопливий фоліант</ReadingTome.stages.Fascinating_tome.label>
   <!-- EN: Its almost as if it's speaking out to me personally. -->
   <ReadingTome.stages.Fascinating_tome.description>Таке відчуття, ніби він звертається особисто до мене.</ReadingTome.stages.Fascinating_tome.description>
   <!-- EN: Sleep suppressor -->
-  <SleepSuppressor.stages.Sleep_suppressor.label>Придушувач сну</SleepSuppressor.stages.Sleep_suppressor.label>
+  <SleepSuppressor.stages.Sleep_suppressor.label>Пригнічувач сну</SleepSuppressor.stages.Sleep_suppressor.label>
   <!-- EN: The hum of that devilish device grates. I feel it inside my head. What an evil piece of machinery. -->
   <SleepSuppressor.stages.Sleep_suppressor.description>Гудіння цього диявольського пристрою дратує. Я відчуваю його в голові. Яка ж зла машина.</SleepSuppressor.stages.Sleep_suppressor.description>
   <!-- EN: unsettling conversation -->
@@ -159,7 +159,7 @@
   <!-- EN: The truth finally comes and swallows this false world. -->
   <UnnaturalDarkness.stages.unnatural_sky.description>Правда нарешті приходить і поглинає цей фальшивий світ.</UnnaturalDarkness.stages.unnatural_sky.description>
   <!-- EN: captured entity -->
-  <VoidFascination.stages.captured_entity.label>аномалію захоплено</VoidFascination.stages.captured_entity.label>
+  <VoidFascination.stages.captured_entity.label>сутність захоплено</VoidFascination.stages.captured_entity.label>
   <!-- EN: Such a magnificent creature. So much mystery. So much power. -->
   <VoidFascination.stages.captured_entity.description>Яке величне створіння. Скільки таємниць. Скільки сили.</VoidFascination.stages.captured_entity.description>
   <!-- EN: void pleasure -->

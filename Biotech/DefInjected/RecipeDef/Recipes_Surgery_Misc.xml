@@ -7,7 +7,7 @@
   <!-- EN: performing blood transfusion on TargetA. -->
   <BloodTransfusion.jobString>проводить трансфузію крові TargetA.</BloodTransfusion.jobString>
   <!-- EN: extract hemogen pack -->
-  <ExtractHemogenPack.label>вилучити гемоген</ExtractHemogenPack.label>
+  <ExtractHemogenPack.label>вилучити гемопак</ExtractHemogenPack.label>
   <!-- EN: Extract a hemogen pack from the target. The operation will fail to produce a hemogen pack if the target does not have enough blood.\n\nHemogen packs can be administered to others to reduce blood loss or to satiate those who feed on blood. -->
   <ExtractHemogenPack.description>Вилучити з пацієнта гемопак. Якщо в пацієнта замало крові, гемопак отримати не вдасться.\n\nГемопаки можна вводити іншим, щоб зменшити втрату крові, або годувати ними тих, хто живиться кров'ю.</ExtractHemogenPack.description>
   <!-- EN: Extracting hemogen pack. -->

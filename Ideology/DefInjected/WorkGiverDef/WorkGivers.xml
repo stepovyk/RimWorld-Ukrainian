@@ -7,7 +7,7 @@
   <!-- EN: change dryad caste for -->
   <ChangeTreeMode.verb>змінити касту дріад для</ChangeTreeMode.verb>
   <!-- EN: convert prisoners -->
-  <ConvertPrisoner.label>конвертувати</ConvertPrisoner.label>
+  <ConvertPrisoner.label>навертати в'язнів</ConvertPrisoner.label>
   <!-- EN: converting -->
   <ConvertPrisoner.gerund>навернути</ConvertPrisoner.gerund>
   <!-- EN: convert -->
@@ -19,7 +19,7 @@
   <!-- EN: emancipate -->
   <EmancipateSlave.verb>звільняти</EmancipateSlave.verb>
   <!-- EN: enslave prisoners -->
-  <EnslavePrisoner.label>поневолити</EnslavePrisoner.label>
+  <EnslavePrisoner.label>поневолювати в'язнів</EnslavePrisoner.label>
   <!-- EN: enslaving -->
   <EnslavePrisoner.gerund>поневолити</EnslavePrisoner.gerund>
   <!-- EN: enslave -->
@@ -43,7 +43,7 @@
   <!-- EN: imprison -->
   <ImprisonSlave.verb>ув'язнювати</ImprisonSlave.verb>
   <!-- EN: prune Gauranlen trees -->
-  <PruneGauranlenTree.label>доглядати за деревом Гауранлен</PruneGauranlenTree.label>
+  <PruneGauranlenTree.label>підрізати дерева Гауранлен</PruneGauranlenTree.label>
   <!-- EN: pruning -->
   <PruneGauranlenTree.gerund>підрізати</PruneGauranlenTree.gerund>
   <!-- EN: prune -->

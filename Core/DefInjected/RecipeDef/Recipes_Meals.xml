@@ -23,7 +23,7 @@
   <!-- EN: Cooking vegetarian fine meal. -->
   <CookMealFine_Veg.jobString>Готує вишукану вегетаріанську страву.</CookMealFine_Veg.jobString>
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>приготувати вишукану страву х4</CookMealFineBulk.label>
+  <CookMealFineBulk.label>приготувати вишукану страву ×4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
   <CookMealFineBulk.description>Приготувати 4 доволі складні страви з м'ясних і рослинних інгредієнтів. Частина інгредієнтів іде в непотріб заради приємнішого смаку.</CookMealFineBulk.description>
   <!-- EN: protein -->
@@ -31,13 +31,13 @@
   <!-- EN: Cooking 4 fine meals. -->
   <CookMealFineBulk.jobString>Готує 4 вишукані страви.</CookMealFineBulk.jobString>
   <!-- EN: cook carnivore fine meal x4 -->
-  <CookMealFineBulk_Meat.label>приготувати вишукану м'ясну страву х4</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.label>приготувати вишукану м'ясну страву ×4</CookMealFineBulk_Meat.label>
   <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
   <CookMealFineBulk_Meat.description>Приготувати 4 доволі складні страви з м'ясних інгредієнтів. Частина інгредієнтів іде в непотріб заради приємнішого смаку. Щоб досягти різноманітного смаку з самого м'яса, доводиться витрачати ще більше.</CookMealFineBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore fine meals. -->
   <CookMealFineBulk_Meat.jobString>Готує 4 вишукані м'ясні страви.</CookMealFineBulk_Meat.jobString>
   <!-- EN: cook vegetarian fine meal x4 -->
-  <CookMealFineBulk_Veg.label>приготувати вишукану вегетаріанську страву x4</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.label>приготувати вишукану вегетаріанську страву ×4</CookMealFineBulk_Veg.label>
   <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealFineBulk_Veg.description>Приготувати 4 доволі складні страви з рослинних інгредієнтів. Частина інгредієнтів іде в непотріб заради приємнішого смаку. Щоб досягти різноманітного смаку з самих рослин, доводиться витрачати ще більше.</CookMealFineBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
@@ -59,7 +59,7 @@
   <!-- EN: Cooking carnivore lavish meal. -->
   <CookMealLavish_Meat.jobString>Готує м'ясний делікатес.</CookMealLavish_Meat.jobString>
   <!-- EN: cook vegetarian lavish meal -->
-  <CookMealLavish_Veg.label>готувати вегетаріанський делікатес</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.label>приготувати вегетаріанський делікатес</CookMealLavish_Veg.label>
   <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealLavish_Veg.description>Приготувати дуже складну страву з рослинних інгредієнтів. Багато інгредієнтів іде в непотріб заради найкращого смаку. Щоб досягти різноманітного смаку з самих рослин, доводиться витрачати ще більше.</CookMealLavish_Veg.description>
   <!-- EN: vegetarian ingredients -->
@@ -67,7 +67,7 @@
   <!-- EN: Cooking vegetarian lavish meal. -->
   <CookMealLavish_Veg.jobString>Готує вегетаріанський делікатес.</CookMealLavish_Veg.jobString>
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>приготувати делікатес х4</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>приготувати делікатес ×4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
   <CookMealLavishBulk.description>Приготувати 4 дуже складні страви з м'ясних і рослинних інгредієнтів. Багато інгредієнтів іде в непотріб заради найкращого смаку.</CookMealLavishBulk.description>
   <!-- EN: protein -->
@@ -75,13 +75,13 @@
   <!-- EN: Cooking 4 lavish meals. -->
   <CookMealLavishBulk.jobString>Готує 4 делікатеси.</CookMealLavishBulk.jobString>
   <!-- EN: cook carnivore lavish meal x4 -->
-  <CookMealLavishBulk_Meat.label>приготувати м'ясний делікатес х4</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.label>приготувати м'ясний делікатес ×4</CookMealLavishBulk_Meat.label>
   <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
   <CookMealLavishBulk_Meat.description>Приготувати 4 дуже складні страви з м'ясних інгредієнтів. Багато інгредієнтів іде в непотріб заради найкращого смаку. Щоб досягти різноманітного смаку з самого м'яса, доводиться витрачати ще більше.</CookMealLavishBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore lavish meals. -->
   <CookMealLavishBulk_Meat.jobString>Готує 4 м'ясні делікатеси.</CookMealLavishBulk_Meat.jobString>
   <!-- EN: cook vegetarian lavish meal x4 -->
-  <CookMealLavishBulk_Veg.label>готувати вегетаріанський делікатес х4</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.label>приготувати вегетаріанський делікатес ×4</CookMealLavishBulk_Veg.label>
   <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
   <CookMealLavishBulk_Veg.description>Приготувати 4 дуже складні страви з рослинних інгредієнтів. Багато інгредієнтів іде в непотріб заради найкращого смаку. Щоб досягти різноманітного смаку з самих рослин, доводиться витрачати ще більше.</CookMealLavishBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
@@ -95,7 +95,7 @@
   <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>Готує звичайну страву.</CookMealSimple.jobString>
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>приготувати звичайну страву х4</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>приготувати звичайну страву ×4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
   <CookMealSimpleBulk.description>Приготувати 4 нескладні страви з одного інгредієнта.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
@@ -109,7 +109,7 @@
   <!-- EN: Cooking survival meal. -->
   <CookMealSurvival.jobString>Готує сухпайок.</CookMealSurvival.jobString>
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>приготувати сухпайок х4</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>приготувати сухпайок ×4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvivalBulk.description>Приготувати 4 сухпайки з м'ясних і рослинних інгредієнтів. Під час консервації багато інгредієнтів іде в непотріб.</CookMealSurvivalBulk.description>
   <!-- EN: protein -->

@@ -55,7 +55,7 @@
   <!-- EN: clean pollution -->
   <CleanClearPollution.verb>очистити забруднення</CleanClearPollution.verb>
   <!-- EN: create xenogerm -->
-  <CreateXenogerm.label>створення ксенозародку</CreateXenogerm.label>
+  <CreateXenogerm.label>створити ксенозародок</CreateXenogerm.label>
   <!-- EN: creating xenogerm at -->
   <CreateXenogerm.gerund>створювати ксенозародок, використовуючи</CreateXenogerm.gerund>
   <!-- EN: create xenogerm -->
@@ -73,7 +73,7 @@
   <!-- EN: work at -->
   <DoBillsMechGestator.verb>працювати, використовуючи</DoBillsMechGestator.verb>
   <!-- EN: make things at subcore encoder -->
-  <DoBillsSubcoreEncoder.label>створити речі на декодері суб'ядра</DoBillsSubcoreEncoder.label>
+  <DoBillsSubcoreEncoder.label>виготовляти речі на кодувальнику суб'ядер</DoBillsSubcoreEncoder.label>
   <!-- EN: working at -->
   <DoBillsSubcoreEncoder.gerund>працювати, використовуючи</DoBillsSubcoreEncoder.gerund>
   <!-- EN: work -->
@@ -139,7 +139,7 @@
   <!-- EN: haul to -->
   <HaulToSubcoreScanner.verb>нести у</HaulToSubcoreScanner.verb>
   <!-- EN: haul resources to wastepack atomizer -->
-  <HaulToWastepackAtomizer.label>нести ресурси до розпилювача токсичних відходів</HaulToWastepackAtomizer.label>
+  <HaulToWastepackAtomizer.label>нести ресурси до розщеплювача відходів</HaulToWastepackAtomizer.label>
   <!-- EN: hauling to -->
   <HaulToWastepackAtomizer.gerund>нести у</HaulToWastepackAtomizer.gerund>
   <!-- EN: haul to -->

@@ -13,7 +13,7 @@
   <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Gauranlen trees grow these spheres to help protect the dryads as they morph. -->
   <DryadCocoon.description>Куля з волокнистої рослинної маси. Дріада всередині поволі набуває нової форми. Дерева Гауранлен вирощують ці кулі, щоб захистити дріад під час перетворення.</DryadCocoon.description>
   <!-- EN: dryad healing pod -->
-  <DryadHealingPod.label>зцілюючий кокон дріади</DryadHealingPod.label>
+  <DryadHealingPod.label>цілющий кокон дріади</DryadHealingPod.label>
   <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly healing its wounds. -->
   <DryadHealingPod.description>Куля з волокнистої рослинної маси. Дріада всередині поволі загоює рани.</DryadHealingPod.description>
   <!-- EN: gaumaker pod -->

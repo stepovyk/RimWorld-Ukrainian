@@ -5,13 +5,13 @@
   <!-- EN: A small crustacean found along coastlines. Hermit crabs scavenge various shells to protect themselves. -->
   <HermitCrab.description>Невеликий ракоподібний, що мешкає на узбережжях. Краби-відлюдники підбирають різні черепашки, щоб захиститися.</HermitCrab.description>
   <!-- EN: right claw -->
-  <HermitCrab.tools.right_claw.label>права лапа</HermitCrab.tools.right_claw.label>
+  <HermitCrab.tools.right_claw.label>права клешня</HermitCrab.tools.right_claw.label>
   <!-- EN: claw -->
-  <HermitCrab.tools.right_claw.labelNoLocation>лапа</HermitCrab.tools.right_claw.labelNoLocation>
+  <HermitCrab.tools.right_claw.labelNoLocation>клешня</HermitCrab.tools.right_claw.labelNoLocation>
   <!-- EN: left claw -->
-  <HermitCrab.tools.left_claw.label>ліва лапа</HermitCrab.tools.left_claw.label>
+  <HermitCrab.tools.left_claw.label>ліва клешня</HermitCrab.tools.left_claw.label>
   <!-- EN: claw -->
-  <HermitCrab.tools.left_claw.labelNoLocation>лапа</HermitCrab.tools.left_claw.labelNoLocation>
+  <HermitCrab.tools.left_claw.labelNoLocation>клешня</HermitCrab.tools.left_claw.labelNoLocation>
   <!-- EN: head -->
   <HermitCrab.tools.head.label>голова</HermitCrab.tools.head.label>
   <!-- EN: otter -->
@@ -53,13 +53,13 @@
   <!-- EN: A robust crustacean with powerful claws. Stone crabs are a delicacy in some regions. -->
   <StoneCrab.description>Міцний ракоподібний з потужними клешнями. У деяких краях кам'яні краби вважаються делікатесом.</StoneCrab.description>
   <!-- EN: right claw -->
-  <StoneCrab.tools.right_claw.label>права лапа</StoneCrab.tools.right_claw.label>
+  <StoneCrab.tools.right_claw.label>права клешня</StoneCrab.tools.right_claw.label>
   <!-- EN: claw -->
-  <StoneCrab.tools.right_claw.labelNoLocation>лапа</StoneCrab.tools.right_claw.labelNoLocation>
+  <StoneCrab.tools.right_claw.labelNoLocation>клешня</StoneCrab.tools.right_claw.labelNoLocation>
   <!-- EN: left claw -->
-  <StoneCrab.tools.left_claw.label>ліва лапа</StoneCrab.tools.left_claw.label>
+  <StoneCrab.tools.left_claw.label>ліва клешня</StoneCrab.tools.left_claw.label>
   <!-- EN: claw -->
-  <StoneCrab.tools.left_claw.labelNoLocation>лапа</StoneCrab.tools.left_claw.labelNoLocation>
+  <StoneCrab.tools.left_claw.labelNoLocation>клешня</StoneCrab.tools.left_claw.labelNoLocation>
   <!-- EN: head -->
   <StoneCrab.tools.head.label>голова</StoneCrab.tools.head.label>
   <!-- EN: walrus -->
@@ -67,7 +67,7 @@
   <!-- EN: A large marine animal with tusks and whiskers. Its considerable bulk allows it to survive in extremely cold environments. While slow on land, it is relatively quick in water. -->
   <Walrus.description>Велика морська тварина з бивнями й вусами. Завдяки чималій масі тіла виживає у вкрай холодних умовах. На суші повільний, але у воді доволі швидкий.</Walrus.description>
   <!-- EN: tusk -->
-  <Walrus.tools.tusk.label>ікла</Walrus.tools.tusk.label>
+  <Walrus.tools.tusk.label>бивень</Walrus.tools.tusk.label>
   <!-- EN: head -->
   <Walrus.tools.head.label>голова</Walrus.tools.head.label>
 </LanguageData>

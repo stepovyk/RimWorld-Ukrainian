@@ -31,7 +31,7 @@
   <!-- EN: Humanleather apparel -->
   <Cannibalism_Preferred.comps.2.description>Одяг з людської шкіри</Cannibalism_Preferred.comps.2.description>
   <!-- EN: required (ravenous) -->
-  <Cannibalism_RequiredRavenous.label>необхідний (дуже сильно)</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.label>обов'язково (ненаситно)</Cannibalism_RequiredRavenous.label>
   <!-- EN: Man-flesh is morality. To eat a meal without it is unthinkable. -->
   <Cannibalism_RequiredRavenous.description>Людська плоть – це мораль. Їсти страву без неї – немислимо.</Cannibalism_RequiredRavenous.description>
   <!-- EN: No human meat for {HUMANMEATREQUIREDINTERVAL} days -->
@@ -39,7 +39,7 @@
   <!-- EN: Humanleather apparel -->
   <Cannibalism_RequiredRavenous.comps.4.description>Одяг з людської шкіри</Cannibalism_RequiredRavenous.comps.4.description>
   <!-- EN: required (strong) -->
-  <Cannibalism_RequiredStrong.label>потрібно (сильно)</Cannibalism_RequiredStrong.label>
+  <Cannibalism_RequiredStrong.label>обов'язково (сильно)</Cannibalism_RequiredStrong.label>
   <!-- EN: Consuming human flesh is important. It should be in every meal. -->
   <Cannibalism_RequiredStrong.description>Споживати людську плоть важливо. Вона має бути в кожній страві.</Cannibalism_RequiredStrong.description>
   <!-- EN: No human meat for {HUMANMEATREQUIREDINTERVAL} days -->

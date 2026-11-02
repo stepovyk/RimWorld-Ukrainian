@@ -75,7 +75,7 @@
     <li>subject_gerund->виготовлення біопалива</li>
   </BiofuelRefining.generalRules.rulesStrings>
   <!-- EN: blowback operation -->
-  <BlowbackOperation.label>енергія віддачі</BlowbackOperation.label>
+  <BlowbackOperation.label>вільний затвор</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
   <BlowbackOperation.description>Виготовляйте малопотужну зброю з вільним затвором, як-от автоматичні пістолети й пістолети-кулемети.</BlowbackOperation.description>
   <!-- EN:
@@ -157,7 +157,7 @@
     <li>subject_gerund->гасіння пожеж пінними пристроями</li>
   </Firefoam.generalRules.rulesStrings>
   <!-- EN: flak armor -->
-  <FlakArmor.label>броня</FlakArmor.label>
+  <FlakArmor.label>протиуламкова броня</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
   <FlakArmor.description>Шийте одяг із вшитими металевими пластинами, що захищають від куль і вибухів. Ця важка броня трохи сповільнює рух.</FlakArmor.description>
   <!-- EN:
@@ -471,7 +471,7 @@
     <li>subject_gerund->облаштування стерильних поверхонь</li>
   </SterileMaterials.generalRules.rulesStrings>
   <!-- EN: tube television -->
-  <TubeTelevision.label>електронно-променева трубка</TubeTelevision.label>
+  <TubeTelevision.label>ЕПТ-телевізори</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
   <TubeTelevision.description>Виготовляйте ЕПТ-телевізори для дозвілля.</TubeTelevision.description>
   <!-- EN:

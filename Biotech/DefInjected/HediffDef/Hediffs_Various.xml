@@ -9,7 +9,7 @@
   <!-- EN: A deep coma-like sleep that lasts several days and restores the body's resources. Certain genes create a need for deathrest. Deathrest can also be enhanced with various support buildings that give special bonuses to the deathrester. -->
   <Deathrest.description>Глибокий, схожий на кому сон, що триває кілька днів і відновлює ресурси тіла. Потребу в летаргії створюють певні гени. Летаргію можна посилити різними допоміжними спорудами, які дають особливі бонуси тому, хто в ній спочиває.</Deathrest.description>
   <!-- EN: deathrest exhaustion -->
-  <DeathrestExhaustion.label>потреба летаргічного сну</DeathrestExhaustion.label>
+  <DeathrestExhaustion.label>летаргічне виснаження</DeathrestExhaustion.label>
   <!-- EN: This person desperately needs to deathrest to rebalance their metabolism. -->
   <DeathrestExhaustion.description>Цій людині конче потрібна летаргія, щоб збалансувати обмін речовин.</DeathrestExhaustion.description>
   <!-- EN: chemical dependency -->
@@ -31,7 +31,7 @@
   <!-- EN: major -->
   <HemogenCraving.stages.major.label>сильна</HemogenCraving.stages.major.label>
   <!-- EN: interrupted deathrest -->
-  <InterruptedDeathrest.label>перерваний летаргічний сон</InterruptedDeathrest.label>
+  <InterruptedDeathrest.label>перервана летаргія</InterruptedDeathrest.label>
   <!-- EN: Deathrest was interrupted while this person's metabolism was still out of balance. They will be sick for days while regaining equilibrium. -->
   <InterruptedDeathrest.description>Летаргію перервали, коли обмін речовин цієї людини ще не збалансувався. Кілька днів, поки рівновага не відновиться, вона нездужатиме.</InterruptedDeathrest.description>
   <!-- EN: psychic bond -->

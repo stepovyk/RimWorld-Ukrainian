@@ -37,7 +37,7 @@
   <!-- EN: With the current ritual quality, the invoker will steal {0} of the target's XP in their best skill.\n\nThe target will suffer brain damage and fall into a coma. -->
   <Philophagy.outcomeDescription>За поточної якості ритуалу заклинач забере {0} од. досвіду з найкращої навички цілі.\n\nЦіль отримає пошкодження мозку й впаде в кому.</Philophagy.outcomeDescription>
   <!-- EN: pleasure pulse -->
-  <PleasurePulse.label>заспокійливий імпульс</PleasurePulse.label>
+  <PleasurePulse.label>імпульс насолоди</PleasurePulse.label>
   <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region happier but reduces their desire to work. This will replace the effect of other active pulses. -->
   <PleasurePulse.description>Випромінює потужний психічний імпульс: усі психічно чутливі в регіоні стають щасливішими, але менше хочуть працювати. Імпульс замінює дію інших активних імпульсів.</PleasurePulse.description>
   <!-- EN: At the current ritual quality, the effect will last for {0}. -->

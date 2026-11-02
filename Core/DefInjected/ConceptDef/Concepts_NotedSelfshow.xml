@@ -123,9 +123,9 @@
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
   <Stockpiles.helpText>Колоністам потрібне місце, де зберігати речі. Позначте для цього СКЛАД.\n\nСклад є в розділі «ЗОНА» меню «ПРОЄКТУВАННЯ» внизу ліворуч.</Stockpiles.helpText>
   <!-- EN: Storage tab -->
-  <StorageTab.label>Вкладка «Сховище»</StorageTab.label>
+  <StorageTab.label>Вкладка «Зберігання»</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>Склади й сховища налаштовують, якщо виділити їх і відкрити вкладку «СХОВИЩЕ» над панеллю огляду внизу ліворуч.\n\nНа вкладці сховища складу можна розгортати категорії, щоб дозволити чи заборонити окремі речі. Клацайте трикутники ліворуч від назв категорій.\n\nСховищу можна змінити ПРІОРИТЕТ. Колоністи спершу заповнюють сховища з вищим пріоритетом і переносять речі з нижчого пріоритету у вищий.</StorageTab.helpText>
+  <StorageTab.helpText>Склади й сховища налаштовують, якщо виділити їх і відкрити вкладку «ЗБЕРІГАННЯ» над панеллю огляду внизу ліворуч.\n\nНа вкладці «Зберігання» складу можна розгортати категорії, щоб дозволити чи заборонити окремі речі. Клацайте трикутники ліворуч від назв категорій.\n\nСховищу можна змінити ПРІОРИТЕТ. Колоністи спершу заповнюють сховища з вищим пріоритетом і переносять речі з нижчого пріоритету у вищий.</StorageTab.helpText>
   <!-- EN: Tile inspector -->
   <TileInspector.label>Огляд клітинки</TileInspector.label>
   <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->

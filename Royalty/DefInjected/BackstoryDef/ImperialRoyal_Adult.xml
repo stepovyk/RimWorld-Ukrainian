@@ -15,7 +15,7 @@
   <!-- EN: [PAWN_nameDef] held the position of landworker in [PAWN_possessive] royal house. [PAWN_pronoun] managed the family's lands and all the resources on them - both agricultural and mineral.\n\nThough [PAWN_pronoun] would never work the machines [PAWN_objective]self, managing these enterprises required learning the methods of farming and mining in detail. -->
   <Landworker98.description>[PAWN_nameDef] {PAWN_gender ? обіймав : обіймала} посаду землевпорядника у своєму королівському домі. [PAWN_pronoun] {PAWN_gender ? управляв : управляла} родинними землями й усіма їхніми ресурсами – і сільськогосподарськими, і корисними копалинами.\n\nХоч [PAWN_pronoun] ніколи не {PAWN_gender ? став би : стала б} до машин {PAWN_gender ? сам : сама}, керування цими підприємствами вимагало досконало знати методи землеробства й гірництва.</Landworker98.description>
   <!-- EN: landworker -->
-  <Landworker98.title>землероб</Landworker98.title>
+  <Landworker98.title>землевпорядник</Landworker98.title>
   <!-- EN: landworker -->
   <Landworker98.titleShort>землероб</Landworker98.titleShort>
   <!-- EN: When [PAWN_nameDef]'s family's ally was killed, and [PAWN_possessive] young son inherited his throne, [PAWN_nameDef] was appointed as regent to rule in the child's stead.\n\n[PAWN_pronoun] oversaw diverse matters of house and title, from finances to war to greedy relatives intent on usurping the throne. [PAWN_nameDef] never abused [PAWN_possessive] position. -->

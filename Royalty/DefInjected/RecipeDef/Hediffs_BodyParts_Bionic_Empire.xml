@@ -175,7 +175,7 @@
   <!-- EN: Removing neurocalculator. -->
   <RemoveNeurocalculator.jobString>Вилучає нейрокалькулятор.</RemoveNeurocalculator.jobString>
   <!-- EN: remove stoneskin gland -->
-  <RemoveStoneskinGland.label>вилучити залозу бронешкіри</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.label>вилучити залозу кам'яної шкіри</RemoveStoneskinGland.label>
   <!-- EN: Remove stoneskin gland. -->
   <RemoveStoneskinGland.description>Вилучити залозу кам'яної шкіри.</RemoveStoneskinGland.description>
   <!-- EN: Removing stoneskin gland. -->

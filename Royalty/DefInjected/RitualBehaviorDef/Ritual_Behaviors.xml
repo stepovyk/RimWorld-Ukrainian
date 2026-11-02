@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: linker -->
-  <AnimaTreeLinking.roles.0.label>зв'язуючий</AnimaTreeLinking.roles.0.label>
+  <AnimaTreeLinking.roles.0.label>зв'язувач</AnimaTreeLinking.roles.0.label>
   <!-- EN: Only adults can link with an anima tree. -->
   <AnimaTreeLinking.roles.0.customChildDisallowMessage>Зв'язатися з аніма-деревом можуть лише дорослі.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
   <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->

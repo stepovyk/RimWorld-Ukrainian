@@ -5,7 +5,7 @@
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
   <Custom.description>Тут можна докладно налаштувати власний стиль гри.\n\n(*SectionTitle)Рекомендовано:(/SectionTitle)\n\n- гравцям, яких влаштовує один зі стандартних рівнів, але які хочуть дещо змінити;\n- гравцям, які хочуть поекспериментувати.</Custom.description>
   <!-- EN: community builder -->
-  <Easy.label>будівництво</Easy.label>
+  <Easy.label>будівничий громади</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
   <Easy.description>Будуйте громаду з дрібкою небезпеки. Загрози трапляються, але послаблені.\n\n(*SectionTitle)Рекомендовано:(/SectionTitle)\n\n- новачкам у таких іграх;\n- тим, хто хоче збудувати ідеальну колонію;\n- тим, хто хоче відпочити.</Easy.description>
   <!-- EN: losing is fun -->

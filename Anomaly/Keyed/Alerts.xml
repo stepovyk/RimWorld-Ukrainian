@@ -47,7 +47,7 @@
   <!-- EN: Need holding platforms -->
   <AlertHoldingPlatform>Потрібні платформи для утримання</AlertHoldingPlatform>
   <!-- EN: Build holding platforms or place holding spots to contain and study captured entities. -->
-  <AlertHoldingPlatformDesc>Збудуйте платформи для утримання або позначте місця для утримання, щоб утримувати й вивчати впійманих сутностей.</AlertHoldingPlatformDesc>
+  <AlertHoldingPlatformDesc>Збудуйте платформи для утримання або позначте місця для утримання, щоб утримувати й вивчати захоплені сутності.</AlertHoldingPlatformDesc>
   <!-- EN: Cube withdrawal -->
   <AlertCubeWithdrawal>Ломка за кубом</AlertCubeWithdrawal>
   <!-- EN: The following people are suffering from cube withdrawal -->

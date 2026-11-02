@@ -67,7 +67,7 @@
   <!-- EN: [PAWN_nameDef] was an ordinary infanteer in an imperial battalion.\n\nConscripted at a young age to add bodies the army, [PAWN_nameDef] learned the methods of fighting well enough to satisfy [PAWN_possessive] officers. However, [PAWN_pronoun] never quite understood what was going on around [PAWN_objective] enough to really believe in it. -->
   <LineInfanteer20.description>[PAWN_nameDef] {PAWN_gender ? був звичайним піхотинцем : була звичайною піхотинкою} імперського батальйону.\n\n{PAWN_gender ? Призваний : Призвана} ще замолоду, щоб поповнити армійські лави, [PAWN_nameDef] {PAWN_gender ? опанував : опанувала} військову справу достатньо, аби задовольнити офіцерів. Проте [PAWN_pronoun] так і не {PAWN_gender ? зрозумів : зрозуміла} до кінця, що відбувається навколо, щоб щиро в це повірити.</LineInfanteer20.description>
   <!-- EN: line infanteer -->
-  <LineInfanteer20.title>піхота</LineInfanteer20.title>
+  <LineInfanteer20.title>лінійний піхотинець</LineInfanteer20.title>
   <!-- EN: infanteer -->
   <LineInfanteer20.titleShort>піхота</LineInfanteer20.titleShort>
   <!-- EN: [PAWN_nameDef] was a janissary in a great lord's army. Even more than the other troops, [PAWN_pronoun] felt a sense of duty, and [PAWN_pronoun] drew [PAWN_possessive] life's meaning from the effort [PAWN_pronoun] put to fulfilling [PAWN_possessive] duty. -->

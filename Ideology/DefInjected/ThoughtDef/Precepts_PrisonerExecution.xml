@@ -41,7 +41,7 @@
   <!-- EN: A prisoner died in our ripscanner, their brain burned to ash to feed the machine. It's horrifying. -->
   <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>В'язень загинув у нашому летальному сканері: його мозок спалили на попіл, щоб нагодувати машину. Це жахливо.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>
   <!-- EN: executed prisoner -->
-  <ExecutedPrisoner_Horrible.stages.executed_prisoner.label>{PAWN_gender ? Стратив : Стратила} в'язня</ExecutedPrisoner_Horrible.stages.executed_prisoner.label>
+  <ExecutedPrisoner_Horrible.stages.executed_prisoner.label>{PAWN_gender ? стратив : стратила} в'язня</ExecutedPrisoner_Horrible.stages.executed_prisoner.label>
   <!-- EN: I had to execute a prisoner. It's a horrible offense against my beliefs. -->
   <ExecutedPrisoner_Horrible.stages.executed_prisoner.description>Мені довелося стратити в'язня. Це жахлива наруга над моїми переконаннями.</ExecutedPrisoner_Horrible.stages.executed_prisoner.description>
   <!-- EN: executed prisoner -->
@@ -51,7 +51,7 @@
   <!-- EN: executed prisoner -->
   <ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>страчено в'язня</ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>
   <!-- EN: executed prisoner -->
-  <ExecutedPrisoner_Respected.stages.executed_prisoner.label>{PAWN_gender ? Стратив : Стратила} в'язня</ExecutedPrisoner_Respected.stages.executed_prisoner.label>
+  <ExecutedPrisoner_Respected.stages.executed_prisoner.label>{PAWN_gender ? стратив : стратила} в'язня</ExecutedPrisoner_Respected.stages.executed_prisoner.label>
   <!-- EN: I executed a prisoner. Victory has consequences. -->
   <ExecutedPrisoner_Respected.stages.executed_prisoner.description>Я {PAWN_gender ? стратив : стратила} в'язня. Перемога має свої наслідки.</ExecutedPrisoner_Respected.stages.executed_prisoner.description>
   <!-- EN: executed guilty prisoner -->
@@ -61,11 +61,11 @@
   <!-- EN: We executed a guilty prisoner. Justice has been served! -->
   <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>Ми стратили винного в'язня. Правосуддя звершилося!</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>
   <!-- EN: executed guilty prisoner -->
-  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>{PAWN_gender ? Стратив : Стратила} винного в'язня</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>
+  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>{PAWN_gender ? стратив : стратила} винного в'язня</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>
   <!-- EN: I executed a guilty prisoner. Justice has been served! -->
   <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>Я {PAWN_gender ? стратив : стратила} винного в'язня. Правосуддя звершилося!</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>
   <!-- EN: executed innocent prisoner -->
-  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>{PAWN_gender ? Стратив : Стратила} невинного в'язня</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>
+  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>{PAWN_gender ? стратив : стратила} невинного в'язня</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>
   <!-- EN: I had to execute an innocent prisoner. It's a horrible offense against my beliefs. -->
   <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>Мені довелося стратити невинного в'язня. Це жахлива наруга над моїми переконаннями.</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>
   <!-- EN: executed innocent prisoner -->

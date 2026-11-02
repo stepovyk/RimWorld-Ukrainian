@@ -129,7 +129,7 @@
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
   <PsychicSensitivity.description>Чутливіші люди сильніше страждають від негативних психічних впливів і більше виграють від позитивних. Вища психічна чутливість також підвищує межу нейронапруги.</PsychicSensitivity.description>
   <!-- EN: sleep fall rate -->
-  <RestFallRateFactor.label>необхідність у сні</RestFallRateFactor.label>
+  <RestFallRateFactor.label>швидкість наростання втоми</RestFallRateFactor.label>
   <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
   <RestFallRateFactor.description>Множник швидкості, з якою наростає потреба людини у сні.</RestFallRateFactor.description>
   <!-- EN: rest rate multiplier -->

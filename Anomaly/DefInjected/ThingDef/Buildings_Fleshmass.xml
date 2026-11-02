@@ -53,5 +53,5 @@
   <!-- EN: A junction point in the fleshmass nervous system. When destroyed, it leaves behind a lump of neural tissue that you can study. Study enough different neural lumps and you can unlock a way to kill the fleshmass heart itself. -->
   <NerveBundle.description>Вузлова точка нервової системи м'ясної маси. Знищений, він лишає згусток нервової тканини, який можна вивчати. Вивчіть достатньо різних нервових згустків – і відкриєте спосіб убити саме серце м'ясної маси.</NerveBundle.description>
   <!-- EN: Kill to collect: Neural lump -->
-  <NerveBundle.comps.CompInspectString.inspectString>Убийте, щоб отримати: пучок нервів біомаси</NerveBundle.comps.CompInspectString.inspectString>
+  <NerveBundle.comps.CompInspectString.inspectString>Убийте, щоб отримати: нервовий згусток м'ясної маси</NerveBundle.comps.CompInspectString.inspectString>
 </LanguageData>

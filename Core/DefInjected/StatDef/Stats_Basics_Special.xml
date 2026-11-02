@@ -23,7 +23,7 @@
   <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
   <MedicalQualityMax.description>Максимальна якість медичного догляду, якої можна досягти з цим засобом.\n\nКраща якість догляду дає змогу вправним лікарям лікувати рани краще й надійніше.</MedicalQualityMax.description>
   <!-- EN: meditation psyfocus bonus -->
-  <MeditationFocusStrength.label>бонус пси-фукусу при медитації</MeditationFocusStrength.label>
+  <MeditationFocusStrength.label>бонус пси-фокусу від медитації</MeditationFocusStrength.label>
   <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
   <MeditationFocusStrength.description>Скільки додаткового пси-фокусу отримує людина, зосереджуючись на цьому об'єкті під час медитації, понад власну базову швидкість приросту.\n\nДля деяких об'єктів це значення залежить від оточення й від того, хто медитує.</MeditationFocusStrength.description>
   <!-- EN: {0} / day -->

@@ -57,11 +57,11 @@
   <!-- EN: The number of humanlike characters I have killed. -->
   <KillsHumanlikes.description>Кількість убитих мною людиноподібних істот.</KillsHumanlikes.description>
   <!-- EN: kills (mechanoids) -->
-  <KillsMechanoids.label>убито </KillsMechanoids.label>
+  <KillsMechanoids.label>убито механоїдів</KillsMechanoids.label>
   <!-- EN: The number of mechanoids I have killed. -->
   <KillsMechanoids.description>Кількість убитих мною механоїдів.</KillsMechanoids.description>
   <!-- EN: meals cooked -->
-  <MealsCooked.label>страв приготовано</MealsCooked.label>
+  <MealsCooked.label>страв приготовлено</MealsCooked.label>
   <!-- EN: The number of meals I have cooked. -->
   <MealsCooked.description>Кількість приготовлених мною страв.</MealsCooked.description>
   <!-- EN: messes cleaned -->
@@ -85,7 +85,7 @@
   <!-- EN: The number of creatures I have downed. -->
   <PawnsDowned.description>Кількість знерухомлених мною істот.</PawnsDowned.description>
   <!-- EN: enemies downed (animals) -->
-  <PawnsDownedAnimals.label>знерухомлено тварини</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.label>знерухомлено тварин</PawnsDownedAnimals.label>
   <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
   <PawnsDownedAnimals.description>Кількість знерухомлених мною тварин – на полюванні чи в бою.</PawnsDownedAnimals.description>
   <!-- EN: enemies downed (humanlikes) -->
@@ -113,11 +113,11 @@
   <!-- EN: How many times I have chatted with prisoners. -->
   <PrisonersChatted.description>Кількість моїх розмов з в'язнями.</PrisonersChatted.description>
   <!-- EN: prisoners recruited -->
-  <PrisonersRecruited.label>в'язнів рекрутовано</PrisonersRecruited.label>
+  <PrisonersRecruited.label>в'язнів завербовано</PrisonersRecruited.label>
   <!-- EN: The number of prisoners I have recruited. -->
   <PrisonersRecruited.description>Кількість завербованих мною в'язнів.</PrisonersRecruited.description>
   <!-- EN: research points researched -->
-  <ResearchPointsResearched.label>вклад в досягнення</ResearchPointsResearched.label>
+  <ResearchPointsResearched.label>очок досліджень набрано</ResearchPointsResearched.label>
   <!-- EN: The number of research points I have researched. -->
   <ResearchPointsResearched.description>Кількість здобутих мною очок дослідження.</ResearchPointsResearched.description>
   <!-- EN: shots fired -->
@@ -125,7 +125,7 @@
   <!-- EN: The number of shots I have fired. -->
   <ShotsFired.description>Кількість зроблених мною пострілів.</ShotsFired.description>
   <!-- EN: switches flicked -->
-  <SwitchesFlicked.label>активував перемикач</SwitchesFlicked.label>
+  <SwitchesFlicked.label>перемикачів клацнуто</SwitchesFlicked.label>
   <!-- EN: The number of switches I have flicked. -->
   <SwitchesFlicked.description>Кількість моїх клацань перемикачами.</SwitchesFlicked.description>
   <!-- EN: things constructed -->
@@ -137,7 +137,7 @@
   <!-- EN: The number of things I have crafted. -->
   <ThingsCrafted.description>Кількість змайстрованих мною речей.</ThingsCrafted.description>
   <!-- EN: things deconstructed -->
-  <ThingsDeconstructed.label>речей демонтовано</ThingsDeconstructed.label>
+  <ThingsDeconstructed.label>речей розібрано</ThingsDeconstructed.label>
   <!-- EN: The number of things I have deconstructed. -->
   <ThingsDeconstructed.description>Кількість розібраних мною речей.</ThingsDeconstructed.description>
   <!-- EN: things hauled -->
@@ -153,15 +153,15 @@
   <!-- EN: The number of things I have repaired. -->
   <ThingsRepaired.description>Кількість відремонтованих мною речей.</ThingsRepaired.description>
   <!-- EN: things uninstalled -->
-  <ThingsUninstalled.label>речей розібрав</ThingsUninstalled.label>
+  <ThingsUninstalled.label>речей демонтовано</ThingsUninstalled.label>
   <!-- EN: The number of things I have uninstalled. -->
   <ThingsUninstalled.description>Кількість демонтованих мною речей.</ThingsUninstalled.description>
   <!-- EN: times in mental state -->
-  <TimesInMentalState.label>часу у психічних зривах</TimesInMentalState.label>
+  <TimesInMentalState.label>психічних зривів</TimesInMentalState.label>
   <!-- EN: How many times I have suffered a mental break. -->
   <TimesInMentalState.description>Скільки разів у мене стався нервовий зрив.</TimesInMentalState.description>
   <!-- EN: times on fire -->
-  <TimesOnFire.label>час під вогнем</TimesOnFire.label>
+  <TimesOnFire.label>разів у вогні</TimesOnFire.label>
   <!-- EN: How many times I have been on fire. -->
   <TimesOnFire.description>Скільки разів на мені займався вогонь.</TimesOnFire.description>
   <!-- EN: tends given -->

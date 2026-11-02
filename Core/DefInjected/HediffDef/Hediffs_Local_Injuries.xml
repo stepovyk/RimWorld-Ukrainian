@@ -73,7 +73,7 @@
   <!-- EN: A chemical burn. -->
   <ChemicalBurn.description>Хімічний опік.</ChemicalBurn.description>
   <!-- EN: chemical burn scar -->
-  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>рубець від хім. опіку</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>рубець від хімічного опіку</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off (chemical) -->
   <ChemicalBurn.injuryProps.destroyedLabel>Спалено (хімічно)</ChemicalBurn.injuryProps.destroyedLabel>
   <!-- EN: Burned out (chemical) -->
@@ -171,7 +171,7 @@
   <!-- EN: A gunshot wound. -->
   <Gunshot.description>Вогнепальне поранення.</Gunshot.description>
   <!-- EN: permanent gunshot injury -->
-  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>вогнепальне поранення</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>невиліковне вогнепальне поранення</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <!-- EN: old gunshot -->
   <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>рубець від кулі</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shot off -->
@@ -217,17 +217,17 @@
   <!-- EN: {0} in the {1} -->
   <Scratch.labelNounPretty>{0} ({1})</Scratch.labelNounPretty>
   <!-- EN: shredded -->
-  <Shredded.label>вибухова травма</Shredded.label>
+  <Shredded.label>пошматована рана</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
   <Shredded.description>Частину тіла пошматовано й розірвано.</Shredded.description>
   <!-- EN: shredded scar -->
-  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>рубець</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>рубець від пошматованої рани</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
   <Shredded.injuryProps.destroyedLabel>Відірвано</Shredded.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
   <Shredded.injuryProps.destroyedOutLabel>Вирвано</Shredded.injuryProps.destroyedOutLabel>
   <!-- EN: a shredded wound -->
-  <Shredded.labelNoun>вибухова травма</Shredded.labelNoun>
+  <Shredded.labelNoun>пошматована рана</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Shredded.labelNounPretty>{0} ({1})</Shredded.labelNounPretty>
   <!-- EN: stab -->

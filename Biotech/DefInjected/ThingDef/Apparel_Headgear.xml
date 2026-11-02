@@ -13,7 +13,7 @@
   <!-- EN: A heavy plasteel-weave helmet packed with mechanitor-assistance gear. The mechlord helmet dramatically amplifies a mechanitor's bandwidth, but is somewhat less protective than dedicated heavy armor. -->
   <Apparel_ArmorHelmetMechlordHelmet.description>Важкий шолом із пласталевого плетива, напханий обладнанням для механіторів. Шолом мех-лорда різко збільшує пропускну здатність механітора, але захищає трохи гірше за спеціалізовану важку броню.</Apparel_ArmorHelmetMechlordHelmet.description>
   <!-- EN: array headset -->
-  <Apparel_ArrayHeadset.label>масивна гарнітура</Apparel_ArrayHeadset.label>
+  <Apparel_ArrayHeadset.label>антенна гарнітура</Apparel_ArrayHeadset.label>
   <!-- EN: A head-mounted computer and signaling array that enhances a mechanitor's control bandwidth. This allows them to control more mechs. -->
   <Apparel_ArrayHeadset.description>Наголовний комп'ютер із сигнальною антенною решіткою, що збільшує пропускну здатність механітора. Завдяки цьому механітор може керувати більшою кількістю механоїдів.</Apparel_ArrayHeadset.description>
   <!-- EN: gas mask -->
@@ -21,7 +21,7 @@
   <!-- EN: A flexible mask worn over the face with an embedded air filter. It dramatically reduces exposure to pollution through the lungs, but does not protect the skin on the rest of the body.\n\nIt prevents tox gas irritants from entering through the eyes and mouth. -->
   <Apparel_GasMask.description>Гнучка маска з вбудованим повітряним фільтром, що вдягається на обличчя. Різко зменшує вплив забруднення через легені, але не захищає шкіру решти тіла.\n\nНе дає подразливому токсичному газу потрапити в очі й рот.</Apparel_GasMask.description>
   <!-- EN: integrator headset -->
-  <Apparel_IntegratorHeadset.label>інтегрована гарнітура</Apparel_IntegratorHeadset.label>
+  <Apparel_IntegratorHeadset.label>гарнітура-інтегратор</Apparel_IntegratorHeadset.label>
   <!-- EN: An advanced head-mounted computer and signaling array that dramatically enhances a mechanitor's control bandwidth. This allows the wearer to control many more mechanoids at once. -->
   <Apparel_IntegratorHeadset.description>Вдосконалений наголовний комп'ютер із сигнальною антенною решіткою, що значно збільшує пропускну здатність механітора. Завдяки цьому власник може керувати набагато більшою кількістю механоїдів одночасно.</Apparel_IntegratorHeadset.description>
 </LanguageData>

@@ -19,13 +19,13 @@
   <!-- EN: chat with -->
   <ChatWithPrisoner.verb>розмовляти з</ChatWithPrisoner.verb>
   <!-- EN: clear snow -->
-  <CleanClearSnow.label>прибирання снігу</CleanClearSnow.label>
+  <CleanClearSnow.label>прибирати сніг</CleanClearSnow.label>
   <!-- EN: clearing snow -->
   <CleanClearSnow.gerund>прибрати сніг</CleanClearSnow.gerund>
   <!-- EN: clear snow -->
   <CleanClearSnow.verb>прибрати сніг</CleanClearSnow.verb>
   <!-- EN: clean filth -->
-  <CleanFilth.label>прибирання бруду</CleanFilth.label>
+  <CleanFilth.label>прибирати бруд</CleanFilth.label>
   <!-- EN: cleaning -->
   <CleanFilth.gerund>прибрати</CleanFilth.gerund>
   <!-- EN: clean -->
@@ -61,19 +61,19 @@
   <!-- EN: remove bridge -->
   <ConstructRemoveFoundations.verb>розібрати міст</ConstructRemoveFoundations.verb>
   <!-- EN: smooth floors -->
-  <ConstructSmoothFloors.label>шліфувати підлогу</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.label>вирівнювати підлогу</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
   <ConstructSmoothFloors.gerund>вирівняти</ConstructSmoothFloors.gerund>
   <!-- EN: smooth -->
   <ConstructSmoothFloors.verb>вирівняти</ConstructSmoothFloors.verb>
   <!-- EN: smooth walls -->
-  <ConstructSmoothWalls.label>шліфувати стіни</ConstructSmoothWalls.label>
+  <ConstructSmoothWalls.label>вирівнювати стіни</ConstructSmoothWalls.label>
   <!-- EN: smoothing -->
   <ConstructSmoothWalls.gerund>вирівняти</ConstructSmoothWalls.gerund>
   <!-- EN: smooth -->
   <ConstructSmoothWalls.verb>вирівняти</ConstructSmoothWalls.verb>
   <!-- EN: fill food hoppers -->
-  <CookFillHopper.label>наповнювати лійки</CookFillHopper.label>
+  <CookFillHopper.label>наповнювати бункери</CookFillHopper.label>
   <!-- EN: filling -->
   <CookFillHopper.gerund>наповнити</CookFillHopper.gerund>
   <!-- EN: fill -->
@@ -91,7 +91,7 @@
   <!-- EN: deconstruct -->
   <DeconstructForBlueprint.verb>розібрати</DeconstructForBlueprint.verb>
   <!-- EN: deliver food to prisoners -->
-  <DeliverFoodToPrisoner.label>віднести їжу полоненим</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.label>носити їжу в'язням</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
   <DeliverFoodToPrisoner.gerund>віднести їжу</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
@@ -115,7 +115,7 @@
   <!-- EN: brew at -->
   <DoBillsBrew.verb>варити, використовуючи</DoBillsBrew.verb>
   <!-- EN: butcher creatures -->
-  <DoBillsButcherFlesh.label>білувати</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.label>розбирати туші</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>розібрати туші, використовуючи</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher at -->
@@ -181,7 +181,7 @@
   <!-- EN: operate on -->
   <DoBillsMedicalHumanOperation.verb>оперувати</DoBillsMedicalHumanOperation.verb>
   <!-- EN: synthesize drugs -->
-  <DoBillsProduceDrugs.label>синтезувати препарати</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.label>синтезувати наркотики</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
   <DoBillsProduceDrugs.gerund>синтезувати наркотики, використовуючи</DoBillsProduceDrugs.gerund>
   <!-- EN: produce drugs at -->
@@ -361,7 +361,7 @@
   <!-- EN: sow -->
   <GrowerSow.verb>сіяти</GrowerSow.verb>
   <!-- EN: hack buildings -->
-  <Hack.label>зламувати структуру</Hack.label>
+  <Hack.label>зламувати споруди</Hack.label>
   <!-- EN: hacking -->
   <Hack.gerund>зламати</Hack.gerund>
   <!-- EN: hack -->
@@ -391,7 +391,7 @@
   <!-- EN: merge -->
   <HaulMerge.verb>об'єднати</HaulMerge.verb>
   <!-- EN: haul to map -->
-  <HaulToPortal.label>тягнути до </HaulToPortal.label>
+  <HaulToPortal.label>переносити на мапу</HaulToPortal.label>
   <!-- EN: loading -->
   <HaulToPortal.gerund>завантажити</HaulToPortal.gerund>
   <!-- EN: load -->
@@ -535,7 +535,7 @@
   <!-- EN: repair -->
   <Repair.verb>відремонтувати</Repair.verb>
   <!-- EN: replant tree -->
-  <Replant.label>посадка дерев</Replant.label>
+  <Replant.label>пересаджувати дерева</Replant.label>
   <!-- EN: replanting -->
   <Replant.gerund>посадити</Replant.gerund>
   <!-- EN: replant -->
@@ -577,7 +577,7 @@
   <!-- EN: take beer -->
   <TakeBeerOutOfFermentingBarrel.verb>спорожнити</TakeBeerOutOfFermentingBarrel.verb>
   <!-- EN: take prisoners to bed -->
-  <TakePrisonerToBed.label>віднести полонених до ліжка</TakePrisonerToBed.label>
+  <TakePrisonerToBed.label>відносити в'язнів до ліжка</TakePrisonerToBed.label>
   <!-- EN: taking to bed -->
   <TakePrisonerToBed.gerund>віднести до ліжка</TakePrisonerToBed.gerund>
   <!-- EN: take to bed -->
@@ -589,7 +589,7 @@
   <!-- EN: rope -->
   <TakeRoamingAnimalsToPen.verb>вести</TakeRoamingAnimalsToPen.verb>
   <!-- EN: take patients to bed for operations -->
-  <TakeToBedToOperate.label>віднести пацієнтів до ліжка, для проведення операції</TakeToBedToOperate.label>
+  <TakeToBedToOperate.label>відносити пацієнтів на операцію</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>віднести на операцію</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
@@ -607,7 +607,7 @@
   <!-- EN: tame -->
   <Tame.verb>приручити</Tame.verb>
   <!-- EN: train animals -->
-  <Train.label>тренувати тварин</Train.label>
+  <Train.label>дресирувати тварин</Train.label>
   <!-- EN: training -->
   <Train.gerund>дресирувати</Train.gerund>
   <!-- EN: train -->

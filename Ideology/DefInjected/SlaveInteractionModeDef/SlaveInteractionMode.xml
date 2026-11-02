@@ -17,7 +17,7 @@
   <!-- EN: Wardens will not interact with this slave. -->
   <NoInteraction.description>Наглядачі не взаємодіятимуть з цим рабом.</NoInteraction.description>
   <!-- EN: suppress -->
-  <Suppress.label>пригнічення</Suppress.label>
+  <Suppress.label>пригнічувати</Suppress.label>
   <!-- EN: Wardens will periodically intimidate the slave to increase their suppression level and reduce the chance of rebellion. -->
   <Suppress.description>Наглядачі час від часу залякуватимуть раба, щоб підвищити рівень пригнічення й зменшити ймовірність повстання.</Suppress.description>
 </LanguageData>

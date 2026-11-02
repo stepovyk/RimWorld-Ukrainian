@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>носить одяг з відкритим пахом</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>носить одяг не лише на паху</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
   <!-- EN: To stifle the skin is wrong. Only the groin should be covered. -->
   <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>Душити шкіру одягом неправильно. Прикритим має бути лише пах.</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>носить одяг з відкритим пахом</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>носить одяг не лише на паху</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
   <!-- EN: To stifle the skin is wrong. Only the groin should be covered. -->
   <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>Душити шкіру одягом неправильно. Прикритим має бути лише пах.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>
   <!-- EN: wore clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>{PAWN_gender ? Носив : Носила} одяг з відкритим пахом</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>{PAWN_gender ? носив : носила} одяг не лише на паху</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
   <!-- EN: To conceal the skin is wrong, but I did it anyway. Only the groin should be covered. -->
   <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>Ховати шкіру неправильно, але я все одно це {PAWN_gender ? зробив : зробила}. Прикритим має бути лише пах.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>носить одяг з відкритим пахом</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>носить одяг не лише на паху</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>носить одяг з відкритим пахом</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>носить одяг не лише на паху</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
   <!-- EN: wearing clothes -->
   <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>носить одяг</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>
   <!-- EN: I don't approve of covering myself, yet here I am doing it. -->
@@ -25,7 +25,7 @@
   <!-- EN: I don't approve of covering myself, yet here I am doing it. -->
   <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>Я не схвалюю одягу на тілі, а проте ось – {PAWN_gender ? вдягнений : вдягнена}.</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>
   <!-- EN: wore clothes -->
-  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>{PAWN_gender ? Носив : Носила} одяг</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>{PAWN_gender ? носив : носила} одяг</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>
   <!-- EN: I concealed my flesh. It was wrong. -->
   <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>Я {PAWN_gender ? ховав : ховала} своє тіло під одягом. Це було неправильно.</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>
   <!-- EN: wearing clothes -->

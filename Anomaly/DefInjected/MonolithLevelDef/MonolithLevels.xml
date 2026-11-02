@@ -27,7 +27,7 @@
   <!-- EN: Can be investigated now. -->
   <Inactive.monolithCanBeActivatedText>Можна оглянути.</Inactive.monolithCanBeActivatedText>
   <!-- EN: fallen monolith -->
-  <Inactive.monolithLabel>занепалий моноліт</Inactive.monolithLabel>
+  <Inactive.monolithLabel>повалений моноліт</Inactive.monolithLabel>
   <!-- EN: {PAWN_nameDef} has been sent to investigate the monolith. -->
   <Inactive.pawnSentToActivateMessage>{PAWN_nameDef} іде оглянути моноліт.</Inactive.pawnSentToActivateMessage>
   <!-- EN: Attuning the monolith -->

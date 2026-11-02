@@ -13,7 +13,7 @@
   <!-- EN: Euthanizing by cutting. -->
   <Euthanize.jobString>Проводить евтаназію ножем.</Euthanize.jobString>
   <!-- EN: remove part -->
-  <RemoveBodyPart.label>ампутація кінцівки</RemoveBodyPart.label>
+  <RemoveBodyPart.label>вилучити частину тіла</RemoveBodyPart.label>
   <!-- EN: Remove a body part. -->
   <RemoveBodyPart.description>Видалити частину тіла.</RemoveBodyPart.description>
   <!-- EN: Removing body part. -->

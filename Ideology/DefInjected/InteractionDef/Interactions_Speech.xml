@@ -58,7 +58,7 @@
     <li>own_pc(p=2)->своє [PersonalCharacteristic_n_acc]</li>
   </Speech_AcceptRole.logRulesInitiator.rulesStrings>
   <!-- EN: blinding speech -->
-  <Speech_Blinding.label>промова сліпоти</Speech_Blinding.label>
+  <Speech_Blinding.label>промова перед осліпленням</Speech_Blinding.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->blindness</li>
@@ -92,7 +92,7 @@
     <li>speechtopic->психічні зв'язки</li>
   </Speech_Blinding.logRulesInitiator.rulesStrings>
   <!-- EN: conversion speech -->
-  <Speech_Conversion.label>ритуал конвертації</Speech_Conversion.label>
+  <Speech_Conversion.label>промова про навернення</Speech_Conversion.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->uniting for the greater good</li>
@@ -218,7 +218,7 @@
     <li>speechtopic->причини цієї страти</li>
   </Speech_Execution.logRulesInitiator.rulesStrings>
   <!-- EN: funeral speech -->
-  <Speech_Funeral.label>похоронна мова</Speech_Funeral.label>
+  <Speech_Funeral.label>похоронна промова</Speech_Funeral.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->the nobility of sacrifice</li>
@@ -463,7 +463,7 @@
     <li>crazy->{INITIATOR_gender ? бурмотів : бурмотіла} одне й те саме</li>
   </Speech_Scarification.logRulesInitiator.rulesStrings>
   <!-- EN: tree connection speech -->
-  <Speech_TreeConnection.label>ритуал зв'язку з деревом Гауранлен</Speech_TreeConnection.label>
+  <Speech_TreeConnection.label>промова про зв'язок із деревом</Speech_TreeConnection.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->the trees and the people</li>

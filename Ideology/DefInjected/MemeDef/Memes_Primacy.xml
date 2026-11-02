@@ -77,7 +77,7 @@
   <!-- EN: humanitor -->
   <HumanPrimacy.symbolPacks.0.member>гуманітист</HumanPrimacy.symbolPacks.0.member>
   <!-- EN: humanity -->
-  <HumanPrimacy.symbolPacks.0.theme>людства</HumanPrimacy.symbolPacks.0.theme>
+  <HumanPrimacy.symbolPacks.0.theme>людство</HumanPrimacy.symbolPacks.0.theme>
   <!-- EN: pro-man -->
   <HumanPrimacy.symbolPacks.1.adjective>людоцентричний</HumanPrimacy.symbolPacks.1.adjective>
   <!-- EN: Mankindism -->
@@ -85,7 +85,7 @@
   <!-- EN: mankindist -->
   <HumanPrimacy.symbolPacks.1.member>людоцентрист</HumanPrimacy.symbolPacks.1.member>
   <!-- EN: mankind -->
-  <HumanPrimacy.symbolPacks.1.theme>людського роду</HumanPrimacy.symbolPacks.1.theme>
+  <HumanPrimacy.symbolPacks.1.theme>людський рід</HumanPrimacy.symbolPacks.1.theme>
   <!-- EN: nature primacy -->
   <NaturePrimacy.label>першість природи</NaturePrimacy.label>
   <!-- EN: Man is a stain on nature's perfection. -->
@@ -162,7 +162,7 @@
   <!-- EN: naturist -->
   <NaturePrimacy.symbolPacks.0.member>натурист</NaturePrimacy.symbolPacks.0.member>
   <!-- EN: nature -->
-  <NaturePrimacy.symbolPacks.0.theme>природи</NaturePrimacy.symbolPacks.0.theme>
+  <NaturePrimacy.symbolPacks.0.theme>природа</NaturePrimacy.symbolPacks.0.theme>
   <!-- EN: earthist -->
   <NaturePrimacy.symbolPacks.1.adjective>земний</NaturePrimacy.symbolPacks.1.adjective>
   <!-- EN: Earthism -->
@@ -170,7 +170,7 @@
   <!-- EN: earthist -->
   <NaturePrimacy.symbolPacks.1.member>земліст</NaturePrimacy.symbolPacks.1.member>
   <!-- EN: earth -->
-  <NaturePrimacy.symbolPacks.1.theme>землі</NaturePrimacy.symbolPacks.1.theme>
+  <NaturePrimacy.symbolPacks.1.theme>земля</NaturePrimacy.symbolPacks.1.theme>
   <!-- EN: soilist -->
   <NaturePrimacy.symbolPacks.2.adjective>ґрунтовий</NaturePrimacy.symbolPacks.2.adjective>
   <!-- EN: Soilism -->
@@ -178,7 +178,7 @@
   <!-- EN: soilist -->
   <NaturePrimacy.symbolPacks.2.member>ґрунтист</NaturePrimacy.symbolPacks.2.member>
   <!-- EN: soil -->
-  <NaturePrimacy.symbolPacks.2.theme>ґрунту</NaturePrimacy.symbolPacks.2.theme>
+  <NaturePrimacy.symbolPacks.2.theme>ґрунт</NaturePrimacy.symbolPacks.2.theme>
   <!-- EN: lifeist -->
   <NaturePrimacy.symbolPacks.3.adjective>життєвий</NaturePrimacy.symbolPacks.3.adjective>
   <!-- EN: Lifism -->

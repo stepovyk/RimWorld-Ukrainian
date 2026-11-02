@@ -5,15 +5,15 @@
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
   <Ascetic.stages.ascetic_has_awful_bedroom.description>Моя спальня саме така, як я хочу: дуже скромна й проста.</Ascetic.stages.ascetic_has_awful_bedroom.description>
   <!-- EN: ascetic has dull bedroom -->
-  <Ascetic.stages.ascetic_has_dull_bedroom.label>огидна аскетична спальня</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>похмура аскетична спальня</Ascetic.stages.ascetic_has_dull_bedroom.label>
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
   <Ascetic.stages.ascetic_has_dull_bedroom.description>Моя спальня саме така, як я хочу: дуже скромна й проста.</Ascetic.stages.ascetic_has_dull_bedroom.description>
   <!-- EN: ascetic has mediocre bedroom -->
-  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>бездарна аскетична спальня</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>посередня аскетична спальня</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
   <!-- EN: My bedroom is very humble and simple. I like it. -->
   <Ascetic.stages.ascetic_has_mediocre_bedroom.description>Моя спальня дуже скромна і проста. Вона мені подобається.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
   <!-- EN: ascetic has impressive bedroom -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>порядна аскетична спальня</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>пристойна аскетична спальня</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
   <!-- EN: I don't like having an impressive bedroom. -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>Ця спальня недостатньо скромна для мене.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
   <!-- EN: ascetic has impressive bedroom -->
@@ -21,7 +21,7 @@
   <!-- EN: I don't like having an impressive bedroom. -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Ця спальня недостатньо скромна для мене.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
   <!-- EN: ascetic has impressive bedroom -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>миловидна аскетична спальня</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>ошатна аскетична спальня</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
   <!-- EN: I don't like having an impressive bedroom. -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>Ця спальня недостатньо скромна для мене.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
   <!-- EN: ascetic has impressive bedroom -->
@@ -49,23 +49,23 @@
   <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
   <ClothedNudist.stages.constraining_clothes.description>Я {PAWN_gender ? нудист : нудистка}, але мушу носити цей одяг. Це не нестерпно, але мені все одно тісно й незатишно.</ClothedNudist.stages.constraining_clothes.description>
   <!-- EN: greedy for impressive bedroom -->
-  <Greedy.stages.greedy_for_impressive_bedroom-0.label>миловидна жадібність</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>жадоба розкішної спальні</Greedy.stages.greedy_for_impressive_bedroom-0.label>
   <!-- EN: I'm greedy. I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-0.description>Я {PAWN_gender ? жадібний : жадібна}. Хочу справді вражаючу спальню.</Greedy.stages.greedy_for_impressive_bedroom-0.description>
   <!-- EN: greedy for impressive bedroom -->
-  <Greedy.stages.greedy_for_impressive_bedroom-1.label>вражаюча жадібність</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>жадоба розкішної спальні</Greedy.stages.greedy_for_impressive_bedroom-1.label>
   <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-1.description>Я {PAWN_gender ? жадібний : жадібна}. Моя кімната жалюгідна! Хочу справді вражаючу спальню.</Greedy.stages.greedy_for_impressive_bedroom-1.description>
   <!-- EN: greedy for impressive bedroom -->
-  <Greedy.stages.greedy_for_impressive_bedroom-2.label>прекрасна жадібність</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>жадоба розкішної спальні</Greedy.stages.greedy_for_impressive_bedroom-2.label>
   <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-2.description>Я {PAWN_gender ? жадібний : жадібна}. Моя кімната й близько не така, як треба. Хочу справді вражаючу спальню.</Greedy.stages.greedy_for_impressive_bedroom-2.description>
   <!-- EN: greedy for impressive bedroom -->
-  <Greedy.stages.greedy_for_impressive_bedroom-3.label>казковиа жадібність</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>жадоба розкішної спальні</Greedy.stages.greedy_for_impressive_bedroom-3.label>
   <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-3.description>Я {PAWN_gender ? жадібний : жадібна}. Моя кімната недостатньо гарна. Хочу справді вражаючу спальню.</Greedy.stages.greedy_for_impressive_bedroom-3.description>
   <!-- EN: greedy for impressive bedroom -->
-  <Greedy.stages.greedy_for_impressive_bedroom-4.label>неймовірна жадібність</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>жадоба розкішної спальні</Greedy.stages.greedy_for_impressive_bedroom-4.label>
   <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-4.description>Я {PAWN_gender ? жадібний : жадібна}. Моя кімната ще не зовсім така, як треба. Хочу справді вражаючу спальню.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
   <!-- EN: happily nude -->
@@ -153,7 +153,7 @@
   <!-- EN: I asked for the exact opposite of this! -->
   <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Я {PAWN_gender ? просив : просила} про геть протилежне!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
   <!-- EN: pyromaniac has incendiary weapon -->
-  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>має запалювальну зброю</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>має запальну зброю</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
   <!-- EN: It makes me think of flame and fire. I can't wait to use it. -->
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Від неї мені згадуються полум'я й вогонь. Не можу дочекатися, коли пущу її в хід.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
   <!-- EN: beautiful fire -->

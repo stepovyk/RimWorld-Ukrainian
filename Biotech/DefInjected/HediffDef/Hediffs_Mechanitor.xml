@@ -25,13 +25,13 @@
   <!-- EN: A bionic implant that allows direct control of mechanoids. Can only be removed after death. -->
   <MechlinkImplant.descriptionShort>Біонічний імплант для прямого керування механоїдами. Вилучити його можна лише після смерті.</MechlinkImplant.descriptionShort>
   <!-- EN: remote repairer -->
-  <RemoteRepairerImplant.label>дистанційний ремонт</RemoteRepairerImplant.label>
+  <RemoteRepairerImplant.label>імплант дистанційного ремонту</RemoteRepairerImplant.label>
   <!-- EN: A mechlink upgrade which allows the mechanitor to repair mechs from a distance. The user links with the mechanoid and uses their own brain to psychically guide its self-repair mechanites.\n\nThis implant can be installed up to 3 times to increase its range. -->
   <RemoteRepairerImplant.description>Удосконалення мехлінку, що дає механіторові ремонтувати механоїдів на відстані. Користувач зв'язується з механоїдом і власним мозком психічно скеровує його механіти самовідновлення.\n\nЩоб збільшити дальність, імплант можна встановити до 3 разів.</RemoteRepairerImplant.description>
   <!-- EN: An implant which allows the user to repair mechs from a distance. This can be installed up to 3 times. -->
   <RemoteRepairerImplant.descriptionShort>Імплант, що дає ремонтувати механоїдів на відстані. Можна встановити до 3 разів.</RemoteRepairerImplant.descriptionShort>
   <!-- EN: remote shielder -->
-  <RemoteShielderImplant.label>дистанційний щит</RemoteShielderImplant.label>
+  <RemoteShielderImplant.label>імплант дистанційного щита</RemoteShielderImplant.label>
   <!-- EN: An implant which allows the mechanitor to place a personal defense shield on a mech. The mechanitor must continuously focus on the mech in order to maintain the shield. It can be used to save a mech at a critical moment.\n\nThis implant can be installed up to 3 times to increase its range and shield energy. -->
   <RemoteShielderImplant.description>Імплант, що дає механіторові накинути на механоїда персональний захисний щит. Щоб підтримувати щит, механітор має весь час зосереджуватися на механоїді. Так можна врятувати механоїда в критичну мить.\n\nЩоб збільшити дальність та енергію щита, імплант можна встановити до 3 разів.</RemoteShielderImplant.description>
   <!-- EN: repair probe -->

@@ -31,7 +31,7 @@
   <!-- EN: [PAWN_nameDef]'s noble family did not want [PAWN_objective], but could not afford to be seen directly assassinating [PAWN_objective] either. They attempted to get [PAWN_objective] killed by assigning [PAWN_objective] dangerous training without proper protection at too young an age.\n\nAgainst all odds, [PAWN_nameDef] survived the jousting contests, horsewar matches, riverrun competitions and warzones. In the end, it only made [PAWN_objective] stronger. -->
   <UnwantedSurvivor67.description>Знатна родина [PAWN_nameDef] не хотіла цієї дитини, але й не могла дозволити собі, щоб її бачили вбивцями. Тож дитину намагалися звести в могилу, ще надто малою відправляючи на небезпечні тренування без належного захисту.\n\nПопри все, [PAWN_nameDef] {PAWN_gender ? пережив : пережила} лицарські турніри, кінні бої, річкові перегони й зони бойових дій. Зрештою все це лише {PAWN_gender ? загартувало його : загартувало її}.</UnwantedSurvivor67.description>
   <!-- EN: unwanted survivor -->
-  <UnwantedSurvivor67.title>небажаний син</UnwantedSurvivor67.title>
+  <UnwantedSurvivor67.title>небажана дитина</UnwantedSurvivor67.title>
   <!-- EN: survivor -->
   <UnwantedSurvivor67.titleShort>вцілілий</UnwantedSurvivor67.titleShort>
   <!-- EN: [PAWN_nameDef] was born to a royal house with a grand manor in a great city. [PAWN_pronoun] spent [PAWN_possessive] youth in lessons on politics.\n\nWhenever [PAWN_pronoun] could, [PAWN_pronoun] would escape with [PAWN_possessive] friends to explore the half-built substructure of the metropolis. -->

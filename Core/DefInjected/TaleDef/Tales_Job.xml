@@ -151,7 +151,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob_pl_gen] завмерли в захваті.</li>
   </CompletedLongConstructionProject.rulePack.rulesStrings>
   <!-- EN: completed long crafting project -->
-  <CompletedLongCraftingProject.label>предмет завершений</CompletedLongCraftingProject.label>
+  <CompletedLongCraftingProject.label>завершено великий виріб</CompletedLongCraftingProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]</li>
     <li>image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]</li>
@@ -187,7 +187,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob_pl_gen] завмерли в захваті.</li>
   </CompletedLongCraftingProject.rulePack.rulesStrings>
   <!-- EN: entered cryptosleep -->
-  <EnteredCryptosleep.label>занурення в криптостон</EnteredCryptosleep.label>
+  <EnteredCryptosleep.label>занурення в криптосон</EnteredCryptosleep.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] entering cryptosleep</li>
     <li>image->[PAWN_nameFull] lying down inside a cryptosleep casket [circumstance_group]</li>
@@ -261,7 +261,7 @@
     <li>desc_sentence->Згори за цим стежать [Quantity_adjphrase] безтілесних духів давніх майстрів.</li>
   </GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
   <!-- EN: gained master skill with passion -->
-  <GainedMasterSkillWithPassion.label>досягнення майстерності улюбленої справи</GainedMasterSkillWithPassion.label>
+  <GainedMasterSkillWithPassion.label>досягнення майстерності в улюбленій справі</GainedMasterSkillWithPassion.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
     <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>

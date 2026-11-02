@@ -17,11 +17,11 @@
   <!-- EN: That misshapen creature, the cracked whorled flesh... horrifying. -->
   <Chimera.stages.observed_chimera.description>Ця потворна істота, потріскана плоть у завитках... жах.</Chimera.stages.observed_chimera.description>
   <!-- EN: closed the void -->
-  <ClosedTheVoid.stages.closed_the_void.label>порожнечу зачинено</ClosedTheVoid.stages.closed_the_void.label>
+  <ClosedTheVoid.stages.closed_the_void.label>порожнечу закрито</ClosedTheVoid.stages.closed_the_void.label>
   <!-- EN: I can't believe it's finally over. -->
   <ClosedTheVoid.stages.closed_the_void.description>Не можу повірити, що все нарешті скінчилося.</ClosedTheVoid.stages.closed_the_void.description>
   <!-- EN: closed the void -->
-  <ClosedTheVoidOpinion.stages.closed_the_void.label>порожнечу зачинено</ClosedTheVoidOpinion.stages.closed_the_void.label>
+  <ClosedTheVoidOpinion.stages.closed_the_void.label>порожнечу закрито</ClosedTheVoidOpinion.stages.closed_the_void.label>
   <!-- EN: unnatural darkness lifted -->
   <DarknessLifted.stages.unnatural_darkness_lifted.label>неприродна темрява скінчилася</DarknessLifted.stages.unnatural_darkness_lifted.label>
   <!-- EN: It's finally gone! I can breathe again. -->
@@ -75,15 +75,15 @@
   <!-- EN: There was a madness building in my mind. It's gone, for now. -->
   <VoidCatharsis.stages.void_catharsis.description>У моїй голові наростало божевілля. Поки що воно минуло.</VoidCatharsis.stages.void_catharsis.description>
   <!-- EN: void closed -->
-  <VoidClosed.stages.void_closed.label>порожнечу зачинено</VoidClosed.stages.void_closed.label>
+  <VoidClosed.stages.void_closed.label>порожнечу закрито</VoidClosed.stages.void_closed.label>
   <!-- EN: We can sleep easier now. Those things won't be coming back any time soon. -->
   <VoidClosed.stages.void_closed.description>Тепер можна спати спокійніше. Ці створіння ще довго не повернуться.</VoidClosed.stages.void_closed.description>
   <!-- EN: Void curiosity -->
-  <VoidCuriosity.stages.Void_curiosity.label>інтерес Порожнечі</VoidCuriosity.stages.Void_curiosity.label>
+  <VoidCuriosity.stages.Void_curiosity.label>цікавість до порожнечі</VoidCuriosity.stages.Void_curiosity.label>
   <!-- EN: We should perform a void provocation ritual. Who knows what phenomena we might discover? -->
   <VoidCuriosity.stages.Void_curiosity.description>Нам варто провести ритуал провокації порожнечі. Хто знає, які явища ми можемо відкрити?</VoidCuriosity.stages.Void_curiosity.description>
   <!-- EN: Void curiosity satisfied -->
-  <VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>інтерес Порожнечі задовільнено</VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>
+  <VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>цікавість до порожнечі задоволено</VoidCuriositySatisfied.stages.Void_curiosity_satisfied.label>
   <!-- EN: I regret nothing. -->
   <VoidCuriositySatisfied.stages.Void_curiosity_satisfied.description>Я ні про що не жалкую.</VoidCuriositySatisfied.stages.Void_curiosity_satisfied.description>
 </LanguageData>

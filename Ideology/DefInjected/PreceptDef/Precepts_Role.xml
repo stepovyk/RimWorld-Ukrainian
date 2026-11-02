@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Animals specialist -->
-  <IdeoRole_AnimalsSpecialist.label>Спеціаліст з тварин</IdeoRole_AnimalsSpecialist.label>
+  <IdeoRole_AnimalsSpecialist.label>спеціаліст з тварин</IdeoRole_AnimalsSpecialist.label>
   <!-- EN: A special ideoligious status focusing on animals to the exclusion of all else. This specialized role gives increased taming and training efficiency. Holders of this role will refuse to perform some non-animals-related tasks. -->
   <IdeoRole_AnimalsSpecialist.description>Особливий ідеологічний статус, що зосереджується на тваринах і більше ні на чому. Ця роль підвищує ефективність приручення й дресирування. Носії цієї ролі відмовлятимуться від деяких робіт, не пов'язаних з тваринами.</IdeoRole_AnimalsSpecialist.description>
   <!-- EN: leader -->
@@ -33,7 +33,7 @@
   <!-- EN: A special ideoligious status focusing on crafting and construction to the exclusion of all else. This specialized role gives increased crafting and construction efficiency, and the ability to boost the production abilities of nearby allies. Holders of this role will refuse to do some non-production work. -->
   <IdeoRole_ProductionSpecialist.description>Особливий ідеологічний статус, що зосереджується на ремеслі й будівництві й більше ні на чому. Ця роль підвищує ефективність ремесла й будівництва та дає змогу посилювати виробничі здібності союзників поблизу. Носії цієї ролі відмовлятимуться від деяких робіт, не пов'язаних з виробництвом.</IdeoRole_ProductionSpecialist.description>
   <!-- EN: research specialist -->
-  <IdeoRole_ResearchSpecialist.label>спеціаліст з дослідження</IdeoRole_ResearchSpecialist.label>
+  <IdeoRole_ResearchSpecialist.label>спеціаліст з досліджень</IdeoRole_ResearchSpecialist.label>
   <!-- EN: A special ideoligious status focusing on research to the exclusion of all else. This specialized role gives increased research and hacking speed, and the ability to boost research abilities of nearby allies. Holders of this role will refuse to perform some non-research tasks. -->
   <IdeoRole_ResearchSpecialist.description>Особливий ідеологічний статус, що зосереджується на дослідженнях і більше ні на чому. Ця роль підвищує швидкість досліджень і злому та дає змогу посилювати дослідницькі здібності союзників поблизу. Носії цієї ролі відмовлятимуться від деяких робіт, не пов'язаних з дослідженнями.</IdeoRole_ResearchSpecialist.description>
   <!-- EN: shooting specialist -->

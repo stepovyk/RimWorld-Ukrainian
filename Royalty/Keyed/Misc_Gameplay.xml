@@ -135,7 +135,7 @@
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
   <BestowingOutcomeQualitySpecific>Загальна якість церемонії нагородження – {0}. Її визначили такі чинники</BestowingOutcomeQualitySpecific>
   <!-- EN: No colonists that can link with anima tree right now. -->
-  <RitualTargetAnimaTreeNoPawnsToLink>Зараз немає колоністів, які можуть зв’язатися з аніма-деревом.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsToLink>Зараз немає колоністів, які можуть зв'язатися з аніма-деревом.</RitualTargetAnimaTreeNoPawnsToLink>
   <!-- EN: No colonists with the natural meditation focus type. -->
   <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Немає колоністів із фокусом медитації «природа».</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->

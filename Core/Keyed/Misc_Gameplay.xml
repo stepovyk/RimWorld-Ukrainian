@@ -1301,7 +1301,7 @@
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Потрібно розміщувати передньою частиною впритул до корабельної балки.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Потрібно розміщувати поруч із тим, що потребує лійки.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Потрібно розміщувати поруч із тим, що потребує бункера.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Потрібно розміщувати безпосередньо на паровому гейзері.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->

@@ -25,7 +25,7 @@
   <!-- EN: Someone mined a block -->
   <Mining_Prohibited.comps.3.description>Хтось видобув блок</Mining_Prohibited.comps.3.description>
   <!-- EN: high -->
-  <MiningYield_High.label>поважається</MiningYield_High.label>
+  <MiningYield_High.label>високий</MiningYield_High.label>
   <!-- EN: Mining is so important that we do it with great focus and respect, and we get more resources because of that. -->
   <MiningYield_High.description>Гірництво таке важливе, що ми працюємо зосереджено й шанобливо, тож отримуємо більше ресурсів.</MiningYield_High.description>
 </LanguageData>

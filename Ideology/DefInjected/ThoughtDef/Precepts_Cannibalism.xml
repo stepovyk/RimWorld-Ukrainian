@@ -43,15 +43,15 @@
   <!-- EN: ate non-cannibal food -->
   <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>спожито не людожерську їжу</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
   <!-- EN: I butchered humanlike -->
-  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>{PAWN_gender ? Розібрав : Розібрала} людину</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>{PAWN_gender ? розібрав : розібрала} людину</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered a human being. This is an offense against everything I believe. -->
   <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>Я {PAWN_gender ? розібрав : розібрала} людину на м'ясо. Це наруга над усім, у що я вірю.</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
   <!-- EN: I butchered humanlike -->
-  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>{PAWN_gender ? Розібрав : Розібрала} людину</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>{PAWN_gender ? розібрав : розібрала} людину</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered a human being. I believe such actions are wrong. -->
   <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>Я {PAWN_gender ? розібрав : розібрала} людину на м'ясо. Вважаю, що так чинити неправильно.</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
   <!-- EN: I butchered humanlike -->
-  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>{PAWN_gender ? Розібрав : Розібрала} людину</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>{PAWN_gender ? розібрав : розібрала} людину</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered a human being. This was a horrible thing. -->
   <ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>Я {PAWN_gender ? розібрав : розібрала} людину на м'ясо. Це було жахливо.</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
   <!-- EN: we butchered humanlike -->

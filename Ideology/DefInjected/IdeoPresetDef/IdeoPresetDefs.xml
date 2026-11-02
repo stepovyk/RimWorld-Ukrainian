@@ -77,7 +77,7 @@
   <!-- EN: The human race flourishes in the darkness of night and the underground.\n\nUnlocks mining and production specialist roles. Combat efficiency in the dark is increased. -->
   <ProHuman_Darklovers.description>Людський рід процвітає в нічній темряві й під землею.\n\nВідкриває ролі спеціалістів з видобутку й виробництва. Підвищує бойову ефективність у темряві.</ProHuman_Darklovers.description>
   <!-- EN: techno-utopians -->
-  <Techno_Utopians.label>техно-утопія</Techno_Utopians.label>
+  <Techno_Utopians.label>техноутопісти</Techno_Utopians.label>
   <!-- EN: The human body must be enhanced with technology so we can build a better future for everyone.\n\nUnlocks the research specialist role. -->
   <Techno_Utopians.description>Людське тіло треба вдосконалювати технологіями – лише так ми збудуємо краще майбутнє для всіх.\n\nВідкриває роль спеціаліста з досліджень.</Techno_Utopians.description>
   <!-- EN: tree-worshippers -->
@@ -85,7 +85,7 @@
   <!-- EN: We live in harmony with the Gauranlen trees. Trees should never be cut, and animals should not be harmed.\n\n Unlocks the plants specialist role. These people live in rough conditions without complains, and can connect more deeply with the Gauranlen trees. -->
   <Tree_Worshippers.description>Ми живемо в гармонії з деревами Гауранлен. Дерева рубати не можна, а тваринам не можна шкодити.\n\nВідкриває роль спеціаліста з рослинництва. Ці люди без нарікань живуть у суворих умовах і можуть глибше поєднуватися з деревами Гауранлен.</Tree_Worshippers.description>
   <!-- EN: unity family -->
-  <Unity_Family.label>єдність сім'ї</Unity_Family.label>
+  <Unity_Family.label>родина єдності</Unity_Family.label>
   <!-- EN: The community is a family of hard-working, like-minded people. Putting yourself first is not acceptable. -->
   <Unity_Family.description>Громада – це родина працьовитих однодумців. Ставити себе вище за інших неприйнятно.</Unity_Family.description>
   <!-- EN: bloody dominators -->

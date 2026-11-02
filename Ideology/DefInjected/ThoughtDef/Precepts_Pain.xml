@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: minor pain -->
-  <Pain_Idealized.stages.minor_pain.label>незначна біль</Pain_Idealized.stages.minor_pain.label>
+  <Pain_Idealized.stages.minor_pain.label>незначний біль</Pain_Idealized.stages.minor_pain.label>
   <!-- EN: The pain grounds me. I appreciate it. -->
   <Pain_Idealized.stages.minor_pain.description>Біль повертає мене до реальності. Я це ціную.</Pain_Idealized.stages.minor_pain.description>
   <!-- EN: serious pain -->
-  <Pain_Idealized.stages.serious_pain.label>середня біль</Pain_Idealized.stages.serious_pain.label>
+  <Pain_Idealized.stages.serious_pain.label>серйозний біль</Pain_Idealized.stages.serious_pain.label>
   <!-- EN: The pain cleanses me. I like it. -->
   <Pain_Idealized.stages.serious_pain.description>Біль очищає мене. Мені це подобається.</Pain_Idealized.stages.serious_pain.description>
   <!-- EN: intense pain -->
-  <Pain_Idealized.stages.intense_pain.label>сильна біль</Pain_Idealized.stages.intense_pain.label>
+  <Pain_Idealized.stages.intense_pain.label>сильний біль</Pain_Idealized.stages.intense_pain.label>
   <!-- EN: The pain purifies me. I need it! -->
   <Pain_Idealized.stages.intense_pain.description>Біль мене очищує. Мені це потрібно!</Pain_Idealized.stages.intense_pain.description>
   <!-- EN: mind-shattering pain -->

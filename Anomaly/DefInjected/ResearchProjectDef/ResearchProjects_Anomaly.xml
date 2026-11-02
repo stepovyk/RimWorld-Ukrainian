@@ -69,7 +69,7 @@
     <li>subject_gerund->провокування сутностей порожнечі</li>
   </BasicPsychicRituals.generalRules.rulesStrings>
   <!-- EN: bioferrite extraction -->
-  <BioferriteExtraction.label>біоферитовий екстрактор</BioferriteExtraction.label>
+  <BioferriteExtraction.label>видобування біофериту</BioferriteExtraction.label>
   <!-- EN: Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper. -->
   <BioferriteExtraction.description>Видобувайте біоферит безпосередньо із захоплених сутностей. З нього виготовляють зброю та одяг на місці для виготовлення або біоферитному формувачі.</BioferriteExtraction.description>
   <!-- EN:
@@ -177,7 +177,7 @@
     <li>subject_gerund->обробка біофериту</li>
   </BioferriteShaping.generalRules.rulesStrings>
   <!-- EN: bliss lobotomy -->
-  <BlissLobotomy.label>лоботомія</BlissLobotomy.label>
+  <BlissLobotomy.label>блаженна лоботомія</BlissLobotomy.label>
   <!-- EN: Perform a surgery that lobotomizes a person, making them happier while rendering them incapable of intellectual and skilled labor. -->
   <BlissLobotomy.description>Проводьте операцію з лоботомії: людина стає щасливішою, але більше не здатна до інтелектуальної та кваліфікованої праці.</BlissLobotomy.description>
   <!-- EN:
@@ -611,7 +611,7 @@
     <li>subject_gerund->проведення ритуалу, що краде навички жертви</li>
   </Philophagy.generalRules.rulesStrings>
   <!-- EN: pleasure pulse -->
-  <PleasurePulse.label>заспокійливий імпульс</PleasurePulse.label>
+  <PleasurePulse.label>імпульс насолоди</PleasurePulse.label>
   <!-- EN: Perform a psychic ritual that makes everyone in the region happier but reduces their desire to work. -->
   <PleasurePulse.description>Проводьте психічний ритуал, після якого всі в місцевості стають щасливішими, але менше хочуть працювати.</PleasurePulse.description>
   <!-- EN:
@@ -633,7 +633,7 @@
     <li>subject_gerund->проведення психічного ритуалу насолоди</li>
   </PleasurePulse.generalRules.rulesStrings>
   <!-- EN: proximity detector -->
-  <ProximityDetector.label>детектор руху</ProximityDetector.label>
+  <ProximityDetector.label>детектор наближення</ProximityDetector.label>
   <!-- EN: Build a device that can detect invisible creatures. -->
   <ProximityDetector.description>Будуйте пристрій, що виявляє невидимих істот.</ProximityDetector.description>
   <!-- EN:
@@ -647,7 +647,7 @@
     <li>subject_gerund->detecting invisible creatures</li>
   -->
   <ProximityDetector.generalRules.rulesStrings>
-    <li>subject->детектори руху</li>
+    <li>subject->детектори наближення</li>
     <li>subject->датчики руху</li>
     <li>subject_story->{ANYPAWN_gender ? надихнувся : надихнулася} старовинними розважальними фільмами</li>
     <li>subject_story->{ANYPAWN_gender ? створював : створювала} прототипи простих пристроїв із пси-захистом</li>

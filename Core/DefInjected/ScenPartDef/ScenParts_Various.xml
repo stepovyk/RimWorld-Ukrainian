@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: create incident -->
-  <CreateIncident.label>створити інцидент</CreateIncident.label>
+  <CreateIncident.label>створити подію</CreateIncident.label>
   <!-- EN: create quest -->
-  <CreateQuest.label>створити доручення</CreateQuest.label>
+  <CreateQuest.label>створити завдання</CreateQuest.label>
   <!-- EN: disable incident -->
-  <DisableIncident.label>відключити інциденти</DisableIncident.label>
+  <DisableIncident.label>вимкнути подію</DisableIncident.label>
   <!-- EN: disable quest -->
-  <DisableQuest.label>відключити доручення</DisableQuest.label>
+  <DisableQuest.label>вимкнути завдання</DisableQuest.label>
   <!-- EN: forced health condition -->
   <ForcedHediff.label>стан здоров'я</ForcedHediff.label>
   <!-- EN: forced trait -->

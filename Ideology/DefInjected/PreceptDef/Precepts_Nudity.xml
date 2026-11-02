@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: pants at most -->
-  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>штани максимум</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>щонайбільше штани</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
   <!-- EN: Women should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable, as is wearing clothing during unsafe temperatures. -->
   <Nudity_Female_CoveringAnythingButGroinDisapproved.description>Жінки мусять прикривати пах, але більше нічого прикривати не можна. Дозволено додаткове спорядження, як-от пояси-щити чи реактивні ранці, а також одяг за небезпечної температури.</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
   <!-- EN: fully nude -->
@@ -29,7 +29,7 @@
   <!-- EN: Women must cover their groin and chest. The rest of the body may be covered, or not. -->
   <Nudity_Female_UncoveredGroinOrChestDisapproved.description>Жінки мусять прикривати пах і груди. Решту тіла – за бажанням.</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
   <!-- EN: pants at most -->
-  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>штани максимум</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>щонайбільше штани</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
   <!-- EN: Men should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable, as is wearing clothing during unsafe temperatures. -->
   <Nudity_Male_CoveringAnythingButGroinDisapproved.description>Чоловіки мусять прикривати пах, але більше нічого прикривати не можна. Дозволено додаткове спорядження, як-от пояси-щити чи реактивні ранці, а також одяг за небезпечної температури.</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
   <!-- EN: fully nude -->

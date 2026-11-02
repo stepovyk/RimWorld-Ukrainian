@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: killed innocent {0} -->
-  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>{PAWN_gender ? Вбив : Вбила} невинну тварину ({0})</KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>
+  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>вбивство невинної тварини ({0})</KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>
   <!-- EN: I had to kill an innocent animal. It was not something I approve of. -->
   <KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>Мені довелося вбити невинну тварину. Я такого не схвалюю.</KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>
   <!-- EN: killed innocent {0} -->
-  <KilledInnocentAnimal_Horrible.stages.killed_innocent.label>{PAWN_gender ? Вбив : Вбила} невинну тварину ({0})</KilledInnocentAnimal_Horrible.stages.killed_innocent.label>
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.label>вбивство невинної тварини ({0})</KilledInnocentAnimal_Horrible.stages.killed_innocent.label>
   <!-- EN: I had to kill an innocent animal. It was almost like being forced to murder. -->
   <KilledInnocentAnimal_Horrible.stages.killed_innocent.description>Мені довелося вбити невинну тварину. Мене ніби змусили скоїти вбивство.</KilledInnocentAnimal_Horrible.stages.killed_innocent.description>
   <!-- EN: killed innocent animal -->

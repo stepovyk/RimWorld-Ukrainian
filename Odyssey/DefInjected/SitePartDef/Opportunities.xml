@@ -7,7 +7,7 @@
   <!-- EN: The wreckage of an orbital platform containing valuable resources. These wrecks are commonly guarded by orbital pirates. -->
   <Opportunity_OrbitalWreck.description>Уламки орбітальної платформи з цінними ресурсами. Такі уламки часто стережуть орбітальні пірати.</Opportunity_OrbitalWreck.description>
   <!-- EN: survey site -->
-  <Opportunity_SurveySite.label>місце інспекції</Opportunity_SurveySite.label>
+  <Opportunity_SurveySite.label>місце розвідки</Opportunity_SurveySite.label>
   <!-- EN: The site of a remote surveying operation. -->
   <Opportunity_SurveySite.description>Місце віддаленої розвідувальної операції.</Opportunity_SurveySite.description>
   <!-- EN: An unmanned satellite incapable of supporting life. Satellites serve a wide variety of purposes, from power collection to weapons platforms. -->

@@ -75,7 +75,7 @@
   <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
   <HearthTender66.description>Поки інші полювали й збирали дари природи, [PAWN_nameDef] {PAWN_gender ? лишався : лишалася} вдома, {PAWN_gender ? готував : готувала} їжу й {PAWN_gender ? доглядав : доглядала} малих і хворих.</HearthTender66.description>
   <!-- EN: hearth tender -->
-  <HearthTender66.title>ніжний вогонь</HearthTender66.title>
+  <HearthTender66.title>хранитель вогнища</HearthTender66.title>
   <!-- EN: tender -->
   <HearthTender66.titleShort>доглядач</HearthTender66.titleShort>
   <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->

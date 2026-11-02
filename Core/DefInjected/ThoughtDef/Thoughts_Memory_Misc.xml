@@ -5,11 +5,11 @@
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>Довелося їсти просто з підлоги. Невже тут не можна поставити стіл?</AteWithoutTable.stages.ate_without_table.description>
   <!-- EN: bonded animal {0} banished -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.label>{1_gender ? Улюбленця : Улюбленку} {0} вигнали</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>{1_gender ? улюбленця : улюбленицю} {0} вигнали</BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
   <BondedAnimalBanished.stages.bonded_animal_banished.description>{OTHERPAWN_gender ? Мого улюбленця : Мою улюбленицю} вигнали з колонії!</BondedAnimalBanished.stages.bonded_animal_banished.description>
   <!-- EN: I butchered humanlike -->
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>{PAWN_gender? Розібрав: Розібрала} людину</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>{PAWN_gender ? розібрав : розібрала} людину</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Я {PAWN_gender ? розібрав : розібрала} людину на м'ясо, як якусь тварину.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   <!-- EN: butchered humanlike corpse -->
@@ -31,7 +31,7 @@
   <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
   <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Невже ми не можемо втримати власних людей? Таке враження, що зі мною тут може статися що завгодно.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   <!-- EN: defeated hostile leader {0} -->
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>{PAWN_gender ? Вбив : Вбила} лідера ворожої фракції, {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>перемога над ворожим лідером {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
   <!-- EN: They were leading efforts to destroy us, and I took them down! -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>{OTHERPAWN_gender ? Він очолював : Вона очолювала} боротьбу за наше знищення, а я {PAWN_gender ? поклав : поклала} цьому край!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   <!-- EN: defeated hostile leader -->
@@ -65,7 +65,7 @@
   <!-- EN: I killed someone! What a rush! -->
   <KilledHumanlikeBloodlust.stages.killed_someone.description>Я {PAWN_gender ? вбив : вбила} людину! Який азарт!</KilledHumanlikeBloodlust.stages.killed_someone.description>
   <!-- EN: buried in sarcophagus -->
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>поховали колоніста в саркофазі</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>поховання в саркофазі</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
   <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
   <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Колонія поховала когось в оздобленому саркофазі. Хай спочиває з миром.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
   <!-- EN: we butchered humanlike -->
@@ -81,7 +81,7 @@
   <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Колонія забрала органи в гостя чи в'язня. Це жахливо – розбирати людину на частини, коли вона не має вибору.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   <!-- EN: prisoner sold -->
-  <KnowPrisonerSold.stages.prisoner_sold.label>в'язень проданий</KnowPrisonerSold.stages.prisoner_sold.label>
+  <KnowPrisonerSold.stages.prisoner_sold.label>в'язня продано</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
   <KnowPrisonerSold.stages.prisoner_sold.description>Колонія продала в'язня в рабство. Це тривожить.</KnowPrisonerSold.stages.prisoner_sold.description>
   <!-- EN: my organ harvested -->
@@ -97,11 +97,11 @@
   <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
   <NewColonyOptimism.stages.initial_optimism.description>Становище складне, але мене надихає, що ми засновуємо нове поселення.</NewColonyOptimism.stages.initial_optimism.description>
   <!-- EN: nuzzled -->
-  <Nuzzled.stages.nuzzled-0.label>створіння пестилось</Nuzzled.stages.nuzzled-0.label>
+  <Nuzzled.stages.nuzzled-0.label>тварина пригорнулася</Nuzzled.stages.nuzzled-0.label>
   <!-- EN: A cute animal nuzzled me. -->
   <Nuzzled.stages.nuzzled-0.description>Мила тваринка тицьнулася до мене носом.</Nuzzled.stages.nuzzled-0.description>
   <!-- EN: nuzzled -->
-  <Nuzzled.stages.nuzzled-1.label>створіння пестилось</Nuzzled.stages.nuzzled-1.label>
+  <Nuzzled.stages.nuzzled-1.label>тварина пригорнулася</Nuzzled.stages.nuzzled-1.label>
   <!-- EN: It is so cute, and supportive, and loving... I feel fulfilled and refreshed. -->
   <Nuzzled.stages.nuzzled-1.description>Вона така мила, турботлива, любляча... Я почуваюся {PAWN_gender ? сповненим сил і оновленим : сповненою сил і оновленою}.</Nuzzled.stages.nuzzled-1.description>
   <!-- EN: observed corpse -->
@@ -117,11 +117,11 @@
   <!-- EN: I have a job to do. -->
   <OnDuty.stages.on_duty.description>У мене є робота.</OnDuty.stages.on_duty.description>
   <!-- EN: prisoner banished to death -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>в'язень кинутий на смерть</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>в'язня кинуто на смерть</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Ми вигнали в'язня так, що {OTHERPAWN_gender ? він : вона} майже напевно не виживе.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   <!-- EN: used flame weapon -->
-  <PyroUsed.stages.used_flame_weapon.label>{PAWN_gender ? Використав : Використала} вогняну зброю</PyroUsed.stages.used_flame_weapon.label>
+  <PyroUsed.stages.used_flame_weapon.label>застосування запальної зброї</PyroUsed.stages.used_flame_weapon.label>
   <!-- EN: The searing heat will make my foes beautiful! -->
   <PyroUsed.stages.used_flame_weapon.description>Пекучий жар зробить моїх ворогів прекрасними!</PyroUsed.stages.used_flame_weapon.description>
   <!-- EN: prisoner released -->
@@ -149,7 +149,7 @@
   <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
   <SleptInHeat.stages.slept_in_the_heat.description>Мені довелося спати в нестерпній спеці. Хіба ми не можемо встановити кондиціонер?</SleptInHeat.stages.slept_in_the_heat.description>
   <!-- EN: slept on ground -->
-  <SleptOnGround.stages.slept_on_ground.label>{PAWN_gender ? Спав : Спала} на підлозі</SleptOnGround.stages.slept_on_ground.label>
+  <SleptOnGround.stages.slept_on_ground.label>{PAWN_gender ? спав : спала} на землі</SleptOnGround.stages.slept_on_ground.label>
   <!-- EN: I had to sleep on the ground like an animal. -->
   <SleptOnGround.stages.slept_on_ground.description>Довелося спати на землі, як тварина.</SleptOnGround.stages.slept_on_ground.description>
   <!-- EN: slept outside -->
@@ -173,19 +173,19 @@
   <!-- EN: The colony had me in jail for a while, like a caged animal. -->
   <WasImprisoned.stages.was_imprisoned.description>Колонія якийсь час тримала мене за ґратами, як звіра в клітці.</WasImprisoned.stages.was_imprisoned.description>
   <!-- EN: witnessed ally's death -->
-  <WitnessedDeathAlly.stages.witnessed_allys_death.label>{PAWN_gender ? Побачив : Побачила} смерть союзника</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>смерть союзника на моїх очах</WitnessedDeathAlly.stages.witnessed_allys_death.label>
   <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
   <WitnessedDeathAlly.stages.witnessed_allys_death.description>Я {PAWN_gender ? бачив : бачила}, як помер один із наших. Щойно був живий – і вже мертвий.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
   <!-- EN: witnessed death with bloodlust -->
-  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>{PAWN_gender ? Побачив : Побачила} смерть людини</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>видовище смерті</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
   <!-- EN: I saw someone die! That was intense! -->
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Я {PAWN_gender ? бачив : бачила}, як хтось помер! Оце видовище!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
   <!-- EN: witnessed family member's death -->
-  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>{PAWN_gender ? Побачив : Побачила} смерть родича</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>смерть родича на моїх очах</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
   <!-- EN: I saw a member of my family die. My own flesh and blood... -->
   <WitnessedDeathFamily.stages.witnessed_family_members_death.description>Я {PAWN_gender ? бачив : бачила}, як помер мій родич. Рідна кров...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
   <!-- EN: witnessed outsider's death -->
-  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>{PAWN_gender ? Побачив : Побачила} смерть людини</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>смерть чужинця на моїх очах</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
   <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
   <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Я {PAWN_gender ? бачив : бачила}, як хтось помер. Щойно був живий – і вже мертвий.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
 </LanguageData>

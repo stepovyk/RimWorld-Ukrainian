@@ -25,11 +25,11 @@
   <!-- EN: archipelago -->
   <Archipelago.label>архіпелаг</Archipelago.label>
   <!-- EN: basin -->
-  <Basin.label>басейн</Basin.label>
+  <Basin.label>котловина</Basin.label>
   <!-- EN: bay -->
   <Bay.label>залив</Bay.label>
   <!-- EN: cavern -->
-  <Cavern.label>каверна</Cavern.label>
+  <Cavern.label>печера</Cavern.label>
   <!-- EN: chasm -->
   <Chasm.label>провалля</Chasm.label>
   <!-- EN: cliffs -->
@@ -47,13 +47,13 @@
   <!-- EN: dunes -->
   <Dunes.label>дюни</Dunes.label>
   <!-- EN: fjord -->
-  <Fjord.label>фйорд</Fjord.label>
+  <Fjord.label>фіорд</Fjord.label>
   <!-- EN: frozen ruins -->
   <FrozenRuins.label>замерзлі руїни</FrozenRuins.label>
   <!-- EN: harbor -->
   <Harbor.label>гавань</Harbor.label>
   <!-- EN: hollow -->
-  <Hollow.label>порожнина</Hollow.label>
+  <Hollow.label>улоговина</Hollow.label>
   <!-- EN: hot springs -->
   <HotSprings.label>гарячі джерела</HotSprings.label>
   <!-- EN: iceberg -->

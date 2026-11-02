@@ -129,7 +129,7 @@
   <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
   <AspergersRebel13.description>[PAWN_nameDef] {PAWN_gender ? виріс повстанцем : виросла повстанкою} в колись розвиненому прикордонному світі, спустошеному війною.\n\nЧерез синдром Аспергера [PAWN_pronoun] насилу {PAWN_gender ? давав : давала} собі раду в товаристві й {PAWN_gender ? був нездатний : була нездатна} піклуватися про інших, зате дуже швидко {PAWN_gender ? опановував : опановувала} конкретні навички, як-от дослідження та стрільбу.</AspergersRebel13.description>
   <!-- EN: aspergers rebel -->
-  <AspergersRebel13.title>повстанець Аспергера</AspergersRebel13.title>
+  <AspergersRebel13.title>повстанець з Аспергером</AspergersRebel13.title>
   <!-- EN: rebel -->
   <AspergersRebel13.titleShort>повстанець</AspergersRebel13.titleShort>
   <!-- EN: [PAWN_nameDef] had a fascination with gadgets and gizmos. [PAWN_pronoun] took apart and put together almost anything [PAWN_pronoun] could find.\n\n[PAWN_pronoun] got used to repairing toys brought to [PAWN_objective] by other children, and even fixed a few devices from [PAWN_possessive] elders. -->
@@ -225,9 +225,9 @@
   <!-- EN: [PAWN_nameDef] grew up in an underground shelter, waiting for radioactive fallout to subside. [PAWN_possessive] rich family had gained access to a luxury bunker city, while billions died on the surface.\n\nDetermined to one day seek revenge against the hated enemy, [PAWN_nameDef] spent most of [PAWN_possessive] time practicing shooting in [PAWN_possessive] private training facility. -->
   <BunkerKid41.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в підземному сховищі, чекаючи, поки вщухнуть радіоактивні опади. Заможна родина здобула доступ до розкішного міста-бункера, тоді як мільярди людей гинули на поверхні.\n\n{PAWN_gender ? Сповнений : Сповнена} рішучості колись помститися ненависному ворогові, [PAWN_nameDef] більшість часу {PAWN_gender ? проводив : проводила}, тренуючись у стрільбі у своєму приватному тренувальному комплексі.</BunkerKid41.description>
   <!-- EN: bunker kid -->
-  <BunkerKid41.title>дитя бункеру</BunkerKid41.title>
+  <BunkerKid41.title>дитя бункера</BunkerKid41.title>
   <!-- EN: bunker kid -->
-  <BunkerKid41.titleShort>дитя бункеру</BunkerKid41.titleShort>
+  <BunkerKid41.titleShort>дитя бункера</BunkerKid41.titleShort>
   <!-- EN: Born on the planet New China, [PAWN_nameDef]'s father was a police chief and kept extremely strict watch over [PAWN_possessive] son.\n\n[PAWN_nameDef] had to do military-style drill exercises every day and keep [PAWN_possessive] room spotlessly clean, always ready for inspection. [PAWN_pronoun] came to abhor violence. -->
   <Cadet96.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на планеті Новий Китай. [PAWN_possessive] батько, начальник поліції, тримав {PAWN_gender ? сина : доньку} в надзвичайній суворості.\n\n[PAWN_nameDef] щодня {PAWN_gender ? мусив : мусила} виконувати стройові вправи на військовий лад і тримати свою кімнату в бездоганній чистоті, завжди готовою до перевірки. Зрештою [PAWN_pronoun] {PAWN_gender ? зненавидів : зненавиділа} насильство.</Cadet96.description>
   <!-- EN: cadet -->
@@ -477,9 +477,9 @@
   <!-- EN: Born on an urbworld to the ruler of three megacities, [PAWN_nameDef]'s prospects looked good - until a violent insurrection overthrew [PAWN_possessive] family. Exile introduced [PAWN_nameDef] to hard work and combat, but some high-born squeamishness remains. -->
   <DisplacedNoble67.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в урбанізованому світі в родині правителя трьох мегаполісів, і майбутнє здавалося безхмарним – доки жорстоке повстання не повалило [PAWN_possessive] родину. У вигнанні [PAWN_nameDef] {PAWN_gender ? пізнав : пізнала} тяжку працю та бій, проте певна аристократична гидливість так і залишилася.</DisplacedNoble67.description>
   <!-- EN: displaced noble -->
-  <DisplacedNoble67.title>вигнаний дворян</DisplacedNoble67.title>
+  <DisplacedNoble67.title>вигнаний дворянин</DisplacedNoble67.title>
   <!-- EN: noble -->
-  <DisplacedNoble67.titleShort>дворян</DisplacedNoble67.titleShort>
+  <DisplacedNoble67.titleShort>дворянин</DisplacedNoble67.titleShort>
   <!-- EN: [PAWN_nameDef] was found as a baby in a crashed spacecraft. According to the ship's records, [PAWN_pronoun] invented the nuclear device that powered [PAWN_possessive] ship. Apparently, [PAWN_pronoun] also invented the sky and the hamburger, and is said to have fathered a race of tasty golden kittens. -->
   <DreadedBaby56.description>[PAWN_nameDef] {PAWN_gender ? був знайдений : була знайдена} ще немовлям у розбитому космічному кораблі. Згідно з корабельними записами, саме [PAWN_pronoun] {PAWN_gender ? винайшов : винайшла} ядерну установку, що живила корабель. Схоже, [PAWN_pronoun] також {PAWN_gender ? винайшов : винайшла} небо й гамбургер, а ще кажуть, що [PAWN_pronoun] {PAWN_gender ? став батьком : стала матір'ю} цілої раси смачних золотих кошенят.</DreadedBaby56.description>
   <!-- EN: dreaded baby -->
@@ -665,7 +665,7 @@
   <!-- EN: glitterworld kid -->
   <GlitterworldKid85.title>дитя світу-раю</GlitterworldKid85.title>
   <!-- EN: glitterkid -->
-  <GlitterworldKid85.titleShort>блискодитя</GlitterworldKid85.titleShort>
+  <GlitterworldKid85.titleShort>дитя раю</GlitterworldKid85.titleShort>
   <!-- EN: [PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture. -->
   <GlitterworldNerd20.description>[PAWN_nameDef] {PAWN_gender ? любив : любила} техніку з самого народження. {PAWN_gender ? У нього : У неї} був механоїд-компаньйон, якого [PAWN_pronoun] весь час {PAWN_gender ? намагався : намагалася} модифікувати.\n\nЧерез одержимість технікою [PAWN_pronoun] так і не {PAWN_gender ? навчився : навчилася} цінувати мистецтво й культуру.</GlitterworldNerd20.description>
   <!-- EN: glitterworld nerd -->
@@ -675,9 +675,9 @@
   <!-- EN: [PAWN_nameDef] grew up in a glitterworld royal household. [PAWN_pronoun] was groomed from a young age to marry into another planet's royal family.\n\nUnfortunately, [PAWN_possessive] crooked teeth made [PAWN_objective] undesirable to suitors, so [PAWN_pronoun] became bitter and resentful. -->
   <GlitterworldRoyal24.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в королівській родині світу-раю. Змалку [PAWN_possessive] готували до шлюбу з кимось із королівської родини іншої планети.\n\nНа жаль, через криві зуби залицяльники {PAWN_gender ? ним : нею} не цікавилися, тож [PAWN_pronoun] {PAWN_gender ? озлобився й затаїв : озлобилася й затаїла} образу на весь світ.</GlitterworldRoyal24.description>
   <!-- EN: glitterworld royal -->
-  <GlitterworldRoyal24.title>дворян з світу-раю</GlitterworldRoyal24.title>
+  <GlitterworldRoyal24.title>аристократ зі світу-раю</GlitterworldRoyal24.title>
   <!-- EN: royalty -->
-  <GlitterworldRoyal24.titleShort>дворян</GlitterworldRoyal24.titleShort>
+  <GlitterworldRoyal24.titleShort>аристократ</GlitterworldRoyal24.titleShort>
   <!-- EN: [PAWN_nameDef] was engineered in a lab as part of the G-nome Project. [PAWN_pronoun] was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.\n\nThe G-nome scientists nicknamed [PAWN_objective] [PAWN_nameDef] and occupied [PAWN_objective] with sculpting. [PAWN_pronoun] developed a love of sculpting gnomes and gnome accessories. -->
   <GNomeSculptor34.description>[PAWN_nameDef] {PAWN_gender ? був створений : була створена} в лабораторії в межах проєкту «Г-ном». Ще при народженні [PAWN_objective] імплантували енциклопедичні знання з усіх галузей ксенобіології.\n\nНауковці «Г-ному» прозвали [PAWN_possessive] [PAWN_nameDef] і, щоб чимось зайняти, привчили до скульптури. [PAWN_pronoun] {PAWN_gender ? захопився : захопилася} ліпленням гномів і гномівських аксесуарів.</GNomeSculptor34.description>
   <!-- EN: g-nome sculptor -->
@@ -717,13 +717,13 @@
   <!-- EN: Due to [PAWN_possessive] affinity for technology and desire to help others, [PAWN_nameDef] jumped at the chance to take a job at a help desk.\n\nUnfortunately, the job's soul-crushing after-effects lasted longer than [PAWN_possessive] enthusiasm. -->
   <HelpDeskWorker31.description>Завдяки потягу до технологій і бажанню допомагати іншим [PAWN_nameDef] без вагань {PAWN_gender ? погодився : погодилася} на роботу в службі підтримки.\n\nНа жаль, ця робота нищила душу, і її наслідки відчувалися ще довго після того, як згас [PAWN_possessive] ентузіазм.</HelpDeskWorker31.description>
   <!-- EN: help desk worker -->
-  <HelpDeskWorker31.title>оператор службі підтримки</HelpDeskWorker31.title>
+  <HelpDeskWorker31.title>оператор служби підтримки</HelpDeskWorker31.title>
   <!-- EN: help desk -->
   <HelpDeskWorker31.titleShort>оператор</HelpDeskWorker31.titleShort>
   <!-- EN: [PAWN_nameDef] crafted sculptures from spent hex-cells and traded them to a local museum for food.\n\nAfter [PAWN_possessive] popularity grew, [PAWN_pronoun] was approached by a pirate and abducted. The pirate kept [PAWN_objective] prisoner and forced [PAWN_objective] to create sculptures for sale. -->
   <HexCellArtist91.description>[PAWN_nameDef] {PAWN_gender ? створював : створювала} скульптури з відпрацьованих шестигранних елементів живлення й {PAWN_gender ? обмінював : обмінювала} їх у місцевому музеї на їжу.\n\nКоли [PAWN_possessive] слава зросла, [PAWN_possessive] вистежив і викрав пірат. Він тримав [PAWN_possessive] у полоні й змушував виготовляти скульптури на продаж.</HexCellArtist91.description>
   <!-- EN: hex-cell artist -->
-  <HexCellArtist91.title>шестикутний скульптор</HexCellArtist91.title>
+  <HexCellArtist91.title>скульптор із батарейок</HexCellArtist91.title>
   <!-- EN: artist -->
   <HexCellArtist91.titleShort>скульптор</HexCellArtist91.titleShort>
   <!-- EN: [PAWN_nameDef] was born as low-ranking royalty in a large imperial family.\n\n[PAWN_pronoun] was placed In charge of running [PAWN_possessive] home planet from an early age, and learned important political and cultural skills in that role. -->
@@ -777,9 +777,9 @@
   <!-- EN: [PAWN_nameDef] grew up on the streets of a world in the early stages of its industrial revolution. [PAWN_pronoun] passed [PAWN_possessive] days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty. -->
   <IndworldUrchin73.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} на вулицях світу, що переживав початок промислової революції. Дні минали в крадіжках, жебракуванні й майструванні чогось із викинутих уламків машин, а [PAWN_pronoun] постійно {PAWN_gender ? шукав : шукала} спосіб вирватися зі злиднів.</IndworldUrchin73.description>
   <!-- EN: indworld urchin -->
-  <IndworldUrchin73.title>промисловий їжак</IndworldUrchin73.title>
+  <IndworldUrchin73.title>безпритульний з промислового світу</IndworldUrchin73.title>
   <!-- EN: urchin -->
-  <IndworldUrchin73.titleShort>їжак</IndworldUrchin73.titleShort>
+  <IndworldUrchin73.titleShort>безпритульний</IndworldUrchin73.titleShort>
   <!-- EN: [PAWN_nameDef] was raised on a world wracked by war.\n\nAt an early age, [PAWN_pronoun] was shown how to use guns and cruelty to project [PAWN_possessive] will. [PAWN_pronoun] later distinguished [PAWN_objective]self by committing atrocities with more enthusiasm than anyone else. -->
   <Infantry99.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} у світі, роздираному війною.\n\nЗмалку [PAWN_possessive] вчили нав'язувати свою волю за допомогою зброї та жорстокості. Згодом [PAWN_pronoun] {PAWN_gender ? відзначився : відзначилася} тим, що {PAWN_gender ? чинив : чинила} звірства з більшим запалом, ніж будь-хто інший.</Infantry99.description>
   <!-- EN: infantry -->
@@ -789,7 +789,7 @@
   <!-- EN: [PAWN_nameDef]'s wealthy parents provided everything [PAWN_pronoun] ever wanted. After discovering joywires, [PAWN_pronoun] became obsessed. Once [PAWN_possessive] parents realized what happened, they cut [PAWN_objective] off.\n\nUncaring and often violent, [PAWN_pronoun] sought [PAWN_possessive] next joywire fix by any means possible. -->
   <JoywireAddict76.description>Заможні батьки давали [PAWN_objective] усе, чого [PAWN_pronoun] тільки {PAWN_gender ? хотів : хотіла}. Спробувавши чип щастя, [PAWN_nameDef] {PAWN_gender ? став одержимим : стала одержимою} ним. Коли батьки зрозуміли, що сталося, то перестали {PAWN_gender ? його : її} утримувати.\n\n{PAWN_gender ? Байдужий до всього й часто агресивний : Байдужа до всього й часто агресивна}, [PAWN_pronoun] будь-що {PAWN_gender ? шукав : шукала} нового сеансу чипа щастя.</JoywireAddict76.description>
   <!-- EN: joywire addict -->
-  <JoywireAddict76.title>залежний від чипу щастя</JoywireAddict76.title>
+  <JoywireAddict76.title>залежний від чипа щастя</JoywireAddict76.title>
   <!-- EN: addict -->
   <JoywireAddict76.titleShort>залежний</JoywireAddict76.titleShort>
   <!-- EN: [PAWN_nameDef] was abandoned as a newborn, and grew up among the animals of [PAWN_possessive] homeworld's dense jungles.\n\nWhen [PAWN_pronoun] was a teenager, a traveling doctor found [PAWN_objective] injured near a road, hissing and meowing. [PAWN_pronoun] rescued [PAWN_objective] and took [PAWN_objective] on as an apprentice. -->
@@ -1169,7 +1169,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: [PAWN_nameDef] was a faithful student, and was dedicated to learning anything and everything [PAWN_pronoun] could about humanity and its creations.\n\nWhile [PAWN_pronoun] was shunned as a nerd, [PAWN_pronoun] didn't mind. [PAWN_pronoun] hoped for a brighter future. -->
   <ProdigalStudent67.description>[PAWN_nameDef] {PAWN_gender ? був старанним учнем : була старанною ученицею} й {PAWN_gender ? прагнув : прагнула} дізнатися все можливе про людство та його творіння.\n\nХоча інші цуралися [PAWN_possessive], вважаючи заучкою, [PAWN_pronoun] не {PAWN_gender ? зважав : зважала} на це. [PAWN_pronoun] {PAWN_gender ? сподівався : сподівалася} на світліше майбутнє.</ProdigalStudent67.description>
   <!-- EN: prodigal student -->
-  <ProdigalStudent67.title>надмірний учень</ProdigalStudent67.title>
+  <ProdigalStudent67.title>обдарований учень</ProdigalStudent67.title>
   <!-- EN: student -->
   <ProdigalStudent67.titleShort>учень</ProdigalStudent67.titleShort>
   <!-- EN: [PAWN_nameDef] was obsessed with video games since [PAWN_possessive] hands were big enough to grip a joystick.\n\n[PAWN_pronoun] achieved middling finishes in several local tournaments during the 16-bit era. Nobody noticed when [PAWN_pronoun] retired early in [PAWN_possessive] teenage years. -->
@@ -1325,7 +1325,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: Freya was born into a small, poor family. She was bullied relentlessly, beaten and hated. As she grew up she developed an   interest in guns. She usually studied from books, but occasionally managed to get some practice time with the real thing. Freya later   discovered a talent for art and began to teach herself how to draw and paint. -->
   <ShunnedGirl30.description>Фрея народилася в маленькій бідній родині. З неї безжально знущалися, били її й ненавиділи. Підростаючи, вона зацікавилася зброєю. Здебільшого вона вчилася з книжок, але часом їй вдавалося попрактикуватися зі справжньою зброєю. Згодом Фрея відкрила в собі хист до мистецтва й почала самотужки вчитися малювати олівцем і фарбами.</ShunnedGirl30.description>
   <!-- EN: shunned girl -->
-  <ShunnedGirl30.title>зацькований хлопчик</ShunnedGirl30.title>
+  <ShunnedGirl30.title>зацькована дівчина</ShunnedGirl30.title>
   <!-- EN: shunned -->
   <ShunnedGirl30.titleShort>зацькований</ShunnedGirl30.titleShort>
   <!-- EN: It is not uncommon for a sickly child to be cast away. What is uncommon is for that child to survive and even thrive with such a weak body.\n\nUsing [PAWN_possessive] quick wit and silver tongue, [PAWN_nameDef] was able to get out of almost any situation - most of the time at the cost others around him. -->
@@ -1343,9 +1343,9 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: [PAWN_nameDef] grew up in an isolated midworld village, surrounded by opticows and countryside.\n\n[PAWN_possessive] parents taught [PAWN_objective] a wide range of useful domestic skills, but a peaceful and secure childhood left [PAWN_objective] with little understanding of the harder parts of life. -->
   <SmallTownKid41.description>[PAWN_nameDef] {PAWN_gender ? ріс : росла} у глухому селі в середньому світі, серед оптикорів і сільських краєвидів.\n\nБатьки навчили [PAWN_possessive] безлічі корисних побутових навичок, але мирне й безпечне дитинство майже не дало [PAWN_objective] уявлення про суворіші сторони життя.</SmallTownKid41.description>
   <!-- EN: small town kid -->
-  <SmallTownKid41.title>дитя малого села</SmallTownKid41.title>
+  <SmallTownKid41.title>дитя з маленького села</SmallTownKid41.title>
   <!-- EN: town kid -->
-  <SmallTownKid41.titleShort>селян</SmallTownKid41.titleShort>
+  <SmallTownKid41.titleShort>сільське дитя</SmallTownKid41.titleShort>
   <!-- EN: [PAWN_nameDef]'s family never fit in. They were oddballs who couldn't conform to their regimented society. Because of this, they were forced into cryptosleep and sent to different rimworlds, never to see each other again. -->
   <SocialPariah3.description>[PAWN_nameDef] і {PAWN_gender ? його : її} рідні ніколи не вписувалися в оточення. Вони були диваками, що не могли пристосуватися до свого регламентованого суспільства. Через це їх примусово занурили в криптосон і розіслали на різні прикордонні світи, щоб вони більше ніколи не побачили одне одного.</SocialPariah3.description>
   <!-- EN: social pariah -->
@@ -1487,9 +1487,9 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: Growing up on an industrial midworld where robberies and muggings weren't uncommon, [PAWN_nameDef] helped support [PAWN_possessive] family by making small trinkets and novelties to sell to passers-by.\n\n[PAWN_pronoun] learned early on that it wasn't always what [PAWN_pronoun] knew, but who [PAWN_pronoun] knew that would get [PAWN_objective] far in life. -->
   <StreetPeddler66.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в промисловому середньому світі, де пограбування й вуличні напади були звичною справою, і {PAWN_gender ? допомагав : допомагала} утримувати родину, майструючи дрібнички й сувеніри на продаж перехожим.\n\n[PAWN_pronoun] рано {PAWN_gender ? зрозумів : зрозуміла}, що далеко в житті заведуть не так знання, як знайомства.</StreetPeddler66.description>
   <!-- EN: street peddler -->
-  <StreetPeddler66.title>вуличний пліткар</StreetPeddler66.title>
+  <StreetPeddler66.title>вуличний торговець</StreetPeddler66.title>
   <!-- EN: peddler -->
-  <StreetPeddler66.titleShort>пліткар</StreetPeddler66.titleShort>
+  <StreetPeddler66.titleShort>торговець</StreetPeddler66.titleShort>
   <!-- EN: Born to a poor family, [PAWN_nameDef] was a sickly child who never quite developed the strength of [PAWN_possessive] siblings.\n\n[PAWN_possessive] parents, unable to afford to provide for [PAWN_objective] and certain [PAWN_pronoun] couldn't pay [PAWN_possessive] own way, threw [PAWN_objective] to the streets. [PAWN_pronoun] learned hard and fast how to survive by any means necessary. -->
   <StreetUrchin45.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в бідній родині й {PAWN_gender ? ріс : росла} хворобливою дитиною, яка так і не стала такою ж міцною, як брати й сестри.\n\nБатьки не мали змоги утримувати [PAWN_possessive] і, певні, що [PAWN_pronoun] ніколи не зможе себе прогодувати, викинули [PAWN_possessive] на вулицю. [PAWN_pronoun] швидко й болісно {PAWN_gender ? навчився : навчилася} виживати будь-якою ціною.</StreetUrchin45.description>
   <!-- EN: street urchin -->
@@ -1595,7 +1595,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: [PAWN_nameDef] grew up on a medieval world. [PAWN_pronoun] learned the basics of alchemy and medicine in one the few monastic schools on [PAWN_possessive] planet. -->
   <TraineeAlchemist64.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} в середньовічному світі. Основ алхімії та медицини [PAWN_pronoun] {PAWN_gender ? навчився : навчилася} в одній із небагатьох монастирських шкіл на своїй планеті.</TraineeAlchemist64.description>
   <!-- EN: trainee alchemist -->
-  <TraineeAlchemist64.title>алхімік стажист</TraineeAlchemist64.title>
+  <TraineeAlchemist64.title>алхімік-стажист</TraineeAlchemist64.title>
   <!-- EN: alchemist -->
   <TraineeAlchemist64.titleShort>алхімік</TraineeAlchemist64.titleShort>
   <!-- EN: A midworld child, [PAWN_nameDef]'s wealthy parents sent [PAWN_objective] to a nearby glitterworld to receive a better education.\n\n[PAWN_nameDef] was a talented student. However, due to [PAWN_possessive] family's wealth, [PAWN_pronoun] never had to do dumb labor. -->
@@ -1625,7 +1625,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: [PAWN_nameDef] had a privileged childhood on a major urbworld. Living in an apartment far above the dense poverty of the city, [PAWN_pronoun] spent most of [PAWN_possessive] time reading or drawing the cityscape [PAWN_pronoun] saw through [PAWN_possessive] window. -->
   <UpperUrbworlder12.description>[PAWN_nameDef] {PAWN_gender ? мав : мала} привілейоване дитинство у великому урбанізованому світі. Живучи в квартирі високо над тісними злиденними кварталами міста, [PAWN_pronoun] здебільшого {PAWN_gender ? читав : читала} або {PAWN_gender ? малював : малювала} міський краєвид, що відкривався з вікна.</UpperUrbworlder12.description>
   <!-- EN: upper urbworlder -->
-  <UpperUrbworlder12.title>привілейований містян</UpperUrbworlder12.title>
+  <UpperUrbworlder12.title>привілейований містянин</UpperUrbworlder12.title>
   <!-- EN: high urber -->
   <UpperUrbworlder12.titleShort>привілейований</UpperUrbworlder12.titleShort>
   <!-- EN: [PAWN_nameDef] grew up on an urbworld military base. [PAWN_pronoun] was too young to fight, but [PAWN_pronoun] learned to make [PAWN_objective]self useful in other ways.\n\n[PAWN_pronoun] became familiar with guns and military equipment, but never really got in touch with the natural world. -->
@@ -1703,7 +1703,7 @@ One of the best, [PAWN_nameDef] was eventually chosen to enter the orbital-deplo
   <!-- EN: [PAWN_nameDef]'s hobby was making videos for the popular video sharing service Vidtube. [PAWN_pronoun] made everything from video game reviews to pasta cooking guides.\n\n[PAWN_pronoun] gained over a million followers. -->
   <VidtubeStar98.description>[PAWN_nameDef] {PAWN_gender ? захоплювався : захоплювалася} зйомкою відео для популярного відеосервісу «Відтуб». [PAWN_pronoun] {PAWN_gender ? знімав : знімала} все – від оглядів відеоігор до інструкцій із приготування пасти.\n\n[PAWN_pronoun] {PAWN_gender ? набрав : набрала} понад мільйон підписників.</VidtubeStar98.description>
   <!-- EN: vidtube star -->
-  <VidtubeStar98.title>зірка Vidtube</VidtubeStar98.title>
+  <VidtubeStar98.title>зірка «Відтубу»</VidtubeStar98.title>
   <!-- EN: vidtuber -->
   <VidtubeStar98.titleShort>відтубер</VidtubeStar98.titleShort>
   <!-- EN: [PAWN_nameDef] was raised on an R&D starship, and spent most of [PAWN_possessive] childhood travelling through the void.\n\nApproaching a mysterious planetoid, the ship was severely damaged. [PAWN_possessive] next memory is of the ship heading out of orbit, fully repaired. [PAWN_pronoun] soon developed an unnatural gift for technological research. -->

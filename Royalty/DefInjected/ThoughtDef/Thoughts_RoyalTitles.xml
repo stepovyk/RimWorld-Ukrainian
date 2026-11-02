@@ -9,11 +9,11 @@
   <!-- EN: I lost my {TITLE} title. -->
   <LostTitle.stages.Lost_title.description>Я {PAWN_gender ? втратив : втратила} свій титул {lookup: {TITLE}; Case; 1}.</LostTitle.stages.Lost_title.description>
   <!-- EN: want {TITLE_label}-quality apparel -->
-  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>невідповідний, для {lookup: {TITLE_label}; Case; 1}, одяг</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>бракує одягу, гідного {lookup: {TITLE_label}; Case; 1}</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
   <!-- EN: {TITLE_indefinite} like myself should only wear apparel of {QUALITY} quality or better. -->
   <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>Я {TITLE_indefinite}, тож маю носити лише одяг щонайменше якості «{QUALITY}».</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
   <!-- EN: want {TITLE_label}-specific apparel -->
-  <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>невідповідний, для {lookup: {TITLE_label}; Case; 1}, одяг</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>бракує одягу, потрібного {lookup: {TITLE_label}; Case; 2}</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
   <!-- EN: {TITLE_indefinite} like myself should be covered in apparel appropriate to my stature:\n\n{0} -->
   <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>Я {TITLE_indefinite}, тож маю носити одяг, гідний мого становища:\n\n{0}</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
   <!-- EN: undignified bedroom -->

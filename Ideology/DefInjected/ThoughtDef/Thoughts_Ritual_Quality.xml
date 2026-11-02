@@ -33,7 +33,7 @@
   <!-- EN: That scarification lacked passion and the technique wasn't great. -->
   <BoringScarification.stages.boring_scarification.description>Шрамуванню бракувало пристрасті, та й техніка була так собі.</BoringScarification.stages.boring_scarification.description>
   <!-- EN: effective conversion -->
-  <EffectiveConversion.stages.effective_conversion.label>вдала промова</EffectiveConversion.stages.effective_conversion.label>
+  <EffectiveConversion.stages.effective_conversion.label>вдале навернення</EffectiveConversion.stages.effective_conversion.label>
   <!-- EN: That conversion ritual went well. The speech was stirring and enjoyable to listen to. -->
   <EffectiveConversion.stages.effective_conversion.description>Ритуал навернення вдався. Промова була зворушлива, її приємно було слухати.</EffectiveConversion.stages.effective_conversion.description>
   <!-- EN: fun festival -->
@@ -57,11 +57,11 @@
   <!-- EN: That funeral went perfectly - it brought up a lot of good memories and showed us a path forward. -->
   <HeartwarmingFuneral.stages.heartwarming_funeral.description>Похорон пройшов ідеально – навіяв багато добрих спогадів і показав нам, як жити далі.</HeartwarmingFuneral.stages.heartwarming_funeral.description>
   <!-- EN: lackluster funeral -->
-  <LacklusterFuneral.stages.lackluster_funeral.label>сумний похорон</LacklusterFuneral.stages.lackluster_funeral.label>
+  <LacklusterFuneral.stages.lackluster_funeral.label>невиразний похорон</LacklusterFuneral.stages.lackluster_funeral.label>
   <!-- EN: That funeral was really uninspired and didn't resolve anything. -->
   <LacklusterFuneral.stages.lackluster_funeral.description>Похорон був зовсім безбарвний і нічого не розв'язав.</LacklusterFuneral.stages.lackluster_funeral.description>
   <!-- EN: masterful conversion -->
-  <MasterfulConversion.stages.masterful_conversion.label>майстерна конвертація</MasterfulConversion.stages.masterful_conversion.label>
+  <MasterfulConversion.stages.masterful_conversion.label>майстерне навернення</MasterfulConversion.stages.masterful_conversion.label>
   <!-- EN: Masterful! Old beliefs were left in tatters, and our true knowledge was accepted without a shadow of a doubt. -->
   <MasterfulConversion.stages.masterful_conversion.description>Майстерно! Від старих переконань не лишилося каменя на камені, а наше справжнє знання прийняли без тіні сумніву.</MasterfulConversion.stages.masterful_conversion.description>
   <!-- EN: satisfying blinding -->

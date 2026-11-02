@@ -47,15 +47,15 @@
   <!-- EN: A multiplier on how fast a mechanoid consumes its energy reserves while operating. -->
   <MechEnergyUsageFactor.description>Множник швидкості, з якою механоїд витрачає запас енергії під час роботи.</MechEnergyUsageFactor.description>
   <!-- EN: mech gestation speed -->
-  <MechFormingSpeed.label>швидкість зрощування механоїдів</MechFormingSpeed.label>
+  <MechFormingSpeed.label>швидкість вирощування механоїдів</MechFormingSpeed.label>
   <!-- EN: A multiplier on the speed at which this mechanitor can form new mechanoids at a gestator. -->
   <MechFormingSpeed.description>Множник швидкості, з якою цей механітор вирощує нових механоїдів у гестаторі.</MechFormingSpeed.description>
   <!-- EN: mech remote repair distance -->
-  <MechRemoteRepairDistance.label>дистанція ремонту</MechRemoteRepairDistance.label>
+  <MechRemoteRepairDistance.label>дальність дистанційного ремонту</MechRemoteRepairDistance.label>
   <!-- EN: How far away a mech can be during remote repair. -->
   <MechRemoteRepairDistance.description>На якій відстані може перебувати механоїд під час дистанційного ремонту.</MechRemoteRepairDistance.description>
   <!-- EN: mech remote shield distance -->
-  <MechRemoteShieldDistance.label>дистанція щиту</MechRemoteShieldDistance.label>
+  <MechRemoteShieldDistance.label>дальність дистанційного щита</MechRemoteShieldDistance.label>
   <!-- EN: The maximum range at which a mechanitor can place a shield on a mechanoid. -->
   <MechRemoteShieldDistance.description>Максимальна відстань, на якій механітор може накласти щит на механоїда.</MechRemoteShieldDistance.description>
   <!-- EN: mech remote shield energy -->

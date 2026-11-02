@@ -9,7 +9,7 @@
   <!-- EN: Making baby food. -->
   <Make_BabyFood.jobString>Готує дитячу страву.</Make_BabyFood.jobString>
   <!-- EN: make baby food x4 -->
-  <Make_BabyFoodBulk.label>приготувати дитячу страву x4</Make_BabyFoodBulk.label>
+  <Make_BabyFoodBulk.label>приготувати дитячу страву ×4</Make_BabyFoodBulk.label>
   <!-- EN: Make bulk baby food, a nutritionally balanced vegetarian mash for babies. While easy to make in large quantities, only babies appreciate its bland taste and mushy texture. -->
   <Make_BabyFoodBulk.description>Приготувати велику порцію дитячої страви – поживного вегетаріанського пюре для немовлят. Його легко готувати великими порціями, але прісний смак і кашоподібну консистенцію цінують лише немовлята.</Make_BabyFoodBulk.description>
   <!-- EN: vegetarian ingredients -->

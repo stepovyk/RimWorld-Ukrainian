@@ -35,7 +35,7 @@
   <!-- EN: Use the metalblood heart to release metalblood serum into the bloodstream, reducing incoming damage for a short period of time. -->
   <MetalbloodInjection.description>Серце залізної крові впорскує в кровотік сироватку залізної крові, що ненадовго зменшує отримувану шкоду.</MetalbloodInjection.description>
   <!-- EN: psychic slaughter -->
-  <PsychicSlaughter.label>психічне нарізання</PsychicSlaughter.label>
+  <PsychicSlaughter.label>психічна різанина</PsychicSlaughter.label>
   <!-- EN: Use dark psychic power to induce chaotic reconfiguration of flesh. This kills a flesh creature in seconds and converts its body into a pile of twisted flesh. -->
   <PsychicSlaughter.description>Темна психічна сила спричиняє хаотичну перебудову плоті. Це за лічені секунди вбиває живу істоту й перетворює її тіло на купу покрученої плоті.</PsychicSlaughter.description>
   <!-- EN: release deadlife dust -->

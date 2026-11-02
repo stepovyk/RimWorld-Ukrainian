@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: ancient comms console -->
-  <AncientCommsConsole.label>старовинна консоль зв'язку</AncientCommsConsole.label>
+  <AncientCommsConsole.label>старовинний термінал зв'язку</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientCommsConsole.description>Старовинна консоль з антеною зв'язку. Цінних деталей бракує, а решта зносилася до повної непридатності.</AncientCommsConsole.description>
+  <AncientCommsConsole.description>Старовинний термінал із супутниковою антеною. Цінних деталей бракує, а решта зносилася до повної непридатності.</AncientCommsConsole.description>
   <!-- EN: Hack to access ancient supply satellite. -->
   <AncientCommsConsole.comps.CompHackable.notHackedInspectString>Зламайте, щоб отримати доступ до старовинного супутника постачання.</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
   <!-- EN: ancient enemy terminal -->

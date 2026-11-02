@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: bliss lobotomy -->
-  <BlissLobotomy.label>провести лоботомію</BlissLobotomy.label>
+  <BlissLobotomy.label>провести блаженну лоботомію</BlissLobotomy.label>
   <!-- EN: Remove part of a person's brain, placing them in a state of bliss while rendering them incapable of intellectual and skilled labor. They will also learn more slowly, and be less likely to rebel or attempt a prison break. -->
   <BlissLobotomy.description>Видалити частину мозку людини: вона поринає в блаженство, але стає нездатною до інтелектуальної та кваліфікованої праці. Також вона повільніше навчатиметься й рідше бунтуватиме чи намагатиметься втекти з в'язниці.</BlissLobotomy.description>
   <!-- EN: Lobotomizing TargetA. -->

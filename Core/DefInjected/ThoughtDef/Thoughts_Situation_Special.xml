@@ -9,7 +9,7 @@
   <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
   <ColonistLeftUnburied.stages.colonist_left_unburied.description>Один із нас помер, а ми просто кинули тіло просто неба. Так не можна ні з ким. Люди заслуговують на гідне поховання.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
   <!-- EN: minor passion for my work -->
-  <DoingPassionateWork.stages.minor_passion_for_my_work.label>робота с запалом</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>робота із запалом</DoingPassionateWork.stages.minor_passion_for_my_work.label>
   <!-- EN: I enjoy my work. -->
   <DoingPassionateWork.stages.minor_passion_for_my_work.description>Мені подобається те, що я роблю.</DoingPassionateWork.stages.minor_passion_for_my_work.description>
   <!-- EN: burning passion for my work -->
@@ -65,9 +65,9 @@
   <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
   <PsychicDrone.stages.extreme_psychic_drone.description>Серце калатає, мене заливає піт. Тільки й думаю про біль, страждання й ворогів довкола. Вони – мій кошмар, мій кошмар, мій кошмар...</PsychicDrone.stages.extreme_psychic_drone.description>
   <!-- EN: psychic emanator soothe -->
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>пси-випромінювач</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>психічний випромінювач</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
   <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>Від пси-випромінювача мені дивно, але водночас дуже спокійно.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>Від психічного випромінювача мені дивно, але водночас дуже спокійно.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
   <!-- EN: rot stink -->
   <RotStink.stages.rot_stink.label>трупний сморід</RotStink.stages.rot_stink.label>
   <!-- EN: A rotten stink invades my nostrils and sticks to my skin. It makes me sick. -->

@@ -165,7 +165,7 @@
   <!-- EN: The shifting terrain has fallen into the depths below, forming a massive hole.\n\nThis pit gate will remain open until you collapse its entrance. Explore the pit gate to find a way to collapse it from underneath and to find useful items in the undercaves. -->
   <PitGateSpawner.building.groundSpawnerLetterText>Зсунутий ґрунт провалився в глибину, утворивши величезну яму.\n\nКотлован лишатиметься відкритим, доки ви не обвалите вхід. Дослідіть котлован, щоб знайти спосіб обвалити його знизу, і пошукайте корисні предмети в підземеллях.</PitGateSpawner.building.groundSpawnerLetterText>
   <!-- EN: proximity detector -->
-  <ProximityDetector.label>детектор руху</ProximityDetector.label>
+  <ProximityDetector.label>детектор наближення</ProximityDetector.label>
   <!-- EN: A scanner capable of detecting invisible creatures. The device raises an alarm when it detects the presence of psychically invisible biosignatures within its radius. -->
   <ProximityDetector.description>Сканер, що виявляє невидимих істот. Пристрій здіймає тривогу, коли помічає в радіусі дії психічно невидимі біосигнатури.</ProximityDetector.description>
   <!-- EN: sand cube sculpture -->

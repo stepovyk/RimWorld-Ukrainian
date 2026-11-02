@@ -23,7 +23,7 @@
   <!-- EN: divorced me -->
   <DivorcedMe.stages.divorced_me.label>{1_gender ? розлучився : розлучилася} зі мною</DivorcedMe.stages.divorced_me.label>
   <!-- EN: divorced by {0} -->
-  <DivorcedMeMood.stages.divorced_by.label>розлука з {0}</DivorcedMeMood.stages.divorced_by.label>
+  <DivorcedMeMood.stages.divorced_by.label>розлучення з {0}</DivorcedMeMood.stages.divorced_by.label>
   <!-- EN: We made a commitment, and they just tore it apart. -->
   <DivorcedMeMood.stages.divorced_by.description>Ми дали одне одному обіцянку, а {OTHERPAWN_gender ? він просто її розтоптав : вона просто її розтоптала}.</DivorcedMeMood.stages.divorced_by.description>
   <!-- EN: failed to romance me -->
@@ -63,7 +63,7 @@
   <!-- EN: I've been directly insulted! What an awful person! -->
   <InsultedMood.stages.insulted.description>Мене образили просто в обличчя! Яка жахлива людина!</InsultedMood.stages.insulted.description>
   <!-- EN: I rejected their proposal -->
-  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>Я {PAWN_gender ? відхилив : відхилила} {1_gender ? його : її} пропозицію</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>відмова на {1_gender ? його : її} пропозицію</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
   <!-- EN: killed my bonded animal -->
   <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>{1_gender ? вбив : вбила} мого домашнього улюбленця</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
   <!-- EN: killed my brother -->
@@ -115,7 +115,7 @@
   <!-- EN: rescued me -->
   <RescuedMe.stages.rescued_me.label>{1_gender ? врятував : врятувала} мене</RescuedMe.stages.rescued_me.label>
   <!-- EN: rescued me -->
-  <RescuedMeByOfferingHelp.stages.rescued_me.label>врятував мене</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>{1_gender ? врятував : врятувала} мене</RescuedMeByOfferingHelp.stages.rescued_me.label>
   <!-- EN: I was rescued by someone! I almost thought I was done for back there. I'm so thankful. -->
   <RescuedMeByOfferingHelp.stages.rescued_me.description>Мене хтось урятував! Я вже {PAWN_gender ? думав : думала}, що мені там кінець. Я неймовірно {PAWN_gender ? вдячний : вдячна}!</RescuedMeByOfferingHelp.stages.rescued_me.description>
   <!-- EN: slighted -->

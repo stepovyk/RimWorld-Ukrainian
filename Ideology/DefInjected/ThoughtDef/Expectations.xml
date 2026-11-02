@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: destitute slave expectations -->
-  <ExpectationsSlave.stages.destitute_slave_expectations.label>відчайдушні очікування раба</ExpectationsSlave.stages.destitute_slave_expectations.label>
+  <ExpectationsSlave.stages.destitute_slave_expectations.label>вкрай низькі очікування раба</ExpectationsSlave.stages.destitute_slave_expectations.label>
   <!-- EN: I'm a slave of a destitute group. I expect nothing. -->
   <ExpectationsSlave.stages.destitute_slave_expectations.description>Я {PAWN_gender ? раб : рабиня} у злиденних господарів. Ні на що не сподіваюся.</ExpectationsSlave.stages.destitute_slave_expectations.description>
   <!-- EN: poor slave expectations -->

@@ -21,7 +21,7 @@
   <!-- EN: Call a group of 4 light troopers to aid you in battle. -->
   <CallMilitaryAidSmall.description>Викликати 4 легких піхотинців на допомогу в бою.</CallMilitaryAidSmall.description>
   <!-- EN: call aerodrone salvo -->
-  <CallOrbitalSalvo.label>викликати залп з повітряного дрона</CallOrbitalSalvo.label>
+  <CallOrbitalSalvo.label>викликати залп повітряних дронів</CallOrbitalSalvo.label>
   <!-- EN: Call a salvo of aerodrone strikes around a target position. -->
   <CallOrbitalSalvo.description>Викликати серію ударів повітряних дронів навколо вказаної точки.</CallOrbitalSalvo.description>
   <!-- EN: call aerodrone strike -->

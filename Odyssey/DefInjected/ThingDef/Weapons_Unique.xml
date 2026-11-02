@@ -61,7 +61,7 @@
   <!-- EN: unique beam repeater -->
   <Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>унікальна променева помпова рушниця</Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>
   <!-- EN: unique bolt-action rifle -->
-  <Gun_BoltActionRifle_Unique.label>унікальна гвинтівка з ковзним затвором</Gun_BoltActionRifle_Unique.label>
+  <Gun_BoltActionRifle_Unique.label>унікальна гвинтівка</Gun_BoltActionRifle_Unique.label>
   <!-- EN: A bolt-action rifle with customized parts. -->
   <Gun_BoltActionRifle_Unique.description>Гвинтівка з модифікованими деталями.</Gun_BoltActionRifle_Unique.description>
   <!-- EN: charge -->
@@ -85,7 +85,7 @@
   <!-- EN: barrel -->
   <Gun_BoltActionRifle_Unique.tools.barrel.label>ствол</Gun_BoltActionRifle_Unique.tools.barrel.label>
   <!-- EN: unique bolt-action rifle -->
-  <Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>унікальна гвинтівка з ковзним затвором</Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>унікальна гвинтівка</Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>
   <!-- EN: unique chain shotgun -->
   <Gun_ChainShotgun_Unique.label>унікальний автоматичний дробовик</Gun_ChainShotgun_Unique.label>
   <!-- EN: A chain shotgun with customized parts. -->
@@ -165,7 +165,7 @@
   <!-- EN: unique heavy SMG -->
   <Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>унікальний важкий пістолет-кулемет</Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>
   <!-- EN: unique hellcat rifle -->
-  <Gun_HellcatRifle_Unique.label>унікальна пекельна рушниця</Gun_HellcatRifle_Unique.label>
+  <Gun_HellcatRifle_Unique.label>унікальна запальна гвинтівка</Gun_HellcatRifle_Unique.label>
   <!-- EN: A hellcat rifle with customized parts. -->
   <Gun_HellcatRifle_Unique.description>Запальна гвинтівка з модифікованими деталями.</Gun_HellcatRifle_Unique.description>
   <!-- EN: burner charge -->
@@ -189,9 +189,9 @@
   <!-- EN: barrel -->
   <Gun_HellcatRifle_Unique.tools.barrel.label>ствол</Gun_HellcatRifle_Unique.tools.barrel.label>
   <!-- EN: unique hellcat rifle -->
-  <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>унікальна пекельна рушниця</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>унікальна запальна гвинтівка</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
   <!-- EN: unique LMG -->
-  <Gun_LMG_Unique.label>унікальний легкий кулемет</Gun_LMG_Unique.label>
+  <Gun_LMG_Unique.label>унікальний ручний кулемет</Gun_LMG_Unique.label>
   <!-- EN: An LMG with customized parts. -->
   <Gun_LMG_Unique.description>Ручний кулемет з модифікованими деталями.</Gun_LMG_Unique.description>
   <!-- EN: charge -->
@@ -209,9 +209,9 @@
   <!-- EN: barrel -->
   <Gun_LMG_Unique.tools.barrel.label>ствол</Gun_LMG_Unique.tools.barrel.label>
   <!-- EN: unique LMG -->
-  <Gun_LMG_Unique.verbs.Verb_Shoot.label>унікальний легкий кулемет</Gun_LMG_Unique.verbs.Verb_Shoot.label>
+  <Gun_LMG_Unique.verbs.Verb_Shoot.label>унікальний ручний кулемет</Gun_LMG_Unique.verbs.Verb_Shoot.label>
   <!-- EN: unique minigun -->
-  <Gun_Minigun_Unique.label>унікальний мініган</Gun_Minigun_Unique.label>
+  <Gun_Minigun_Unique.label>унікальний мініґан</Gun_Minigun_Unique.label>
   <!-- EN: A minigun with customized parts. -->
   <Gun_Minigun_Unique.description>Мініґан з модифікованими деталями.</Gun_Minigun_Unique.description>
   <!-- EN: charge -->
@@ -227,7 +227,7 @@
   <!-- EN: barrels -->
   <Gun_Minigun_Unique.tools.barrels.label>стволи</Gun_Minigun_Unique.tools.barrels.label>
   <!-- EN: unique minigun -->
-  <Gun_Minigun_Unique.verbs.Verb_Shoot.label>унікальний мініган</Gun_Minigun_Unique.verbs.Verb_Shoot.label>
+  <Gun_Minigun_Unique.verbs.Verb_Shoot.label>унікальний мініґан</Gun_Minigun_Unique.verbs.Verb_Shoot.label>
   <!-- EN: unique revolver -->
   <Gun_Revolver_Unique.label>унікальний револьвер</Gun_Revolver_Unique.label>
   <!-- EN: A revolver with customized parts. -->

@@ -7,7 +7,7 @@
   <!-- EN: fluid reprocessor -->
   <FluidReprocessor.label>рідинний репроцесор</FluidReprocessor.label>
   <!-- EN: sound sensor -->
-  <HearingSensor.label>датчик звуку</HearingSensor.label>
+  <HearingSensor.label>звуковий сенсор</HearingSensor.label>
   <!-- EN: arm -->
   <MechanicalArm.label>рука</MechanicalArm.label>
   <!-- EN: fifth body ring -->
@@ -55,7 +55,7 @@
   <!-- EN: reactor -->
   <Reactor.label>реактор</Reactor.label>
   <!-- EN: visual sensor -->
-  <SightSensor.label>зоровий датчик</SightSensor.label>
+  <SightSensor.label>оптичний сенсор</SightSensor.label>
   <!-- EN: chemical analyzer -->
   <SmellSensor.label>хімічний аналізатор</SmellSensor.label>
 </LanguageData>

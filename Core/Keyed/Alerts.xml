@@ -79,9 +79,9 @@
   <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>Ці колоністи виснажені й потребують відпочинку:\n{0}\n\nДайте їм відпочити. Їм потрібне ліжко, призначене для колоністів. Також переконайтеся, що вони не в бойовому режимі.</ExhaustionDesc>
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Потрібна лійка</NeedFoodHopper>
+  <NeedFoodHopper>Потрібен бункер</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>У вас є дозатор поживної пасти без лійки поруч.\n\nДозатор бере сиру їжу із сусідньої лійки, без неї він не працює.\n\nПоставте лійку впритул до дозатора.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>У вас є дозатор поживної пасти без бункера поруч.\n\nДозатор бере сиру їжу із сусіднього бункера, без неї він не працює.\n\nПоставте бункер впритул до дозатора.</NeedFoodHopperDesc>
   <!-- EN: Need meal source -->
   <NeedMealSource>Ніде готувати їжу</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->

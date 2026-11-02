@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: decree failed -->
-  <DecreeFailed.stages.decree_failed.label>наказ не виконано</DecreeFailed.stages.decree_failed.label>
+  <DecreeFailed.stages.decree_failed.label>указ не виконано</DecreeFailed.stages.decree_failed.label>
   <!-- EN: My noble authority has not been respected as it should be. -->
   <DecreeFailed.stages.decree_failed.description>Мою шляхетну владу не шанують як слід.</DecreeFailed.stages.decree_failed.description>
   <!-- EN: decree satisfied -->
-  <DecreeMet.stages.decree_satisfied.label>наказ виконано</DecreeMet.stages.decree_satisfied.label>
+  <DecreeMet.stages.decree_satisfied.label>указ виконано</DecreeMet.stages.decree_satisfied.label>
   <!-- EN: My noble authority has been respected as it should be. -->
   <DecreeMet.stages.decree_satisfied.description>Мою шляхетну владу вшанували як слід.</DecreeMet.stages.decree_satisfied.description>
   <!-- EN: disinherited -->

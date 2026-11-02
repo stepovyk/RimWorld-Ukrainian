@@ -17,7 +17,7 @@
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
   <ReduceResistance.description>Якщо в'язень ще чинить опір, наглядачі розмовлятимуть з ним, щоб його знизити. Вербувати його не намагатимуться.</ReduceResistance.description>
   <!-- EN: release -->
-  <Release.label>звільнити</Release.label>
+  <Release.label>відпустити</Release.label>
   <!-- EN: A warden will release the prisoner. -->
   <Release.description>Наглядач відпустить в'язня.</Release.description>
 </LanguageData>

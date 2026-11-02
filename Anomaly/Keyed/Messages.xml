@@ -55,7 +55,7 @@
   <MessageHostileDuplicate>З'явився ворожий дублікат {0_nameDef}.</MessageHostileDuplicate>
   <!-- Proximity detector -->
   <!-- EN: A proximity detector has detected an invisible creature. -->
-  <MessageProximityDetectorTriggered>Детектор руху виявив невидиму істоту.</MessageProximityDetectorTriggered>
+  <MessageProximityDetectorTriggered>Детектор наближення виявив невидиму істоту.</MessageProximityDetectorTriggered>
   <!-- Unnatural darkness -->
   <!-- EN: Something in the darkness has attacked {0_nameDef}. -->
   <MessagePawnAttackedInDarkness>Щось у темряві напало на {0_nameDef}.</MessagePawnAttackedInDarkness>
@@ -63,7 +63,7 @@
   <!-- EN: A hidden revenant has been revealed! -->
   <MessageRevenantForcedVisibility>Прихованого ревенанта викрито!</MessageRevenantForcedVisibility>
   <!-- EN: {PAWN_nameDef} can hear the revenant {1} nearby! -->
-  <MessageRevenantHeard>{PAWN_nameDef} чує ревенанта {1} неподалік!</MessageRevenantHeard>
+  <MessageRevenantHeard>{PAWN_nameDef} чує неподалік {1} ревенанта!</MessageRevenantHeard>
   <!-- Abilities -->
   <!-- EN: {ABILITY_label} cannot be used on non-bleeding creatures. -->
   <MessageCannotUseOnNonBleeder>{ABILITY_label}: не можна застосувати до істот, які не кровоточать.</MessageCannotUseOnNonBleeder>

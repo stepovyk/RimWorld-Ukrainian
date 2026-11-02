@@ -63,7 +63,7 @@
   <!-- EN: executed someone -->
   <Execution_Required.comps.7.eventLabel>когось страчено</Execution_Required.comps.7.eventLabel>
   <!-- EN: respected if guilty -->
-  <Execution_RespectedIfGuilty.label>прийнятно, якщо винний</Execution_RespectedIfGuilty.label>
+  <Execution_RespectedIfGuilty.label>поважається, якщо винний</Execution_RespectedIfGuilty.label>
   <!-- EN: Executing prisoners is acceptable. If the prisoner is guilty, it is cause for great happiness. -->
   <Execution_RespectedIfGuilty.description>Страчувати в'язнів прийнятно. А якщо в'язень винний, це велика радість.</Execution_RespectedIfGuilty.description>
   <!-- EN: executed someone -->

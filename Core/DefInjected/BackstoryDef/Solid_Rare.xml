@@ -57,9 +57,9 @@
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood dreaming of becoming a famous artist who could impress people with [PAWN_possessive] creations. -->
   <MateCustomChildhood.description>Більшу частину дитинства [PAWN_nameDef] {PAWN_gender ? мріяв : мріяла} стати знаменитим митцем, чиї творіння вражатимуть людей.</MateCustomChildhood.description>
   <!-- EN: curious kid -->
-  <MateCustomChildhood.title>зацікавлена дитина</MateCustomChildhood.title>
+  <MateCustomChildhood.title>допитлива дитина</MateCustomChildhood.title>
   <!-- EN: curious kid -->
-  <MateCustomChildhood.titleShort>зацікавлена дитина</MateCustomChildhood.titleShort>
+  <MateCustomChildhood.titleShort>допитлива дитина</MateCustomChildhood.titleShort>
   <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
   <NathanCustomAdulthood.description>[PAWN_nameDef] {PAWN_gender ? видовбував : видовбувала} житлові приміщення в схилах пагорбів і гір та {PAWN_gender ? добував : добувала} там мінерали. [PAWN_pronoun] {PAWN_gender ? навчився : навчилася} почуватися як удома, довбаючи скелю та зміцнюючи стіни печер.</NathanCustomAdulthood.description>
   <!-- EN: digger -->

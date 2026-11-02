@@ -15,7 +15,7 @@
   <!-- EN: This alters the quality of a birth when this is used as a birth place. Birth quality affects the chance of the baby being born healthy. -->
   <BirthRitualQualityOffset.description>Змінює якість пологів, якщо народжувати саме тут. Від якості пологів залежить, чи народиться дитина здоровою.</BirthRitualQualityOffset.description>
   <!-- EN: genetic complexity increase -->
-  <GeneticComplexityIncrease.label>підвищення генетичної комплексності</GeneticComplexityIncrease.label>
+  <GeneticComplexityIncrease.label>підвищення генетичної складності</GeneticComplexityIncrease.label>
   <!-- EN: When placed near a gene assembler, this building increases the maximum genetic complexity that can be assembled at once. -->
   <GeneticComplexityIncrease.description>Якщо поставити цю споруду поруч зі збирачем генів, вона збільшує максимальну генетичну складність ксенозародка, який можна зібрати за раз.</GeneticComplexityIncrease.description>
 </LanguageData>

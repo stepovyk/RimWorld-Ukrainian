@@ -19,7 +19,7 @@
   <!-- EN: Smelting metal from slag. -->
   <ExtractMetalFromSlag.jobString>Переплавляє металобрухт.</ExtractMetalFromSlag.jobString>
   <!-- EN: make chemfuel from organics -->
-  <Make_ChemfuelFromOrganics.label>отримати хімічне паливо з органіки</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.label>виготовити хімпаливо з органіки</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
   <Make_ChemfuelFromOrganics.description>Виготовити партію хімпалива, видобувши біопаливо з органічної сировини.</Make_ChemfuelFromOrganics.description>
   <!-- EN: feedstock -->
@@ -27,19 +27,19 @@
   <!-- EN: Refining chemfuel from organics. -->
   <Make_ChemfuelFromOrganics.jobString>Переробляє органіку на хімпаливо.</Make_ChemfuelFromOrganics.jobString>
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>отримати хімічне паливо з деревини</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>виготовити хімпаливо з деревини</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
   <Make_ChemfuelFromWood.description>Виготовити партію хімпалива, видобувши й сконденсувавши деревний газ із колод.</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
   <Make_ChemfuelFromWood.jobString>Переробляє деревину на хімпаливо.</Make_ChemfuelFromWood.jobString>
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>компонент</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>виготовити компонент</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
   <Make_ComponentIndustrial.description>Виготовити компонент.</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
   <Make_ComponentIndustrial.jobString>Виготовляє компонент.</Make_ComponentIndustrial.jobString>
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>передовий компонент</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>виготовити передовий компонент</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
   <Make_ComponentSpacer.description>Виготовити передовий компонент.</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->

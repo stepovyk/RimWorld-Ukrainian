@@ -9,7 +9,7 @@
   <!-- EN: A tank of mechanite-rich fluid with support tubes for feeding in materials and nutrients. Mechanitors can use it to produce new mechanoids or to resurrect dead mechanoids. This basic type of mech gestator is only capable of generating light-weight mechs.\n\nThe process uses harsh chemicals which are stored in toxic wastepacks. Haulers must remove the wastepacks from time to time. -->
   <MechGestator.description>Резервуар із рідиною, багатою на механіти, з допоміжними трубками для подачі матеріалів і поживних речовин. Механітори вирощують у ньому нових механоїдів або воскрешають загиблих. Цей базовий гестатор може вирощувати лише легких механоїдів.\n\nУ процесі використовують їдкі хімікати, які потім зберігаються в токсичних пакетах відходів. Вантажникам доводиться час від часу забирати ці пакети.</MechGestator.description>
   <!-- EN: subcore encoder -->
-  <SubcoreEncoder.label>декодер суб'ядра</SubcoreEncoder.label>
+  <SubcoreEncoder.label>кодувальник суб'ядер</SubcoreEncoder.label>
   <!-- EN: A work station where a mechanitor can produce basic-tier subcores. Subcores are the brains of mechanoids, and one is required to produce any mechanoid. Basic subcores can only be used in simple basic-tier mechs.\n\nHigher tier subcores can be created by building a subcore softscanner or a subcore ripscanner. -->
   <SubcoreEncoder.description>Робоче місце, де механітор виготовляє базові суб'ядра. Суб'ядро – це мозок механоїда, і без нього не виготовити жодного механоїда. Базові суб'ядра підходять лише для простих механоїдів базового рівня.\n\nСуб'ядра вищих рівнів можна створювати в суб'ядерному сканері або суб'ядерному летальному сканері.</SubcoreEncoder.description>
   <!-- EN: subcore ripscanner -->

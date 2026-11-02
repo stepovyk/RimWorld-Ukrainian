@@ -49,7 +49,7 @@
   <!-- EN: Carriers of this gene need less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery. -->
   <Instability_Mild.description>Носіям цього гена для життя потрібно менше метаболічної енергії, але ціною цього є менш стабільний механізм поділу клітин.</Instability_Mild.description>
   <!-- EN: kill thirst -->
-  <KillThirst.label>жага до вбивства</KillThirst.label>
+  <KillThirst.label>жага вбивств</KillThirst.label>
   <!-- EN: Carriers of this gene lust for the feeling of ending another's life. They will become irritated if they go for too long without killing someone in close combat. -->
   <KillThirst.description>Носії цього гена жадають відчуття, коли обривають чуже життя. Якщо надто довго нікого не вбивають у ближньому бою, вони дратуються.</KillThirst.description>
   <!-- EN: kill-thirsty -->

@@ -21,7 +21,7 @@
   <!-- EN: There are so many interesting things to learn. -->
   <ChildlikePositivity.stages.childlike_confidence.description>Стільки всього цікавого можна дізнатися.</ChildlikePositivity.stages.childlike_confidence.description>
   <!-- EN: deathrested outside -->
-  <DeathrestChamber.stages.deathrested_outside.label>летаргічний сон надворі</DeathrestChamber.stages.deathrested_outside.label>
+  <DeathrestChamber.stages.deathrested_outside.label>летаргія надворі</DeathrestChamber.stages.deathrested_outside.label>
   <!-- EN: I had to deathrest outdoors. It was awful. -->
   <DeathrestChamber.stages.deathrested_outside.description>Мені довелося впасти в летаргію просто неба. Це було жахливо.</DeathrestChamber.stages.deathrested_outside.description>
   <!-- EN: awful deathrest chamber -->
@@ -29,7 +29,7 @@
   <!-- EN: I had to deathrest in an awful chamber. -->
   <DeathrestChamber.stages.awful_deathrest_chamber.description>Мені довелося пролежати летаргію в жахливих покоях.</DeathrestChamber.stages.awful_deathrest_chamber.description>
   <!-- EN: decent deathrest chamber -->
-  <DeathrestChamber.stages.decent_deathrest_chamber.label>порядні покої летаргії</DeathrestChamber.stages.decent_deathrest_chamber.label>
+  <DeathrestChamber.stages.decent_deathrest_chamber.label>пристойні покої летаргії</DeathrestChamber.stages.decent_deathrest_chamber.label>
   <!-- EN: I deathrested in a decent chamber. -->
   <DeathrestChamber.stages.decent_deathrest_chamber.description>Моя летаргія минула в пристойних покоях.</DeathrestChamber.stages.decent_deathrest_chamber.description>
   <!-- EN: good deathrest chamber -->
@@ -37,7 +37,7 @@
   <!-- EN: I deathrested in a slightly impressive chamber. It was nice. -->
   <DeathrestChamber.stages.good_deathrest_chamber.description>Моя летаргія минула в доволі вражаючих покоях. Було приємно.</DeathrestChamber.stages.good_deathrest_chamber.description>
   <!-- EN: great deathrest chamber -->
-  <DeathrestChamber.stages.great_deathrest_chamber.label>миловидні покої летаргії</DeathrestChamber.stages.great_deathrest_chamber.label>
+  <DeathrestChamber.stages.great_deathrest_chamber.label>чудові покої летаргії</DeathrestChamber.stages.great_deathrest_chamber.label>
   <!-- EN: I deathrested in an impressive chamber. I feel rejuvenated. -->
   <DeathrestChamber.stages.great_deathrest_chamber.description>Моя летаргія минула у вражаючих покоях. Відчуваю прилив сил.</DeathrestChamber.stages.great_deathrest_chamber.description>
   <!-- EN: excellent deathrest chamber -->
@@ -149,7 +149,7 @@
   <!-- EN: There are so many people I'm supposed to be working with. They're overwhelming. -->
   <Recluse.stages.recluse_very_crowded.description>З такою купою людей мені доводиться працювати. Це вже занадто.</Recluse.stages.recluse_very_crowded.description>
   <!-- EN: scanning sickness -->
-  <ScanningSickness.stages.scanning_sickness.label>недуг від сканування</ScanningSickness.stages.scanning_sickness.label>
+  <ScanningSickness.stages.scanning_sickness.label>хвороба від сканування</ScanningSickness.stages.scanning_sickness.label>
   <!-- EN: Ever since that scan I've been dizzy and I can't think. -->
   <ScanningSickness.stages.scanning_sickness.description>Після того сканування в мене паморочиться голова, і я не можу зібратися з думками.</ScanningSickness.stages.scanning_sickness.description>
   <!-- EN: sunlight sensitivity -->

@@ -107,7 +107,7 @@
   <!-- EN: animalist -->
   <AnimalPersonhood.symbolPacks.0.member>анімаліст</AnimalPersonhood.symbolPacks.0.member>
   <!-- EN: animals -->
-  <AnimalPersonhood.symbolPacks.0.theme>тварин</AnimalPersonhood.symbolPacks.0.theme>
+  <AnimalPersonhood.symbolPacks.0.theme>тварини</AnimalPersonhood.symbolPacks.0.theme>
   <!-- EN: beastic -->
   <AnimalPersonhood.symbolPacks.1.adjective>звіриний</AnimalPersonhood.symbolPacks.1.adjective>
   <!-- EN: Beastism -->
@@ -115,7 +115,7 @@
   <!-- EN: beastor -->
   <AnimalPersonhood.symbolPacks.1.member>звірист</AnimalPersonhood.symbolPacks.1.member>
   <!-- EN: beasts -->
-  <AnimalPersonhood.symbolPacks.1.theme>звірів</AnimalPersonhood.symbolPacks.1.theme>
+  <AnimalPersonhood.symbolPacks.1.theme>звірі</AnimalPersonhood.symbolPacks.1.theme>
   <!-- EN: blindsight -->
   <Blindsight.label>сліпозорість</Blindsight.label>
   <!-- EN: Only those who are blind can perceive the true reality. -->
@@ -301,7 +301,7 @@
   <!-- EN: cannibal -->
   <Cannibal.symbolPacks.0.member>канібал</Cannibal.symbolPacks.0.member>
   <!-- EN: cannibalism -->
-  <Cannibal.symbolPacks.0.theme>канібалізму</Cannibal.symbolPacks.0.theme>
+  <Cannibal.symbolPacks.0.theme>канібалізм</Cannibal.symbolPacks.0.theme>
   <!-- EN: androphage -->
   <Cannibal.symbolPacks.1.adjective>людоїдський</Cannibal.symbolPacks.1.adjective>
   <!-- EN: Androphagy -->
@@ -309,7 +309,7 @@
   <!-- EN: androphage -->
   <Cannibal.symbolPacks.1.member>людоїд</Cannibal.symbolPacks.1.member>
   <!-- EN: androphagy -->
-  <Cannibal.symbolPacks.1.theme>людоїдства</Cannibal.symbolPacks.1.theme>
+  <Cannibal.symbolPacks.1.theme>людоїдство</Cannibal.symbolPacks.1.theme>
   <!-- EN: manporky -->
   <Cannibal.symbolPacks.2.adjective>людятинний</Cannibal.symbolPacks.2.adjective>
   <!-- EN: Manporkism -->
@@ -317,7 +317,7 @@
   <!-- EN: manporkist -->
   <Cannibal.symbolPacks.2.member>людятинник</Cannibal.symbolPacks.2.member>
   <!-- EN: manpork -->
-  <Cannibal.symbolPacks.2.theme>людятини</Cannibal.symbolPacks.2.theme>
+  <Cannibal.symbolPacks.2.theme>людятина</Cannibal.symbolPacks.2.theme>
   <!-- EN: darkness -->
   <Darkness.label>темна сторона</Darkness.label>
   <!-- EN: Bright light burns and destroys! Darkness nourishes and creates. People ought to live in darkness. -->
@@ -473,7 +473,7 @@
   <!-- EN: purifier -->
   <FleshPurity.symbolPacks.0.member>пурист</FleshPurity.symbolPacks.0.member>
   <!-- EN: purity -->
-  <FleshPurity.symbolPacks.0.theme>чистоти</FleshPurity.symbolPacks.0.theme>
+  <FleshPurity.symbolPacks.0.theme>чистота</FleshPurity.symbolPacks.0.theme>
   <!-- EN: fleshist -->
   <FleshPurity.symbolPacks.1.adjective>плотський</FleshPurity.symbolPacks.1.adjective>
   <!-- EN: Fleshism -->
@@ -481,7 +481,7 @@
   <!-- EN: fleshist -->
   <FleshPurity.symbolPacks.1.member>плотист</FleshPurity.symbolPacks.1.member>
   <!-- EN: flesh -->
-  <FleshPurity.symbolPacks.1.theme>плоті</FleshPurity.symbolPacks.1.theme>
+  <FleshPurity.symbolPacks.1.theme>плоть</FleshPurity.symbolPacks.1.theme>
   <!-- EN: sanctic -->
   <FleshPurity.symbolPacks.2.adjective>святий</FleshPurity.symbolPacks.2.adjective>
   <!-- EN: Sanctism -->
@@ -489,9 +489,9 @@
   <!-- EN: sanctic -->
   <FleshPurity.symbolPacks.2.member>праведник</FleshPurity.symbolPacks.2.member>
   <!-- EN: sanctity -->
-  <FleshPurity.symbolPacks.2.theme>святості</FleshPurity.symbolPacks.2.theme>
+  <FleshPurity.symbolPacks.2.theme>святість</FleshPurity.symbolPacks.2.theme>
   <!-- EN: high life -->
-  <HighLife.label>громада курців</HighLife.label>
+  <HighLife.label>життя під кайфом</HighLife.label>
   <!-- EN: Exotic states of mind are central to a good life. -->
   <HighLife.description>Незвичайні стани свідомості – основа доброго життя.</HighLife.description>
   <!-- EN:
@@ -579,7 +579,7 @@
   <!-- EN: euphor -->
   <HighLife.symbolPacks.0.member>ейфорист</HighLife.symbolPacks.0.member>
   <!-- EN: euphoria -->
-  <HighLife.symbolPacks.0.theme>ейфорії</HighLife.symbolPacks.0.theme>
+  <HighLife.symbolPacks.0.theme>ейфорія</HighLife.symbolPacks.0.theme>
   <!-- EN: dopist -->
   <HighLife.symbolPacks.1.adjective>психонавтський</HighLife.symbolPacks.1.adjective>
   <!-- EN: Dopistry -->
@@ -587,7 +587,7 @@
   <!-- EN: doper -->
   <HighLife.symbolPacks.1.member>психонавт</HighLife.symbolPacks.1.member>
   <!-- EN: dope -->
-  <HighLife.symbolPacks.1.theme>психонавтики</HighLife.symbolPacks.1.theme>
+  <HighLife.symbolPacks.1.theme>психонавтика</HighLife.symbolPacks.1.theme>
   <!-- EN: smokist -->
   <HighLife.symbolPacks.2.adjective>травокурний</HighLife.symbolPacks.2.adjective>
   <!-- EN: Smokism -->
@@ -595,7 +595,7 @@
   <!-- EN: smoker -->
   <HighLife.symbolPacks.2.member>травокур</HighLife.symbolPacks.2.member>
   <!-- EN: smoke -->
-  <HighLife.symbolPacks.2.theme>трави</HighLife.symbolPacks.2.theme>
+  <HighLife.symbolPacks.2.theme>трава</HighLife.symbolPacks.2.theme>
   <!-- EN: ecstatic -->
   <HighLife.symbolPacks.3.adjective>екстатичний</HighLife.symbolPacks.3.adjective>
   <!-- EN: Ecstasy -->
@@ -603,7 +603,7 @@
   <!-- EN: ecstator -->
   <HighLife.symbolPacks.3.member>екстатик</HighLife.symbolPacks.3.member>
   <!-- EN: ecstasy -->
-  <HighLife.symbolPacks.3.theme>екстазу</HighLife.symbolPacks.3.theme>
+  <HighLife.symbolPacks.3.theme>екстаз</HighLife.symbolPacks.3.theme>
   <!-- EN: nudism -->
   <Nudism.label>нудизм</Nudism.label>
   <!-- EN: Clothing binds, controls, and suffocates us. We should all hang free. -->
@@ -681,7 +681,7 @@
   <!-- EN: nudist -->
   <Nudism.symbolPacks.0.member>нудист</Nudism.symbolPacks.0.member>
   <!-- EN: nudity -->
-  <Nudism.symbolPacks.0.theme>нудизму</Nudism.symbolPacks.0.theme>
+  <Nudism.symbolPacks.0.theme>нудизм</Nudism.symbolPacks.0.theme>
   <!-- EN: skinnist -->
   <Nudism.symbolPacks.1.adjective>природний</Nudism.symbolPacks.1.adjective>
   <!-- EN: skinism -->
@@ -689,7 +689,7 @@
   <!-- EN: skinnist -->
   <Nudism.symbolPacks.1.member>природний</Nudism.symbolPacks.1.member>
   <!-- EN: skin -->
-  <Nudism.symbolPacks.1.theme>природності</Nudism.symbolPacks.1.theme>
+  <Nudism.symbolPacks.1.theme>природність</Nudism.symbolPacks.1.theme>
   <!-- EN: pain is virtue -->
   <PainIsVirtue.label>флагеланство</PainIsVirtue.label>
   <!-- EN: Virtue is shown through suffering of self and others. -->
@@ -797,7 +797,7 @@
   <!-- EN: screamer -->
   <PainIsVirtue.symbolPacks.0.member>крикун</PainIsVirtue.symbolPacks.0.member>
   <!-- EN: pain -->
-  <PainIsVirtue.symbolPacks.0.theme>болю</PainIsVirtue.symbolPacks.0.theme>
+  <PainIsVirtue.symbolPacks.0.theme>біль</PainIsVirtue.symbolPacks.0.theme>
   <!-- EN: torturistic -->
   <PainIsVirtue.symbolPacks.1.adjective>тортурний</PainIsVirtue.symbolPacks.1.adjective>
   <!-- EN: Torturism -->
@@ -805,7 +805,7 @@
   <!-- EN: torturist -->
   <PainIsVirtue.symbolPacks.1.member>тортурник</PainIsVirtue.symbolPacks.1.member>
   <!-- EN: torture -->
-  <PainIsVirtue.symbolPacks.1.theme>тортур</PainIsVirtue.symbolPacks.1.theme>
+  <PainIsVirtue.symbolPacks.1.theme>тортури</PainIsVirtue.symbolPacks.1.theme>
   <!-- EN: sufferist -->
   <PainIsVirtue.symbolPacks.2.adjective>страждальницький</PainIsVirtue.symbolPacks.2.adjective>
   <!-- EN: Sufferism -->
@@ -813,7 +813,7 @@
   <!-- EN: sufferer -->
   <PainIsVirtue.symbolPacks.2.member>страждалець</PainIsVirtue.symbolPacks.2.member>
   <!-- EN: suffering -->
-  <PainIsVirtue.symbolPacks.2.theme>страждань</PainIsVirtue.symbolPacks.2.theme>
+  <PainIsVirtue.symbolPacks.2.theme>страждання</PainIsVirtue.symbolPacks.2.theme>
   <!-- EN: agonist -->
   <PainIsVirtue.symbolPacks.3.adjective>агоністичний</PainIsVirtue.symbolPacks.3.adjective>
   <!-- EN: Agonism -->
@@ -821,7 +821,7 @@
   <!-- EN: agonist -->
   <PainIsVirtue.symbolPacks.3.member>агоніст</PainIsVirtue.symbolPacks.3.member>
   <!-- EN: agony -->
-  <PainIsVirtue.symbolPacks.3.theme>агонії</PainIsVirtue.symbolPacks.3.theme>
+  <PainIsVirtue.symbolPacks.3.theme>агонія</PainIsVirtue.symbolPacks.3.theme>
   <!-- EN: miserist -->
   <PainIsVirtue.symbolPacks.4.adjective>мученицький</PainIsVirtue.symbolPacks.4.adjective>
   <!-- EN: Miserism -->
@@ -829,7 +829,7 @@
   <!-- EN: martyr -->
   <PainIsVirtue.symbolPacks.4.member>мученик</PainIsVirtue.symbolPacks.4.member>
   <!-- EN: misery -->
-  <PainIsVirtue.symbolPacks.4.theme>мук</PainIsVirtue.symbolPacks.4.theme>
+  <PainIsVirtue.symbolPacks.4.theme>муки</PainIsVirtue.symbolPacks.4.theme>
   <!-- EN: proselytizer -->
   <Proselytizer.label>прозелітизм</Proselytizer.label>
   <!-- EN: It is our duty to spread our beliefs. -->
@@ -897,7 +897,7 @@
   <!-- EN: truthist -->
   <Proselytizer.symbolPacks.0.member>правдист</Proselytizer.symbolPacks.0.member>
   <!-- EN: truth -->
-  <Proselytizer.symbolPacks.0.theme>правди</Proselytizer.symbolPacks.0.theme>
+  <Proselytizer.symbolPacks.0.theme>правда</Proselytizer.symbolPacks.0.theme>
   <!-- EN: veritic -->
   <Proselytizer.symbolPacks.1.adjective>вірітичний</Proselytizer.symbolPacks.1.adjective>
   <!-- EN: Verity -->
@@ -905,7 +905,7 @@
   <!-- EN: veritist -->
   <Proselytizer.symbolPacks.1.member>вірітист</Proselytizer.symbolPacks.1.member>
   <!-- EN: verity -->
-  <Proselytizer.symbolPacks.1.theme>віри</Proselytizer.symbolPacks.1.theme>
+  <Proselytizer.symbolPacks.1.theme>істина</Proselytizer.symbolPacks.1.theme>
   <!-- EN: realitic -->
   <Proselytizer.symbolPacks.2.adjective>реалітичний</Proselytizer.symbolPacks.2.adjective>
   <!-- EN: Reality -->
@@ -913,7 +913,7 @@
   <!-- EN: realitist -->
   <Proselytizer.symbolPacks.2.member>реаліст</Proselytizer.symbolPacks.2.member>
   <!-- EN: reality -->
-  <Proselytizer.symbolPacks.2.theme>реальності</Proselytizer.symbolPacks.2.theme>
+  <Proselytizer.symbolPacks.2.theme>реальність</Proselytizer.symbolPacks.2.theme>
   <!-- EN: raider -->
   <Raider.label>розбійництво</Raider.label>
   <!-- EN: The strong should take from the weak. -->
@@ -999,11 +999,11 @@
   <!-- EN: raidist -->
   <Raider.symbolPacks.0.adjective>рейдерський</Raider.symbolPacks.0.adjective>
   <!-- EN: Raidism -->
-  <Raider.symbolPacks.0.ideoName>Рейдерство</Raider.symbolPacks.0.ideoName>
+  <Raider.symbolPacks.0.ideoName>Розбійництво</Raider.symbolPacks.0.ideoName>
   <!-- EN: raidist -->
   <Raider.symbolPacks.0.member>рейдер</Raider.symbolPacks.0.member>
   <!-- EN: raiding -->
-  <Raider.symbolPacks.0.theme>рейдерства</Raider.symbolPacks.0.theme>
+  <Raider.symbolPacks.0.theme>розбійництво</Raider.symbolPacks.0.theme>
   <!-- EN: plunderic -->
   <Raider.symbolPacks.1.adjective>мародерський</Raider.symbolPacks.1.adjective>
   <!-- EN: Plunderism -->
@@ -1011,7 +1011,7 @@
   <!-- EN: plunderer -->
   <Raider.symbolPacks.1.member>мародер</Raider.symbolPacks.1.member>
   <!-- EN: plundering -->
-  <Raider.symbolPacks.1.theme>мародерства</Raider.symbolPacks.1.theme>
+  <Raider.symbolPacks.1.theme>мародерство</Raider.symbolPacks.1.theme>
   <!-- EN: lootist -->
   <Raider.symbolPacks.2.adjective>грабіжницький</Raider.symbolPacks.2.adjective>
   <!-- EN: Lootism -->
@@ -1019,7 +1019,7 @@
   <!-- EN: looter -->
   <Raider.symbolPacks.2.member>грабіжник</Raider.symbolPacks.2.member>
   <!-- EN: looting -->
-  <Raider.symbolPacks.2.theme>грабунку</Raider.symbolPacks.2.theme>
+  <Raider.symbolPacks.2.theme>грабунок</Raider.symbolPacks.2.theme>
   <!-- EN: kleptic -->
   <Raider.symbolPacks.3.adjective>піратський</Raider.symbolPacks.3.adjective>
   <!-- EN: Kleptism -->
@@ -1027,7 +1027,7 @@
   <!-- EN: kleptor -->
   <Raider.symbolPacks.3.member>пірат</Raider.symbolPacks.3.member>
   <!-- EN: kleptism -->
-  <Raider.symbolPacks.3.theme>піратства</Raider.symbolPacks.3.theme>
+  <Raider.symbolPacks.3.theme>піратство</Raider.symbolPacks.3.theme>
   <!-- EN: rancher -->
   <Rancher.label>скотарство</Rancher.label>
   <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
@@ -1117,7 +1117,7 @@
   <!-- EN: rancher -->
   <Rancher.symbolPacks.0.member>ранчер</Rancher.symbolPacks.0.member>
   <!-- EN: ranching -->
-  <Rancher.symbolPacks.0.theme>ранчування</Rancher.symbolPacks.0.theme>
+  <Rancher.symbolPacks.0.theme>тваринництво</Rancher.symbolPacks.0.theme>
   <!-- EN: herdic -->
   <Rancher.symbolPacks.1.adjective>стадний</Rancher.symbolPacks.1.adjective>
   <!-- EN: Herdism -->
@@ -1125,7 +1125,7 @@
   <!-- EN: herder -->
   <Rancher.symbolPacks.1.member>пастух</Rancher.symbolPacks.1.member>
   <!-- EN: herding -->
-  <Rancher.symbolPacks.1.theme>стадоїзму</Rancher.symbolPacks.1.theme>
+  <Rancher.symbolPacks.1.theme>скотарство</Rancher.symbolPacks.1.theme>
   <!-- EN: pasturic -->
   <Rancher.symbolPacks.2.adjective>скотарський</Rancher.symbolPacks.2.adjective>
   <!-- EN: Pasturism -->
@@ -1133,7 +1133,7 @@
   <!-- EN: pasturist -->
   <Rancher.symbolPacks.2.member>скотар</Rancher.symbolPacks.2.member>
   <!-- EN: pastures -->
-  <Rancher.symbolPacks.2.theme>скотарства</Rancher.symbolPacks.2.theme>
+  <Rancher.symbolPacks.2.theme>пасовища</Rancher.symbolPacks.2.theme>
   <!-- EN: transhumanist -->
   <Transhumanist.label>трансгуманізм</Transhumanist.label>
   <!-- EN: Human progress means merging with technology. -->
@@ -1243,7 +1243,7 @@
   <!-- EN: technologist -->
   <Transhumanist.symbolPacks.0.member>технолог</Transhumanist.symbolPacks.0.member>
   <!-- EN: technology -->
-  <Transhumanist.symbolPacks.0.theme>технологій</Transhumanist.symbolPacks.0.theme>
+  <Transhumanist.symbolPacks.0.theme>технології</Transhumanist.symbolPacks.0.theme>
   <!-- EN: progressist -->
   <Transhumanist.symbolPacks.1.adjective>прогресивний</Transhumanist.symbolPacks.1.adjective>
   <!-- EN: Progressism -->
@@ -1251,7 +1251,7 @@
   <!-- EN: progressor -->
   <Transhumanist.symbolPacks.1.member>прогресор</Transhumanist.symbolPacks.1.member>
   <!-- EN: progress -->
-  <Transhumanist.symbolPacks.1.theme>прогресу</Transhumanist.symbolPacks.1.theme>
+  <Transhumanist.symbolPacks.1.theme>прогрес</Transhumanist.symbolPacks.1.theme>
   <!-- EN: machinist -->
   <Transhumanist.symbolPacks.2.adjective>машиністський</Transhumanist.symbolPacks.2.adjective>
   <!-- EN: Machinism -->
@@ -1259,7 +1259,7 @@
   <!-- EN: machinist -->
   <Transhumanist.symbolPacks.2.member>машиніст</Transhumanist.symbolPacks.2.member>
   <!-- EN: machinery -->
-  <Transhumanist.symbolPacks.2.theme>машинерії</Transhumanist.symbolPacks.2.theme>
+  <Transhumanist.symbolPacks.2.theme>машинерія</Transhumanist.symbolPacks.2.theme>
   <!-- EN: steelist -->
   <Transhumanist.symbolPacks.3.adjective>сталевий</Transhumanist.symbolPacks.3.adjective>
   <!-- EN: Steelism -->
@@ -1267,7 +1267,7 @@
   <!-- EN: steeler -->
   <Transhumanist.symbolPacks.3.member>сталіст</Transhumanist.symbolPacks.3.member>
   <!-- EN: steel -->
-  <Transhumanist.symbolPacks.3.theme>сталі</Transhumanist.symbolPacks.3.theme>
+  <Transhumanist.symbolPacks.3.theme>сталь</Transhumanist.symbolPacks.3.theme>
   <!-- EN: automatist -->
   <Transhumanist.symbolPacks.4.adjective>автоматистський</Transhumanist.symbolPacks.4.adjective>
   <!-- EN: Automatism -->
@@ -1275,7 +1275,7 @@
   <!-- EN: automator -->
   <Transhumanist.symbolPacks.4.member>автоматизатор</Transhumanist.symbolPacks.4.member>
   <!-- EN: automata -->
-  <Transhumanist.symbolPacks.4.theme>автоматів</Transhumanist.symbolPacks.4.theme>
+  <Transhumanist.symbolPacks.4.theme>автомати</Transhumanist.symbolPacks.4.theme>
   <!-- EN: augmentist -->
   <Transhumanist.symbolPacks.5.adjective>аугментистський</Transhumanist.symbolPacks.5.adjective>
   <!-- EN: Augmentism -->
@@ -1283,7 +1283,7 @@
   <!-- EN: augmentor -->
   <Transhumanist.symbolPacks.5.member>аугментист</Transhumanist.symbolPacks.5.member>
   <!-- EN: augmentation -->
-  <Transhumanist.symbolPacks.5.theme>аугментації</Transhumanist.symbolPacks.5.theme>
+  <Transhumanist.symbolPacks.5.theme>аугментація</Transhumanist.symbolPacks.5.theme>
   <!-- EN: tree connection -->
   <TreeConnection.label>зв'язок з деревами</TreeConnection.label>
   <!-- EN: Trees are the essence of life, and we must be near them. -->

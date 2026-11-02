@@ -17,7 +17,7 @@
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyTouch.description>Точність зброї на відстані до 3 клітинок.\n\nСправжній шанс влучити залежить і від інших чинників.</AccuracyTouch.description>
   <!-- EN: armor penetration multiplier -->
-  <RangedWeapon_ArmorPenetrationMultiplier.label>множник пробиття броні</RangedWeapon_ArmorPenetrationMultiplier.label>
+  <RangedWeapon_ArmorPenetrationMultiplier.label>множник бронепробиття</RangedWeapon_ArmorPenetrationMultiplier.label>
   <!-- EN: A multiplier applied to armor penetration. -->
   <RangedWeapon_ArmorPenetrationMultiplier.description>Множник бронепробиття.</RangedWeapon_ArmorPenetrationMultiplier.description>
   <!-- EN: ranged cooldown -->
@@ -27,7 +27,7 @@
   <!-- EN: {0} s -->
   <RangedWeapon_Cooldown.formatString>{0} с</RangedWeapon_Cooldown.formatString>
   <!-- EN: damage multiplier -->
-  <RangedWeapon_DamageMultiplier.label>множник пошкоджень</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.label>множник шкоди</RangedWeapon_DamageMultiplier.label>
   <!-- EN: A multiplier applied to this weapon's damage. -->
   <RangedWeapon_DamageMultiplier.description>Множник шкоди цієї зброї.</RangedWeapon_DamageMultiplier.description>
   <!-- EN: range multiplier -->

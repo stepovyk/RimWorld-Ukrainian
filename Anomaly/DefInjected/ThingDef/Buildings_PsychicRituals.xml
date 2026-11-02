@@ -5,7 +5,7 @@
   <!-- EN: A spot for performing psychic rituals. Rituals can only be cast if the area around the ritual spot is unobstructed. -->
   <PsychicRitualSpot.description>Місце для проведення психічних ритуалів. Ритуал можна провести, лише якщо простір довкола місця нічим не захаращений.</PsychicRitualSpot.description>
   <!-- EN: shard beacon -->
-  <ShardBeacon.label>маяк з уламку</ShardBeacon.label>
+  <ShardBeacon.label>маяк з уламка</ShardBeacon.label>
   <!-- EN: A shard of dark archotechnology mounted on a bioferrite pedestal. The shard, focused by the bioferrite, shapes nearby dark psychic flows. When placed near a psychic ritual spot, it improves the ritual quality.\n\nA ritual can benefit from up to four shard beacons. -->
   <ShardBeacon.description>Уламок темної архотехнології на постаменті з біофериту. Біоферит фокусує уламок, і той формує темні психічні потоки поблизу. Якщо поставити маяк біля місця для психічних ритуалів, він підвищить якість ритуалу.\n\nРитуал можуть посилювати до чотирьох таких маяків.</ShardBeacon.description>
   <!-- EN: void sculpture -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: failed conversion -->
-  <Convert_Failure.label>конвертація не вдалася</Convert_Failure.label>
+  <Convert_Failure.label>невдале навернення</Convert_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</li>
   -->
@@ -9,7 +9,7 @@
     <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? намагався : намагалася} навернути у свою віру, та [RECIPIENT_nameDef] не {RECIPIENT_gender ? піддався : піддалася}.</li>
   </Convert_Failure.logRulesInitiator.rulesStrings>
   <!-- EN: successful conversion -->
-  <Convert_Success.label>успішна конвертація</Convert_Success.label>
+  <Convert_Success.label>успішне навернення</Convert_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</li>
   -->
@@ -17,7 +17,7 @@
     <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? намагався : намагалася} навернути у свою віру – і [RECIPIENT_nameDef] {RECIPIENT_gender ? навернувся : навернулася}.</li>
   </Convert_Success.logRulesInitiator.rulesStrings>
   <!-- EN: convert ideoligion attempt -->
-  <ConvertIdeoAttempt.label>спроба конвертації</ConvertIdeoAttempt.label>
+  <ConvertIdeoAttempt.label>спроба навернення</ConvertIdeoAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
   -->
@@ -25,7 +25,7 @@
     <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? проповідував : проповідувала} свою ідеологію, сподіваючись, що [RECIPIENT_nameDef] навернеться.</li>
   </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
   <!-- EN: failed counsel -->
-  <Counsel_Failure.label>невдала консультація</Counsel_Failure.label>
+  <Counsel_Failure.label>невдала психологічна підтримка</Counsel_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
   -->
@@ -33,7 +33,7 @@
     <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? намагався : намагалася} розрадити, але тільки все {INITIATOR_gender ? зіпсував : зіпсувала}: тепер [RECIPIENT_nameDef] почувається ще гірше.</li>
   </Counsel_Failure.logRulesInitiator.rulesStrings>
   <!-- EN: successful counsel -->
-  <Counsel_Success.label>успішна консультація</Counsel_Success.label>
+  <Counsel_Success.label>успішна психологічна підтримка</Counsel_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
     <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
@@ -53,7 +53,7 @@
     <li>problems->недавні труднощі</li>
   </Counsel_Success.logRulesInitiator.rulesStrings>
   <!-- EN: preached health -->
-  <PreachHealth.label>проведена проповідь здоров'я</PreachHealth.label>
+  <PreachHealth.label>проповідь про здоров'я</PreachHealth.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] strengthened [RECIPIENT_nameDef]'s health by preaching about [preaching_topic].</li>
     <li>preaching_topic->reasons to live</li>

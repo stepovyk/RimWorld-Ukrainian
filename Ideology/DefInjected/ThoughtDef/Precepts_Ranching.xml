@@ -25,7 +25,7 @@
   <!-- EN: Our ranch is thriving. This is the right way to be. -->
   <Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>Наше ранчо процвітає. Так і має бути.</Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>
   <!-- EN: sowed human food plant -->
-  <Ranching_SowedPlant.stages.sowed_human_food_plant.label>{PAWN_gender ? Посадив : Посадила} харчову рослину</Ranching_SowedPlant.stages.sowed_human_food_plant.label>
+  <Ranching_SowedPlant.stages.sowed_human_food_plant.label>{PAWN_gender ? посадив : посадила} харчову рослину</Ranching_SowedPlant.stages.sowed_human_food_plant.label>
   <!-- EN: I sowed a human food plant. It was wrong - humans should eat animals, and animals should eat nature-made plants. -->
   <Ranching_SowedPlant.stages.sowed_human_food_plant.description>Я {PAWN_gender ? посіяв : посіяла} харчову рослину для людей. Це неправильно: люди мають їсти тварин, а тварини – рослини, які дає природа.</Ranching_SowedPlant.stages.sowed_human_food_plant.description>
 </LanguageData>

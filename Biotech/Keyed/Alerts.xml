@@ -21,7 +21,7 @@
   <!-- EN: Low hemogen -->
   <AlertLowHemogen>Мало гемогену</AlertLowHemogen>
   <!-- EN: A colonist has low hemogen. At zero hemogen, they will develop a painful hemogen craving.\n\nFeed them hemogen packs to prevent this. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nThe following colonists have low hemogen -->
-  <AlertLowHemogenDesc>У колоніста мало гемогену. Коли гемоген упаде до нуля, з'явиться болісна тяга до гемогену.\n\nЩоб цього не сталося, давайте йому гемопаки. Гемопаки можна отримати операцією «вилучити гемоген» на людині, яка не є гемогенною.\n\nМало гемогену в цих колоністів</AlertLowHemogenDesc>
+  <AlertLowHemogenDesc>У колоніста мало гемогену. Коли гемоген упаде до нуля, з'явиться болісна тяга до гемогену.\n\nЩоб цього не сталося, давайте йому гемопаки. Гемопаки можна отримати операцією «вилучити гемопак» на людині, яка не є гемогенною.\n\nМало гемогену в цих колоністів</AlertLowHemogenDesc>
   <!-- EN: Recharger full -->
   <AlertRechargerFull>Зарядна станція переповнена</AlertRechargerFull>
   <!-- EN: Some mech recharger(s) are storing their maximum number of toxic wastepacks. Mechs can't use these chargers until the toxic wastepacks are hauled away.\n\nSelect a colonist and right-click a recharger to unload it. -->

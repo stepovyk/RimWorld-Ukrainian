@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: harvested organ -->
-  <HarvestedOrgan_Abhorrent.stages.harvested_organ.label>{PAWN_gender ? Вилучив : Вилучила} орган</HarvestedOrgan_Abhorrent.stages.harvested_organ.label>
+  <HarvestedOrgan_Abhorrent.stages.harvested_organ.label>{PAWN_gender ? вилучив : вилучила} орган</HarvestedOrgan_Abhorrent.stages.harvested_organ.label>
   <!-- EN: I had to harvest someone's organ. It's an abhorrent violation of everything I believe. -->
   <HarvestedOrgan_Abhorrent.stages.harvested_organ.description>Мені довелося вилучити в когось орган. Це огидна наруга над усім, у що я вірю.</HarvestedOrgan_Abhorrent.stages.harvested_organ.description>
   <!-- EN: harvested organ -->
-  <HarvestedOrgan_Horrible.stages.harvested_organ.label>{PAWN_gender ? Вилучив : Вилучила} орган</HarvestedOrgan_Horrible.stages.harvested_organ.label>
+  <HarvestedOrgan_Horrible.stages.harvested_organ.label>{PAWN_gender ? вилучив : вилучила} орган</HarvestedOrgan_Horrible.stages.harvested_organ.label>
   <!-- EN: I had to harvest someone's organ. It's a horrible offense against my beliefs. -->
   <HarvestedOrgan_Horrible.stages.harvested_organ.description>Мені довелося вилучити в когось орган. Це жахлива наруга над моїми переконаннями.</HarvestedOrgan_Horrible.stages.harvested_organ.description>
   <!-- EN: harvested organ -->
@@ -21,7 +21,7 @@
   <!-- EN: Someone took body parts from our fellow. It's a horrible thing. -->
   <HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.description>Хтось забрав органи в нашого товариша. Це жахливо.</HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.description>
   <!-- EN: installed organ -->
-  <InstalledOrgan_Abhorrent.stages.installed_organ.label>{PAWN_gender ? Вживив : Вживила} орган</InstalledOrgan_Abhorrent.stages.installed_organ.label>
+  <InstalledOrgan_Abhorrent.stages.installed_organ.label>{PAWN_gender ? вживив : вживила} орган</InstalledOrgan_Abhorrent.stages.installed_organ.label>
   <!-- EN: I had to install an organ in someone. It's an abhorrent violation of everything I believe. -->
   <InstalledOrgan_Abhorrent.stages.installed_organ.description>Мені довелося пересадити комусь орган. Це огидна наруга над усім, у що я вірю.</InstalledOrgan_Abhorrent.stages.installed_organ.description>
   <!-- EN: installed organ -->
@@ -31,7 +31,7 @@
   <!-- EN: Someone installed an organ. The body should be sacrosanct! -->
   <InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>Хтось пересадив орган. Тіло має бути недоторканним!</InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>
   <!-- EN: sold organ -->
-  <SoldOrgan_Disapproved.stages.sold_organ.label>{PAWN_gender ? Продав : Продала} орган</SoldOrgan_Disapproved.stages.sold_organ.label>
+  <SoldOrgan_Disapproved.stages.sold_organ.label>{PAWN_gender ? продав : продала} орган</SoldOrgan_Disapproved.stages.sold_organ.label>
   <!-- EN: I had to sell someone's organ. I don't approve of such transactions. -->
   <SoldOrgan_Disapproved.stages.sold_organ.description>Мені довелося продати чийсь орган. Я не схвалюю таких угод.</SoldOrgan_Disapproved.stages.sold_organ.description>
   <!-- EN: sold organ -->
@@ -41,7 +41,7 @@
   <!-- EN: Someone sold an organ. It's horrible to trade human parts like machinery. -->
   <SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>Хтось продав орган. Торгувати частинами людського тіла, наче деталями машин, – жахливо.</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>
   <!-- EN: traded organ -->
-  <TradedOrgan_Abhorrent.stages.traded_organ.label>{PAWN_gender ? Продав : Продала}</TradedOrgan_Abhorrent.stages.traded_organ.label>
+  <TradedOrgan_Abhorrent.stages.traded_organ.label>{PAWN_gender ? торгував : торгувала} органом</TradedOrgan_Abhorrent.stages.traded_organ.label>
   <!-- EN: I had to trade someone's organ. It's an abhorrent violation of everything I believe. -->
   <TradedOrgan_Abhorrent.stages.traded_organ.description>Мені довелося торгувати чиїмсь органом. Це огидна наруга над усім, у що я вірю.</TradedOrgan_Abhorrent.stages.traded_organ.description>
   <!-- EN: traded organ -->

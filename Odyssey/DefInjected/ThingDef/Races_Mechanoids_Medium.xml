@@ -5,11 +5,11 @@
   <!-- EN: A front-line combat mechanoid named for its large optical array. The cyclops specializes in counter-shield attacks. It takes a long time to lock onto a target, but once locked on, it fires a near endless barrage of shield-piercing beams. -->
   <Mech_Cyclops.description>Механоїд передової, названий так через велику оптичну матрицю. Циклоп спеціалізується на атаках проти щитів. Він довго захоплює ціль, зате потім випускає майже нескінченний шквал променів, що пробивають щити.</Mech_Cyclops.description>
   <!-- EN: front left leg -->
-  <Mech_Cyclops.tools.front_left_leg.label>передня ліва лапка</Mech_Cyclops.tools.front_left_leg.label>
+  <Mech_Cyclops.tools.front_left_leg.label>передня ліва нога</Mech_Cyclops.tools.front_left_leg.label>
   <!-- EN: leg -->
   <Mech_Cyclops.tools.front_left_leg.labelNoLocation>нога</Mech_Cyclops.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
-  <Mech_Cyclops.tools.front_right_leg.label>передня права лапка</Mech_Cyclops.tools.front_right_leg.label>
+  <Mech_Cyclops.tools.front_right_leg.label>передня права нога</Mech_Cyclops.tools.front_right_leg.label>
   <!-- EN: leg -->
   <Mech_Cyclops.tools.front_right_leg.labelNoLocation>нога</Mech_Cyclops.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->

@@ -9,7 +9,7 @@
   <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
   <CertaintyLossFactor.description>Множник того, скільки впевненості втрачає ця людина, коли хтось намагається навернути її в іншу ідеологію.</CertaintyLossFactor.description>
   <!-- EN: conversion power -->
-  <ConversionPower.label>ефективність переконання</ConversionPower.label>
+  <ConversionPower.label>сила навернення</ConversionPower.label>
   <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
   <ConversionPower.description>Наскільки вправно ця людина навертає інших у свою ідеологію. Коли вона намагається когось навернути, на це значення множиться впевненість, яку втрачає співрозмовник.</ConversionPower.description>
   <!-- EN: melee dodge chance indoors dark -->

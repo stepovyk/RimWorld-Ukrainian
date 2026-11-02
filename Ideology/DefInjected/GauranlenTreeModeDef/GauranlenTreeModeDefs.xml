@@ -17,7 +17,7 @@
   <!-- EN: A dryad caste specialized in aggression and damage-dealing attacks. The clawer dryad is named for its massive claws. Though it can do tremendous damage, it is vulnerable to attacks itself. -->
   <Clawer.description>Каста дріад, що спеціалізується на агресії та потужних атаках. Дріада з кігтями отримала назву через свої величезні кігті. Вона завдає страшної шкоди, але й сама вразлива до атак.</Clawer.description>
   <!-- EN: gaumaker -->
-  <Gaumaker.label>Гау</Gaumaker.label>
+  <Gaumaker.label>гау</Gaumaker.label>
   <!-- EN: A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge. -->
   <Gaumaker.description>Каста дріад з унікальною здатністю створювати нові кокони Гауранлен і відтворювати дерево Гауранлен разом з його симбіонтом – королевою дріад. Для цього три дріади Гау мають поступово злитися.</Gaumaker.description>
   <!-- EN: medicinemaker -->

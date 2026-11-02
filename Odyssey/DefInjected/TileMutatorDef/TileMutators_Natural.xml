@@ -5,7 +5,7 @@
   <!-- EN: A network of several small islands dotting the coast. -->
   <Archipelago.description>Кілька невеликих острівців, розкиданих уздовж узбережжя.</Archipelago.description>
   <!-- EN: basin -->
-  <Basin.label>басейн</Basin.label>
+  <Basin.label>котловина</Basin.label>
   <!-- EN: A natural depression in a mountain range, in which groundwater feeds a small lake. -->
   <Basin.description>Природна низина в гірському масиві, де ґрунтові води живлять невелике озеро.</Basin.description>
   <!-- EN: bay -->
@@ -17,7 +17,7 @@
   <!-- EN: Small bodies of water can be found within caves in this area. -->
   <CaveLakes.description>У місцевих печерах трапляються невеликі водойми.</CaveLakes.description>
   <!-- EN: cavern -->
-  <Cavern.label>каверна</Cavern.label>
+  <Cavern.label>печера</Cavern.label>
   <!-- EN: A network of caves formed by various geological processes. -->
   <Cavern.description>Мережа печер, що утворилися внаслідок різних геологічних процесів.</Cavern.description>
   <!-- EN: chasm -->
@@ -57,7 +57,7 @@
   <!-- EN: This area contains more fertile soil than normal. -->
   <Fertile.description>Родючого ґрунту тут більше, ніж зазвичай.</Fertile.description>
   <!-- EN: fjord -->
-  <Fjord.label>фйорд</Fjord.label>
+  <Fjord.label>фіорд</Fjord.label>
   <!-- EN: A long, narrow sea inlet surrounded by steep terrain. -->
   <Fjord.description>Довга вузька морська затока серед стрімких берегів.</Fjord.description>
   <!-- EN: headwater -->
@@ -65,7 +65,7 @@
   <!-- EN: A river's origin point. -->
   <Headwater.description>Місце, де бере початок річка.</Headwater.description>
   <!-- EN: hollow -->
-  <Hollow.label>порожнина</Hollow.label>
+  <Hollow.label>улоговина</Hollow.label>
   <!-- EN: A small open area surrounded by cliffs. -->
   <Hollow.description>Невелика відкрита місцина, оточена скелями.</Hollow.description>
   <!-- EN: hot springs -->
@@ -153,7 +153,7 @@
   <!-- EN: A river splitting into many branches as it enters the ocean. -->
   <RiverDelta.description>Річка розгалужується на безліч рукавів, перш ніж влитися в океан.</RiverDelta.description>
   <!-- EN: river island -->
-  <RiverIsland.label>річний острів</RiverIsland.label>
+  <RiverIsland.label>річковий острів</RiverIsland.label>
   <!-- EN: A river splitting into two and then merging again. -->
   <RiverIsland.description>Річка роздвоюється, а потім знову зливається в одне русло.</RiverIsland.description>
   <!-- EN: sandy -->

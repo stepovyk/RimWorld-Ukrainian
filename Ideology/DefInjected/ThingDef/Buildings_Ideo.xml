@@ -41,11 +41,11 @@
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
   <Burnbong.description>Дерев'яна конструкція, набита димолистом. Під час ритуалу її можна підпалити, і кілька годин з неї валитиме густий дим димолисту, після чого вона згорить.</Burnbong.description>
   <!-- EN: cannibal platter -->
-  <CannibalPlatter.label>канібальський бенкет</CannibalPlatter.label>
+  <CannibalPlatter.label>канібальська таця</CannibalPlatter.label>
   <!-- EN: An area of floor covered with pre-chopped and arranged human meat ready for a cannibal feast. -->
   <CannibalPlatter.description>Ділянка підлоги, вкрита заздалегідь нарізаним і викладеним людським м'ясом, готовим до канібальського бенкету.</CannibalPlatter.description>
   <!-- EN: christmas tree -->
-  <ChristmasTree.label>різдвяне дерево</ChristmasTree.label>
+  <ChristmasTree.label>різдвяна ялинка</ChristmasTree.label>
   <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. -->
   <ChristmasTree.description>Святкове дерево з прикрасами й вогниками, яке традиційно ставлять на Різдво.</ChristmasTree.description>
   <!-- EN: darktorch -->

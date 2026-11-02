@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>старовинна капсула криптосну</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>старовинний саркофаг криптосну</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Схоже, цей саркофаг криптосну стоїть тут уже дуже давно. Хтозна, що в ньому?</AncientCryptosleepCasket.description>
   <!-- EN: caravan hitching spot -->
@@ -91,11 +91,11 @@
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
   <Sarcophagus.description>Оздоблена усипальниця для шанованих покійників.</Sarcophagus.description>
   <!-- EN: grand stele -->
-  <SteleGrand.label>велика стела</SteleGrand.label>
+  <SteleGrand.label>величезна стела</SteleGrand.label>
   <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
   <SteleGrand.description>Висока плита з рясним гравіюванням на боках. Стели з давніх-давен ставлять на честь людей, битв та інших важливих подій.</SteleGrand.description>
   <!-- EN: large stele -->
-  <SteleLarge.label>величезна стела</SteleLarge.label>
+  <SteleLarge.label>велика стела</SteleLarge.label>
   <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
   <SteleLarge.description>Висока товста плита з гравіюванням на боках. Стели з давніх-давен ставлять на честь людей, битв та інших важливих подій.</SteleLarge.description>
   <!-- EN: tool cabinet -->

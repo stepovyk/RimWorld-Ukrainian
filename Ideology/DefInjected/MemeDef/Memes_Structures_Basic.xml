@@ -31,13 +31,13 @@
   <!-- EN: animist -->
   <Structure_Animist.symbolPacks.0.member>аніміст</Structure_Animist.symbolPacks.0.member>
   <!-- EN: animism -->
-  <Structure_Animist.symbolPacks.0.theme>анімізму</Structure_Animist.symbolPacks.0.theme>
+  <Structure_Animist.symbolPacks.0.theme>анімізм</Structure_Animist.symbolPacks.0.theme>
   <!-- EN: spiritist -->
   <Structure_Animist.symbolPacks.1.adjective>спіритичний</Structure_Animist.symbolPacks.1.adjective>
   <!-- EN: spiritist -->
   <Structure_Animist.symbolPacks.1.member>спіритист</Structure_Animist.symbolPacks.1.member>
   <!-- EN: spiritism -->
-  <Structure_Animist.symbolPacks.1.theme>спіритизму</Structure_Animist.symbolPacks.1.theme>
+  <Structure_Animist.symbolPacks.1.theme>спіритизм</Structure_Animist.symbolPacks.1.theme>
   <!-- EN: temple -->
   <Structure_Animist.worshipRoomLabel>храм</Structure_Animist.worshipRoomLabel>
   <!-- EN: archist -->
@@ -81,7 +81,7 @@
   <!-- EN: archotechnist -->
   <Structure_Archist.symbolPacks.0.member>архотехнік</Structure_Archist.symbolPacks.0.member>
   <!-- EN: archotechnology -->
-  <Structure_Archist.symbolPacks.0.theme>архотехнологій</Structure_Archist.symbolPacks.0.theme>
+  <Structure_Archist.symbolPacks.0.theme>архотехнології</Structure_Archist.symbolPacks.0.theme>
   <!-- EN: archist -->
   <Structure_Archist.symbolPacks.1.adjective>архістський</Structure_Archist.symbolPacks.1.adjective>
   <!-- EN: Archism -->
@@ -89,9 +89,9 @@
   <!-- EN: archist -->
   <Structure_Archist.symbolPacks.1.member>архіст</Structure_Archist.symbolPacks.1.member>
   <!-- EN: archism -->
-  <Structure_Archist.symbolPacks.1.theme>архізму</Structure_Archist.symbolPacks.1.theme>
+  <Structure_Archist.symbolPacks.1.theme>архізм</Structure_Archist.symbolPacks.1.theme>
   <!-- EN: shrine -->
-  <Structure_Archist.worshipRoomLabel>ковчег</Structure_Archist.worshipRoomLabel>
+  <Structure_Archist.worshipRoomLabel>святиня</Structure_Archist.worshipRoomLabel>
   <!-- EN: ideological -->
   <Structure_Ideological.label>атеїзм</Structure_Ideological.label>
   <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
@@ -135,7 +135,7 @@
   <!-- EN: ethicist -->
   <Structure_Ideological.symbolPacks.0.member>етик</Structure_Ideological.symbolPacks.0.member>
   <!-- EN: ethics -->
-  <Structure_Ideological.symbolPacks.0.theme>етики</Structure_Ideological.symbolPacks.0.theme>
+  <Structure_Ideological.symbolPacks.0.theme>етика</Structure_Ideological.symbolPacks.0.theme>
   <!-- EN: ideological -->
   <Structure_Ideological.symbolPacks.1.adjective>ідеологічний</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
@@ -143,7 +143,7 @@
   <!-- EN: ideologist -->
   <Structure_Ideological.symbolPacks.1.member>ідеолог</Structure_Ideological.symbolPacks.1.member>
   <!-- EN: ideology -->
-  <Structure_Ideological.symbolPacks.1.theme>ідеології</Structure_Ideological.symbolPacks.1.theme>
+  <Structure_Ideological.symbolPacks.1.theme>ідеологія</Structure_Ideological.symbolPacks.1.theme>
   <!-- EN: just -->
   <Structure_Ideological.symbolPacks.2.adjective>справедливий</Structure_Ideological.symbolPacks.2.adjective>
   <!-- EN: Justice -->
@@ -151,9 +151,9 @@
   <!-- EN: justicar -->
   <Structure_Ideological.symbolPacks.2.member>юстиціар</Structure_Ideological.symbolPacks.2.member>
   <!-- EN: justice -->
-  <Structure_Ideological.symbolPacks.2.theme>справедливості</Structure_Ideological.symbolPacks.2.theme>
+  <Structure_Ideological.symbolPacks.2.theme>справедливість</Structure_Ideological.symbolPacks.2.theme>
   <!-- EN: sanctuary -->
-  <Structure_Ideological.worshipRoomLabel>сховище</Structure_Ideological.worshipRoomLabel>
+  <Structure_Ideological.worshipRoomLabel>святилище</Structure_Ideological.worshipRoomLabel>
   <!-- EN: abstract theist -->
   <Structure_TheistAbstract.label>абстрактний теїзм</Structure_TheistAbstract.label>
   <!-- EN: The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe. -->
@@ -207,7 +207,7 @@
   <!-- EN: spiritist -->
   <Structure_TheistAbstract.symbolPacks.0.member>спіритуаліст</Structure_TheistAbstract.symbolPacks.0.member>
   <!-- EN: spiritualism -->
-  <Structure_TheistAbstract.symbolPacks.0.theme>духовності</Structure_TheistAbstract.symbolPacks.0.theme>
+  <Structure_TheistAbstract.symbolPacks.0.theme>духовність</Structure_TheistAbstract.symbolPacks.0.theme>
   <!-- EN: faithful -->
   <Structure_TheistAbstract.symbolPacks.1.adjective>вірний</Structure_TheistAbstract.symbolPacks.1.adjective>
   <!-- EN: Faith -->
@@ -215,7 +215,7 @@
   <!-- EN: faithholder -->
   <Structure_TheistAbstract.symbolPacks.1.member>вірянин</Structure_TheistAbstract.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistAbstract.symbolPacks.1.theme>віри</Structure_TheistAbstract.symbolPacks.1.theme>
+  <Structure_TheistAbstract.symbolPacks.1.theme>віра</Structure_TheistAbstract.symbolPacks.1.theme>
   <!-- EN: divinist -->
   <Structure_TheistAbstract.symbolPacks.2.adjective>божественний</Structure_TheistAbstract.symbolPacks.2.adjective>
   <!-- EN: Divinism -->
@@ -223,7 +223,7 @@
   <!-- EN: divinist -->
   <Structure_TheistAbstract.symbolPacks.2.member>дивініст</Structure_TheistAbstract.symbolPacks.2.member>
   <!-- EN: divinity -->
-  <Structure_TheistAbstract.symbolPacks.2.theme>божественності</Structure_TheistAbstract.symbolPacks.2.theme>
+  <Structure_TheistAbstract.symbolPacks.2.theme>божественність</Structure_TheistAbstract.symbolPacks.2.theme>
   <!-- EN: holyist -->
   <Structure_TheistAbstract.symbolPacks.3.adjective>святий</Structure_TheistAbstract.symbolPacks.3.adjective>
   <!-- EN: Holyism -->
@@ -231,7 +231,7 @@
   <!-- EN: holyist -->
   <Structure_TheistAbstract.symbolPacks.3.member>святий</Structure_TheistAbstract.symbolPacks.3.member>
   <!-- EN: holiness -->
-  <Structure_TheistAbstract.symbolPacks.3.theme>святості</Structure_TheistAbstract.symbolPacks.3.theme>
+  <Structure_TheistAbstract.symbolPacks.3.theme>святість</Structure_TheistAbstract.symbolPacks.3.theme>
   <!-- EN: temple -->
   <Structure_TheistAbstract.worshipRoomLabel>храм</Structure_TheistAbstract.worshipRoomLabel>
   <!-- EN: embodied theist -->
@@ -271,7 +271,7 @@
   <!-- EN: spiritist -->
   <Structure_TheistEmbodied.symbolPacks.0.member>спіритуаліст</Structure_TheistEmbodied.symbolPacks.0.member>
   <!-- EN: spiritualism -->
-  <Structure_TheistEmbodied.symbolPacks.0.theme>духовності</Structure_TheistEmbodied.symbolPacks.0.theme>
+  <Structure_TheistEmbodied.symbolPacks.0.theme>духовність</Structure_TheistEmbodied.symbolPacks.0.theme>
   <!-- EN: faithful -->
   <Structure_TheistEmbodied.symbolPacks.1.adjective>вірний</Structure_TheistEmbodied.symbolPacks.1.adjective>
   <!-- EN: Faith -->
@@ -279,7 +279,7 @@
   <!-- EN: faithholder -->
   <Structure_TheistEmbodied.symbolPacks.1.member>вірянин</Structure_TheistEmbodied.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.theme>віри</Structure_TheistEmbodied.symbolPacks.1.theme>
+  <Structure_TheistEmbodied.symbolPacks.1.theme>віра</Structure_TheistEmbodied.symbolPacks.1.theme>
   <!-- EN: pantheon -->
   <Structure_TheistEmbodied.worshipRoomLabel>пантеон</Structure_TheistEmbodied.worshipRoomLabel>
 </LanguageData>

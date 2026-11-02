@@ -167,7 +167,7 @@
   <!-- EN: A powerful mechanoid computer. -->
   <MechanoidProcessor.description>Потужний комп'ютер механоїдів.</MechanoidProcessor.description>
   <!-- EN: mechhive birther -->
-  <MechhiveAssembler.label>родильна фабрика меха-вулика</MechhiveAssembler.label>
+  <MechhiveAssembler.label>родильна фабрика мехвулика</MechhiveAssembler.label>
   <!-- EN: An automated mechanoid factory. It periodically births fresh mechanoids. -->
   <MechhiveAssembler.description>Автоматизована фабрика механоїдів. Періодично народжує нових механоїдів.</MechhiveAssembler.description>
   <!-- EN: mech pylon -->

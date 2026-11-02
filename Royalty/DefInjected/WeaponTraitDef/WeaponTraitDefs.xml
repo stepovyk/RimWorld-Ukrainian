@@ -17,7 +17,7 @@
   <!-- EN: This weapon's persona has the ability to help dissipate the wielder's neural heat. The wielder's neural heat dissipation is improved by 0.15 per second. -->
   <NeuralHeatRecoveryGain.description>Персона цієї зброї вміє розсіювати нейронапругу власника. Швидкість розсіювання нейронапруги власника зростає на 0,15 за секунду.</NeuralHeatRecoveryGain.description>
   <!-- EN: freewielder -->
-  <NeverBond.label>фривольність</NeverBond.label>
+  <NeverBond.label>без прив'язки</NeverBond.label>
   <!-- EN: This weapon's persona does not form bonds in the normal way. Anyone can pick it up and use it. -->
   <NeverBond.description>Персона цієї зброї не утворює зв'язку звичним чином. Будь-хто може взяти її й користуватися нею.</NeverBond.description>
   <!-- EN: painless -->

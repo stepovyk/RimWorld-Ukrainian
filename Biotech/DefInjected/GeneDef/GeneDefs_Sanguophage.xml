@@ -95,7 +95,7 @@
   <!-- EN: Gives hemogen supply. -->
   <Hemogenic.customEffectDescriptions.0>Забезпечує надходження гемогену.</Hemogenic.customEffectDescriptions.0>
   <!-- EN: A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy. -->
-  <Hemogenic.resourceDescription>Запас біологічної сили, який можна здобувати й витрачати різними способами.\n\nГемоген поповнюється, якщо пити людську кров або вживати гемопаки. Гемопаки можна отримати медичною операцією «вилучити гемоген» з людини без гемогенності.\n\nЯкщо гемоген закінчиться, {PAWN_nameDef} буде дуже {PAWN_gender ? нещасний : нещасна}.</Hemogenic.resourceDescription>
+  <Hemogenic.resourceDescription>Запас біологічної сили, який можна здобувати й витрачати різними способами.\n\nГемоген поповнюється, якщо пити людську кров або вживати гемопаки. Гемопаки можна отримати медичною операцією «вилучити гемопак» з людини без гемогенності.\n\nЯкщо гемоген закінчиться, {PAWN_nameDef} буде дуже {PAWN_gender ? нещасний : нещасна}.</Hemogenic.resourceDescription>
   <!-- EN: hemogen -->
   <Hemogenic.resourceLabel>гемоген</Hemogenic.resourceLabel>
   <!-- EN: hemo -->

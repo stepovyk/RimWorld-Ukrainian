@@ -435,7 +435,7 @@
     <li>desc_sentence->[BUYER_nameDef] забирає свої товари.</li>
   </TradedWith.rulePack.rulesStrings>
   <!-- EN: animal trained -->
-  <TrainedAnimal.label>тренування тварини</TrainedAnimal.label>
+  <TrainedAnimal.label>дресирування тварини</TrainedAnimal.label>
   <!-- EN:
     <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
     <li>tale_noun->the training of [ANIMAL_nameDef]</li>

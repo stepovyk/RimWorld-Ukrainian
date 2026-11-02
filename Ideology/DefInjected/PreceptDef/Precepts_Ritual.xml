@@ -13,7 +13,7 @@
   <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
   <Classic_DrumParty.description>Святкове зібрання, щоб ваші колоністи розважилися. Лідер виголосить підбадьорливу промову, а потім усі якийсь час спілкуватимуться.</Classic_DrumParty.description>
   <!-- EN: conversion ritual -->
-  <Conversion.label>ритуал конвертації</Conversion.label>
+  <Conversion.label>ритуал навернення</Conversion.label>
   <!-- EN: Try to persuade someone into joining your ideoligion. -->
   <Conversion.description>Спробуйте переконати когось перейти у вашу ідеологію.</Conversion.description>
   <!-- EN: christmas tree party -->

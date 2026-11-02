@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: closed the void node -->
-  <ClosedTheVoid.label>закриття вузлу порожнечі</ClosedTheVoid.label>
+  <ClosedTheVoid.label>закриття вузла порожнечі</ClosedTheVoid.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] closing the void node.</li>
     <li>image->[PAWN_nameFull] sealing the connection to the void, ensuring the safety of the colony [circumstance_group]</li>

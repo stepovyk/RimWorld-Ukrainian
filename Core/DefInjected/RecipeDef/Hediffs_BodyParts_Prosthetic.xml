@@ -43,7 +43,7 @@
   <!-- EN: Installing prosthetic leg. -->
   <InstallSimpleProstheticLeg.jobString>Встановлює простий протез ноги.</InstallSimpleProstheticLeg.jobString>
   <!-- EN: remove painstopper -->
-  <RemovePainstopper.label>видалити чип знеболення</RemovePainstopper.label>
+  <RemovePainstopper.label>вилучити знеболювач</RemovePainstopper.label>
   <!-- EN: Remove the painstopper. -->
   <RemovePainstopper.description>Вилучити знеболювач.</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->

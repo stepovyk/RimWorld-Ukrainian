@@ -25,7 +25,7 @@
   <!-- EN: Allow books which teach cooking skills. -->
   <AllowBookCooking.description>Дозволити книги, які навчають кулінарії.</AllowBookCooking.description>
   <!-- EN: crafting -->
-  <AllowBookCrafting.label>ремісництво</AllowBookCrafting.label>
+  <AllowBookCrafting.label>ремесло</AllowBookCrafting.label>
   <!-- EN: Allow books which teach crafting skills. -->
   <AllowBookCrafting.description>Дозволити книги, які навчають ремеслу.</AllowBookCrafting.description>
   <!-- EN: intellectual -->
@@ -93,7 +93,7 @@
   <!-- EN: Allow books which advance research of normal research projects. -->
   <AllowMainResearch.description>Дозволити книги, що просувають звичайні дослідницькі проєкти.</AllowMainResearch.description>
   <!-- EN: allow males -->
-  <AllowMaleGender.label>чоловікам</AllowMaleGender.label>
+  <AllowMaleGender.label>чоловіки</AllowMaleGender.label>
   <!-- EN: Allow male individuals. -->
   <AllowMaleGender.description>Дозволити особин чоловічої статі.</AllowMaleGender.description>
   <!-- EN: allow non-biocoded apparel -->

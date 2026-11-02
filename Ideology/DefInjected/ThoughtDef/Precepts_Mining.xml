@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: destroyed natural wall -->
-  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>{PAWN_gender ? Зруйнував : Зруйнувала} природну стіну</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>{PAWN_gender ? зруйнував : зруйнувала} природну стіну</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
   <!-- EN: I destroyed a natural wall. It's wrong to scar the world this way. -->
   <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>Я {PAWN_gender ? зруйнував : зруйнувала} природну стіну. Неправильно так калічити світ.</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>
   <!-- EN: destroyed natural wall -->
-  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>{PAWN_gender ? Зруйнував : Зруйнувала} природну стіну</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>{PAWN_gender ? зруйнував : зруйнувала} природну стіну</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
   <!-- EN: I destroyed a natural wall. It was a horrible violation of nature. -->
   <MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>Я {PAWN_gender ? зруйнував : зруйнувала} природну стіну. Це жахлива наруга над природою.</MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>
   <!-- EN: destroyed natural wall -->
-  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>{PAWN_gender ? Зруйнував : Зруйнувала} природну стіну</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>{PAWN_gender ? зруйнував : зруйнувала} природну стіну</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
   <!-- EN: I destroyed a natural wall. What a terrible offense against nature. -->
   <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>Я {PAWN_gender ? зруйнував : зруйнувала} природну стіну. Який жахливий злочин проти природи.</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>
   <!-- EN: mined -->
-  <Mined_Disapproved.stages.mined.label>{PAWN_gender ? Добув : Добула} породу</Mined_Disapproved.stages.mined.label>
+  <Mined_Disapproved.stages.mined.label>{PAWN_gender ? добув : добула} породу</Mined_Disapproved.stages.mined.label>
   <!-- EN: I had to mine a hole. I disapprove of harming the earth this way. -->
   <Mined_Disapproved.stages.mined.description>Мені довелося видовбати яму в породі. Я не схвалюю, коли так шкодять землі.</Mined_Disapproved.stages.mined.description>
   <!-- EN: mined -->
-  <Mined_Horrible.stages.mined.label>{PAWN_gender ? Добув : Добула} породу</Mined_Horrible.stages.mined.label>
+  <Mined_Horrible.stages.mined.label>{PAWN_gender ? добув : добула} породу</Mined_Horrible.stages.mined.label>
   <!-- EN: I had to mine a hole. It was an offense against the earth. -->
   <Mined_Horrible.stages.mined.description>Мені довелося видовбати яму в породі. Це був злочин проти землі.</Mined_Horrible.stages.mined.description>
   <!-- EN: mined -->

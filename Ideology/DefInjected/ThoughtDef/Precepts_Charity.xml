@@ -17,7 +17,7 @@
   <!-- EN: We helped a crashed refugee survive. I really am a good person! -->
   <CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>Ми допомогли вижити біженцеві, чия капсула розбилася. Я справді хороша людина!</CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>
   <!-- EN: shuttle survivors helped -->
-  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>допомогли біженцю з шатлу</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>допомогли вцілілим із шатла</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. I really am a good person! -->
   <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Ми допомогли тим, хто вцілів у катастрофі шатла. Я справді хороша людина!</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   <!-- EN: accepted someone in danger -->
@@ -45,7 +45,7 @@
   <!-- EN: We helped a crashed refugee survive. Helping others is important. -->
   <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>Ми допомогли вижити біженцеві, чия капсула розбилася. Допомагати іншим – важливо.</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
   <!-- EN: shuttle survivors helped -->
-  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>допомогли біженцю з шатлу</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>допомогли вцілілим із шатла</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. It was clearly the right thing to do. -->
   <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Ми допомогли тим, хто вцілів у катастрофі шатла. Безперечно, так і треба було вчинити.</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   <!-- EN: accepted someone in danger -->
@@ -73,7 +73,7 @@
   <!-- EN: We helped a crashed refugee survive. It was good of me. -->
   <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>Ми допомогли вижити біженцеві, чия капсула розбилася. Я {PAWN_gender ? вчинив : вчинила} добре.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>
   <!-- EN: shuttle survivors helped -->
-  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>допомогли біженцю з шатлу</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>допомогли вцілілим із шатла</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. It was a good thing. -->
   <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Ми допомогли тим, хто вцілів у катастрофі шатла. Це добра справа.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   <!-- EN: accepted someone in danger -->
@@ -177,7 +177,7 @@
   <!-- EN: They were desperate, and we didn't help. It wasn't great. -->
   <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>Вони були в розпачі, а ми не допомогли. Не дуже добре вийшло.</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>
   <!-- EN: noble not helped -->
-  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>вельможа не отримав допомогу</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>дворянин не отримав допомогу</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>
   <!-- EN: We refused to help a desperate noble. Perhaps I am not as charitable as I thought. -->
   <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>Ми відмовилися допомогти вельможі в розпачі. Може, я не {PAWN_gender ? такий милосердний, як думав : така милосердна, як думала}.</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>
   <!-- EN: pilgrims not helped -->

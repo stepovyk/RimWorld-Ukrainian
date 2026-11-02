@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: control sublink (standard) -->
-  <ControlSublink.label>стандартний саблінк</ControlSublink.label>
+  <ControlSublink.label>стандартний сублінк</ControlSublink.label>
   <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis standard-tier sublink can only increase the control group count up to 3. To go higher, a higher-tier sublink implant must be used.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
-  <ControlSublink.description>Нейронний імплант, що дає механітору додаткову контрольну групу. Крім того, саблінк трохи підвищує швидкість роботи всіх механоїдів під керуванням цього механітора.\n\nЦей стандартний саблінк може збільшити кількість контрольних груп лише до 3. Щоб отримати більше, потрібен імплант вищого рівня.\n\nЙого можна встановити самостійно, без операції.\n\nДля посилення ефекту імплант можна встановити до 3 разів.</ControlSublink.description>
+  <ControlSublink.description>Нейронний імплант, що дає механітору додаткову контрольну групу. Крім того, сублінк трохи підвищує швидкість роботи всіх механоїдів під керуванням цього механітора.\n\nЦей стандартний сублінк може збільшити кількість контрольних груп лише до 3. Щоб отримати більше, потрібен імплант вищого рівня.\n\nЙого можна встановити самостійно, без операції.\n\nДля посилення ефекту імплант можна встановити до 3 разів.</ControlSublink.description>
   <!-- EN: Implant sublink -->
-  <ControlSublink.comps.CompUsableImplant.useLabel>Встановити саблінк</ControlSublink.comps.CompUsableImplant.useLabel>
+  <ControlSublink.comps.CompUsableImplant.useLabel>Встановити сублінк</ControlSublink.comps.CompUsableImplant.useLabel>
   <!-- EN: control sublink (high) -->
-  <ControlSublinkHigh.label>просунутий саблінк</ControlSublinkHigh.label>
+  <ControlSublinkHigh.label>високотехнологічний сублінк</ControlSublinkHigh.label>
   <!-- EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis high-tier implant can increase the control group count up to 6.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
-  <ControlSublinkHigh.description>Нейронний імплант, що дає механітору додаткову контрольну групу. Крім того, саблінк трохи підвищує швидкість роботи всіх механоїдів під керуванням цього механітора.\n\nЦей просунутий імплант може збільшити кількість контрольних груп до 6.\n\nЙого можна встановити самостійно, без операції.\n\nДля посилення ефекту імплант можна встановити до 3 разів.</ControlSublinkHigh.description>
+  <ControlSublinkHigh.description>Нейронний імплант, що дає механітору додаткову контрольну групу. Крім того, сублінк трохи підвищує швидкість роботи всіх механоїдів під керуванням цього механітора.\n\nЦей просунутий імплант може збільшити кількість контрольних груп до 6.\n\nЙого можна встановити самостійно, без операції.\n\nДля посилення ефекту імплант можна встановити до 3 разів.</ControlSublinkHigh.description>
   <!-- EN: Implant high sublink -->
-  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>Встановити просунутий саблінк</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
+  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>Встановити високотехнологічний сублінк</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
   <!-- EN: mech gestation processor -->
   <MechFormfeeder.label>процесор гестатора</MechFormfeeder.label>
   <!-- EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
@@ -25,13 +25,13 @@
   <!-- EN: Install {0_label} to become mechanitor -->
   <Mechlink.comps.CompUsableImplant.useLabel>Встановити {lookup: {0_label}; Case; 3} та стати механітором</Mechlink.comps.CompUsableImplant.useLabel>
   <!-- EN: remote repairer -->
-  <RemoteRepairer.label>дистанційний ремонт</RemoteRepairer.label>
+  <RemoteRepairer.label>імплант дистанційного ремонту</RemoteRepairer.label>
   <!-- EN: A mechlink upgrade which allows the mechanitor to repair mechs from a distance. The user links with the mechanoid and uses their own brain to psychically guide its self-repair mechanites.\n\nThis implant can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its range. -->
   <RemoteRepairer.description>Покращення мехлінку, що дає механітору змогу ремонтувати механоїдів на відстані. Механітор з'єднується з механоїдом і власним мозком психічно спрямовує його механіти самовідновлення.\n\nЙого можна встановити самостійно, без операції.\n\nЩоб збільшити дальність, імплант можна встановити до 3 разів.</RemoteRepairer.description>
   <!-- EN: Implant {0_label} -->
   <RemoteRepairer.comps.CompUsableImplant.useLabel>Встановити {lookup: {0_label}; Case; 3}</RemoteRepairer.comps.CompUsableImplant.useLabel>
   <!-- EN: remote shielder -->
-  <RemoteShielder.label>дистанційний щит</RemoteShielder.label>
+  <RemoteShielder.label>імплант дистанційного щита</RemoteShielder.label>
   <!-- EN: An implant which allows the mechanitor to place a personal defense shield on a mech. The mechanitor must continuously focus on the mech in order to maintain the shield.\n\nPlacing a shield at a distance requires a substantial amount of focused energy. It can be used to save a mech at a critical moment.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 3 times to increase its range and shield energy. -->
   <RemoteShielder.description>Імплант, що дає механітору змогу накласти на механоїда особистий захисний щит. Щоб підтримувати щит, механітор має постійно зосереджуватися на механоїді.\n\nНакладання щита на відстані потребує чималої кількості зосередженої енергії. Це може врятувати механоїда в критичну мить.\n\nЙого можна встановити самостійно, так само як мехлінк.\n\nЩоб збільшити дальність і енергію щита, імплант можна встановити до 3 разів.</RemoteShielder.description>
   <!-- EN: Implant {0_label} -->

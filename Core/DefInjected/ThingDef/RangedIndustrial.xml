@@ -35,7 +35,7 @@
   <!-- EN: barrel -->
   <Gun_AssaultRifle.tools.barrel.label>ствол</Gun_AssaultRifle.tools.barrel.label>
   <!-- EN: assault rifle -->
-  <Gun_AssaultRifle.verbs.Verb_Shoot.label>штурмовою гвинтівкою</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>штурмова гвинтівка</Gun_AssaultRifle.verbs.Verb_Shoot.label>
   <!-- EN: autopistol -->
   <Gun_Autopistol.label>автоматичний пістолет</Gun_Autopistol.label>
   <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
@@ -45,7 +45,7 @@
   <!-- EN: barrel -->
   <Gun_Autopistol.tools.barrel.label>ствол</Gun_Autopistol.tools.barrel.label>
   <!-- EN: autopistol -->
-  <Gun_Autopistol.verbs.Verb_Shoot.label>автоматичним пістолетом</Gun_Autopistol.verbs.Verb_Shoot.label>
+  <Gun_Autopistol.verbs.Verb_Shoot.label>автоматичний пістолет</Gun_Autopistol.verbs.Verb_Shoot.label>
   <!-- EN: bolt-action rifle -->
   <Gun_BoltActionRifle.label>гвинтівка</Gun_BoltActionRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
@@ -55,7 +55,7 @@
   <!-- EN: barrel -->
   <Gun_BoltActionRifle.tools.barrel.label>ствол</Gun_BoltActionRifle.tools.barrel.label>
   <!-- EN: bolt-action rifle -->
-  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>гвинтівкою</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>гвинтівка</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
   <!-- EN: chain shotgun -->
   <Gun_ChainShotgun.label>автоматичний дробовик</Gun_ChainShotgun.label>
   <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
@@ -65,7 +65,7 @@
   <!-- EN: barrel -->
   <Gun_ChainShotgun.tools.barrel.label>ствол</Gun_ChainShotgun.tools.barrel.label>
   <!-- EN: chain shotgun -->
-  <Gun_ChainShotgun.verbs.Verb_Shoot.label>автоматичним дробовиком</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>автоматичний дробовик</Gun_ChainShotgun.verbs.Verb_Shoot.label>
   <!-- EN: EMP launcher -->
   <Gun_EmpLauncher.label>ЕМІ-гранатомет</Gun_EmpLauncher.label>
   <!-- EN: A wide-barreled EMP shell launcher. The shell will upon impact release a burst of electromagnetic energy, stunning mechanical targets (mechanoids, turrets, mortars) and depleting shields in the area of effect. -->
@@ -75,7 +75,7 @@
   <!-- EN: barrel -->
   <Gun_EmpLauncher.tools.barrel.label>ствол</Gun_EmpLauncher.tools.barrel.label>
   <!-- EN: EMP launcher -->
-  <Gun_EmpLauncher.verbs.Verb_Shoot.label>ЕМІ-гранатометом</Gun_EmpLauncher.verbs.Verb_Shoot.label>
+  <Gun_EmpLauncher.verbs.Verb_Shoot.label>ЕМІ-гранатомет</Gun_EmpLauncher.verbs.Verb_Shoot.label>
   <!-- EN: heavy SMG -->
   <Gun_HeavySMG.label>важкий пістолет-кулемет</Gun_HeavySMG.label>
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
@@ -85,7 +85,7 @@
   <!-- EN: barrel -->
   <Gun_HeavySMG.tools.barrel.label>ствол</Gun_HeavySMG.tools.barrel.label>
   <!-- EN: heavy SMG -->
-  <Gun_HeavySMG.verbs.Verb_Shoot.label>важким пістолетом-кулеметом</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>важкий пістолет-кулемет</Gun_HeavySMG.verbs.Verb_Shoot.label>
   <!-- EN: incendiary launcher -->
   <Gun_IncendiaryLauncher.label>запальний гранатомет</Gun_IncendiaryLauncher.label>
   <!-- EN: A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires. -->
@@ -95,7 +95,7 @@
   <!-- EN: barrel -->
   <Gun_IncendiaryLauncher.tools.barrel.label>ствол</Gun_IncendiaryLauncher.tools.barrel.label>
   <!-- EN: incendiary launcher -->
-  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>запальним гранатометом</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>запальний гранатомет</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
   <!-- EN: LMG -->
   <Gun_LMG.label>ручний кулемет</Gun_LMG.label>
   <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
@@ -105,7 +105,7 @@
   <!-- EN: barrel -->
   <Gun_LMG.tools.barrel.label>ствол</Gun_LMG.tools.barrel.label>
   <!-- EN: LMG -->
-  <Gun_LMG.verbs.Verb_Shoot.label>ручним кулеметом</Gun_LMG.verbs.Verb_Shoot.label>
+  <Gun_LMG.verbs.Verb_Shoot.label>ручний кулемет</Gun_LMG.verbs.Verb_Shoot.label>
   <!-- EN: machine pistol -->
   <Gun_MachinePistol.label>пістолет-кулемет</Gun_MachinePistol.label>
   <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->
@@ -115,7 +115,7 @@
   <!-- EN: barrel -->
   <Gun_MachinePistol.tools.barrel.label>ствол</Gun_MachinePistol.tools.barrel.label>
   <!-- EN: machine pistol -->
-  <Gun_MachinePistol.verbs.Verb_Shoot.label>пістолетом-кулеметом</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>пістолет-кулемет</Gun_MachinePistol.verbs.Verb_Shoot.label>
   <!-- EN: minigun -->
   <Gun_Minigun.label>мініґан</Gun_Minigun.label>
   <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
@@ -123,7 +123,7 @@
   <!-- EN: barrels -->
   <Gun_Minigun.tools.barrels.label>стволи</Gun_Minigun.tools.barrels.label>
   <!-- EN: minigun -->
-  <Gun_Minigun.verbs.Verb_Shoot.label>мініґаном</Gun_Minigun.verbs.Verb_Shoot.label>
+  <Gun_Minigun.verbs.Verb_Shoot.label>мініґан</Gun_Minigun.verbs.Verb_Shoot.label>
   <!-- EN: pump shotgun -->
   <Gun_PumpShotgun.label>помповий дробовик</Gun_PumpShotgun.label>
   <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
@@ -133,7 +133,7 @@
   <!-- EN: barrel -->
   <Gun_PumpShotgun.tools.barrel.label>ствол</Gun_PumpShotgun.tools.barrel.label>
   <!-- EN: pump shotgun -->
-  <Gun_PumpShotgun.verbs.Verb_Shoot.label>помповим дробовиком</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>помповий дробовик</Gun_PumpShotgun.verbs.Verb_Shoot.label>
   <!-- EN: revolver -->
   <Gun_Revolver.label>револьвер</Gun_Revolver.label>
   <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
@@ -143,7 +143,7 @@
   <!-- EN: barrel -->
   <Gun_Revolver.tools.barrel.label>ствол</Gun_Revolver.tools.barrel.label>
   <!-- EN: revolver -->
-  <Gun_Revolver.verbs.Verb_Shoot.label>револьвером</Gun_Revolver.verbs.Verb_Shoot.label>
+  <Gun_Revolver.verbs.Verb_Shoot.label>револьвер</Gun_Revolver.verbs.Verb_Shoot.label>
   <!-- EN: smoke launcher -->
   <Gun_SmokeLauncher.label>димовий гранатомет</Gun_SmokeLauncher.label>
   <!-- EN: A wide-barreled smoke shell launcher. The shell will upon impact release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
@@ -153,7 +153,7 @@
   <!-- EN: barrel -->
   <Gun_SmokeLauncher.tools.barrel.label>ствол</Gun_SmokeLauncher.tools.barrel.label>
   <!-- EN: smoke launcher -->
-  <Gun_SmokeLauncher.verbs.Verb_Shoot.label>димовим гранатометом</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
+  <Gun_SmokeLauncher.verbs.Verb_Shoot.label>димовий гранатомет</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
   <!-- EN: sniper rifle -->
   <Gun_SniperRifle.label>снайперська гвинтівка</Gun_SniperRifle.label>
   <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
@@ -163,5 +163,5 @@
   <!-- EN: barrel -->
   <Gun_SniperRifle.tools.barrel.label>ствол</Gun_SniperRifle.tools.barrel.label>
   <!-- EN: sniper rifle -->
-  <Gun_SniperRifle.verbs.Verb_Shoot.label>снайперською гвинтівкою</Gun_SniperRifle.verbs.Verb_Shoot.label>
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>снайперська гвинтівка</Gun_SniperRifle.verbs.Verb_Shoot.label>
 </LanguageData>

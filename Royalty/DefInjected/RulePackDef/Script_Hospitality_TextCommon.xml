@@ -103,7 +103,7 @@
     <li>mechViolation_pl->намагалися зламати вузол керування механоїдами</li>
     <li>mechViolation_pl->намагалися обікрасти стародавнє сховище</li>
     <li>letterSubject->{SUBJECT_definite}</li>
-    <li>lodgersHasHave(lodgersCount==1)->прибув</li>
+    <li>lodgersHasHave(lodgersCount==1)->{lodgers0_gender ? прибув : прибула}</li>
     <li>lodgersHasHave(lodgersCount>=2)->прибули</li>
     <li>lodgersObjective(lodgersCount==1)->{lodgers0_gender ? його : її}</li>
     <li>lodgersObjective(lodgersCount>=2)->їх</li>

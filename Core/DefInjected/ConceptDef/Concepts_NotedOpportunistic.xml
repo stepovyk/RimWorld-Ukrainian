@@ -9,7 +9,7 @@
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
   <BillsTab.helpText>Щоб колоністи працювали за верстатом, виберіть його й відкрийте вкладку «Замовлення». Тут можна вказати, які страви готувати, які речі виготовляти й яких істот розбирати на м'ясо.</BillsTab.helpText>
   <!-- EN: books -->
-  <Books.label>Книжки</Books.label>
+  <Books.label>книги</Books.label>
   <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
   <Books.helpText>Колоністи читають книжки для дозвілля, щоб розвивати навички, відкривати дослідження тощо. Що дає конкретна книжка, можна побачити, якщо виділити її й відкрити вкладку з подробицями.\n\nЩоб вибрати, що читатимуть колоністи, відкрийте вкладку ПРИЗНАЧЕННЯ й налаштуйте ПРАВИЛА ВИБОРУ КНИГ.\n\nКнижки в книжкових шафах пасивно покращують інтелектуальну роботу й читання поблизу, а також додають шафі краси. Книжкові шафи пасивно підвищують швидкість досліджень, досвід від читання й дозвілля від читання в тій самій кімнаті.</Books.helpText>
   <!-- EN: Build orbital trade beacon -->
@@ -87,7 +87,7 @@
   <!-- EN: Shelves -->
   <Shelves.label>Стелажі</Shelves.label>
   <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
-  <Shelves.helpText>Стелаж вміщує втричі більше, ніж порожня підлога. До того ж речі на стелажах ніколи не псуються й не погіршують краси довкола.\n\nСтелажі можна об'єднувати в групи й налаштовувати разом. Виберіть два чи більше стелажів і натисніть «Об'єднати сховище».</Shelves.helpText>
+  <Shelves.helpText>Стелаж вміщує втричі більше, ніж порожня підлога. До того ж речі на стелажах ніколи не псуються й не погіршують краси довкола.\n\nСтелажі можна об'єднувати в групи й налаштовувати разом. Виберіть два чи більше стелажів і натисніть «Зв'язати налаштування».</Shelves.helpText>
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Пояси-щити</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->

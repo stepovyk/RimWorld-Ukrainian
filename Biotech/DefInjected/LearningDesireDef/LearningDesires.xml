@@ -5,11 +5,11 @@
   <!-- EN: Draw designs on the ground using chalk. A cleaner will eventually remove the drawings. -->
   <Floordrawing.description>Малювати крейдою візерунки на землі. Згодом прибиральник змиє малюнки.</Floordrawing.description>
   <!-- EN: lesson taking -->
-  <Lessontaking.label>проведення уроків</Lessontaking.label>
+  <Lessontaking.label>уроки</Lessontaking.label>
   <!-- EN: An adult assigned to childcare will teach about various topics. This gives experience in skills. Requires a school desk. -->
   <Lessontaking.description>Дорослий, призначений доглядати за дітьми, навчатиме різних тем. Це дає досвід у навичках. Потрібна шкільна парта.</Lessontaking.description>
   <!-- EN: nature running -->
-  <NatureRunning.label>біг по природі</NatureRunning.label>
+  <NatureRunning.label>біг на природі</NatureRunning.label>
   <!-- EN: Explore the local outdoors. Requires access to the outdoors. -->
   <NatureRunning.description>Досліджувати довколишню природу. Потрібен вихід надвір.</NatureRunning.description>
   <!-- EN: radio talking -->
@@ -21,7 +21,7 @@
   <!-- EN: Find a book and practice reading. -->
   <Reading.description>Знайти книжку й повправлятися в читанні.</Reading.description>
   <!-- EN: sky dreaming -->
-  <Skydreaming.label>мрії по небу</Skydreaming.label>
+  <Skydreaming.label>споглядання неба</Skydreaming.label>
   <!-- EN: Find a spot outside and watch the sky. Requires access to the outdoors. -->
   <Skydreaming.description>Знайти місце надворі й дивитися на небо. Потрібен вихід надвір.</Skydreaming.description>
   <!-- EN: work watching -->

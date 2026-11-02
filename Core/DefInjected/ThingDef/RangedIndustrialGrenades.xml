@@ -5,7 +5,7 @@
   <!-- EN: frag grenade -->
   <Proj_GrenadeFrag.label>осколкова граната</Proj_GrenadeFrag.label>
   <!-- EN: molotov cocktail -->
-  <Proj_GrenadeMolotov.label>коктейль молотова</Proj_GrenadeMolotov.label>
+  <Proj_GrenadeMolotov.label>коктейль Молотова</Proj_GrenadeMolotov.label>
   <!-- EN: EMP grenades -->
   <Weapon_GrenadeEMP.label>ЕМІ-гранати</Weapon_GrenadeEMP.label>
   <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
@@ -19,7 +19,7 @@
   <!-- EN: throw frag grenade -->
   <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>кинути осколкову гранату</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
   <!-- EN: molotov cocktails -->
-  <Weapon_GrenadeMolotov.label>коктейлі молотова</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.label>коктейлі Молотова</Weapon_GrenadeMolotov.label>
   <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
   <Weapon_GrenadeMolotov.description>Скляні пляшки з легкозаймистою рідиною й палаючою ганчіркою в шийці. Улюблена зброя хуліганів і доведених до відчаю вояків у всіх прикордонних світах.</Weapon_GrenadeMolotov.description>
   <!-- EN: throw molotov -->

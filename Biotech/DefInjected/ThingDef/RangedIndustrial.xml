@@ -11,7 +11,7 @@
   <!-- EN: flamebow -->
   <Flamebow.verbs.Verb_Shoot.label>вогняний лук</Flamebow.verbs.Verb_Shoot.label>
   <!-- EN: toxbomb launcher -->
-  <Gun_ToxbombLauncher.label>токсична пускова установка</Gun_ToxbombLauncher.label>
+  <Gun_ToxbombLauncher.label>токсичний бомбомет</Gun_ToxbombLauncher.label>
   <!-- EN: A self-loading low-pressure canister launcher loaded with tox bombs. Upon impact, the tox bombs will stick to the ground and release tox gas for several seconds.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal. -->
   <Gun_ToxbombLauncher.description>Самозарядний пусковий пристрій низького тиску для каністр, заряджений токсичними бомбами. Після падіння токсичні бомби прилипають до землі й кілька секунд виділяють токсичний газ.\n\nТоксичний газ обпікає легені й очі, спричиняючи тимчасову задишку й погіршення зору. Тривалий вплив газу призводить до отруєння токсинами, яке може бути смертельним.</Gun_ToxbombLauncher.description>
   <!-- EN: stock -->
@@ -19,7 +19,7 @@
   <!-- EN: barrel -->
   <Gun_ToxbombLauncher.tools.barrel.label>ствол</Gun_ToxbombLauncher.tools.barrel.label>
   <!-- EN: toxbomb launcher -->
-  <Gun_ToxbombLauncher.verbs.Verb_Shoot.label>токсична пускова установка</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
+  <Gun_ToxbombLauncher.verbs.Verb_Shoot.label>токсичний бомбомет</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
   <!-- EN: fire arrow -->
   <Proj_FireArrow.label>вогняна стріла</Proj_FireArrow.label>
   <!-- EN: tox grenade -->

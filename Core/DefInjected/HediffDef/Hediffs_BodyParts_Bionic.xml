@@ -61,5 +61,5 @@
   <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>Встановлений посмертний окислювач. Коли носій помирає, імплант вивільняє сильнодіючі хімікати, що розчиняють спорядження, яке торкається тіла. Іншим не шкодить.</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
-  <DeathAcidifier.labelNoun>посмертний розчинник</DeathAcidifier.labelNoun>
+  <DeathAcidifier.labelNoun>посмертний окислювач</DeathAcidifier.labelNoun>
 </LanguageData>

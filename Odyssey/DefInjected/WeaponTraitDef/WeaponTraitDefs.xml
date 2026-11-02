@@ -75,7 +75,7 @@
   <!-- EN: hi-grip -->
   <CustomGrip.traitAdjectives.3>цупкий</CustomGrip.traitAdjectives.3>
   <!-- EN: EMP cannon -->
-  <EMPLauncher.label>ЕМІ-граната</EMPLauncher.label>
+  <EMPLauncher.label>ЕМІ-гранатомет</EMPLauncher.label>
   <!-- EN: This weapon has an attached EMP shell launcher. The shell emits a burst of electromagnetic energy that stuns electronic targets like turrets and mechanoids. Once fired, it must be reloaded using steel. -->
   <EMPLauncher.description>До цієї зброї приєднано гранатомет з ЕМІ-гранатами. Граната випромінює сплеск електромагнітної енергії, що оглушує електронні цілі, як-от турелі й механоїдів. Після пострілу гранатомет треба перезарядити сталлю.</EMPLauncher.description>
   <!-- EN: shell -->
