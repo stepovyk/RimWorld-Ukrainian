@@ -709,7 +709,7 @@
     <li>PlaceOutlander->[CapSylE][SylE][place_end]</li>
     <li>PlaceOutlander->[CapSylE][SylE][SylE][place_end]</li>
     <li>mapSubjectAdj(p=6)->[direction]</li>
-    <li>mapSubjectAdj->древні</li>
+    <li>mapSubjectAdj->старовинні</li>
     <li>mapSubjectAdj->історичні</li>
     <li>mapSubjectAdj->старі</li>
     <li>mapSubjectAdj->забуті</li>
@@ -748,7 +748,7 @@
     <li>mapSubjectAdj->унікальні</li>
     <li>mapSubjectAdj->важливі</li>
     <li>mapSubjectAdj_gen(p=6)->[direction_gen]</li>
-    <li>mapSubjectAdj_gen->древніх</li>
+    <li>mapSubjectAdj_gen->старовинних</li>
     <li>mapSubjectAdj_gen->історичних</li>
     <li>mapSubjectAdj_gen->старих</li>
     <li>mapSubjectAdj_gen->забутих</li>

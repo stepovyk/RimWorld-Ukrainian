@@ -12,7 +12,7 @@
     <li>visitInfo(allowViolentQuests==false)->They are willing to let you visit.</li>
   -->
   <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
-    <li>questDescription->Ви дізналися про стародавній термінал, де зберігаються відомості про реліквію, відому як [relic_name]. Проте термінал стоїть посеред племінного села, і місцеві його шанують. Вони не належать до жодної великої фракції.\n\n[visitInfo]</li>
+    <li>questDescription->Ви дізналися про старовинний термінал, де зберігаються відомості про реліквію, відому як [relic_name]. Проте термінал стоїть посеред племінного села, і місцеві його шанують. Вони не належать до жодної великої фракції.\n\n[visitInfo]</li>
     <li>visitInfo(allowViolentQuests==true)->Вони пустять вас нібито на поклоніння терміналу, але нападуть, щойно ви його торкнетеся.\n\nМожна атакувати село ззовні або мирно увійти й спробувати швидко втекти з даними термінала.\n\nОбережно: якщо пробудете в селі понад [timer_duration] або збудуєте щось поблизу, місцеві нападуть і покличуть підкріплення.</li>
     <li>visitInfo(allowViolentQuests==false)->Вони не заперечуватимуть проти ваших відвідин.</li>
   </Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
@@ -38,7 +38,7 @@
     <li>questName->[adj] [terminalName]</li>
     <li>adj->Шанований</li>
     <li>adj->Обожнюваний</li>
-    <li>adj->Стародавній</li>
+    <li>adj->Старовинний</li>
     <li>adj->Селянський</li>
     <li>adj->Сільський</li>
     <li>adj->Племінний</li>

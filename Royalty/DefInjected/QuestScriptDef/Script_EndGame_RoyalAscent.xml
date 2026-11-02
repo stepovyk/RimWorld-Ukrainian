@@ -38,8 +38,6 @@
   <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Завдання провалено: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
   <!-- EN: [faction_name] became hostile to you.  -->
   <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>Фракція [faction_name] стала ворожою до вас.</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
-  <!-- EN: asker.NoLongerFactionLeader -->
-  <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>[asker_nameDef] більше не лідер фракції</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
   <!-- EN: [asker_faction_leaderTitle] arrived -->
   <EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>[asker_faction_leaderTitle] {asker_gender ? прибув : прибула}</EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>
   <!-- EN: The [asker_faction_leaderTitle] of [asker_faction_name], has arrived.\n\nProtect him and satisfy his royal needs until the shuttle arrives in [shuttleDelayTicks_duration].\n\nAll of you can accompany the [asker_faction_leaderTitle] on the shuttle and travel to the Imperial flotilla to begin a new life. -->

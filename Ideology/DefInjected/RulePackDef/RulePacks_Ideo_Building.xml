@@ -66,6 +66,7 @@
     <li>r_ideoBuildingName->[buildingName] [keyDeity]</li>
     <li>r_ideoBuildingName->[buildingName] «[memeConcept]»</li>
     <li>r_ideoBuildingName->[buildingName] «[chosenIdeoName]»</li>
+    <li>buildingName_m(p=0.01)->[buildingName]</li>
   </NamerIdeoBuilding.rulePack.rulesStrings>
   <!-- EN:
     <li>buildingName->ideogram</li>

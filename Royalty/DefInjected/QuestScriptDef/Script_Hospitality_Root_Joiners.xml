@@ -192,14 +192,15 @@
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->вельможі</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->шляхта</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->аристократи</li>
-    <li>lodgerGen(askerIsNull==true,lodgersCount==1)->{lookup: [lodgers0_title]; Case; 1}</li>
+    <li>lodgerGen(askerIsNull==true,lodgersCount==1)->мандрівника</li>
+    <li>lodgerGen(askerIsNull==true,lodgersCount==1)->незнайомця</li>
     <li>lodgerGen(askerIsNull==true,lodgersCount>=2)->мандрівників</li>
-    <li>lodgerGen(asker_factionLeader==True,lodgersCount==1)->{lookup: [lodgers0_title]; Case; 1}</li>
+    <li>lodgerGen(asker_factionLeader==True,lodgersCount==1)->гостя</li>
     <li>lodgerGen(asker_factionLeader==True,lodgersCount==1)->друга</li>
     <li>lodgerGen(asker_factionLeader==True,lodgersCount==1)->союзника</li>
     <li>lodgerGen(asker_factionLeader==True,lodgersCount>=2)->друзів</li>
     <li>lodgerGen(asker_factionLeader==True,lodgersCount>=2)->союзників</li>
-    <li>lodgerGen(asker_royalInCurrentFaction==True,lodgersCount==1,p=3)->{lookup: [asker_royalTitleInCurrentFaction]; Case; 1}</li>
+    <li>lodgerGen(asker_royalInCurrentFaction==True,lodgersCount==1,p=3)->вельможі</li>
     <li>lodgerGen(asker_royalInCurrentFaction==True,lodgersCount==1)->вельможі</li>
     <li>lodgerGen(asker_royalInCurrentFaction==True,lodgersCount==1)->шляхтича</li>
     <li>lodgerGen(asker_royalInCurrentFaction==True,lodgersCount==1)->аристократа</li>

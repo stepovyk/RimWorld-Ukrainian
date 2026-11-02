@@ -214,8 +214,8 @@
     <li>skillAdv(INITIATOR_flesh==Mechanoid)->directly</li>
   -->
   <Combat_SkillIncludes.rulePack.rulesStrings>
-    <li>skillDescMelee->[wielding] {lookup: [WEAPON_label]; Case; 4} [skillAdv]</li>
-    <li>skillDescMelee->[using] [implement] [skillAdv]</li>
+    <li>skillDescMelee->[skillAdv] [wielding] {lookup: [WEAPON_label]; Case; 4}</li>
+    <li>skillDescMelee->[skillAdv] [using] [implement]</li>
     <li>wielding(p=4)->орудуючи</li>
     <li>wielding(p=3)->розмахуючи</li>
     <li>wielding(p=2)->вимахуючи</li>
