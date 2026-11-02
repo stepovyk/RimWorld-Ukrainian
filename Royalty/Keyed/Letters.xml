@@ -26,7 +26,7 @@
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
   <LetterRewardsForNewTitleDeliveryBase>Нагороди прибули до вашої колонії в транспортних капсулах.</LetterRewardsForNewTitleDeliveryBase>
   <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
-  <LetterRewardsForNewTitleDeliveryDirect>Нагороди доставлено просто в інвентар {PAWN_labelShort}.</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRewardsForNewTitleDeliveryDirect>{PAWN_labelShort} отримує нагороди просто в інвентар.</LetterRewardsForNewTitleDeliveryDirect>
   <!-- EN: {PAWN_pronoun} has these permissions: -->
   <LetterRoyalTitlePermits>{PAWN_pronoun} має такі привілеї:</LetterRoyalTitlePermits>
   <!-- EN: {PAWN_pronoun} lost these permissions: -->
@@ -44,7 +44,7 @@
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
   <LetterRoyalTitleImplantGracePeriod>Щоб уникнути дипломатичних наслідків, імпланти треба вилучити протягом п'ятиденного пільгового строку.</LetterRoyalTitleImplantGracePeriod>
   <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
-  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} тепер може виголошувати промови з трону. Якщо все мине добре, слухачі надихнуться. Якщо погано – промова зіпсує стосунки. Результат залежить від соціальних навичок {PAWN_labelShort}.</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} тепер може виголошувати промови з трону. Якщо все мине добре, слухачі надихнуться. Якщо погано – промова зіпсує стосунки. Результат залежить від {PAWN_gender ? його : її} соціальних навичок.</LetterRoyalTitleSpeechAbilityGained>
   <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
   <LetterRoyalTitleThroneroomRequirements>Для цього титулу потрібна тронна зала, що відповідає таким вимогам:{1}</LetterRoyalTitleThroneroomRequirements>
   <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
@@ -114,13 +114,13 @@
   <LetterPsylinkLevelGained_PsycastLearned>Отримавши новий рівень пси-зв'язку, {USER_labelShort} автоматично {USER_gender ? вивчив : вивчила} такі пси-здібності: {2}</LetterPsylinkLevelGained_PsycastLearned>
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterPsychicInspiration>Завдяки психічному навіюванню {CASTER_nameIndef} {PAWN_nameIndef} отримує натхнення!</LetterPsychicInspiration>
+  <LetterPsychicInspiration>{CASTER_nameIndef} {CASTER_gender ? вдався : вдалася} до психічного навіювання, і {PAWN_nameIndef} отримує натхнення!</LetterPsychicInspiration>
   <!-- EN: Bestowing ceremony expired -->
   <LetterLabelBestowingCeremonyExpired>Час церемонії нагородження минув</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
   <LetterTextBestowingCeremonyExpired>{TARGET_definite} не {TARGET_gender ? прийшов : прийшла} на церемонію нагородження. Церемонію скасовано.</LetterTextBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite}'s title changed -->
-  <LetterLabelBestowingCeremonyTitleUpdated>Титул {TARGET_definite} змінено</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}: титул змінено</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
   <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} {TARGET_gender ? отримав : отримала} новий титул, поки церемонію нагородження ще не провели. Щоб нагородження відповідало новому титулу, незабаром буде заплановано іншу церемонію.\n\nНова церемонія нагородження включатиме нагороди рівнями пси-зв'язку за всі титули, які ще не було вручено.</LetterTextBestowingCeremonyTitleUpdated>
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->

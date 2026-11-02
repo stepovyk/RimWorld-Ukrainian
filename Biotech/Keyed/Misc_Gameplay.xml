@@ -351,7 +351,7 @@
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
   <ImplantXenogermWarningDesc>Поки ксенозародок приживатиметься, {PAWN_nameDef} перебуватиме в комі. У середньому це триває {COMADURATION}. Тривалість коми залежить від медичної навички лікаря та якості вашого медичного обладнання.</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
-  <ImplantXenogermWarningOverwriteXenogenes>Крім того, імплантація ксенозародка замінить наявні ксеногени. Поточний ксенотип {PAWN_nameDef} – «{XENOTYPE}». Наявні ксеногени:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningOverwriteXenogenes>Крім того, імплантація ксенозародка замінить наявні ксеногени. Зараз {PAWN_nameDef} має ксенотип «{XENOTYPE}» і такі ксеногени:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
   <!-- EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
   <ImplantXenogermWarningNewMetabolism>Після імплантації {PAWN_nameDef} матиме метаболізм {MET} і множник споживання їжі {CONSUMPTION}.</ImplantXenogermWarningNewMetabolism>
   <!-- EN: Would you like to continue? -->
@@ -381,7 +381,7 @@
   <!-- EN: Warning: {PAWN_nameDef}'s genes are regrowing. Extracting {PAWN_possessive} genes before they are regrown will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
   <ConfirmExtractXenogermWillKill>Увага: гени {PAWN_nameDef} відновлюються. Якщо вилучити гени до повного відновлення, {PAWN_pronoun} помре.\n\nВи впевнені, що хочете продовжити?</ConfirmExtractXenogermWillKill>
   <!-- EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
-  <GeneExtractionComplete>Вилучення генів у {PAWN_nameDef} завершено. Вилучено</GeneExtractionComplete>
+  <GeneExtractionComplete>{PAWN_nameDef}: вилучення генів завершено. Вилучено</GeneExtractionComplete>
   <!-- EN: Insert xenogerm -->
   <InsertXenogerm>Помістити ксенозародок</InsertXenogerm>
   <!-- EN: Insert a xenogerm to apply during growth. -->

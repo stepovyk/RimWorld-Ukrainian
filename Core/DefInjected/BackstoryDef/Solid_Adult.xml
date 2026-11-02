@@ -51,7 +51,7 @@
   <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\n\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence. -->
   <AlcoholicTrucker93.description>[PAWN_nameDef] {PAWN_gender ? працював космічним далекобійником : працювала космічною далекобійницею} в «Аркнайт Індастріз», коли {PAWN_gender ? спричинив : спричинила} аварію, у якій загинули {PAWN_gender ? його дружина : її чоловік} і донька.\n\nТіло [PAWN_nameDef] відновили експериментальною наногенетичною терапією. Тепер {PAWN_gender ? його : її} м'язи безперервно регенерують і твердіють, а кожен рух знову рве тканини. Цей біль {PAWN_gender ? він терпить : вона терпить} мовчки.</AlcoholicTrucker93.description>
   <!-- EN: alcoholic trucker -->
-  <AlcoholicTrucker93.title>далекобійник алкоголік</AlcoholicTrucker93.title>
+  <AlcoholicTrucker93.title>далекобійник-алкоголік</AlcoholicTrucker93.title>
   <!-- EN: alcoholic -->
   <AlcoholicTrucker93.titleShort>алкоголік</AlcoholicTrucker93.titleShort>
   <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
@@ -207,7 +207,7 @@
   <!-- EN: When the civil war ended, [PAWN_nameDef] had to find a new way to use [PAWN_possessive] fighting skills. [PAWN_pronoun] decided to hunt down war criminals and soon realized that [PAWN_pronoun] enjoyed capturing bad guys by any means necessary. -->
   <BountyHunter93.description>Коли громадянська війна закінчилася, [PAWN_nameDef] {PAWN_gender ? мусив знайти : мусила знайти} новий спосіб застосувати свої бойові навички. [PAWN_pronoun] {PAWN_gender ? вирішив полювати : вирішила полювати} на військових злочинців і невдовзі {PAWN_gender ? усвідомив : усвідомила}, що {PAWN_gender ? йому подобається ловити : їй подобається ловити} поганців будь-якими методами.</BountyHunter93.description>
   <!-- EN: bounty hunter -->
-  <BountyHunter93.title>військовий мисливець</BountyHunter93.title>
+  <BountyHunter93.title>мисливець за головами</BountyHunter93.title>
   <!-- EN: hunter -->
   <BountyHunter93.titleShort>мисливець</BountyHunter93.titleShort>
   <!-- EN: [PAWN_nameDef] flew with a band of brigands [PAWN_pronoun] called friends. [PAWN_pronoun] even had a ship of [PAWN_possessive] own - The Dung Mucker 2000. -->
@@ -225,7 +225,7 @@
   <!-- EN: Staying one step ahead of the law, [PAWN_nameDef] became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, [PAWN_nameDef]'s good fortune continued while [PAWN_possessive] competition suffered a series of unfortunate and unexplained accidents. -->
   <BusinessGangster58.description>Завжди на крок попереду закону, [PAWN_nameDef] {PAWN_gender ? став законним підприємцем : стала законною підприємицею} і {PAWN_gender ? затикав : затикала} рота кожному, хто наважувався стверджувати інакше. {PAWN_gender ? Власник : Власниця} борделів, підпільних барів і забігайлівок, [PAWN_nameDef] {PAWN_gender ? процвітав : процвітала}, а конкурентів тим часом спіткала низка прикрих і нез'ясованих нещасних випадків.</BusinessGangster58.description>
   <!-- EN: business gangster -->
-  <BusinessGangster58.title>бізнес гангстер</BusinessGangster58.title>
+  <BusinessGangster58.title>бізнес-гангстер</BusinessGangster58.title>
   <!-- EN: gangster -->
   <BusinessGangster58.titleShort>гангстер</BusinessGangster58.titleShort>
   <!-- EN: [PAWN_nameDef] was the leader of a caravan. [PAWN_pronoun] was responsible for the safety of [PAWN_possessive] caravan and was the head negotiator in countless trade deals.\n\n[PAWN_pronoun] and [PAWN_possessive] people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen. -->
@@ -549,7 +549,7 @@
   <!-- EN: [PAWN_nameDef] was an official for an autocratic government. When [PAWN_possessive] superiors demanded [PAWN_pronoun] participate in atrocities, [PAWN_nameDef] resigned and escaped from [PAWN_possessive] homeworld with nothing but the clothes on [PAWN_possessive] back. -->
   <FallenOfficial12.description>[PAWN_nameDef] {PAWN_gender ? служив : служила} чиновником в автократичному уряді. Коли начальство зажадало від {PAWN_gender ? нього : неї} участі у звірствах, [PAWN_nameDef] {PAWN_gender ? подав : подала} у відставку й {PAWN_gender ? втік : втекла} з рідного світу, не маючи нічого, крім одягу на собі.</FallenOfficial12.description>
   <!-- EN: fallen official -->
-  <FallenOfficial12.title>біглий чиновник</FallenOfficial12.title>
+  <FallenOfficial12.title>опальний чиновник</FallenOfficial12.title>
   <!-- EN: official -->
   <FallenOfficial12.titleShort>чиновник</FallenOfficial12.titleShort>
   <!-- EN: [PAWN_nameDef] was a excellent chef who worked in a high-end restaurant.\n\nOne day, [PAWN_pronoun] left the stove on, and accidentally burned down the whole building. This event shook [PAWN_objective] so much that [PAWN_pronoun] swore to never touch a stove again. -->

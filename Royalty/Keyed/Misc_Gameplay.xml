@@ -51,7 +51,7 @@
   <!-- EN: Psyfocus falls at {0} per day. -->
   <PsyfocusLevelInfoFallRate>Пси-фокус спадає на {0} за день.</PsyfocusLevelInfoFallRate>
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
-  <UserMeditationFocusStrength>Сила фокусу медитації для {LASTUSER_labelShort}</UserMeditationFocusStrength>
+  <UserMeditationFocusStrength>Сила фокусу медитації ({LASTUSER_labelShort})</UserMeditationFocusStrength>
   <!-- EN: Focus effect impacted by -->
   <MeditationFocusImpacted>На ефект фокусування впливають</MeditationFocusImpacted>
   <!-- EN: {1} per nearby animus stone (max {0}) -->
@@ -91,7 +91,7 @@
   <!-- EN: Outcome chances -->
   <AbilitySpeechPossibleOutcomes>Імовірності результатів</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
-  <AbilitySpeechStatInfo>{1} {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
+  <AbilitySpeechStatInfo>{ORGANIZER_labelShort}: {1}</AbilitySpeechStatInfo>
   <!-- EN: Dignified throne -->
   <AbilitySpeechTargetDescThrone>Гідний трон</AbilitySpeechTargetDescThrone>
   <!-- EN: no accessible altar. -->
@@ -125,11 +125,11 @@
   <!-- EN: Destination is out of range. -->
   <MessageShuttleDestinationIsTooFar>Місце призначення поза досяжністю.</MessageShuttleDestinationIsTooFar>
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
-  <BeginCeremony>Розпочати церемонію нагородження для {0_labelShort}</BeginCeremony>
+  <BeginCeremony>Розпочати церемонію нагородження ({0_labelShort})</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Тронна зала {PAWN_definite} не відповідає вимогам титулу {lookup: {TITLE}; Case; 1}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Тронна зала, яку має {PAWN_definite}, не відповідає вимогам титулу {lookup: {TITLE}; Case; 1}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Емісар ображений, що тронна зала {PAWN_definite} не відповідає вимогам титулу {lookup: {TITLE}; Case; 1}. Церемонію нагородження скасовано.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Емісар ображений: тронна зала, яку має {PAWN_definite}, не відповідає вимогам титулу {lookup: {TITLE}; Case; 1}. Церемонію нагородження скасовано.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
   <BestowingCeremonyLabel>церемонія нагородження</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
@@ -151,7 +151,7 @@
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Ще не весь потрібний вантаж завантажено!</ShuttleRequiredItemsNotSatisfied>
   <!-- EN: Cannot load {0_labelShort} -->
-  <CannotLoadIntoShuttle>Неможливо завантажити {0_labelShort}</CannotLoadIntoShuttle>
+  <CannotLoadIntoShuttle>Неможливо завантажити: {0_labelShort}</CannotLoadIntoShuttle>
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>немає нейронапруги для скидання.</AbilityNoEntropyToDump>
   <!-- EN: level {0} -->

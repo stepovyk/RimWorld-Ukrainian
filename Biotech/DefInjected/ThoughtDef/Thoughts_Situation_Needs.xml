@@ -33,7 +33,7 @@
   <!-- EN: This place is boring. -->
   <NeedPlay.stages.wants_to_play.description>Тут нудно.</NeedPlay.stages.wants_to_play.description>
   <!-- EN: entertained -->
-  <NeedPlay.stages.entertained.label>{PAWN_gender ? Розважився : Розважилася}</NeedPlay.stages.entertained.label>
+  <NeedPlay.stages.entertained.label>{PAWN_gender ? розважився : розважилася}</NeedPlay.stages.entertained.label>
   <!-- EN: I'm having lots of fun. -->
   <NeedPlay.stages.entertained.description>Мені весело!</NeedPlay.stages.entertained.description>
   <!-- EN: very entertained -->

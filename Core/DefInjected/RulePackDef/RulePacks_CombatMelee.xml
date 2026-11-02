@@ -71,7 +71,7 @@
   -->
   <Combat_Dodge.rulePack.rulesStrings>
     <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe]ухиляється, коли [INITIATOR_definite] намагається [implement] [damaged_inf] {RECIPIENT_gender ? його : її}.</li>
-    <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe]ухиляється від спроби {lookup: [INITIATOR_definite]; Case; 1} [damaged_inf] {RECIPIENT_gender ? його : її}.</li>
+    <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe]ухиляється: [INITIATOR_definite] намагається [damaged_inf] {RECIPIENT_gender ? його : її}, але марно.</li>
     <li>skillAdvMaybe-></li>
     <li>skillAdvMaybe->[skillAdv] </li>
     <li>result->але [RECIPIENT_definite] відскакує вбік</li>
@@ -106,9 +106,9 @@
     <li>r_logentry(p=0.4)->[INITIATOR_definite] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}, [flavortext_consequence].</li>
     <li>r_logentry(p=0.4)->[INITIATOR_definite], [skillDescMelee], [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite], [skillDescMelee], [strikeAdv] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1} [destroyed_suffix].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [implement] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] б'є, і [RECIPIENT_definite] втрачає [destroyed_targets].</li>
+    <li>r_logentry(p=0.4)->[RECIPIENT_definite]: [INITIATOR_definite] [destroyed_past] {RECIPIENT_gender ? йому : їй} [destroyed_targets] [destroyed_suffix].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] б'є [implement], і [RECIPIENT_definite] втрачає [destroyed_targets].</li>
     <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_definite] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} [implement].</li>
     <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_definite] [skillAdv] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} [implement].</li>
     <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets]</li>

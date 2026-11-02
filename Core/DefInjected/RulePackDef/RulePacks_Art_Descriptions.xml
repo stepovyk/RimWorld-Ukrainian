@@ -364,7 +364,7 @@
     <li>style_clause->стиль – [artstyle_adj], але з елементами в [artstyle_loc] дусі</li>
     <li>style_clause->зображення якимось чином виражає водночас [ConceptAny_acc] і [ConceptAny_acc]</li>
     <li>style_clause->зображення протиставляє [ConceptAny_acc] і [ConceptAny_acc]</li>
-    <li>style_clause->[composition] будова зображення мало не суперечить його [artstyle_loc] стилю</li>
+    <li>style_clause->[composition] будова зображення майже суперечить його [artstyle_loc] стилю</li>
     <li>style_clause->твір виконано в [Color_pl_loc] і [Color_pl_loc] тонах</li>
     <li>style_clause->майже кожна форма на зображенні, здається, [composition]</li>
     <li>symbolizes->символізує</li>

@@ -63,7 +63,7 @@
   <!-- EN: I've been directly insulted! What an awful person! -->
   <InsultedMood.stages.insulted.description>Мене образили просто в обличчя! Яка жахлива людина!</InsultedMood.stages.insulted.description>
   <!-- EN: I rejected their proposal -->
-  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>відмова на {1_gender ? його : її} пропозицію</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>відхилено {1_gender ? його : її} пропозицію</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
   <!-- EN: killed my bonded animal -->
   <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>{1_gender ? вбив : вбила} мого домашнього улюбленця</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
   <!-- EN: killed my brother -->

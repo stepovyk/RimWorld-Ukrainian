@@ -12,7 +12,7 @@
   <!-- EN: Terrain does not support {0}. -->
   <ShuttleCannotLand_Unaffordable>Місцевість не витримає {0}.</ShuttleCannotLand_Unaffordable>
   <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
-  <MessageBestowerWaiting>Виберіть {BESTOWER_definite} й натисніть «Розпочати церемонію нагородження», щоб почати церемонію.</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Виберіть емісара ({BESTOWER_definite}) й натисніть «Розпочати церемонію нагородження», щоб почати церемонію.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>Неможливо дістатися до емісара!</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->
@@ -34,7 +34,7 @@
   <!-- EN: {FACTION_name} has dropped resources nearby. -->
   <MessagePermitTransportDrop>Фракція {FACTION_name} скинула ресурси неподалік.</MessagePermitTransportDrop>
   <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
-  <MessagePermitTransportDropCaravan>Фракція {FACTION_name} надіслала ресурси до каравану {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
+  <MessagePermitTransportDropCaravan>Фракція {FACTION_name} надіслала ресурси до каравану, у якому подорожує {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
   <!-- EN: No orbiting mechanoids found. -->
   <MessageNoFactionForVerbMechCluster>Механоїдів на орбіті не знайдено.</MessageNoFactionForVerbMechCluster>
 </LanguageData>

@@ -37,9 +37,9 @@
   <MessageBiomutationLanceTargetTooBig>Неправильна ціль: {0_nameDef} має завеликий розмір.</MessageBiomutationLanceTargetTooBig>
   <!-- Containment -->
   <!-- EN: Warning: No rooms have the minimum containment strength for {0}. It may escape soon. -->
-  <MessageNoRoomWithMinimumContainmentStrength>Увага: немає жодної кімнати з мінімальною силою утримання для {lookup: {0}; Case; 1}. Сутність може незабаром утекти.</MessageNoRoomWithMinimumContainmentStrength>
+  <MessageNoRoomWithMinimumContainmentStrength>Увага: жодна кімната не має достатньої сили утримання, і {0} може незабаром утекти.</MessageNoRoomWithMinimumContainmentStrength>
   <!-- EN: Warning: {0} is below minimum containment strength for {1}. It may escape soon. -->
-  <MessageTargetBelowMinimumContainmentStrength>Увага: {0} – сила утримання нижча за мінімальну для {lookup: {1}; Case; 1}. Сутність може незабаром утекти.</MessageTargetBelowMinimumContainmentStrength>
+  <MessageTargetBelowMinimumContainmentStrength>Увага: {0} – сила утримання нижча за мінімальну, і {1} може незабаром утекти.</MessageTargetBelowMinimumContainmentStrength>
   <!-- EN: Can't transfer to {0} reserved by someone else. -->
   <MessageHolderReserved>Неможливо перенести: {0} зарезервовано кимось іншим.</MessageHolderReserved>
   <!-- EN: {EXECUTIONER_labelShort} has executed {VICTIM_kindIndef}. -->

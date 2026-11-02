@@ -69,7 +69,7 @@
   <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-4.description>Я {PAWN_gender ? жадібний : жадібна}. Моя кімната ще не зовсім така, як треба. Хочу справді вражаючу спальню.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
   <!-- EN: happily nude -->
-  <HappyNude.stages.happily_nude.label>{PAWN_gender ? Голий та щасливий : Гола та щаслива}</HappyNude.stages.happily_nude.label>
+  <HappyNude.stages.happily_nude.label>{PAWN_gender ? голий та щасливий : гола та щаслива}</HappyNude.stages.happily_nude.label>
   <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
   <HappyNude.stages.happily_nude.description>Я {PAWN_gender ? голий : гола}, і мені це страшенно подобається! Почуваюся {PAWN_gender ? вільним, розкутим і єдиним : вільною, розкутою і єдиною} з усім довкола!</HappyNude.stages.happily_nude.description>
   <!-- EN: jealous of {0}'s bedroom -->

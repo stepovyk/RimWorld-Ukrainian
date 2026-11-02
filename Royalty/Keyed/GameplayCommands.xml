@@ -2,7 +2,7 @@
 <LanguageData>
   <!-- Heritage -->
   <!-- EN: Choose a new heir for {HOLDER_nameIndef}: -->
-  <ChooseHeir>Вибрати нового спадкоємця для {HOLDER_nameIndef}:</ChooseHeir>
+  <ChooseHeir>Вибрати, хто успадкує титул, який має {HOLDER_nameIndef}:</ChooseHeir>
   <!-- EN: You're about to change the heir of the title {HOLDER_nameIndef} received from {0_name}. This requires building a monument in a limited time, to consecrate the new inheritance. -->
   <MakeHeirConfirm>Ви збираєтеся змінити спадкоємця титулу, який {HOLDER_nameIndef} {HOLDER_gender ? отримав : отримала} від {0_name}. Для цього треба за обмежений час спорудити монумент, щоб освятити нове успадкування.</MakeHeirConfirm>
   <!-- EN: This will upset {HOLDER_possessive} current heir {HEIR_nameFull}. -->
@@ -45,7 +45,7 @@
   <!-- EN: {PSYCASTNAME} consumes {0} psyfocus but {CASTERNAME} only has {1}. -->
   <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} потребує {0} пси-фокусу, але {CASTERNAME} має лише {1}.</CommandPsycastNotEnoughPsyfocus>
   <!-- EN: {PSYCASTNAME} needs {0} psyfocus to stop {1}'s mental break but {CASTERNAME} only has {2} psyfocus. -->
-  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} потребує {0} пси-фокусу, щоб зупинити нервовий зрив {1}, але {CASTERNAME} має лише {2} пси-фокусу.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} потребує {0} пси-фокусу, щоб зупинити нервовий зрив, який переживає {1}, але {CASTERNAME} має лише {2} пси-фокусу.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
   <!-- EN: level {0} psylink is required. -->
   <CommandPsycastHigherLevelPsylinkRequired>потрібен пси-зв'язок {0} рівня.</CommandPsycastHigherLevelPsylinkRequired>
   <!-- EN: Zero psychic sensitivity. -->

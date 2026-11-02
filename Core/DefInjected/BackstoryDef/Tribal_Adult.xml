@@ -117,7 +117,7 @@
   <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
   <MuffaloShaman95.description>Завдяки тихій мудрості й великій силі [PAWN_nameDef] {PAWN_gender ? став духовним провідником : стала духовною провідницею} свого племені. [PAWN_pronoun] {PAWN_gender ? мав : мала} особливий зв'язок із великим духом муффало.</MuffaloShaman95.description>
   <!-- EN: muffalo shaman -->
-  <MuffaloShaman95.title>шаман-муффало</MuffaloShaman95.title>
+  <MuffaloShaman95.title>шаман духу муффало</MuffaloShaman95.title>
   <!-- EN: shaman -->
   <MuffaloShaman95.titleShort>шаман</MuffaloShaman95.titleShort>
   <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
@@ -165,7 +165,7 @@
   <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
   <Weaver63.description>[PAWN_nameDef] вправно {PAWN_gender ? перетворював : перетворювала} вовну, рослинні волокна й природні барвники на гарний одяг для своїх родичів. [PAWN_possessive] вироби часто вимінювали в інших поселеннях.</Weaver63.description>
   <!-- EN: weaver -->
-  <Weaver63.title>кравець</Weaver63.title>
+  <Weaver63.title>ткач</Weaver63.title>
   <!-- EN: weaver -->
-  <Weaver63.titleShort>кравець</Weaver63.titleShort>
+  <Weaver63.titleShort>ткач</Weaver63.titleShort>
 </LanguageData>

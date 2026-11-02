@@ -20,7 +20,7 @@
   <!-- EN: {HEIR_nameFull} is a member of {FACTION_name}. -->
   <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} – член фракції {FACTION_name}.</RoyalTitleTooltipHeirDifferentFaction>
   <!-- EN: No one is designated to inherit {PAWN_nameDef}'s title. If {PAWN_pronoun} dies, the title will be lost. -->
-  <RoyalTitleTooltipNoHeir>Спадкоємця титулу {PAWN_nameDef} не призначено. Якщо {PAWN_pronoun} помре, титул буде втрачено.</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipNoHeir>{PAWN_nameDef} не має призначеного спадкоємця титулу. Якщо {PAWN_pronoun} помре, титул буде втрачено.</RoyalTitleTooltipNoHeir>
   <!-- EN: Earnable titles of {FACTION_name} -->
   <RoyalTitleTooltipTitlesEarnable>Титули, які можна отримати від фракції {FACTION_name}</RoyalTitleTooltipTitlesEarnable>
   <!-- EN: Other titles of {FACTION_name} -->

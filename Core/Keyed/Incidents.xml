@@ -3,7 +3,7 @@
   <!-- EN: Mad {ANIMAL_labelShort} -->
   <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} сходить з розуму</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>{ANIMAL_gender ? Місцевий {ANIMAL_label} зійшов : Місцева {ANIMAL_label} зійшла} з розуму. {ANIMAL_gender ? Він : Вона} нападатиме на всіх, кого побачить.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>Місцева тварина ({ANIMAL_label}) зійшла з розуму. Вона нападатиме на всіх, кого побачить.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0} сходять з розуму</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->

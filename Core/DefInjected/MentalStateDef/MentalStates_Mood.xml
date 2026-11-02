@@ -59,9 +59,9 @@
   <!-- EN: {0} is no longer on a fire starting spree. -->
   <FireStartingSpree.recoveryMessage>{0} заспокоюється.</FireStartingSpree.recoveryMessage>
   <!-- EN: giving up and leaving -->
-  <GiveUpExit.label>опустилися руки</GiveUpExit.label>
+  <GiveUpExit.label>опускає руки й іде геть</GiveUpExit.label>
   <!-- EN: Mental state: Given up and leaving -->
-  <GiveUpExit.baseInspectLine>Психічний стан: опустилися руки</GiveUpExit.baseInspectLine>
+  <GiveUpExit.baseInspectLine>Психічний стан: опускає руки й іде геть</GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
   <GiveUpExit.beginLetter>{0} зневіряється в цій спільноті.\n\n{PAWN_gender ? Він : Вона} вирішує піти й шукати кращого життя деінде. Можна спробувати заарештувати {PAWN_gender ? його : її} дорогою. Якщо ні – можливо, колись ви ще {PAWN_gender ? його : її} побачите.</GiveUpExit.beginLetter>
   <!-- EN: gave up -->

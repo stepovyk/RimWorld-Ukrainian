@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: ate twisted meat -->
-  <AteTwistedMeat.stages.ate_twisted_meat.label>{PAWN_gender ? З'їв : З'їла} покручене м'ясо</AteTwistedMeat.stages.ate_twisted_meat.label>
+  <AteTwistedMeat.stages.ate_twisted_meat.label>{PAWN_gender ? з'їв : з'їла} покручене м'ясо</AteTwistedMeat.stages.ate_twisted_meat.label>
   <!-- EN: It was so gristly and stringy - like eating cancer. I want to throw up. -->
   <AteTwistedMeat.stages.ate_twisted_meat.description>Воно таке хрящувате й жилаве – наче їси рак. Мене зараз знудить.</AteTwistedMeat.stages.ate_twisted_meat.description>
   <!-- EN: {0} became a ghoul -->
@@ -13,7 +13,7 @@
   <!-- EN: Happy... good... happy... warm... -->
   <BlissLobotomy.stages.bliss_lobotomy.description>Щастя... добре... щастя... тепло...</BlissLobotomy.stages.bliss_lobotomy.description>
   <!-- EN: observed chimera -->
-  <Chimera.stages.observed_chimera.label>{PAWN_gender ? Побачив : Побачила} химеру</Chimera.stages.observed_chimera.label>
+  <Chimera.stages.observed_chimera.label>{PAWN_gender ? побачив : побачила} химеру</Chimera.stages.observed_chimera.label>
   <!-- EN: That misshapen creature, the cracked whorled flesh... horrifying. -->
   <Chimera.stages.observed_chimera.description>Ця потворна істота, потріскана плоть у завитках... жах.</Chimera.stages.observed_chimera.description>
   <!-- EN: closed the void -->

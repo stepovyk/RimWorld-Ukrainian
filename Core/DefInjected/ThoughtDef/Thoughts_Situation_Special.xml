@@ -25,7 +25,7 @@
   <!-- EN: I am missing my tongue. It is so frustrating not being able to speak! -->
   <MissingTongue.stages.missing_tongue.description>У мене немає язика. Так прикро, що не можу говорити!</MissingTongue.stages.missing_tongue.description>
   <!-- EN: naked -->
-  <Naked.stages.naked.label>{PAWN_gender ? Голий : Гола}</Naked.stages.naked.label>
+  <Naked.stages.naked.label>{PAWN_gender ? голий : гола}</Naked.stages.naked.label>
   <!-- EN: I'm naked. This is humiliating. -->
   <Naked.stages.naked.description>Я {PAWN_gender ? голий : гола}. Як принизливо.</Naked.stages.naked.description>
   <!-- EN: minor pain -->

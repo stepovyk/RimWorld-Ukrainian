@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: revered bloodfeeder -->
-  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>{PAWN_gender ? Шанований : Шанована} кровопивця</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>{PAWN_gender ? шанований : шанована} кровопивця</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
   <!-- EN: Let them worship me. Feeding upon them places them below me, as animals are below humans. -->
   <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>Нехай поклоняються мені. Я живлюся ними, а отже, вони нижчі за мене, як тварини нижчі за людей.</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>
   <!-- EN: bloodfeeder self hatred -->

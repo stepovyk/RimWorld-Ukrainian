@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: New Arrivals -->
-  <PlayerColony.label>Колонія</PlayerColony.label>
+  <PlayerColony.label>Новоприбулі</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Колонія прибульців з інших світів, що нещодавно сюди прибули.</PlayerColony.description>
   <!-- EN: leader -->
@@ -13,7 +13,7 @@
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>колоністи</PlayerColony.pawnsPlural>
   <!-- EN: New Tribe -->
-  <PlayerTribe.label>Плем'я</PlayerTribe.label>
+  <PlayerTribe.label>Нове плем'я</PlayerTribe.label>
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>Невелике плем'я.</PlayerTribe.description>
   <!-- EN: leader -->

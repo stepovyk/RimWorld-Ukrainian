@@ -271,11 +271,11 @@
   <!-- EN: min skill -->
   <MinSkill>мін. рівень навички</MinSkill>
   <!-- EN: Equip {0} -->
-  <Equip>Спорядити {lookup: {0}; WeaponQ; 1}</Equip>
+  <Equip>Озброїтися {lookup: {0}; Case; 4}</Equip>
   <!-- EN: (brawler will be unhappy) -->
   <EquipWarningBrawler>(забіяка буде невдоволений)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
-  <CannotEquip>Неможливо спорядити {lookup: {0}; WeaponQ; 1}</CannotEquip>
+  <CannotEquip>Неможливо озброїтися {lookup: {0}; Case; 4}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
   <CannotManThing>Неможливо зайняти {lookup: {1_labelShort}; Case; 3}</CannotManThing>
   <!-- EN: Force wear {1_labelShort} -->

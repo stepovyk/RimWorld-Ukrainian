@@ -4,7 +4,7 @@
     <li>questDescription->\nIn order to consecrate making [titleHeir_nameFull] the heir of [titleHolder_nameFull]'s title, you must build a monument.\n\nThe monument will be [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nFailing to finish the monument within 20 days is considered to profane the ritual. Your relations with [asker_factionName] will fall by 25, and the heir will not be changed.\n\nIf the monument is destroyed within [keepMonumentTicks_duration] days after completion, your relations with [asker_factionName] will fall by [goodwillChangeIfMonumentDestroyed].</li>
   -->
   <ChangeRoyalHeir.questDescriptionRules.rulesStrings>
-    <li>questDescription->\nЩоб освятити призначення [titleHeir_nameFull] {titleHeir_gender ? спадкоємцем : спадкоємицею} титулу, який має [titleHolder_nameFull], треба збудувати монумент.\n\nМонумент матиме розмір [monumentSize]; для нього потрібні такі ресурси (загальна вартість – [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nЯкщо не завершити монумент за 20 днів, ритуал буде зневажено: ваші відносини з фракцією [asker_factionName] погіршаться на 25, а спадкоємець не зміниться.\n\nЯкщо монумент зруйнують протягом [keepMonumentTicks_duration] після завершення, ваші відносини з фракцією [asker_factionName] погіршаться на [goodwillChangeIfMonumentDestroyed].</li>
+    <li>questDescription->\n[titleHeir_nameFull] стане {titleHeir_gender ? спадкоємцем : спадкоємицею} титулу, який має [titleHolder_nameFull], але щоб освятити це призначення, треба збудувати монумент.\n\nМонумент матиме розмір [monumentSize]; для нього потрібні такі ресурси (загальна вартість – [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nЯкщо не завершити монумент за 20 днів, ритуал буде зневажено: ваші відносини з фракцією [asker_factionName] погіршаться на 25, а спадкоємець не зміниться.\n\nЯкщо монумент зруйнують протягом [keepMonumentTicks_duration] після завершення, ваші відносини з фракцією [asker_factionName] погіршаться на [goodwillChangeIfMonumentDestroyed].</li>
   </ChangeRoyalHeir.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[titleHeir_nameDef]'s inheritance</li>
@@ -15,7 +15,7 @@
   <!-- EN: Time left: {0} -->
   <ChangeRoyalHeir.InspectStringTimeLeft.slateRef>Залишилось часу: {0}</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
   <!-- EN: [titleHolder_nameDef]'s heir change failed -->
-  <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>Не вдалося змінити спадкоємця [titleHolder_nameDef]</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
+  <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>[titleHolder_nameDef]: змінити спадкоємця не вдалося</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but did not build the monument within the prescribed time.\n\nYou lost 25 goodwill with [asker_faction_name]. -->
   <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>[asker_nameDef] {asker_gender ? ображений : ображена}: ви пообіцяли освятити нове успадкування, але не збудували монумент у визначений строк.\n\nПрихильність фракції [asker_faction_name] до вас знизилася на 25.</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
   <!-- EN: Title holder died: {SUBJECT_definite} -->
@@ -33,7 +33,7 @@
   <!-- EN: New heir: [titleHeir_nameDef] -->
   <ChangeRoyalHeir.LetterLabelNewHeir.slateRef>{titleHeir_gender ? Новий спадкоємець : Нова спадкоємиця} титулу: [titleHeir_nameDef]</ChangeRoyalHeir.LetterLabelNewHeir.slateRef>
   <!-- EN: [titleHeir_nameDef] is the new heir of [titleHolder_nameDef]. -->
-  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>[titleHeir_nameDef] – {titleHeir_gender ? новий спадкоємець : нова спадкоємиця} титулу [titleHolder_nameDef].</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
+  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>[titleHeir_nameDef] – {titleHeir_gender ? новий спадкоємець : нова спадкоємиця} титулу, який має [titleHolder_nameDef].</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
   <ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>Не допустіть руйнування монумента протягом {0}</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->

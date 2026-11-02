@@ -85,11 +85,11 @@
   <!-- EN: I am resting on clouds of heaven. -->
   <NeedComfort.stages.luxuriantly_comfortable.description>Я ніби спочиваю на небесних хмарах.</NeedComfort.stages.luxuriantly_comfortable.description>
   <!-- EN: hungry -->
-  <NeedFood.stages.hungry.label>{PAWN_gender ? Голодний : Голодна}</NeedFood.stages.hungry.label>
+  <NeedFood.stages.hungry.label>{PAWN_gender ? голодний : голодна}</NeedFood.stages.hungry.label>
   <!-- EN: I'm really hungry. -->
   <NeedFood.stages.hungry.description>Я дуже {PAWN_gender ? голодний : голодна}.</NeedFood.stages.hungry.description>
   <!-- EN: ravenously hungry -->
-  <NeedFood.stages.ravenously_hungry.label>{PAWN_gender ? Голодний : Голодна}, як пес</NeedFood.stages.ravenously_hungry.label>
+  <NeedFood.stages.ravenously_hungry.label>{PAWN_gender ? голодний : голодна}, як пес</NeedFood.stages.ravenously_hungry.label>
   <!-- EN: These hunger pangs are hard to ignore. -->
   <NeedFood.stages.ravenously_hungry.description>Від нападів голоду нікуди не дінешся.</NeedFood.stages.ravenously_hungry.description>
   <!-- EN: malnourished -->
@@ -145,7 +145,7 @@
   <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
   <NeedJoy.stages.recreation_unfulfilled.description>Нам треба більше різноманітних розваг, а мені – часу, щоб ними насолоджуватися.</NeedJoy.stages.recreation_unfulfilled.description>
   <!-- EN: recreation satisfied -->
-  <NeedJoy.stages.recreation_satisfied.label>{PAWN_gender ? Відпочив : Відпочила}</NeedJoy.stages.recreation_satisfied.label>
+  <NeedJoy.stages.recreation_satisfied.label>{PAWN_gender ? відпочив : відпочила}</NeedJoy.stages.recreation_satisfied.label>
   <!-- EN: I've been having a great time doing various things I like to do. -->
   <NeedJoy.stages.recreation_satisfied.description>Я чудово проводжу час за різними улюбленими справами.</NeedJoy.stages.recreation_satisfied.description>
   <!-- EN: recreation fully satisfied -->
@@ -153,7 +153,7 @@
   <!-- EN: I've been enjoying myself so much, I love it! -->
   <NeedJoy.stages.recreation_fully_satisfied.description>Мені так добре, просто обожнюю це!</NeedJoy.stages.recreation_fully_satisfied.description>
   <!-- EN: entombed underground -->
-  <NeedOutdoors.stages.entombed_underground.label>{PAWN_gender ? Похований : Похована} під землею</NeedOutdoors.stages.entombed_underground.label>
+  <NeedOutdoors.stages.entombed_underground.label>{PAWN_gender ? похований : похована} під землею</NeedOutdoors.stages.entombed_underground.label>
   <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
   <NeedOutdoors.stages.entombed_underground.description>Я надто довго під землею. Таке відчуття, ніби вага цієї гори мене розчавлює. Мені треба побачити небо й відчути вітер.</NeedOutdoors.stages.entombed_underground.description>
   <!-- EN: trapped underground -->
@@ -169,19 +169,19 @@
   <!-- EN: It's been too long since I've seen the sky. -->
   <NeedOutdoors.stages.trapped_indoors.description>Я надто давно не {PAWN_gender ? бачив : бачила} неба.</NeedOutdoors.stages.trapped_indoors.description>
   <!-- EN: stuck indoors -->
-  <NeedOutdoors.stages.stuck_indoors.label>{PAWN_gender ? Застряг у : Застрягла в} приміщенні</NeedOutdoors.stages.stuck_indoors.label>
+  <NeedOutdoors.stages.stuck_indoors.label>{PAWN_gender ? застряг у : застрягла в} приміщенні</NeedOutdoors.stages.stuck_indoors.label>
   <!-- EN: I'd like to go outside and get some fresh air. -->
   <NeedOutdoors.stages.stuck_indoors.description>Я {PAWN_gender ? хотів би : хотіла б} вийти назовні й трохи подихати свіжим повітрям.</NeedOutdoors.stages.stuck_indoors.description>
   <!-- EN: drowsy -->
-  <NeedRest.stages.drowsy.label>{PAWN_gender ? Втомився : Втомилася}</NeedRest.stages.drowsy.label>
+  <NeedRest.stages.drowsy.label>{PAWN_gender ? втомився : втомилася}</NeedRest.stages.drowsy.label>
   <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
   <NeedRest.stages.drowsy.description>Я давно не {PAWN_gender ? спав : спала}. Важко зосередитися.</NeedRest.stages.drowsy.description>
   <!-- EN: tired -->
-  <NeedRest.stages.tired.label>{PAWN_gender ? Стомлений : Стомлена}</NeedRest.stages.tired.label>
+  <NeedRest.stages.tired.label>{PAWN_gender ? стомлений : стомлена}</NeedRest.stages.tired.label>
   <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
   <NeedRest.stages.tired.description>Я {PAWN_gender ? такий змучений : така змучена}. Хочу тільки прилягти й відпочити кілька хвилин...</NeedRest.stages.tired.description>
   <!-- EN: exhausted -->
-  <NeedRest.stages.exhausted.label>{PAWN_gender ? Виснажений : Виснажена}</NeedRest.stages.exhausted.label>
+  <NeedRest.stages.exhausted.label>{PAWN_gender ? виснажений : виснажена}</NeedRest.stages.exhausted.label>
   <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
   <NeedRest.stages.exhausted.description>Я {PAWN_gender ? такий виснажений : така виснажена}, що ледве тримаюся на ногах. Повіки наче свинцем налиті. Дайте поспати...</NeedRest.stages.exhausted.description>
   <!-- EN: confined interior -->

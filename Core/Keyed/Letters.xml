@@ -58,11 +58,11 @@
   <!-- EN: Roof collapse -->
   <LetterLabelRoofCollapsed>Обвалення даху</LetterLabelRoofCollapsed>
   <!-- EN: {0} successfully recruited {1} ({2} chance). -->
-  <RecruitSuccess>{0} успішно вербує {1} (шанс: {2}).</RecruitSuccess>
+  <RecruitSuccess>{0}: вербування вдалося, {1} тепер з вами (шанс: {2}).</RecruitSuccess>
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
-  <RecruitFail>{0}: невдала спроба завербувати {1} (шанс: {2}).</RecruitFail>
+  <RecruitFail>{0}: вербування не вдалося, {1} відмовляється приєднатися (шанс: {2}).</RecruitFail>
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} – {1} {RELATIVE_gender ? колоніста : колоністки} {RELATIVE_labelShort}. Якщо {PAWN_nameDef} загине, {RELATIVE_labelShort} довго тужитиме. Але якщо вам вдасться врятувати {PAWN_nameDef}, {RELATIVE_labelShort} ще довго буде {RELATIVE_gender ? щасливим : щасливою}.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} – {1} {RELATIVE_gender ? колоніста : колоністки} {RELATIVE_labelShort}. Якщо {PAWN_nameDef} загине, {RELATIVE_labelShort} довго тужитиме. Але якщо вам вдасться {PAWN_gender ? його : її} врятувати, {RELATIVE_labelShort} ще довго буде {RELATIVE_gender ? щасливим : щасливою}.</RelatedPawnInvolvedInQuest>
   <!-- EN: Birthday -->
   <LetterLabelBirthday>День народження</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
@@ -106,11 +106,11 @@
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
   <LetterFriendlyTrapSprung>{1_labelShort} випадково зачіпає пастку й отримує поранення.</LetterFriendlyTrapSprung>
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>Нова проблема зі здоров'ям у {PAWN_labelShort}:\n\n  {1}\n\nПричина:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplications>{PAWN_labelShort} має нову проблему зі здоров'ям:\n\n  {1}\n\nПричина:\n\n  {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>Нова проблема зі здоров'ям у {PAWN_labelShort}: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} має нову проблему зі здоров'ям: {1}.</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
   <!-- EN: {1} died: {0} -->
@@ -132,7 +132,7 @@
   <!-- EN: This happened because of: {0}. -->
   <MentalStateReason_Hediff>Це сталося через: {0}.</MentalStateReason_Hediff>
   <!-- EN: This happened because of {0_definite}'s death. -->
-  <MentalStateReason_BondedHumanDeath>Це сталося через смерть {0_definite}.</MentalStateReason_BondedHumanDeath>
+  <MentalStateReason_BondedHumanDeath>Це сталося, бо {0_gender ? помер : померла} {0_definite}.</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>Останньою подією було</LastFactionRelationsEvent>
   <!-- EN: View related quest -->
@@ -140,7 +140,7 @@
   <!-- EN: View quest -->
   <ViewQuest>Переглянути завдання</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>Останні події в житті {PAWN_definite}</LastEventsInLife>
+  <LastEventsInLife>{PAWN_definite}: останні події в житті</LastEventsInLife>
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
   <LetterInspirationBeginThanksToHighMoodPart>Завдяки гарному настрою {PAWN_nameIndef} отримує натхнення!</LetterInspirationBeginThanksToHighMoodPart>
   <!-- Related pawns -->
@@ -176,7 +176,7 @@
   <!-- EN: Affair -->
   <LetterLabelAffair>Роман на стороні</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{PAWN1_labelShort}, {PAWN1_gender ? одружений : одружена} з {SPOUSE_labelShort}, {PAWN1_gender ? завів : завела} роман з {PAWN2_labelShort}.</LetterAffair>
+  <LetterAffair>{PAWN1_labelShort} {PAWN1_gender ? завів : завела} роман на стороні: {PAWN1_gender ? його : її} {PAWN2_gender ? коханець : коханка} – {PAWN2_labelShort}, а {SPOUSE_gender ? чоловік : дружина} – {SPOUSE_labelShort}.</LetterAffair>
   <!-- EN: New lovers -->
   <LetterLabelNewLovers>Нова пара</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
@@ -212,7 +212,7 @@
   <!-- EN: bonded -->
   <LetterLabelSuffixBondedAnimalDied>прив'язана тварина</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>{ANIMAL_definite} – тварина, прив'язана до {HUMAN_labelShort}. Це позначиться на настрої {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{HUMAN_labelShort} {HUMAN_gender ? мав : мала} зв'язок із твариною {ANIMAL_definite}. Це позначиться на {HUMAN_gender ? його : її} настрої.</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
   <LetterPartBondedAnimalDiedMulti>Це позначиться на настрої таких людей:\n\n{0}</LetterPartBondedAnimalDiedMulti>
   <!-- Prison break -->
@@ -224,7 +224,7 @@
   <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>Залежність від {lookup: {0}; Case; 1}</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>У {PAWN_labelShort} з'явилася залежність від {lookup: {1}; Case; 1}.\n\nТепер у {PAWN_gender ? нього : неї} є потреба в цій речовині – її видно на вкладці «Потреби». {PAWN_gender ? Він : Вона} автоматично вживатиме наркотик, щоб її задовольнити. Якщо {PAWN_pronoun} не зможе дістати {lookup: {1}; Case; 1}, почнеться ломка.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} {PAWN_gender ? набув : набула} залежності від {lookup: {1}; Case; 1}.\n\nТепер у {PAWN_gender ? нього : неї} є потреба в цій речовині – її видно на вкладці «Потреби». {PAWN_gender ? Він : Вона} автоматично вживатиме наркотик, щоб її задовольнити. Якщо {PAWN_pronoun} не зможе дістати {lookup: {1}; Case; 1}, почнеться ломка.</LetterNewlyAddicted>
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
   <LetterLabelDrugBinge>Зловживання {lookup: {0}; Case; 4}</LetterLabelDrugBinge>
@@ -362,14 +362,14 @@
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>Врятований приєднується</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group. -->
-  <LetterRescueQuestFinished>Ви врятували {PAWN_nameDef}, і {PAWN_pronoun} приєднується до вашої групи.</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>{PAWN_nameDef} {PAWN_gender ? врятований : врятована} і приєднується до вашої групи.</LetterRescueQuestFinished>
   <!-- EN: \n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command. -->
   <LetterRescueQuestFinishedCaravanExtra>\n\nТепер ви можете взяти {PAWN_gender ? його : її} з собою. Для цього відкрийте мапу світу, виберіть це місце й скористайтеся командою «Переформувати караван».</LetterRescueQuestFinishedCaravanExtra>
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} полює на {lookup: {PREY_definite}; Case; 3}</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} полює: жертва – {PREY_definite}</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>{PREDATOR} полює на {lookup: {PREY_definite}; Case; 3}, щоб з'їсти!</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR} вийшов на полювання, і здобич – {PREY_definite}!</LetterPredatorHuntingColonist>
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on -->
   <LetterDisease_Blocked>{0}: заблоковано {1} у</LetterDisease_Blocked>
@@ -397,7 +397,7 @@
   <!-- EN: While talking with the trader {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of -->
   <QuestDiscoveredFromTrader>Під час розмови з торговцем {TRADER_nameDef} {NEGOTIATOR_nameDef} {NEGOTIATOR_gender ? дізнався : дізналася} про</QuestDiscoveredFromTrader>
   <!-- EN: To show {RECEIVER_possessive} gratitude for your charity, the beggar {RECEIVER_nameDef} shared a secret with {GIVER_nameDef}.\n\nYou have learned of -->
-  <QuestDiscoveredFromBeggar>На знак вдячності за вашу щедрість {RECEIVER_gender ? жебрак : жебрачка} {RECEIVER_nameDef} {RECEIVER_gender ? поділився : поділилася} секретом з {GIVER_nameDef}.\n\nВи дізналися про</QuestDiscoveredFromBeggar>
+  <QuestDiscoveredFromBeggar>На знак вдячності за вашу щедрість {RECEIVER_gender ? жебрак : жебрачка} {RECEIVER_nameDef} {RECEIVER_gender ? поділився : поділилася} секретом із {GIVER_gender ? колоністом : колоністкою} {GIVER_nameDef}.\n\nВи дізналися про</QuestDiscoveredFromBeggar>
   <!-- EN: You have discovered -->
   <QuestDiscoveredFromDebug>Ви виявили</QuestDiscoveredFromDebug>
   <!-- Quest drop pods arrived -->
@@ -445,7 +445,7 @@
   <LetterLabelPawnsKidnapped>{PAWN_nameDef} {PAWN_gender ? викрадений : викрадена}</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>Фракція {FACTION_name} викрала {PAWN_nameDef}!\n\nАле не все втрачено. У найближчі дні чи роки може випасти нагода {PAWN_gender ? його : її} врятувати.</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} – у полоні! {PAWN_gender ? Його : Її} викрала фракція {FACTION_name}.\n\nАле не все втрачено. У найближчі дні чи роки може випасти нагода {PAWN_gender ? його : її} врятувати.</LetterPawnsKidnapped>
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
   <LetterTechprintAppliedLabel>Застосовано креслення: {PROJECT_label}</LetterTechprintAppliedLabel>
@@ -479,7 +479,7 @@
   <LetterBladelinkWeaponBondedLabel>Біозв'язок зі зброєю: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort} {PAWN_gender ? встановив : встановила} зв'язок з персоною {lookup: {WEAPON_labelShort}; Case; 1}.\n\nВідтепер {WEAPON_labelShort} не дасться до рук нікому, крім {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} {PAWN_gender ? встановив : встановила} зв'язок з персоною {lookup: {WEAPON_labelShort}; Case; 1}.\n\nВідтепер {WEAPON_labelShort} не дасться до рук нікому іншому.</LetterBladelinkWeaponBonded>
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
   <LetterLabelMechClusterArrived>Механоїди прибули</LetterLabelMechClusterArrived>

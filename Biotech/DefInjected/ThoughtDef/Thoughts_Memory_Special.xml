@@ -9,7 +9,7 @@
   <!-- EN: I was violated by a bloodfeeder like some kind of livestock. -->
   <FedOn.stages.fed_on_by.description>Кровопивця пив з мене кров, наче з якоїсь худоби. Яке приниження.</FedOn.stages.fed_on_by.description>
   <!-- EN: ingested hemogen pack -->
-  <IngestedHemogenPack.stages.ingested_hemogen_pack.label>{PAWN_gender ? Випив : Випила} гемоген</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.label>{PAWN_gender ? випив : випила} гемоген</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
   <!-- EN: I ingested a hemogen pack. It might keep me alive, but it was absolutely disgusting. -->
   <IngestedHemogenPack.stages.ingested_hemogen_pack.description>Я {PAWN_gender ? випив : випила} гемопак. Може, це й тримає мене при житті, але гидота неймовірна.</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
   <!-- EN: miscarried -->
