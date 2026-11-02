@@ -21,7 +21,6 @@
     <li>festivalName->[festival] «[chosenTheme]»</li>
     <li>festivalName->[chosenAdjective] [festival_m]</li>
     <li>festivalName->[festival] [keyDeity]</li>
-    <li>festivalName->[keyDeity]: [festival]</li>
     <li>festivalName->[festival] «[memeConcept]»</li>
     <li>festivalName->[festival] «[chosenIdeoName]»</li>
     <li>festival->фестиваль</li>

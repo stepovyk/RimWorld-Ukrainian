@@ -57,7 +57,7 @@
     <li>r_ideoName->[keyDeity]ізм</li>
     <li>r_ideoName->[hyphenPrefix]-[keyDeity]ізм</li>
     <li>r_ideoName->[creed_m] [keyDeity]</li>
-    <li>r_ideoName->[keyDeity]: [creed]</li>
+    <li>r_ideoName->[creed] [keyDeity]</li>
     <li>r_ideoAdjective->[keyDeity]ський</li>
     <li>r_memberName->[keyDeity]іст</li>
     <li>r_memberName->[keyDeity]іт</li>

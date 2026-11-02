@@ -4,7 +4,7 @@
     <li>r_logentry->[INITIATOR_definite] leaped onto [SUBJECT_definite] and began digesting [SUBJECT_objective].</li>
   -->
   <Event_DevourerConsumeLeap.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] кидається на [SUBJECT_definite] та починає [SUBJECT_possessive] перетравлювати.</li>
+    <li>r_logentry->[INITIATOR_definite] кидається на [SUBJECT_definite] й починає [SUBJECT_possessive] перетравлювати.</li>
   </Event_DevourerConsumeLeap.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] vomited [SUBJECT_definite] up.</li>
@@ -28,7 +28,7 @@
     <li>r_logentry->[INITIATOR_definite] emerged from [SUBJECT_definite].</li>
   -->
   <Event_MetalhorrorEmerged.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] з'являється з [SUBJECT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] вилазить із тіла [SUBJECT_definite].</li>
   </Event_MetalhorrorEmerged.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] psychically incinerated [SUBJECT_definite]'s brain.</li>
@@ -59,17 +59,17 @@
     <li>verb->здригання</li>
     <li>verb->тремтіння</li>
     <li>verb->скрип</li>
-    <li>verb->скрегіт</li>
-    <li>verb->дряпання</li>
+    <li>verb->сипіння</li>
+    <li>verb->шкрябання</li>
     <li>verb->шипіння</li>
     <li>verb->стогін</li>
-    <li>verb->бурчання</li>
-    <li>verb->цокання</li>
+    <li>verb->бурмотіння</li>
+    <li>verb->цокотіння</li>
     <li>verb->клацання</li>
-    <li>verb->хрип</li>
-    <li>verb->деренчання</li>
+    <li>verb->хрипіння</li>
+    <li>verb->торохтіння</li>
     <li>verb->посмикування</li>
-    <li>verb->скреготіння</li>
+    <li>verb->скрегіт зубів</li>
     <li>verb->кашель</li>
   </RevenantNoises.rulePack.rulesStrings>
 </LanguageData>

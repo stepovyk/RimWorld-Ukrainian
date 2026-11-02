@@ -37,35 +37,35 @@
     <li>adjectiveCube->blurry</li>
   -->
   <NamerArtCubeSculpture.rulePack.rulesStrings>
-    <li>r_art_name->[AdjectiveAny] Куб</li>
-    <li>r_art_name->[adjectiveCube] Куб</li>
-    <li>r_art_name->Куб [ConceptAny_gen]</li>
+    <li>r_art_name->[AdjectiveAny] куб</li>
+    <li>r_art_name->[adjectiveCube] куб</li>
+    <li>r_art_name->куб [ConceptAny_gen]</li>
     <li>adjectiveCube->обвислий</li>
     <li>adjectiveCube->деформований</li>
     <li>adjectiveCube->грудкуватий</li>
     <li>adjectiveCube->потворний</li>
-    <li>adjectiveCube->ганчірковий</li>
-    <li>adjectiveCube->мульти</li>
+    <li>adjectiveCube->незграбний</li>
+    <li>adjectiveCube->множинний</li>
     <li>adjectiveCube->милий</li>
     <li>adjectiveCube->ідеальний</li>
-    <li>adjectiveCube->ребристий</li>
+    <li>adjectiveCube->гострокутий</li>
     <li>adjectiveCube->універсальний</li>
-    <li>adjectiveCube->розумний</li>
-    <li>adjectiveCube->продуманий</li>
+    <li>adjectiveCube->розсудливий</li>
+    <li>adjectiveCube->задумливий</li>
     <li>adjectiveCube->небесний</li>
     <li>adjectiveCube->покручений</li>
     <li>adjectiveCube->хиткий</li>
-    <li>adjectiveCube->спущений</li>
-    <li>adjectiveCube->ненадійний</li>
+    <li>adjectiveCube->сплющений</li>
+    <li>adjectiveCube->кривий</li>
     <li>adjectiveCube->спотворений</li>
     <li>adjectiveCube->асиметричний</li>
-    <li>adjectiveCube->незрозумілий</li>
+    <li>adjectiveCube->схиблений</li>
     <li>adjectiveCube->химерний</li>
     <li>adjectiveCube->розплавлений</li>
-    <li>adjectiveCube->нерівний</li>
-    <li>adjectiveCube->мрійливий</li>
+    <li>adjectiveCube->непередбачуваний</li>
+    <li>adjectiveCube->примарний</li>
     <li>adjectiveCube->хаотичний</li>
-    <li>adjectiveCube->не кубічний</li>
+    <li>adjectiveCube->некубічний</li>
     <li>adjectiveCube->фантасмагоричний</li>
     <li>adjectiveCube->викривлений</li>
     <li>adjectiveCube->містичний</li>

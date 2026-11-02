@@ -23,9 +23,9 @@
     <li>fired->[skillAdv] [verb_fired]</li>
     <li>firedat->стріляє в</li>
     <li>firedat->[skillAdv] стріляє в</li>
-    <li>firedat(p=0.5)->прицілюється та стріляє в</li>
-    <li>firedat(p=0.5)->[skillAdv] прицілюється та стріляє в</li>
+    <li>firedat(p=0.5)->прицілюється й стріляє в</li>
+    <li>firedat(p=0.5)->[skillAdv] прицілюється й стріляє в</li>
     <li>firedat(p=0.3)->відкриває вогонь по</li>
-    <li>verb_fired->робить постріл</li>
+    <li>verb_fired->стріляє</li>
   </Combat_RangedFlamethrower.rulePack.rulesStrings>
 </LanguageData>
