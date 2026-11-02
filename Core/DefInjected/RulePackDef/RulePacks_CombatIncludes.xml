@@ -45,15 +45,15 @@
     <li>tried->attempted</li>
   -->
   <Combat_FailIncludes.rulePack.rulesStrings>
-    <li>action->[INITIATOR_definite] [tried] [damaged_inf] {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action->[INITIATOR_definite] [tried] [damaged_inf] {lookup: [RECIPIENT_definite]; Case; 3} [implement]</li>
-    <li>action->[INITIATOR_definite] [tried] [implement] [damaged_inf] {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action->[INITIATOR_definite] замахується {lookup: [WEAPON_label]; Case; 4} на {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat]</li>
+    <li>action->[RECIPIENT_definite]: [INITIATOR_definite] [tried] [damaged_inf] {RECIPIENT_gender ? його : її}</li>
+    <li>action->[RECIPIENT_definite]: [INITIATOR_definite] [tried] [damaged_inf] {RECIPIENT_gender ? його : її} [implement]</li>
+    <li>action->[RECIPIENT_definite]: [INITIATOR_definite] [tried] [implement] [damaged_inf] {RECIPIENT_gender ? його : її}</li>
+    <li>action->[RECIPIENT_definite]: [INITIATOR_definite] замахується на {RECIPIENT_gender ? нього : неї} {lookup: [WEAPON_label]; Case; 4}</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite] [verb_genericattack] [towardsat] [implement]</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite] [verb_genericattack] [towardsat]</li>
     <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [implement]</li>
-    <li>towardsat->у бік {lookup: [RECIPIENT_definite]; Case; 1}</li>
-    <li>towardsat->у напрямку {lookup: [RECIPIENT_definite]; Case; 1}</li>
+    <li>towardsat->у {RECIPIENT_gender ? його : її} бік</li>
+    <li>towardsat->у напрямку {RECIPIENT_gender ? нього : неї}</li>
     <li>verb_genericattack->замахується</li>
     <li>verb_genericattack->безладно розмахує</li>
     <li>verb_genericattack->несамовито б'є</li>

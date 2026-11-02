@@ -13,7 +13,7 @@
     <li>mechanitorShuttleCrashedLetterText->Неподалік розбився корабель механітора з дикими механоїдами на борту. Механоїди виберуться з уламків і готуватимуться до бою.</li>
     <li>assaultBeginLetterLabel->Атака механоїдів</li>
     <li>assaultBeginLetterText->Дикі механоїди йдуть штурмувати колонію!</li>
-    <li>mechlinkAvailableLetterLabel->Мехлінк механітора [mechanitor_nameDef]</li>
+    <li>mechlinkAvailableLetterLabel->Можна забрати мехлінк ([mechanitor_nameDef])</li>
     <li>mechlinkAvailableLetterText->Серед уламків корабля лежить труп древнього механітора.\n\nЩоб вилучити {mechanitor_gender ? його : її} мехлінк, виберіть колоніста й клацніть правою кнопкою миші по трупу.</li>
   </MechanitorShip.questContentRules.rulesStrings>
   <!-- EN:

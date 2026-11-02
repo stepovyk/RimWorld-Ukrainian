@@ -121,7 +121,7 @@
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>Для омолодження потрібно мати щонайменше {0} р.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
-  <CarryToBiosculpterPod>Віднести {PAWN_labelShort} у біоскульптор ({CYCLE})</CarryToBiosculpterPod>
+  <CarryToBiosculpterPod>{PAWN_labelShort}: віднести в біоскульптор ({CYCLE})</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
   <CannotCarryToBiosculpterPod>Неможливо віднести в біоскульптор</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
@@ -139,15 +139,15 @@
   <!-- EN: Nobody around can use this -->
   <BiosculpterNoEligiblePawns>Поруч немає нікого, хто міг би цим скористатися</BiosculpterNoEligiblePawns>
   <!-- EN: Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around -->
-  <BiosculpterNoEligiblePawnsBiotuned>Налаштований на {PAWN_labelShort}, а {PAWN_gender ? його : її} поруч немає</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterNoEligiblePawnsBiotuned>Налаштований на власника ({PAWN_labelShort}), а {PAWN_gender ? його : її} поруч немає</BiosculpterNoEligiblePawnsBiotuned>
   <!-- EN: Auto load nutrition -->
   <BiosculpterAutoLoadNutritionLabel>Завантажувати їжу автоматично</BiosculpterAutoLoadNutritionLabel>
   <!-- EN: Automatically load the nutrition required to run a cycle -->
   <BiosculpterAutoLoadNutritionDescription>Автоматично завантажувати їжу, потрібну для циклу</BiosculpterAutoLoadNutritionDescription>
   <!-- EN: Auto age reversal for {PAWN_labelShort} -->
-  <BiosculpterAutoAgeReversalLabel>Автоматичне омолодження для {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalLabel>Автоматичне омолодження ({PAWN_labelShort})</BiosculpterAutoAgeReversalLabel>
   <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
-  <BiosculpterAutoAgeReversalDescription>Автоматично задовольняти бажання {PAWN_labelShort} щороку проходити в цьому біоскульпторі омолодження згідно з {PAWN_gender ? його : її} переконаннями. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescription>Згідно зі своїми переконаннями {PAWN_labelShort} щороку прагне проходити омолодження. Автоматично задовольняти це бажання в цьому біоскульпторі. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
   <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treatment in {TIME} if the pod is ready. -->
   <BiosculpterAutoAgeReversalDescriptionFuture>Якщо ввімкнено, {PAWN_labelShort} автоматично пройде наступне омолодження через {TIME}, якщо біоскульптор буде готовий.</BiosculpterAutoAgeReversalDescriptionFuture>
   <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->

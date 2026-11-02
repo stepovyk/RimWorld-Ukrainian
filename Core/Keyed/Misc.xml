@@ -155,9 +155,9 @@
   <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{1} {PAWN_labelShort}</SomeonesRoom>
+  <SomeonesRoom>{1} ({PAWN_labelShort})</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{2} {PAWN1_labelShort} та {PAWN2_labelShort}</CouplesRoom>
+  <CouplesRoom>{2} ({PAWN1_labelShort} і {PAWN2_labelShort})</CouplesRoom>
   <!-- EN: Important for this type of room. -->
   <StatRelatesToCurrentRoom>Важливо для приміщень такого типу.</StatRelatesToCurrentRoom>
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->

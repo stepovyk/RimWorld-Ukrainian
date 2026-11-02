@@ -17,13 +17,19 @@
   <!-- EN: colonist -->
   <Colonist97.title>колоніст</Colonist97.title>
   <!-- EN: colonist -->
+  <Colonist97.titleFemale>колоністка</Colonist97.titleFemale>
+  <!-- EN: colonist -->
   <Colonist97.titleShort>колоніст</Colonist97.titleShort>
+  <!-- EN: colonist -->
+  <Colonist97.titleShortFemale>колоністка</Colonist97.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up in our colony. -->
   <ColonyChild59.description>{PAWN_nameDef} {PAWN_gender ? виріс : виросла} в нашій колонії.</ColonyChild59.description>
   <!-- EN: colony child -->
   <ColonyChild59.title>дитя колонії</ColonyChild59.title>
   <!-- EN: colonist -->
   <ColonyChild59.titleShort>колоніст</ColonyChild59.titleShort>
+  <!-- EN: colonist -->
+  <ColonyChild59.titleShortFemale>колоністка</ColonyChild59.titleShortFemale>
   <!-- EN: [PAWN_nameDef] is a baby. [PAWN_possessive] life revolves around milk and naps. -->
   <Newborn79.description>{PAWN_nameDef} – немовля. Усе {PAWN_possessive} життя крутиться довкола молока й сну.</Newborn79.description>
   <!-- EN: newborn -->
@@ -36,12 +42,16 @@
   <TribeChild19.title>дитя племені</TribeChild19.title>
   <!-- EN: tribal -->
   <TribeChild19.titleShort>абориген</TribeChild19.titleShort>
+  <!-- EN: tribal -->
+  <TribeChild19.titleShortFemale>аборигенка</TribeChild19.titleShortFemale>
   <!-- EN: [PAWN_nameDef] became an adult in our tribe. [PAWN_possessive] story is still being written. -->
   <TribeMember57.description>{PAWN_nameDef} {PAWN_gender ? став дорослим : стала дорослою} в нашому племені, і {PAWN_possessive} історія ще пишеться.</TribeMember57.description>
   <!-- EN: tribe member -->
   <TribeMember57.title>член племені</TribeMember57.title>
   <!-- EN: tribal -->
   <TribeMember57.titleShort>абориген</TribeMember57.titleShort>
+  <!-- EN: tribal -->
+  <TribeMember57.titleShortFemale>аборигенка</TribeMember57.titleShortFemale>
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood in a growth vat. -->
   <VatgrownChild11.description>{PAWN_nameDef} {PAWN_gender ? провів : провела} більшу частину дитинства в інкубаторі.</VatgrownChild11.description>
   <!-- EN: vatgrown child -->

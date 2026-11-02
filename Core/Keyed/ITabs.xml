@@ -276,7 +276,7 @@
   <!-- EN: Faction leader -->
   <FactionLeader>Лідер фракції</FactionLeader>
   <!-- EN: Opinion of {0} -->
-  <OpinionOf>Ставлення до {0}</OpinionOf>
+  <OpinionOf>Ставлення до персонажа {0}</OpinionOf>
   <!-- EN: {0}'s opinion of me -->
   <SomeonesOpinionOfMe>{0}: ставлення до мене</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->

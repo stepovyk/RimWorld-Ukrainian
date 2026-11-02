@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Call {0} -->
-  <CallOnRadio>Зв'язатися з {0}</CallOnRadio>
+  <CallOnRadio>Зв'язатися: {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
   <CannotUseReason>Неможливо використати: {0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
@@ -21,9 +21,9 @@
   <!-- EN: Not allowed -->
   <NotAllowed>Заборонено</NotAllowed>
   <!-- EN: Attack {1_labelShort} -->
-  <Attack>Атакувати {1_labelShort}</Attack>
+  <Attack>Атакувати: {1_labelShort}</Attack>
   <!-- EN: Fire at {1_labelShort} -->
-  <FireAt>Вогонь по {lookup: {1_label}; Case; 2}</FireAt>
+  <FireAt>Стріляти: {1_labelShort}</FireAt>
   <!-- EN: Remove -->
   <Remove>Прибрати</Remove>
   <!-- EN: out of range -->
@@ -53,15 +53,15 @@
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Зайняти {lookup: {1_labelShort}; Case; 3}</OrderManThing>
   <!-- EN: Melee attack {1_labelShort} -->
-  <MeleeAttack>Ближній бій з {lookup: {1_label}; Case; 4}</MeleeAttack>
+  <MeleeAttack>Ближній бій: {1_labelShort}</MeleeAttack>
   <!-- EN: Melee attack {1_labelShort} to death -->
-  <MeleeAttackToDeath>Бити {lookup: {1_label}; Case; 3} врукопашну до смерті</MeleeAttackToDeath>
+  <MeleeAttackToDeath>Бити до смерті: {1_labelShort}</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>немає проходу</NoPath>
   <!-- EN: burying -->
   <Burying>поховання</Burying>
   <!-- EN: designated for {0} -->
-  <DesignatedFor>призначено для {0}</DesignatedFor>
+  <DesignatedFor>призначено: {0}</DesignatedFor>
   <!-- EN: forbidden -->
   <ForbiddenLower>заборонено</ForbiddenLower>
   <!-- EN: outside allowed area -->
@@ -197,17 +197,17 @@
   <!-- EN: Clean {0} -->
   <CleanRoom>Прибрати {lookup: {0}; Case; 3}</CleanRoom>
   <!-- EN: Arrest {0} -->
-  <Arrest>Заарештувати {lookup: {0}; Case; 3}</Arrest>
+  <Arrest>Заарештувати: {0}</Arrest>
   <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
-  <TryToArrest>Спробувати заарештувати {lookup: {1_labelShort}; Case; 3} (шанс: {2})</TryToArrest>
+  <TryToArrest>Спробувати заарештувати: {1_labelShort} (шанс: {2})</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Неможливо заарештувати</CannotArrest>
   <!-- EN: {0} chance of arrest -->
   <ArrestChance>шанс арешту: {0}</ArrestChance>
   <!-- EN: Capture {1_labelShort} -->
-  <Capture>Взяти в полон {lookup: {1_labelShort}; Case; 3}</Capture>
+  <Capture>Взяти в полон: {1_labelShort}</Capture>
   <!-- EN: capture {0_labelShort} -->
-  <CaptureLower>взяти в полон {lookup: {0_labelShort}; Case; 3}</CaptureLower>
+  <CaptureLower>взяти в полон: {0_labelShort}</CaptureLower>
   <!-- EN: Cannot capture -->
   <CannotCapture>Неможливо взяти в полон</CannotCapture>
   <!-- EN: unwaveringly loyal -->
@@ -217,21 +217,21 @@
   <!-- EN: Transfer {0_label} -->
   <TransferEntity>Перенести {lookup: {0_label}; Case; 3}</TransferEntity>
   <!-- EN: Rescue {1_labelShort} -->
-  <Rescue>Врятувати {lookup: {1_labelShort}; Case; 3}</Rescue>
+  <Rescue>Врятувати: {1_labelShort}</Rescue>
   <!-- EN: Put {1_labelShort} somewhere safe -->
-  <PutSomewhereSafe>Перенести {lookup: {1_labelShort}; Case; 3} в безпечне місце</PutSomewhereSafe>
+  <PutSomewhereSafe>Перенести в безпечне місце: {1_labelShort}</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
-  <TakingToBed>Несе {lookup: {0_labelShort}; Case; 3} до ліжка.</TakingToBed>
+  <TakingToBed>Несе до ліжка: {0_labelShort}.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Неможливо врятувати</CannotRescue>
   <!-- EN: Cannot rescue {PAWN_labelShort} -->
-  <CannotRescuePawn>Неможливо врятувати {PAWN_labelShort}</CannotRescuePawn>
+  <CannotRescuePawn>Неможливо врятувати: {PAWN_labelShort}</CannotRescuePawn>
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Перенести {lookup: {1_labelShort}; Case; 3} до саркофага криптосну</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Перенести до саркофага криптосну: {1_labelShort}</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Неможливо перенести до саркофага криптосну</CannotCarryToCryptosleepCasket>
   <!-- EN: Carry {0_labelShort} to shuttle -->
-  <CarryToShuttle>Перенести {lookup: {0_labelShort}; Case; 3} до шатла</CarryToShuttle>
+  <CarryToShuttle>Перенести до шатла: {0_labelShort}</CarryToShuttle>
   <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Немає доступних саркофагів криптосну.</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
@@ -255,7 +255,7 @@
   <!-- EN: Reserved by someone else. -->
   <Reserved>Зайнято кимось іншим.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>Зайнято {lookup: {1_labelShort}; Case; 4}</ReservedBy>
+  <ReservedBy>Уже зайнято ({1_labelShort})</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>{1} уже використовує {0}.</IsReservedBy>
   <!-- EN: Too heavy -->
@@ -347,21 +347,21 @@
   <!-- EN: overweight -->
   <OverweightLower>перевантаження</OverweightLower>
   <!-- EN: Cannot carry {1_labelShort} and leave the area -->
-  <CannotCarryToExit>Неможливо винести {lookup: {1_labelShort}; Case; 3} й покинути територію</CannotCarryToExit>
+  <CannotCarryToExit>Неможливо винести й покинути територію: {1_labelShort}</CannotCarryToExit>
   <!-- EN: Carry {1_labelShort} and leave the area -->
-  <CarryToExit>Винести {lookup: {1_labelShort}; Case; 3} й покинути територію</CarryToExit>
+  <CarryToExit>Винести й покинути територію: {1_labelShort}</CarryToExit>
   <!-- EN: Capture {1_labelShort} and leave the area -->
-  <CarryToExitAndCapture>Взяти в полон {lookup: {1_labelShort}; Case; 3} й покинути територію</CarryToExitAndCapture>
+  <CarryToExitAndCapture>Взяти в полон і покинути територію: {1_labelShort}</CarryToExitAndCapture>
   <!-- EN: Strip {1_labelShort} -->
-  <Strip>Роздягти {lookup: {1_labelShort}; Case; 3}</Strip>
+  <Strip>Роздягти: {1_labelShort}</Strip>
   <!-- EN: Cannot strip {1_labelShort} -->
-  <CannotStrip>Неможливо роздягти {lookup: {1_labelShort}; Case; 3}</CannotStrip>
+  <CannotStrip>Неможливо роздягти: {1_labelShort}</CannotStrip>
   <!-- EN: Cannot drop {1_labelShort} -->
   <CannotDrop>Неможливо кинути {lookup: {1_labelShort}; Case; 3}</CannotDrop>
   <!-- EN: Carry {0_labelShort} -->
-  <Carry>Нести {lookup: {0_labelShort}; Case; 3}</Carry>
+  <Carry>Нести: {0_labelShort}</Carry>
   <!-- EN: Cannot carry {0_labelShort} -->
-  <CannotCarry>Неможливо нести {lookup: {0_labelShort}; Case; 3}</CannotCarry>
+  <CannotCarry>Неможливо нести: {0_labelShort}</CannotCarry>
   <!-- EN: hostile -->
   <CarriedPawnHostile>ворожий</CarriedPawnHostile>
   <!-- EN: temporary faction member -->
@@ -391,7 +391,7 @@
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>зайнято: {0}</SomeoneElseSleeping>
   <!-- EN: Trade with {0} -->
-  <TradeWith>Торгувати з {lookup: {0}; Case; 4}</TradeWith>
+  <TradeWith>Торгувати: {0}</TradeWith>
   <!-- EN: Dismiss trader -->
   <DismissTrader>Випроводити торговця</DismissTrader>
   <!-- EN: Cannot trade -->
@@ -429,14 +429,14 @@
   <EnterShuttle>Сісти в шатл</EnterShuttle>
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Неможливо {0} {lookup: {1}; Case; 3}</CannotGenericWork>
+  <CannotGenericWork>Неможливо {0}: {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Неможливо {0}</CannotGenericWorkCustom>
   <!-- EN: Incapable of {0} -->
   <CannotMissingHealthActivities>Нездатність: {0}</CannotMissingHealthActivities>
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>Уже виконується: {0} {lookup: {2_labelShort}; Case; 3}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Уже виконується: {0} ({2_labelShort})</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>Уже виконується: {0}</CannotGenericAlreadyAmCustom>
   <!-- EN: Will never do {0} -->
@@ -465,7 +465,7 @@
   <CannotPrioritizeBurying>Неможливо пріоритетно поховати</CannotPrioritizeBurying>
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>Пріоритетно {0} {lookup: {1}; Case; 3}</PrioritizeGeneric>
+  <PrioritizeGeneric>Пріоритетно {0}: {1}</PrioritizeGeneric>
   <!-- EN: Prioritize {0} -->
   <PrioritizeGenericSimple>Пріоритетно {0}</PrioritizeGenericSimple>
   <!-- EN: Launch to {LOCATION_label} -->
@@ -534,9 +534,9 @@
   <!-- EN: already invoked -->
   <AlreadyInvoked>уже задіяно</AlreadyInvoked>
   <!-- EN: Tend {0} -->
-  <Tend>Лікувати {lookup: {0}; Case; 3}</Tend>
+  <Tend>Лікувати: {0}</Tend>
   <!-- EN: Cannot tend {0} -->
-  <CannotTend>Неможливо лікувати {lookup: {0}; Case; 3}</CannotTend>
+  <CannotTend>Неможливо лікувати: {0}</CannotTend>
   <!-- EN: {0} does not require tending -->
   <TendingNotRequired>{0} не потребує лікування</TendingNotRequired>
   <!-- EN: without medicine -->
@@ -553,9 +553,9 @@
   <PortalClosed>зачинено</PortalClosed>
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
-  <CannotRomance>Неможливо залицятися до {0}</CannotRomance>
+  <CannotRomance>Неможливо залицятися: {0}</CannotRomance>
   <!-- EN: Romance {0} -->
-  <CanRomance>Залицятися до {0}</CanRomance>
+  <CanRomance>Залицятися: {0}</CanRomance>
   <!-- Feeding -->
   <!-- EN: disliked food -->
   <WarningFoodDisliked>нелюба їжа</WarningFoodDisliked>

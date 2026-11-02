@@ -17,7 +17,7 @@
   <!-- EN: I lost my child. -->
   <Miscarried.stages.miscarried.description>Я втратила свою дитину.</Miscarried.stages.miscarried.description>
   <!-- EN: {0} miscarried -->
-  <PartnerMiscarried.stages.miscarried.label>викидень у {0}</PartnerMiscarried.stages.miscarried.label>
+  <PartnerMiscarried.stages.miscarried.label>викидень у партнерки ({0})</PartnerMiscarried.stages.miscarried.label>
   <!-- EN: My child's story ended before it started. -->
   <PartnerMiscarried.stages.miscarried.description>Історія моєї дитини закінчилася ще до її початку.</PartnerMiscarried.stages.miscarried.description>
   <!-- EN: pregnancy ended -->
@@ -37,7 +37,7 @@
   <!-- EN: My pregnancy was terminated. -->
   <PregnancyTerminated.stages.pregnancy_terminated-2.description>Мою вагітність перервали.</PregnancyTerminated.stages.pregnancy_terminated-2.description>
   <!-- EN: psychic bond torn ({0}) -->
-  <PsychicBondTorn.stages.psychic_bond_torn.label>розірвано психічний зв'язок з {0}</PsychicBondTorn.stages.psychic_bond_torn.label>
+  <PsychicBondTorn.stages.psychic_bond_torn.label>розірвано психічний зв'язок ({0})</PsychicBondTorn.stages.psychic_bond_torn.label>
   <!-- EN: My psychic bond with {OTHERPAWN} was torn apart. I feel like part of my mind and emotions are missing. -->
   <PsychicBondTorn.stages.psychic_bond_torn.description>Мій психічний зв'язок із {OTHERPAWN} розірвано. Таке відчуття, ніби частина мого розуму й почуттів зникла.</PsychicBondTorn.stages.psychic_bond_torn.description>
   <!-- EN: stillbirth -->

@@ -531,7 +531,7 @@
   <!-- EN: exonerated -->
   <Trial.outcomeChances.0.label>виправдано</Trial.outcomeChances.0.label>
   <!-- EN: The prosecutor {PROSECUTOR_labelShort}'s arguments failed to convince anyone. {PAWN_labelShort} was exonerated. -->
-  <Trial.outcomeChances.0.description>Аргументи обвинувача {PROSECUTOR_labelShort} нікого не переконали. {PAWN_labelShort} виправдано.</Trial.outcomeChances.0.description>
+  <Trial.outcomeChances.0.description>Обвинувач {PROSECUTOR_labelShort} нікого не {PROSECUTOR_gender ? переконав : переконала}. {PAWN_labelShort} {PAWN_gender ? виправданий : виправдана}.</Trial.outcomeChances.0.description>
   <!-- EN: convicted -->
   <Trial.outcomeChances.1.label>засуджено</Trial.outcomeChances.1.label>
   <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->
@@ -547,7 +547,7 @@
   <!-- EN: exonerated -->
   <TrialMentalState.outcomeChances.0.label>виправдано</TrialMentalState.outcomeChances.0.label>
   <!-- EN: The prosecutor {PROSECUTOR_labelShort}'s arguments failed to convince anyone. {PAWN_labelShort} was exonerated. -->
-  <TrialMentalState.outcomeChances.0.description>Аргументи обвинувача {PROSECUTOR_labelShort} нікого не переконали. {PAWN_labelShort} виправдано.</TrialMentalState.outcomeChances.0.description>
+  <TrialMentalState.outcomeChances.0.description>Обвинувач {PROSECUTOR_labelShort} нікого не {PROSECUTOR_gender ? переконав : переконала}. {PAWN_labelShort} {PAWN_gender ? виправданий : виправдана}.</TrialMentalState.outcomeChances.0.description>
   <!-- EN: convicted -->
   <TrialMentalState.outcomeChances.1.label>засуджено</TrialMentalState.outcomeChances.1.label>
   <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->

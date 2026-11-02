@@ -6,6 +6,6 @@
   -->
   <MechanitorStartingMech.questContentRules.rulesStrings>
     <li>arrivalLetterLabel->[mech_label] під'єднано: [mechanitor_nameDef]</li>
-    <li>arrivalLetterText->[mech_label] спускається з орбіти й переходить під керування механітора [mechanitor_nameDef].\n\nСхоже, цього механоїда вже прив'язали до {mechanitor_gender ? його : її} мехлінка, і він прагне знову виконувати своє призначення.</li>
+    <li>arrivalLetterText->[mech_label] спускається з орбіти, і тепер ним керуватиме [mechanitor_nameDef].\n\nСхоже, цього механоїда вже прив'язали до {mechanitor_gender ? його : її} мехлінка, і він прагне знову виконувати своє призначення.</li>
   </MechanitorStartingMech.questContentRules.rulesStrings>
 </LanguageData>

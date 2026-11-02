@@ -73,7 +73,7 @@
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Новобранець</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
-  <MessageRecruitSuccess>{RECRUITER_nameFull} {RECRUITER_gender ? завербував : завербувала} {RECRUITEE_nameFull}.</MessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} {RECRUITER_gender ? завербував : завербувала} {RECRUITEE_gender ? нового колоніста : нову колоністку}: {RECRUITEE_nameFull}.</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
   <MessageTameSuccess>{RECRUITER_labelShort} {RECRUITER_gender ? приручив : приручила} {lookup: {1}; Case; 3}.</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
@@ -151,7 +151,7 @@
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Немає вільних ліжок для тварин.</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
-  <MessageWarningNoMedicineForRestriction>Увага: обмеження на ліки для {PAWN_nameDef} ({RESTRICTIONLABEL}) не дає провести цю операцію. Можливо, варто змінити обмеження.</MessageWarningNoMedicineForRestriction>
+  <MessageWarningNoMedicineForRestriction>Увага: {PAWN_nameDef} має обмеження на ліки ({RESTRICTIONLABEL}), яке не дає провести цю операцію. Можливо, варто його змінити.</MessageWarningNoMedicineForRestriction>
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} {PAWN_gender ? помер : померла}. Причина: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
@@ -161,13 +161,13 @@
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
   <MessageInvoluntarySleep>{1_labelShort} {1_gender ? впав : впала} від крайнього виснаження.</MessageInvoluntarySleep>
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>Ця операція обурить {lookup: {0}; Case; 3}.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Ця операція обурить фракцію {0}.</MessageMedicalOperationWillAngerFaction>
   <!-- EN: {PAWN_nameDef} is pregnant! -->
   <MessageAnimalIsPregnant>{PAWN_nameDef} вагітна!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>У {lookup: {0}; Case; 1} через голод стався викидень.</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>{0}: викидень через голод.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>У {lookup: {0}; Case; 1} через поганий стан здоров'я стався викидень.</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>{0}: викидень через поганий стан здоров'я.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>{0} народила.</MessageGaveBirth>
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
@@ -181,9 +181,9 @@
   <!-- EN: No handler capable of taming {ANIMAL_kindBase} (requires level {1} in {2}, best capable handler {HANDLER_labelShort} has {4}). -->
   <MessageNoHandlerSkilledEnough>Немає тваринника, здатного приручити {lookup: {ANIMAL_kindBase}; Case; 3}: потрібен рівень {1} навички «{2}», а найкращий доступний тваринник, {HANDLER_labelShort}, має {4}.</MessageNoHandlerSkilledEnough>
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>{PREDATOR} {PREDATOR_gender ? з'їв : з'їла} {lookup: {EATEN_labelShort}; Case; 3}.</MessageEatenByPredator>
+  <MessageEatenByPredator>{PREDATOR} {PREDATOR_gender ? з'їв : з'їла} свою здобич – {EATEN_labelShort}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{PREDATOR} нападає на {lookup: {PREY_labelShort}; Case; 3}!</MessageAttackedByPredator>
+  <MessageAttackedByPredator>{PREDATOR} нападає! Жертва – {PREY_labelShort}.</MessageAttackedByPredator>
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
   <MessageRoamerLeaving>{PAWN_labelShort} відбивається від загону! Тварина піде з мапи, якщо тваринник не поверне її на мотузці до загону.</MessageRoamerLeaving>
   <!-- EN: A bug hive has reproduced itself. -->
@@ -197,29 +197,29 @@
   <!-- EN: {1_labelShort} is off the map. -->
   <MessageCantSelectOffMapPawn>{1_labelShort} не на цій мапі.</MessageCantSelectOffMapPawn>
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>{PAWN1_labelShort} влаштовує сутичку з {PAWN2_labelShort}.</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort} затіває бійку. Супротивник – {PAWN2_labelShort}.</MessageSocialFight>
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
-  <MessageNewMarriageCeremony>Колоністи збираються відсвяткувати весілля {PAWN1_labelShort} і {PAWN2_labelShort}.</MessageNewMarriageCeremony>
+  <MessageNewMarriageCeremony>{PAWN1_labelShort} і {PAWN2_labelShort} одружуються! Колоністи збираються на свято.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{PAWN1_labelShort} і {PAWN2_labelShort} починають весільну церемонію!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>Весільну церемонію {PAWN1_labelShort} і {PAWN2_labelShort} скасовано.</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort} і {PAWN2_labelShort}: весільну церемонію скасовано.</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
   <MessageNewlyMarried>{PAWN1_labelShort} і {PAWN2_labelShort} побралися. Колоністи святкують цю подію.</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>Весільна церемонія {PAWN1_labelShort} і {PAWN2_labelShort} завершилася.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort} і {PAWN2_labelShort}: весільна церемонія завершилася.</MessageMarriageCeremonyAfterPartyFinished>
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>Між {HUMAN_labelShort} і {ANIMAL_labelShort} виникла прив'язаність.</MessageNewBondRelation>
+  <MessageNewBondRelation>{HUMAN_labelShort} і {ANIMAL_labelShort} прив'язалися одне до одного.</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>Між {HUMAN_labelShort} і {1} виникла прив'язаність. {HUMAN_labelShort} дає тварині ім'я {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} і {1} прив'язалися одне до одного. {HUMAN_labelShort} дає тварині ім'я {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
   <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalMentalBreak>{ANIMAL} зазнає нервового зриву через смерть {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} зазнає нервового зриву: {HUMAN_gender ? помер : померла} {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} на ім'я {ANIMAL_label} зазнає нервового зриву через смерть {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} на ім'я {ANIMAL_label} зазнає нервового зриву: {HUMAN_gender ? помер : померла} {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>Тварини ({0}) зазнають нервового зриву через смерть {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalsMentalBreak>Тварини ({0}) зазнають нервового зриву: {HUMAN_gender ? помер : померла} {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} {SURGEON_gender ? видалив : видалила} {PATIENT_labelShort} стан «{HEDIFF}».</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{PATIENT_labelShort} більше не має стану «{HEDIFF}»: {SURGEON_labelShort} успішно {SURGEON_gender ? провів : провела} операцію.</MessageSuccessfullyRemovedHediff>
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
   <MessageShipChunkDrop>Неподалік упали уламки космічного корабля. Їх можна розібрати на ресурси.</MessageShipChunkDrop>
   <!-- EN: Some items cannot be traded because of:  -->
@@ -233,7 +233,7 @@
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
   <MessageNoLongerBingingOnDrug>{2_labelShort} більше не має тяги до {lookup: {1}; Case; 1}.</MessageNoLongerBingingOnDrug>
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} більше не ображає {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} більше не ображає свою жертву – {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
   <!-- EN: {1_label} has rotted away in storage. -->
   <MessageRottedAwayInStorage>{1_label}: згнило на складі.</MessageRottedAwayInStorage>
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
@@ -277,7 +277,7 @@
   <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>Ви оселилися на новому місці.</MessageSettledInExistingMap>
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
-  <MessagePermanentWoundHealed>У {PAWN_labelShort} загоївся стан «{2}». Причина: {0}</MessagePermanentWoundHealed>
+  <MessagePermanentWoundHealed>{PAWN_labelShort}: загоївся стан «{2}». Причина: {0}</MessagePermanentWoundHealed>
   <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
   <MessageRescueeDidntJoin>[PAWN_nameDef] {PAWN_gender ? одужав : одужала} й {PAWN_gender ? вирішив : вирішила} піти.</MessageRescueeDidntJoin>
   <!-- EN: Some transport pods are unreachable. -->
@@ -337,13 +337,13 @@
   <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
   <MessageWouldReplaceLockedApparel>Неможливо вдягнути: це замінило б одяг, який {1_labelShort} відмовляється знімати.</MessageWouldReplaceLockedApparel>
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>{BONDED_labelShort} {BONDED_gender ? прив'язаний : прив'язана} до {lookup: {DESIGNATED_labelShort}; Case; 1}, тож забій цієї тварини засмутить {BONDED_gender ? його : її}.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>{BONDED_labelShort} {BONDED_gender ? прив'язаний : прив'язана} до цієї тварини ({DESIGNATED_labelShort}), тож забій засмутить {BONDED_gender ? його : її}.</MessageSlaughteringBondedAnimal>
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageReleaseBondedAnimal>{BONDED_labelShort} {BONDED_gender ? прив'язаний : прив'язана} до {lookup: {DESIGNATED_labelShort}; Case; 1}, тож звільнення цієї тварини засмутить {BONDED_gender ? його : її}.</MessageReleaseBondedAnimal>
+  <MessageReleaseBondedAnimal>{BONDED_labelShort} {BONDED_gender ? прив'язаний : прив'язана} до цієї тварини ({DESIGNATED_labelShort}), тож звільнення засмутить {BONDED_gender ? його : її}.</MessageReleaseBondedAnimal>
   <!-- EN: {0} has run out of food. -->
   <MessageCaravanRanOutOfFood>{0} залишився без їжі.</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
-  <MessageCaravanDeathCorpseAddedToInventory>Караван підібрав труп {PAWN_definite}. Він важкий і може знерухомити караван, але його можна залишити на вкладці «Вантаж».</MessageCaravanDeathCorpseAddedToInventory>
+  <MessageCaravanDeathCorpseAddedToInventory>Караван забрав тіло {PAWN_gender ? загиблого : загиблої}: {PAWN_definite}. Воно важке й може знерухомити караван, але його можна залишити на вкладці «Вантаж».</MessageCaravanDeathCorpseAddedToInventory>
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
   <MessageSelectOwnBaseToFormCaravan>Щоб сформувати караван, виберіть свою колонію або місце, де є ваші люди.</MessageSelectOwnBaseToFormCaravan>
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
@@ -377,7 +377,7 @@
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
   <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Тепер тут безпечно, але лишилися недосліджені кімнати. Можна дослідити їх або переформувати караван на мапі світу.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>Не можна вигнати {1_labelShort}, бо {1_gender ? він : вона} не може ходити.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>{1_labelShort} не може ходити, тож вигнати {1_gender ? його : її} не можна.</MessageCantBanishDownedPawn>
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} прокинулися.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
@@ -393,9 +393,9 @@
   <!-- EN: {0} has been brought back to life! -->
   <MessagePawnResurrected>{0} повертається до життя!</MessagePawnResurrected>
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
-  <MessageFailedToRescueRelative>Вам не вдалося врятувати {PAWN_labelShort}. Це засмутить {RELATIVE_labelShort}.</MessageFailedToRescueRelative>
+  <MessageFailedToRescueRelative>{PAWN_labelShort} так і не {PAWN_gender ? дочекався : дочекалася} порятунку. {RELATIVE_labelShort} через це сумуватиме.</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
-  <MessageRescuedRelative>Ви врятували {PAWN_labelShort}. Це потішить {RELATIVE_labelShort}.</MessageRescuedRelative>
+  <MessageRescuedRelative>{PAWN_labelShort} {PAWN_gender ? врятований : врятована}. {RELATIVE_labelShort} через це радітиме.</MessageRescuedRelative>
   <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>Торнадо пішов за межі мапи.</MessageTornadoLeftMap>
   <!-- EN: The tornado has dissipated. -->
@@ -405,11 +405,11 @@
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
   <MessageWarningCavePlantsExposedToLight>Увага: {0} гине на світлі.</MessageWarningCavePlantsExposedToLight>
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} не може дістатися {lookup: {OLDTARGET_label}; Case; 1}, тож переносить свій гнів на {lookup: {TARGET_label}; Case; 3}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} не може дістатися до своєї мішені ({OLDTARGET_label}), тож переносить гнів на нову – {TARGET_label}.</MessageTargetedTantrumChangedTarget>
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} не може дістатися {lookup: {OLDTARGET_label}; Case; 1}, тож переносить свій гнів на {lookup: {TARGET_label}; Case; 3}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} не може дістатися до своєї жертви ({OLDTARGET_label}), тож переносить гнів на нову – {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageMurderousRageChangedTarget>{PAWN_labelShort} переносить свій гнів на {lookup: {TARGET_label}; Case; 3}.</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} переносить свій гнів на нову жертву – {TARGET_label}.</MessageMurderousRageChangedTarget>
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0} не може рости під дахом.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
@@ -423,11 +423,11 @@
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
   <MessageGoodwillChangedWithReason>Відносини з фракцією «{0}» змінилися з {1} на {2} ({3}).</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
-  <GoodwillChangedReason_AttackedPawn>напад на {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_AttackedPawn>напад на члена фракції: {1_labelShort}</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
-  <GoodwillChangedReason_UsedItem>{ITEM_labelShort} застосовано до {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedItem>{ITEM_labelShort} застосовано до члена фракції: {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
   <!-- EN: used {0} on {1} -->
-  <GoodwillChangedReason_UsedAbility>«{0}» застосовано до {1}</GoodwillChangedReason_UsedAbility>
+  <GoodwillChangedReason_UsedAbility>«{0}» застосовано до члена фракції: {1}</GoodwillChangedReason_UsedAbility>
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>вилучено: {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: removed {0} -->
@@ -471,7 +471,7 @@
   <!-- EN: caused neuroquake echo -->
   <GoodwillChangedReason_CausedNeuroquakeEcho>спричинено відлуння нейрошторму</GoodwillChangedReason_CausedNeuroquakeEcho>
   <!-- EN: caused berserk on {PAWN_labelShort} -->
-  <GoodwillChangedReason_CausedBerserk>у {PAWN_labelShort} викликано стан берсерка</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangedReason_CausedBerserk>доведено до берсерка: {PAWN_labelShort}</GoodwillChangedReason_CausedBerserk>
   <!-- EN: attacked {0_name} -->
   <GoodwillChangeReason_AttackedFaction>напад на фракцію «{0_name}»</GoodwillChangeReason_AttackedFaction>
   <!-- EN: shuttle destroyed -->
@@ -521,7 +521,7 @@
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
   <MessagePermitCooldownFinished>{0_labelShort} знову може користуватися привілеєм «{1}».</MessagePermitCooldownFinished>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
-  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} полює на {lookup: {PREY_definite}; Case; 3} ({PREY_kindBase}), щоб з'їсти!</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} вийшов на полювання, і здобич – {PREY_definite} ({PREY_kindBase})!</MessagePredatorHuntingPlayerAnimal>
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
   <MessagePrisonerResistanceBroken>{WARDEN_labelShort} {WARDEN_gender ? зламав : зламала} опір в'язня {PRISONER_labelShort}.</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
@@ -537,9 +537,9 @@
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
   <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Не вдалося завантажити один із файлів перекладу ({0}). Спершу виправте всі помилки розбору XML.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>Увага: полонення {PAWN_nameDef} розлютить фракцію «{PAWN_factionName}».</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>Увага: {PAWN_nameDef} належить до фракції «{PAWN_factionName}», і полон розлютить її.</MessageCapturingWillAngerFaction>
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
-  <MessageStrippingWillAngerFaction>Увага: роздягання {PAWN_nameDef} розлютить фракцію «{PAWN_factionName}».</MessageStrippingWillAngerFaction>
+  <MessageStrippingWillAngerFaction>Увага: {PAWN_nameDef} належить до фракції «{PAWN_factionName}», і роздягання розлютить її.</MessageStrippingWillAngerFaction>
   <!-- EN: Cannot shoot in melee. -->
   <MessageCantShootInMelee>Не можна стріляти в ближньому бою.</MessageCantShootInMelee>
   <!-- EN: None of your {0} can accept this quest now. -->
@@ -557,7 +557,7 @@
   <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
   <MessageNoResearchBenchForTechprint>Неможливо застосувати: немає досяжного вільного дослідницького стола.</MessageNoResearchBenchForTechprint>
   <!-- EN: No valid destination found for {0} -->
-  <NoValidDestinationFound>Не знайдено придатного місця призначення для {0}</NoValidDestinationFound>
+  <NoValidDestinationFound>{0}: не знайдено придатного місця призначення</NoValidDestinationFound>
   <!-- EN: An extracted tree just died. -->
   <MessageMinifiedTreeDied>Викопане дерево загинуло.</MessageMinifiedTreeDied>
   <!-- Research -->
@@ -570,11 +570,11 @@
   <!-- EN: {PAWN_nameDef} is a prisoner -->
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} – в'язень</MessagePrisonerCannotEquipWeapon>
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
-  <MessageIdeoOpposedWorkTypeSelected>Увага: вірування {0_nameDef} засуджують роботу «{1}». Це може засмутити {0_gender ? його : її}.</MessageIdeoOpposedWorkTypeSelected>
+  <MessageIdeoOpposedWorkTypeSelected>Увага: {0_nameDef} має вірування, що засуджують роботу «{1}». Це може {0_gender ? його : її} засмутити.</MessageIdeoOpposedWorkTypeSelected>
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
-  <MessageBedLostAssignment>{0} більше не закріплено за {1_nameDef}.</MessageBedLostAssignment>
+  <MessageBedLostAssignment>{1_nameDef}: {0} більше не закріплено.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
-  <MessageBedDestroyed>{0}, закріплене за {1_nameDef}, знищено.</MessageBedDestroyed>
+  <MessageBedDestroyed>{1_nameDef} втрачає своє місце: {0} знищено.</MessageBedDestroyed>
   <!-- Lord jobs -->
   <!-- EN: You need {0_indefinite}. -->
   <MessageLordJobNeedsAtLeastOneRolePawn>Потрібно: {0_indefinite}.</MessageLordJobNeedsAtLeastOneRolePawn>
@@ -616,7 +616,7 @@
   <!-- EN: {0} cannot be a baby. -->
   <MessageRitualRoleCannotBeABaby>{0}: не може бути немовля.</MessageRitualRoleCannotBeABaby>
   <!-- EN: No roles available for {0_labelShort}. -->
-  <MessageRitualNoRolesAvailable>Немає доступних ролей для {0_labelShort}.</MessageRitualNoRolesAvailable>
+  <MessageRitualNoRolesAvailable>{0_labelShort}: немає доступних ролей.</MessageRitualNoRolesAvailable>
   <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
   <MessageRitualNotOfPlayerIdeo>{0_labelShort} не сповідує жодної з ідеологій колонії.</MessageRitualNotOfPlayerIdeo>
   <!-- EN: {0} must have eyes -->
@@ -718,9 +718,9 @@
   <!-- EN: Cannot skip: Refugee -->
   <MessageLodgersCantFarskip>Стрибок неможливий: біженець</MessageLodgersCantFarskip>
   <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}. -->
-  <MessageHackerLockedOut>Злам, який здійснював {HACKER_nameDef}, виявлено. Доступ заблоковано на {DURATION}.</MessageHackerLockedOut>
+  <MessageHackerLockedOut>{HACKER_nameDef}: злам виявлено. Доступ заблоковано на {DURATION}.</MessageHackerLockedOut>
   <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently. -->
-  <MessageHackerLockedOutPermanently>Злам, який здійснював {HACKER_nameDef}, виявлено. Доступ заблоковано назавжди.</MessageHackerLockedOutPermanently>
+  <MessageHackerLockedOutPermanently>{HACKER_nameDef}: злам виявлено. Доступ заблоковано назавжди.</MessageHackerLockedOutPermanently>
   <!-- EN: {0_labelShort} can be hacked again. -->
   <MessageHackableUnlocked>{0_labelShort} знову можна зламувати.</MessageHackableUnlocked>
   <!-- EN: Shuttle cannot land here -->

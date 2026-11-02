@@ -255,7 +255,7 @@
   <!-- EN: Average guest mood (previous {0}): {1} -->
   <QuestAveragePawnMood>Середній настрій гостей (за останні {0}): {1}</QuestAveragePawnMood>
   <!-- EN: The average mood of {0} over the previous {1} -->
-  <QuestAveragePawnMoodTargets>Середній настрій {0} за останні {1}</QuestAveragePawnMoodTargets>
+  <QuestAveragePawnMoodTargets>{0}: середній настрій за останні {1}</QuestAveragePawnMoodTargets>
   <!-- EN: Shuttle arrives in {0} -->
   <ShuttleArrivesIn>Шатл прибуває через {0}</ShuttleArrivesIn>
   <!-- EN: Shuttle arrives on {0} -->
@@ -301,7 +301,7 @@
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestThroneRoomRequirementsUnsatisfied>мати тронну залу, що відповідає вимогам титулу «{TITLE}» ({PAWN_definite})</QuestThroneRoomRequirementsUnsatisfied>
   <!-- EN: assign a throne for {PAWN_definite} -->
-  <QuestNoThroneRoom>призначити трон {PAWN_definite}</QuestNoThroneRoom>
+  <QuestNoThroneRoom>{PAWN_definite}: призначити трон</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>мати колоніста з титулом «{0}»</QuestNoColonistWithTitle>
   <!-- EN: {PAWN_definite} to be in your home colony -->

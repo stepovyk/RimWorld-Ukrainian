@@ -79,5 +79,5 @@
   <!-- EN: This person's genetic material is regrowing. This process doesn't have any direct health effects. However, extracting their genes while they are regrowing will kill them. -->
   <XenogermReplicating.description>Генетичний матеріал цієї людини відновлюється. Безпосередньо на здоров'я це не впливає. Проте якщо вилучити гени, поки вони відновлюються, людина загине.</XenogermReplicating.description>
   <!-- EN: {PAWN_nameDef}'s genes have finished regrowing. -->
-  <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>Гени {PAWN_nameDef} повністю відновилися.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
+  <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef}: гени повністю відновилися.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
 </LanguageData>

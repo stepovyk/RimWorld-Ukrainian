@@ -4,7 +4,7 @@
   <!-- EN: Conversion -->
   <LetterLabelConvertIdeoAttempt_Success>Навернення</LetterLabelConvertIdeoAttempt_Success>
   <!-- EN: {INITIATOR_nameDef} has successfully turned {RECIPIENT_nameDef} away from {OLDIDEO_name} and towards {IDEO_name}. -->
-  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} {INITIATOR_gender ? відвернув : відвернула} {RECIPIENT_nameDef} від ідеології «{OLDIDEO_name}» і {INITIATOR_gender ? навернув : навернула} в ідеологію «{IDEO_name}».</LetterConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} {INITIATOR_gender ? досяг : досягла} свого: {RECIPIENT_nameDef} {RECIPIENT_gender ? зрікся : зреклася} ідеології «{OLDIDEO_name}» і {RECIPIENT_gender ? прийняв : прийняла} ідеологію «{IDEO_name}».</LetterConvertIdeoAttempt_Success>
   <!-- Slave rebellion -->
   <!-- EN: Grand slave rebellion -->
   <LetterLabelGrandSlaveRebellion>Масове повстання рабів</LetterLabelGrandSlaveRebellion>
@@ -77,7 +77,7 @@
   <!-- EN: Enslaved -->
   <LetterLabelEnslavementSuccess>Поневолення</LetterLabelEnslavementSuccess>
   <!-- EN: {0_nameDef} successfully enslaved {1_nameDef}. -->
-  <LetterEnslavementSuccess>{0_nameDef} успішно {0_gender ? поневолив : поневолила} {1_nameDef}.</LetterEnslavementSuccess>
+  <LetterEnslavementSuccess>{1_nameDef} тепер {1_gender ? раб : рабиня}: {0_nameDef} {0_gender ? зумів : зуміла} {1_gender ? його : її} поневолити.</LetterEnslavementSuccess>
   <!-- Primary ideo changed -->
   <!-- EN: Primary ideoligion changed -->
   <LetterLabelNewPrimaryIdeo>Основна ідеологія змінилася</LetterLabelNewPrimaryIdeo>
@@ -85,7 +85,7 @@
   <LetterNewPrimaryIdeo>Основна ідеологія вашої фракції змінилася з «{OLDIDEO_name}» на «{NEWIDEO_name}».\n\nЦе сталося, бо тепер «{NEWIDEO_name}» поширеніша серед членів вашої фракції ({FACTION_pawnsPlural}), ніж будь-яка інша ідеологія.\n\nОсновна ідеологія впливає на стосунки з іншими фракціями залежно від того, наскільки ваші переконання близькі до їхніх.</LetterNewPrimaryIdeo>
   <!-- Charity incidents -->
   <!-- EN: This is a charity incident. If you turn {0} away, believers with charitable beliefs will be unhappy. -->
-  <JoinerCharityInfo>Це нагода для милосердя. Якщо ви відмовите {0}, послідовники з милосердними переконаннями засмутяться.</JoinerCharityInfo>
+  <JoinerCharityInfo>Це нагода для милосердя. Якщо {0} отримає відмову, послідовники з милосердними переконаннями засмутяться.</JoinerCharityInfo>
   <!-- EN: This is a charity incident. If {0} dies without being tended (and after {1}), believers with charitable beliefs will be unhappy. If {0} is tended or recruited, believers will be happy. -->
   <AfflictedJoinerChartityInfo>Це нагода для милосердя. Якщо {0} помре без лікування (після {1}), послідовники з милосердними переконаннями засмутяться. Якщо {0} отримає лікування чи приєднається до вас, вони зрадіють.</AfflictedJoinerChartityInfo>
   <!-- EN: The following believers have charitable beliefs -->
@@ -94,7 +94,7 @@
   <!-- EN: {PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}. -->
   <LetterIdeoChangeConverted>{PAWN_gender ? Він вирішив : Вона вирішила}, що віра в «{OLDIDEO_name}» більше не має сенсу.\n\nТепер {PAWN_pronoun} вірить у «{NEWIDEO_name}».</LetterIdeoChangeConverted>
   <!-- EN: {PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}. -->
-  <LetterIdeoChangeNotConverted>Впевненість {PAWN_nameDef} у вірі «{OLDIDEO_name}» знизилася до {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangeNotConverted>{PAWN_nameDef} тепер менш {PAWN_gender ? впевнений : впевнена} у вірі «{OLDIDEO_name}»: впевненість знизилася до {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
   <!-- EN: To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room. -->
   <LetterIdeoChangedWanderOwnRoom>Щоб розібратись зі своїми переконаннями, {PAWN_nameDef} ховається у своїй кімнаті.</LetterIdeoChangedWanderOwnRoom>
   <!-- EN: {PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs. -->
@@ -103,12 +103,12 @@
   <!-- EN: Divorce -->
   <LetterIdeoChangedDivorce>Розлучення</LetterIdeoChangedDivorce>
   <!-- EN: {PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1} -->
-  <LetterIdeoChangedDivorcedPawns>Нові переконання {PAWN_nameDef} не дозволяють мати стільки подружніх партнерів.\n\n{PAWN_nameDef} вирішує розлучитися з цими людьми:\n{1}</LetterIdeoChangedDivorcedPawns>
+  <LetterIdeoChangedDivorcedPawns>Через нові переконання {PAWN_nameDef} не може мати стільки подружніх партнерів.\n\n{PAWN_nameDef} вирішує розлучитися з цими людьми:\n{1}</LetterIdeoChangedDivorcedPawns>
   <!-- Surprise reinforcement -->
   <!-- EN: Surprise reinforcements! -->
   <LetterLabelSurpriseReinforcements>Несподіване підкріплення!</LetterLabelSurpriseReinforcements>
   <!-- EN: Surprise reinforcements from {1} have arrived! They are moving to help {0} from {1}. -->
-  <LetterSurpriseReinforcements>Прибуло несподіване підкріплення від фракції {1}! Воно поспішає на допомогу {0}.</LetterSurpriseReinforcements>
+  <LetterSurpriseReinforcements>Прибуло несподіване підкріплення від фракції {1}! Воно поспішає на допомогу: {0}.</LetterSurpriseReinforcements>
   <!-- Style change -->
   <!-- EN: Look change desired -->
   <LetterWantLookChange>Хоче змінити зовнішність</LetterWantLookChange>
@@ -164,7 +164,7 @@
   <!-- EN: Connected {TREE_label} destroyed -->
   <LetterLabelConnectedTreeDestroyed>Знищено пов'язане дерево: {TREE_label}</LetterLabelConnectedTreeDestroyed>
   <!-- EN: A {TREE_label} connected to {CONNECTEDPAWN_nameDef} has been destroyed, killing the dryad queen housed inside.\n\nWithout a queen, the dryad brood-mind has collapsed. All dryads from that tree have died. -->
-  <LetterTextConnectedTreeDestroyed>Знищено дерево ({TREE_label}), пов'язане з {CONNECTEDPAWN_nameDef}, а з ним загинула й королева дріад, що жила всередині.\n\nБез королеви колективний розум дріад розпався. Усі дріади цього дерева загинули.</LetterTextConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>Знищено дерево ({TREE_label}), з яким {CONNECTEDPAWN_gender ? був пов'язаний : була пов'язана} {CONNECTEDPAWN_nameDef}, а з ним загинула й королева дріад, що жила всередині.\n\nБез королеви колективний розум дріад розпався. Усі дріади цього дерева загинули.</LetterTextConnectedTreeDestroyed>
   <!-- Archonexus victory -->
   <!-- EN: Quest '{0}' available -->
   <LetterLabelArchonexusWealthReached>Доступне завдання «{0}»</LetterLabelArchonexusWealthReached>

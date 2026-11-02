@@ -5,11 +5,17 @@
   <!-- EN: assembler -->
   <Assembler69.title>робітник фабрики</Assembler69.title>
   <!-- EN: assembler -->
+  <Assembler69.titleFemale>робітниця фабрики</Assembler69.titleFemale>
+  <!-- EN: assembler -->
   <Assembler69.titleShort>робітник</Assembler69.titleShort>
+  <!-- EN: assembler -->
+  <Assembler69.titleShortFemale>робітниця</Assembler69.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands. -->
   <BalletDancer81.description>[PAWN_nameDef] {PAWN_gender ? був танцівником : була танцівницею} традиційної балетної трупи. [PAWN_pronoun] досконало {PAWN_gender ? опанував : опанувала} стародавні рухи й {PAWN_gender ? розважав : розважала} тисячі глядачів.</BalletDancer81.description>
   <!-- EN: ballet dancer -->
   <BalletDancer81.title>танцівник балету</BalletDancer81.title>
+  <!-- EN: ballet dancer -->
+  <BalletDancer81.titleFemale>балерина</BalletDancer81.titleFemale>
   <!-- EN: dancer -->
   <BalletDancer81.titleShort>танцівник</BalletDancer81.titleShort>
   <!-- EN: ballerina -->
@@ -19,25 +25,41 @@
   <!-- EN: builder -->
   <Builder96.title>будівельник</Builder96.title>
   <!-- EN: builder -->
+  <Builder96.titleFemale>будівельниця</Builder96.titleFemale>
+  <!-- EN: builder -->
   <Builder96.titleShort>будівельник</Builder96.titleShort>
+  <!-- EN: builder -->
+  <Builder96.titleShortFemale>будівельниця</Builder96.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
   <ChurchPsychic98.description>[PAWN_nameDef] {PAWN_gender ? був емпатом : була емпаткою} в імперській церковній школі емпатів.\n\n[PAWN_nameDef] {PAWN_gender ? навчив : навчила} свій розум відчувати колективні емоції та враження людей. Так можна було доторкнутися до духу імперії. А ще – викорінювати єретичні віяння в думках.</ChurchPsychic98.description>
   <!-- EN: church psychic -->
   <ChurchPsychic98.title>церковний емпат</ChurchPsychic98.title>
+  <!-- EN: church psychic -->
+  <ChurchPsychic98.titleFemale>церковна емпатка</ChurchPsychic98.titleFemale>
   <!-- EN: psychic -->
   <ChurchPsychic98.titleShort>емпат</ChurchPsychic98.titleShort>
+  <!-- EN: psychic -->
+  <ChurchPsychic98.titleShortFemale>емпатка</ChurchPsychic98.titleShortFemale>
   <!-- EN: [PAWN_nameDef] worked in a very large office complex along with thousands of other suited drones.\n\nThe work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review. -->
   <CorporateDrone10.description>[PAWN_nameDef] {PAWN_gender ? працював : працювала} у величезному офісному комплексі разом із тисячами інших безликих трударів у костюмах.\n\nСама робота складалася з нескінченної організаційної рутини й безглуздих нарад, які зрідка розбавляли оцінювання ефективності.</CorporateDrone10.description>
   <!-- EN: corporate drone -->
   <CorporateDrone10.title>корпоративний працівник</CorporateDrone10.title>
+  <!-- EN: corporate drone -->
+  <CorporateDrone10.titleFemale>корпоративна працівниця</CorporateDrone10.titleFemale>
   <!-- EN: drone -->
   <CorporateDrone10.titleShort>працівник</CorporateDrone10.titleShort>
+  <!-- EN: drone -->
+  <CorporateDrone10.titleShortFemale>працівниця</CorporateDrone10.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was a fixer for an energy corporation. [PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.\n\nWhile violence was unusual, [PAWN_nameDef] stayed prepared for anything. -->
   <CorporateFixer36.description>[PAWN_nameDef] {PAWN_gender ? був : була} «вирішувачем проблем» в енергетичній корпорації. Ця робота вимагала знати, коли тиснути, коли попускати, коли відступити, а коли вдарити. Вона якраз пасувала до [PAWN_possessive] природної нестачі емпатії.\n\nДо насильства доходило рідко, але [PAWN_nameDef] завжди {PAWN_gender ? був готовий : була готова} до всього.</CorporateFixer36.description>
   <!-- EN: corporate fixer -->
   <CorporateFixer36.title>вирішувач корпоративних проблем</CorporateFixer36.title>
+  <!-- EN: corporate fixer -->
+  <CorporateFixer36.titleFemale>вирішувачка корпоративних проблем</CorporateFixer36.titleFemale>
   <!-- EN: fixer -->
   <CorporateFixer36.titleShort>вирішувач проблем</CorporateFixer36.titleShort>
+  <!-- EN: fixer -->
+  <CorporateFixer36.titleShortFemale>вирішувачка проблем</CorporateFixer36.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was the head servant in a royal house.\n\n[PAWN_pronoun] managed the other servants to ensure the lord's will was done, even before the lord knew what it was. -->
   <HeadButler50.description>[PAWN_nameDef] {PAWN_gender ? був головним слугою : була головною служницею} в королівському домі.\n\n[PAWN_pronoun] {PAWN_gender ? керував : керувала} іншими слугами, щоб воля лорда виконувалася ще до того, як сам лорд її усвідомлював.</HeadButler50.description>
   <!-- EN: head butler -->
@@ -54,6 +76,8 @@
   <ImperialInquisitor53.description>[PAWN_nameDef] {PAWN_gender ? був інквізитором : була інквізиторкою} в імперській церковній школі боротьби з єрессю.\n\n[PAWN_nameDef] {PAWN_gender ? вистежував : вистежувала} неортодоксальні думки всюди, де тільки можна: у мистецтві, музиці, коді, навіть у приватних розмовах. Знайшовши відхилення, [PAWN_pronoun] {PAWN_gender ? викривав : викривала} його, щоб на винних упала кара колективу. І [PAWN_pronoun] завжди {PAWN_gender ? знаходив : знаходила} відхилення, якщо достатньо добре {PAWN_gender ? шукав : шукала}.</ImperialInquisitor53.description>
   <!-- EN: imperial inquisitor -->
   <ImperialInquisitor53.title>імперський інквізитор</ImperialInquisitor53.title>
+  <!-- EN: imperial inquisitor -->
+  <ImperialInquisitor53.titleFemale>імперська інквізиторка</ImperialInquisitor53.titleFemale>
   <!-- EN: inquisitor -->
   <ImperialInquisitor53.titleShort>інквізитор</ImperialInquisitor53.titleShort>
   <!-- EN: inquisitress -->
@@ -62,6 +86,8 @@
   <ImperialPriest24.description>[PAWN_nameDef] {PAWN_gender ? був священиком : була священницею} імперської церкви.\n\nПоловину часу [PAWN_pronoun] {PAWN_gender ? вивчав : вивчала} книги, щоб зрозуміти зв'язок між іпостасями Бога й гранями суспільства. Другу половину – {PAWN_gender ? проповідував : проповідувала} про гріховність лінощів і пияцтва.</ImperialPriest24.description>
   <!-- EN: imperial priest -->
   <ImperialPriest24.title>імперський священик</ImperialPriest24.title>
+  <!-- EN: imperial priest -->
+  <ImperialPriest24.titleFemale>імперська священниця</ImperialPriest24.titleFemale>
   <!-- EN: priest -->
   <ImperialPriest24.titleShort>священик</ImperialPriest24.titleShort>
   <!-- EN: priestess -->
@@ -80,14 +106,22 @@
   <MenagerieKeeper1.description>[PAWN_nameDef] {PAWN_gender ? завідував : завідувала} королівським звіринцем у маєтку могутнього роду.\n\nНа цій посаді [PAWN_pronoun] {PAWN_gender ? годував : годувала} слонів, {PAWN_gender ? присипляв : присипляла} левів і {PAWN_gender ? дресирував : дресирувала} птахів, щоб ті хизувалися оперенням перед титулованими гостями.</MenagerieKeeper1.description>
   <!-- EN: menagerie keeper -->
   <MenagerieKeeper1.title>доглядач звіринця</MenagerieKeeper1.title>
+  <!-- EN: menagerie keeper -->
+  <MenagerieKeeper1.titleFemale>доглядачка звіринця</MenagerieKeeper1.titleFemale>
   <!-- EN: zookeeper -->
   <MenagerieKeeper1.titleShort>доглядач</MenagerieKeeper1.titleShort>
+  <!-- EN: zookeeper -->
+  <MenagerieKeeper1.titleShortFemale>доглядачка</MenagerieKeeper1.titleShortFemale>
   <!-- EN: [PAWN_nameDef] crafted watches, medals, machined jewelry and other complex curios for royal patrons. -->
   <OrnamentMaker56.description>[PAWN_nameDef] {PAWN_gender ? виготовляв : виготовляла} годинники, медалі, ювелірні прикраси машинної роботи та інші хитромудрі дрібнички для королівських покровителів.</OrnamentMaker56.description>
   <!-- EN: ornament maker -->
   <OrnamentMaker56.title>виробник прикрас</OrnamentMaker56.title>
+  <!-- EN: ornament maker -->
+  <OrnamentMaker56.titleFemale>виробниця прикрас</OrnamentMaker56.titleFemale>
   <!-- EN: ornamenter -->
   <OrnamentMaker56.titleShort>ювелір</OrnamentMaker56.titleShort>
+  <!-- EN: ornamenter -->
+  <OrnamentMaker56.titleShortFemale>ювелірка</OrnamentMaker56.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
   <PlanetaryMiner64.description>[PAWN_nameDef] {PAWN_gender ? був гірничим інженером : була гірничою інженеркою} великої планетної гірничодобувної корпорації. Через роботу [PAWN_pronoun] тижнями не {PAWN_gender ? виходив : виходила} з-під землі й зрештою {PAWN_gender ? полюбив : полюбила} темряву.</PlanetaryMiner64.description>
   <!-- EN: planetary miner -->
@@ -98,12 +132,20 @@
   <RoyalCook18.description>[PAWN_nameDef] {PAWN_gender ? готував : готувала} страви для аристократів-покровителів.\n\nГодилася лише найкраща їжа, тож [PAWN_nameDef] {PAWN_gender ? доглядав : доглядала} невеликий город на території маєтку, щоб мати найсвіжіші трави й овочі. Зрештою [PAWN_pronoun] й {PAWN_gender ? сам закохався : сама закохалася} в цю їжу.</RoyalCook18.description>
   <!-- EN: royal cook -->
   <RoyalCook18.title>королівський кухар</RoyalCook18.title>
+  <!-- EN: royal cook -->
+  <RoyalCook18.titleFemale>королівська кухарка</RoyalCook18.titleFemale>
   <!-- EN: cook -->
   <RoyalCook18.titleShort>кухар</RoyalCook18.titleShort>
+  <!-- EN: cook -->
+  <RoyalCook18.titleShortFemale>кухарка</RoyalCook18.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was a massage artist for an extended royal house. [PAWN_pronoun] serviced many members of the royal family, and their guests.\n\n[PAWN_nameDef] occasionally offered something extra, if the lord or lady was in the mood. Advancing in this line of work meant having refined social skills. -->
   <RoyalMasseuse43.description>[PAWN_nameDef] {PAWN_gender ? був масажистом : була масажисткою} в розгалуженому королівському роді. [PAWN_pronoun] {PAWN_gender ? обслуговував : обслуговувала} багатьох членів королівської родини та їхніх гостей.\n\nЧасом [PAWN_nameDef] {PAWN_gender ? пропонував : пропонувала} дещо понад програму, якщо лорд чи леді були в настрої. Щоб просунутися в цій справі, потрібні були витончені соціальні навички.</RoyalMasseuse43.description>
   <!-- EN: royal masseuse -->
   <RoyalMasseuse43.title>королівський масажист</RoyalMasseuse43.title>
+  <!-- EN: royal masseuse -->
+  <RoyalMasseuse43.titleFemale>королівська масажистка</RoyalMasseuse43.titleFemale>
   <!-- EN: masseuse -->
   <RoyalMasseuse43.titleShort>масажист</RoyalMasseuse43.titleShort>
+  <!-- EN: masseuse -->
+  <RoyalMasseuse43.titleShortFemale>масажистка</RoyalMasseuse43.titleShortFemale>
 </LanguageData>

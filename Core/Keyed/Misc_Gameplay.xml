@@ -402,7 +402,7 @@
   <!-- EN: expires in -->
   <ExpiresIn>спливає через</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>Караван {1_labelShort}</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>Караван «{1_labelShort}»</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
   <Reason>Причина</Reason>
   <!-- EN: Relations with {0} -->
@@ -538,7 +538,7 @@
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
   <NaturalGoodwillDescription>Природна прихильність залежить від сутності й вірувань фракцій. Якщо поточна прихильність далека від природної, з часом вона поволі зсуватиметься до неї.\n\nУсі зміни прихильності в бік природної множаться на {0}.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>послаблює опір {0_nameIndef}</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>послаблює опір {0_gender ? в'язня : ув'язненої} {0_nameIndef}</JobReport_ReduceResistance>
   <!-- EN: Too large -->
   <TooLargeForBed>Завеликий</TooLargeForBed>
   <!-- EN: Warning -->
@@ -903,7 +903,7 @@
   <!-- EN: watching the aurora. -->
   <WatchingAurora>милується полярним сяйвом.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>застосовує «{0}» до {1}.</UsingVerb>
+  <UsingVerb>застосовує «{0}»: ціль – {1}.</UsingVerb>
   <!-- EN: using {0}. -->
   <UsingVerbNoTarget>застосовує «{0}».</UsingVerbNoTarget>
   <!-- EN: area -->
@@ -938,7 +938,7 @@
   <!-- EN: Giving a speech -->
   <LordReportGivingSpeech>Виступає з промовою</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>Слухає промову {ORGANIZER_labelShort}</LordReportListeningSpeech>
+  <LordReportListeningSpeech>Слухає промову, яку виголошує {ORGANIZER_labelShort}</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>Формує караван</LordReportFormingCaravan>
   <!-- Shooting report -->
@@ -1213,11 +1213,11 @@
   <Undiscovered>Не розвідано</Undiscovered>
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSterilizeConfirm>Справді стерилізувати {PAWN_nameDef}? Це розлютить фракцію «{FACTION_name}».</AnimalSterilizeConfirm>
+  <AnimalSterilizeConfirm>{PAWN_nameDef}: справді стерилізувати цю тварину? Це розлютить фракцію «{FACTION_name}».</AnimalSterilizeConfirm>
   <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSlaughterConfirm>Справді забити {PAWN_nameDef}? Це розлютить фракцію «{FACTION_name}».</AnimalSlaughterConfirm>
+  <AnimalSlaughterConfirm>{PAWN_nameDef}: справді забити цю тварину? Це розлютить фракцію «{FACTION_name}».</AnimalSlaughterConfirm>
   <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalReleaseConfirm>Справді відпустити {PAWN_nameDef}? Це розлютить фракцію «{FACTION_name}».</AnimalReleaseConfirm>
+  <AnimalReleaseConfirm>{PAWN_nameDef}: справді відпустити цю тварину? Це розлютить фракцію «{FACTION_name}».</AnimalReleaseConfirm>
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
   <ShowLearningHelperWhenEmptyToggleButton>Перемкнути видимість навчального помічника, коли він порожній.\n\nПомічник завжди видимий, якщо є активна тема для вивчення. Цей перемикач ховає його, коли активних тем немає.</ShowLearningHelperWhenEmptyToggleButton>
@@ -1468,13 +1468,13 @@
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>заблоковано</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>занадто небезпечно для {1_labelShort}</MarriageSpotDangerous>
+  <MarriageSpotDangerous>{1_labelShort}: занадто небезпечно</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>заборонено для {1_labelShort}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>{1_labelShort}: заборонено</MarriageSpotForbidden>
   <!-- EN: reserved -->
   <MarriageSpotReserved>зарезервовано</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>недосяжно для {1_labelShort}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>{1_labelShort}: недосяжно</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
   <MarriageSpotInPrisonCell>у тюремній камері</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
@@ -1664,7 +1664,7 @@
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
   <BladelinkAlreadyBondedDialog>Людина може мати біозв'язок лише з однією персональною зброєю водночас.\n\nЩоб екіпірувати {WEAPON_labelShort} й утворити з нею біозв'язок, спершу треба знищити зброю, з якою {PAWN_nameDef} вже {PAWN_gender ? пов'язаний : пов'язана}: {BONDEDWEAPON_labelShort}.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
-  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} вже має біозв'язок із {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} вже має біозв'язок зі зброєю: {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
   <Biocoded>{0} (біокод)</Biocoded>
@@ -1805,7 +1805,7 @@
   <!-- EN: Room beauty -->
   <RitualPredictedOutcomeDescRoomBeauty>Краса приміщення</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <RitualPredictedOutcomeDescPawnExpectations>Очікування {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}: очікування</RitualPredictedOutcomeDescPawnExpectations>
   <!-- EN: Loved one present -->
   <RitualOutcomeLovedOnePresentLabel>Присутня близька людина</RitualOutcomeLovedOnePresentLabel>
   <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
@@ -1813,7 +1813,7 @@
   <!-- EN: Any of these -->
   <RitualOutcomeLabelAnyOfThese>Будь-що з цього</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
-  <RitualRoleReplaces>Замінює {PAWN_labelShort}</RitualRoleReplaces>
+  <RitualRoleReplaces>Замінює: {PAWN_labelShort}</RitualRoleReplaces>
   <!-- EN: present -->
   <Present>присутній</Present>
   <!-- EN: {0} used -->

@@ -144,7 +144,7 @@
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>Вимога викупу в колонії {0}</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>Фракція {1} виходить на зв'язок по радіо. Вони тримають у полоні {PAWN_labelShort}, {PAWN_gender ? вашого колишнього колоніста : вашу колишню колоністку}.\n\nВони готові відпустити {PAWN_gender ? його : її} в обмін на {2} срібла.</RansomDemand>
+  <RansomDemand>Фракція {1} виходить на зв'язок по радіо. У них у полоні – {PAWN_labelShort}, {PAWN_gender ? ваш колишній колоніст : ваша колишня колоністка}.\n\nВони готові відпустити {PAWN_gender ? його : її} в обмін на {2} срібла.</RansomDemand>
   <!-- EN: Accept -->
   <RansomDemand_Accept>Погодитися</RansomDemand_Accept>
   <!-- EN: Reject -->

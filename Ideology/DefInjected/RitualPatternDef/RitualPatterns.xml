@@ -41,13 +41,13 @@
   <!-- EN: cannibal feast -->
   <FeastCannibal.shortDescOverride>канібальська трапеза</FeastCannibal.shortDescOverride>
   <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef} even though the body was lost. -->
-  <FuneralNoCorpse.ritualExpectedDesc>Ви можете провести {IDEOLIGION_adjective} похорон для {PAWN_nameDef}, хоч тіло й утрачено.</FuneralNoCorpse.ritualExpectedDesc>
+  <FuneralNoCorpse.ritualExpectedDesc>{PAWN_nameDef} {PAWN_gender ? пішов : пішла} з життя, і тіло втрачено, та ви все одно можете провести {IDEOLIGION_adjective} похорон.</FuneralNoCorpse.ritualExpectedDesc>
   <!-- EN: You can hold a funeral for {PAWN_nameDef} even though the body was lost. -->
-  <FuneralNoCorpse.ritualExpectedDescNoAdjective>Ви можете провести похорон для {PAWN_nameDef}, хоч тіло й утрачено.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+  <FuneralNoCorpse.ritualExpectedDescNoAdjective>{PAWN_nameDef} {PAWN_gender ? пішов : пішла} з життя, і тіло втрачено, та ви все одно можете провести похорон.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
   <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef}. -->
-  <FuneralStandard.ritualExpectedDesc>Ви можете провести {IDEOLIGION_adjective} похорон для {PAWN_nameDef}.</FuneralStandard.ritualExpectedDesc>
+  <FuneralStandard.ritualExpectedDesc>{PAWN_nameDef} {PAWN_gender ? пішов : пішла} з життя. Ви можете провести {IDEOLIGION_adjective} похорон.</FuneralStandard.ritualExpectedDesc>
   <!-- EN: You can hold a funeral for {PAWN_nameDef}. -->
-  <FuneralStandard.ritualExpectedDescNoAdjective>Ви можете провести похорон для {PAWN_nameDef}.</FuneralStandard.ritualExpectedDescNoAdjective>
+  <FuneralStandard.ritualExpectedDescNoAdjective>{PAWN_nameDef} {PAWN_gender ? пішов : пішла} з життя. Ви можете провести похорон.</FuneralStandard.ritualExpectedDescNoAdjective>
   <!-- EN: A ritualistic animal sacrifice. The organizer will give a speech to excite the crowd, then cut the animal's throat. Once the animal is dead, the organizer will speak some finishing words. -->
   <SacrificeAnimal.descOverride>Ритуальне жертвопринесення тварини. Організатор виголосить промову, щоб розпалити натовп, а тоді переріже тварині горло. Коли тварина сконає, організатор мовить кілька завершальних слів.</SacrificeAnimal.descOverride>
   <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->

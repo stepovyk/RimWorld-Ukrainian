@@ -7,7 +7,7 @@
   <!-- EN: {0} has been roused by a warcall.\n\n[PAWN_pronoun] will attack any enemy of the colony. -->
   <BerserkWarcall.beginLetter>{0} відгукується на бойовий клич.\n\n[PAWN_pronoun] атакуватиме будь-якого ворога колонії.</BerserkWarcall.beginLetter>
   <!-- EN: {0}'s rage has come to an end. -->
-  <BerserkWarcall.recoveryMessage>Лють {0} минула.</BerserkWarcall.recoveryMessage>
+  <BerserkWarcall.recoveryMessage>{0}: лють минула.</BerserkWarcall.recoveryMessage>
   <!-- EN: panic-fleeing fire -->
   <PanicFleeFire.label>панічна втеча від вогню</PanicFleeFire.label>
   <!-- EN: Mental state: Fleeing fire -->

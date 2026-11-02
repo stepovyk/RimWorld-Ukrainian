@@ -7,7 +7,7 @@
   <!-- EN: Slave unsuppressed -->
   <SlavesUnsuppressedLabel>Раб не пригнічений</SlavesUnsuppressedLabel>
   <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
-  <SlavesUnsuppressedDesc>Рівень пригнічення {0_nameDef} небезпечно низький. Цілком імовірно, що {0_pronoun} підніме повстання.\n\nПереконайтеся, що хтось із колоністів виконує роботу наглядача. Наглядачі періодично пригнічують рабів, щоб ті не повставали.</SlavesUnsuppressedDesc>
+  <SlavesUnsuppressedDesc>{0_nameDef} має небезпечно низький рівень пригнічення. Цілком імовірно, що {0_pronoun} підніме повстання.\n\nПереконайтеся, що хтось із колоністів виконує роботу наглядача. Наглядачі періодично пригнічують рабів, щоб ті не повставали.</SlavesUnsuppressedDesc>
   <!-- EN: Slave unattended -->
   <SlaveUnattendedLabel>Раб без нагляду</SlaveUnattendedLabel>
   <!-- EN: Slaves unattended -->
@@ -79,9 +79,9 @@
   <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
   <AlertAgeReversalDemandDesc_Initial>{PAWN} хоче перше омолодження через {DURATION}.</AlertAgeReversalDemandDesc_Initial>
   <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Overdue>Омолодження {PAWN} прострочене на {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN}: омолодження прострочене на {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
-  <AlertRoyalTitleNoVeneratedAnimalMeat>Віра {PAWN_nameDef} у {IDEO_name} забороняє їсти м'ясо цих тварин: {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>Через віру в {IDEO_name} {PAWN_nameDef} не може їсти м'ясо цих тварин: {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
   <!-- EN: Dryad caste not set -->
   <AlertGauranlenTreeWithoutDryadTypeLabel>Не обрана каста дріад</AlertGauranlenTreeWithoutDryadTypeLabel>
   <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->

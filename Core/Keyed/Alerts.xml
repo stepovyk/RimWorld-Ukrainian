@@ -101,7 +101,7 @@
   <!-- EN: Boredom -->
   <Boredom>Нудьга</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
-  <BoredomDesc>Ці люди потребують дозвілля або мають на нього час, але їм набридли всі доступні розваги:\n\n{0}\n\nУрізноманітніть їм дозвілля.\n\nДоступні зараз види дозвілля для {PAWN_labelShort}:\n{2}</BoredomDesc>
+  <BoredomDesc>Ці люди потребують дозвілля або мають на нього час, але їм набридли всі доступні розваги:\n\n{0}\n\nУрізноманітніть їм дозвілля.\n\nДоступні зараз види дозвілля ({PAWN_labelShort}):\n{2}</BoredomDesc>
   <!-- EN: Need batteries -->
   <NeedBatteries>Потрібні акумулятори</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->

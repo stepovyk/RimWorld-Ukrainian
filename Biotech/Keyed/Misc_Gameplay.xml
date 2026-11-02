@@ -32,7 +32,7 @@
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>вилучає {lookup: {0}; Case; 3}.</ReportRemovingMechlink>
   <!-- EN: from {TEACHER_labelShort} -->
-  <ReportTakingLessonFrom>у {TEACHER_labelShort}</ReportTakingLessonFrom>
+  <ReportTakingLessonFrom>(навчає {TEACHER_labelShort})</ReportTakingLessonFrom>
   <!-- Areas -->
   <!-- EN: Pollution clear -->
   <PollutionClear>Забруднення немає</PollutionClear>
@@ -68,7 +68,7 @@
   <!-- EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
   <BandNodeRetuningDesc>Переналаштувати цей вузол зв'язку на іншого механітора. Переналаштування триватиме {0}.</BandNodeRetuningDesc>
   <!-- EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
-  <DropThingBandwidthApparel>Якщо зняти {lookup: {0}; Case; 3}, пропускна здатність {1_labelShort} зміниться з {2} на {3}. Тоді такі механоїди вийдуть з-під контролю</DropThingBandwidthApparel>
+  <DropThingBandwidthApparel>Якщо зняти {lookup: {0}; Case; 3}, пропускна здатність механітора ({1_labelShort}) зміниться з {2} на {3}. Тоді такі механоїди вийдуть з-під контролю</DropThingBandwidthApparel>
   <!-- EN: no mechs -->
   <NoMechs>немає механоїдів</NoMechs>
   <!-- EN: Group -->
@@ -112,7 +112,7 @@
   <!-- EN: Gestating -->
   <Gestating>Вирощування</Gestating>
   <!-- EN: Escorting {TARGET_labelShort}. -->
-  <Escorting>супроводжує {TARGET_labelShort}.</Escorting>
+  <Escorting>супровід: {TARGET_labelShort}.</Escorting>
   <!-- EN: Worker -->
   <Worker>Робітник</Worker>
   <!-- EN: Waiting for -->
@@ -153,7 +153,7 @@
   <!-- EN: Start deathrest -->
   <StartDeathrest>Почати летаргію</StartDeathrest>
   <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
-  <ConfirmExitDeathrestUnderMinDays>Щоб безпечно завершити летаргію, потрібно {MINDURATION}, а летаргія {PAWN_nameDef} триває лише {CURDURATION}.\n\nЯкщо розбудити {PAWN_nameDef} зараз, летаргію буде перервано: це порушить баланс {PAWN_gender ? його : її} метаболізму, і {PAWN_pronoun} хворітиме ще кілька днів.\n\nВи впевнені, що хочете {PAWN_gender ? його : її} розбудити?</ConfirmExitDeathrestUnderMinDays>
+  <ConfirmExitDeathrestUnderMinDays>Щоб безпечно завершити летаргію, потрібно {MINDURATION}, а {PAWN_nameDef} перебуває в летаргії лише {CURDURATION}.\n\nЯкщо {PAWN_gender ? його : її} розбудити зараз, летаргію буде перервано: це порушить баланс {PAWN_gender ? його : її} метаболізму, і {PAWN_pronoun} хворітиме ще кілька днів.\n\nВи впевнені, що хочете {PAWN_gender ? його : її} розбудити?</ConfirmExitDeathrestUnderMinDays>
   <!-- EN: deathresting -->
   <Deathresting>летаргія</Deathresting>
   <!-- EN: can wake safely now. -->
@@ -194,7 +194,7 @@
   <!-- EN: Cannot deathrest -->
   <CannotAssignBedCannotDeathrest>Не може проходити летаргію</CannotAssignBedCannotDeathrest>
   <!-- EN: Already bound to {0_nameDef} -->
-  <CannotAssignAlreadyBound>Вже прив'язано до {0_nameDef}</CannotAssignAlreadyBound>
+  <CannotAssignAlreadyBound>Уже має власника: {0_nameDef}</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
   <CannotAssignBedCannotBindToMoreBuildings>Більше не можна прив'язати: {BUILDING_labelPlural}</CannotAssignBedCannotBindToMoreBuildings>
   <!-- Aptitudes -->
@@ -359,7 +359,7 @@
   <!-- EN: Cancel implanting -->
   <CancelImplanting>Скасувати імплантацію</CancelImplanting>
   <!-- EN: Cancel implanting this xenogerm into {PAWN_nameDef}. -->
-  <CancelImplantingDesc>Скасувати імплантацію цього ксенозародка {PAWN_nameDef}.</CancelImplantingDesc>
+  <CancelImplantingDesc>{PAWN_nameDef}: скасувати імплантацію цього ксенозародка.</CancelImplantingDesc>
   <!-- EN: Xenotype -->
   <Xenotype>Ксенотип</Xenotype>
   <!-- EN: unique -->
@@ -379,7 +379,7 @@
   <!-- EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
   <InsertPersonGeneExtractorDesc>Помістити людину в генний екстрактор. Її генетичний матеріал вилучать і створять з нього генопак із випадковим набором її генів.\n\nВилучення генів болісне: після нього людина кілька днів буде слабкою й сонною. Для тих, чиї гени зараз відновлюються, процес смертельний.</InsertPersonGeneExtractorDesc>
   <!-- EN: Warning: {PAWN_nameDef}'s genes are regrowing. Extracting {PAWN_possessive} genes before they are regrown will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-  <ConfirmExtractXenogermWillKill>Увага: гени {PAWN_nameDef} відновлюються. Якщо вилучити гени до повного відновлення, {PAWN_pronoun} помре.\n\nВи впевнені, що хочете продовжити?</ConfirmExtractXenogermWillKill>
+  <ConfirmExtractXenogermWillKill>Увага: {PAWN_nameDef} ще відновлює гени. Якщо вилучити гени до повного відновлення, {PAWN_pronoun} помре.\n\nВи впевнені, що хочете продовжити?</ConfirmExtractXenogermWillKill>
   <!-- EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
   <GeneExtractionComplete>{PAWN_nameDef}: вилучення генів завершено. Вилучено</GeneExtractionComplete>
   <!-- EN: Insert xenogerm -->
@@ -387,9 +387,9 @@
   <!-- EN: Insert a xenogerm to apply during growth. -->
   <InsertXenogermDesc>Помістити ксенозародок, який буде застосовано під час росту.</InsertXenogermDesc>
   <!-- EN: Waiting for {PAWN_nameDef}. -->
-  <WaitingForPawn>Чекає на {PAWN_nameDef}.</WaitingForPawn>
+  <WaitingForPawn>Очікування: {PAWN_nameDef}.</WaitingForPawn>
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
-  <ExtractingXenogermFrom>Вилучення генів з {PAWN_nameDef}.</ExtractingXenogermFrom>
+  <ExtractingXenogermFrom>{PAWN_nameDef}: вилучення генів.</ExtractingXenogermFrom>
   <!-- EN: Extraction paused: No power (interrupt in {TIME}) -->
   <ExtractionPausedNoPower>Вилучення призупинено: немає живлення (перерветься через {TIME})</ExtractionPausedNoPower>
   <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
@@ -468,9 +468,9 @@
   <!-- EN: Gestated {0} -->
   <GestatedMech>Вирощено: {0}</GestatedMech>
   <!-- EN: Requires {PAWN_nameDef} to continue gestating -->
-  <GestatingMechRequiresMechanitor>Щоб продовжити вирощування, потрібна присутність {PAWN_nameDef}</GestatingMechRequiresMechanitor>
+  <GestatingMechRequiresMechanitor>Щоб продовжити вирощування, тут має бути {PAWN_nameDef}</GestatingMechRequiresMechanitor>
   <!-- EN: Requires {PAWN_nameDef} to complete -->
-  <GestatedMechRequiresMechanitor>Щоб завершити, потрібна присутність {PAWN_nameDef}</GestatedMechRequiresMechanitor>
+  <GestatedMechRequiresMechanitor>Щоб завершити, тут має бути {PAWN_nameDef}</GestatedMechRequiresMechanitor>
   <!-- EN: Gestation complete -->
   <GestationComplete>Вирощування завершено</GestationComplete>
   <!-- EN: Resurrecting {0} -->
@@ -701,11 +701,11 @@
   <!-- EN: Implant {0} -->
   <ImplantSurgeryLabel>Імплантувати {lookup: {0}; Case; 3}</ImplantSurgeryLabel>
   <!-- EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
-  <ImplantSurgeryConfirm>Шанс успішної імплантації {lookup: {0}; Case; 1} {1} становить {2}.\n\nЦей шанс залежить від плодовитості сурогатної матері: якщо вона застара чи замолода, шанс нижчий.</ImplantSurgeryConfirm>
+  <ImplantSurgeryConfirm>{1}: шанс успішної імплантації {lookup: {0}; Case; 1} становить {2}.\n\nЦей шанс залежить від плодовитості сурогатної матері: якщо вона застара чи замолода, шанс нижчий.</ImplantSurgeryConfirm>
   <!-- EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
   <ImplantEmbryoCancelVat>Якщо зараз вийняти {lookup: {0}; Case; 3} з інкубатора, він загине, так і не сформувавшись у немовля.\n\nПродовжити?</ImplantEmbryoCancelVat>
   <!-- EN: Implanting the {0} in {1} was unsuccessful. -->
-  <ImplantFailedMessage>Не вдалося імплантувати {lookup: {0}; Case; 3} {1}.</ImplantFailedMessage>
+  <ImplantFailedMessage>{1}: не вдалося імплантувати {lookup: {0}; Case; 3}.</ImplantFailedMessage>
   <!-- EN: Cancel embryo insertion -->
   <ImplantEmbryoCancel>Скасувати поміщення ембріона</ImplantEmbryoCancel>
   <!-- EN: The {0} was ejected from a growth vat and destroyed. -->
@@ -715,7 +715,7 @@
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
   <IvfPregnancyLetterText>{0} успішно завагітніла після імплантації ембріона!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
-  <IvfPregnancyLetterParents>Дитина матиме гени {0} і {1}.</IvfPregnancyLetterParents>
+  <IvfPregnancyLetterParents>Дитина успадкує гени двох людей: {0} і {1}.</IvfPregnancyLetterParents>
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
   <RemoteMechShieldTip>Дистанційний щит, який проєктує механітор. Він намагається зупиняти снаряди й уламки, що летять у носія, але не захищає від атак ближнього бою чи жару. Носій не може стріляти назовні, а від ЕМІ щит миттєво вимикається</RemoteMechShieldTip>

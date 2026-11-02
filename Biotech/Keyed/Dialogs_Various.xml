@@ -24,7 +24,7 @@
   <!-- EN: insufficient bandwidth -->
   <InsufficientBandwidth>недостатньо пропускної здатності</InsufficientBandwidth>
   <!-- EN: The following mechs have been left behind by {PAWN_labelShort}:\n\n{MECHS}\n\nThe mechs will stay here until they are picked up.\n\nWould you like to set their work mode to escort so they follow {PAWN_labelShort} off the map? -->
-  <MechanitorLeftMapWithoutMechs>{PAWN_labelShort} залишає тут таких механоїдів:\n\n{MECHS}\n\nВони лишатимуться тут, доки їх не заберуть.\n\nУвімкнути їм режим супроводу, щоб вони пішли з мапи слідом за {PAWN_labelShort}?</MechanitorLeftMapWithoutMechs>
+  <MechanitorLeftMapWithoutMechs>{PAWN_labelShort} залишає тут таких механоїдів:\n\n{MECHS}\n\nВони лишатимуться тут, доки їх не заберуть.\n\nУвімкнути їм режим супроводу, щоб вони пішли з мапи слідом за своїм механітором?</MechanitorLeftMapWithoutMechs>
   <!-- Apparel -->
   <!-- EN: Any mechlord apparel -->
   <ApparelRequirementAnyMechlordApparel>будь-який одяг мех-лорда</ApparelRequirementAnyMechlordApparel>
@@ -37,7 +37,7 @@
   <FormerIngredients>Зібрані інгредієнти</FormerIngredients>
   <!-- Subcore scanner -->
   <!-- EN: Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue? -->
-  <ConfirmRipscanPawn>Летальне сканування вб'є {PAWN_nameDef}. Ви впевнені, що хочете продовжити?</ConfirmRipscanPawn>
+  <ConfirmRipscanPawn>{PAWN_nameDef} не переживе летального сканування. Ви впевнені, що хочете продовжити?</ConfirmRipscanPawn>
   <!-- EN: Cancelling a ripscan will still kill {PAWN_nameDef}. Are you sure you want to continue? -->
   <ConfirmCancelRipscan>Навіть якщо скасувати летальне сканування, {PAWN_nameDef} однаково загине. Ви впевнені, що хочете продовжити?</ConfirmCancelRipscan>
   <!-- Xenogerm -->
@@ -72,7 +72,7 @@
   <!-- EN: Select xenogerm -->
   <SelectXenogerm>Вибрати ксенозародок</SelectXenogerm>
   <!-- EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} xenogerm before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-  <WarningPawnWillDieFromReimplanting>Увага: гени {PAWN_nameDef} зараз відновлюються. Якщо {PAWN_pronoun} імплантує свій ксенозародок, перш ніж гени повністю відновляться, це {PAWN_gender ? його : її} вб'є.\n\nВи впевнені, що хочете продовжити?</WarningPawnWillDieFromReimplanting>
+  <WarningPawnWillDieFromReimplanting>Увага: {PAWN_nameDef} ще відновлює гени. Якщо {PAWN_pronoun} імплантує свій ксенозародок, перш ніж гени повністю відновляться, це {PAWN_gender ? його : її} вб'є.\n\nВи впевнені, що хочете продовжити?</WarningPawnWillDieFromReimplanting>
   <!-- EN: Not enough archite capsules. -->
   <NotEnoughArchites>Недостатньо архітних капсул.</NotEnoughArchites>
   <!-- EN: Xenogenes are genes derived from an implanted xenogerm. If the xenogerm is removed or replaced, the xenogenes go with it. Since xenogenes are not part of the organism's own germline DNA, they are not passed to children. -->
@@ -209,7 +209,7 @@
   <ChooseChildOrAdult>Оберіть хоча б одну дитину чи дорослого.</ChooseChildOrAdult>
   <!-- Deathrest -->
   <!-- EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
-  <WarningWakingInterruptsDeathrest>Якщо розбудити {PAWN_nameDef}, перш ніж мине {MINDURATION}, летаргію буде перервано, і {PAWN_pronoun} кілька днів хворітиме, поки не одужає. Через раннє пробудження {PAWN_nameDef} не отримає жодної користі від споруд летаргії. Летаргія триває вже {CURDURATION}.\n\nВи впевнені, що хочете розбудити {PAWN_nameDef}?</WarningWakingInterruptsDeathrest>
+  <WarningWakingInterruptsDeathrest>Якщо {PAWN_nameDef} прокинеться, перш ніж мине {MINDURATION}, летаргію буде перервано, і {PAWN_pronoun} кілька днів хворітиме, поки не одужає. Через раннє пробудження {PAWN_nameDef} не отримає жодної користі від споруд летаргії. Летаргія триває вже {CURDURATION}.\n\nВи впевнені, що хочете {PAWN_gender ? його : її} розбудити?</WarningWakingInterruptsDeathrest>
   <!-- Text motes -->
   <!-- EN: {0} wounds tended -->
   <NumWoundsTended>Оброблено ран: {0}</NumWoundsTended>
@@ -246,7 +246,7 @@
   <!-- EN: The mech's name is now {0}. -->
   <MechGainsName>Тепер механоїда звуть {0}.</MechGainsName>
   <!-- EN: {FATHER_nameDef} is {MOTHER_nameDef}'s {RELATION}. There's a {CHANCE} chance that the resulting baby will have genetic abnormalities due to inbreeding.\n\nAre you sure you want to continue? -->
-  <FertilizeOvumInbredChance>{FATHER_nameDef} – {RELATION} {MOTHER_nameDef}. Через кровну спорідненість батьків дитина з шансом {CHANCE} матиме генетичні вади.\n\nВи впевнені, що хочете продовжити?</FertilizeOvumInbredChance>
+  <FertilizeOvumInbredChance>{FATHER_nameDef} і {MOTHER_nameDef} – кровні родичі ({RELATION}). Через кровну спорідненість батьків дитина з шансом {CHANCE} матиме генетичні вади.\n\nВи впевнені, що хочете продовжити?</FertilizeOvumInbredChance>
   <!-- EN: {PAWN_nameDef} is pregnant. Implanting an IUD while {PAWN_pronoun} is in {PAWN_possessive} first trimester of pregnancy will terminate the pregnancy.\n\nAre you sure you want to continue? -->
   <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef} вагітна. Імплантація ВМС у першому триместрі перерве вагітність.\n\nВи впевнені, що хочете продовжити?</ConfirmationPawnPregnancyTerminated>
   <!-- Pollution -->
@@ -272,7 +272,7 @@
   <!-- EN: {PAWN_nameDef} is dead. -->
   <PawnIsDead>{PAWN_nameDef} {PAWN_gender ? мертвий : мертва}.</PawnIsDead>
   <!-- EN: Placing {PAWN_nameDef} into cryptosleep will strain {PAWN_possessive} psychic bond with {BOND_nameDef}, causing stress to both partners.\n\nAre you sure you want to continue? -->
-  <PsychicBondDistanceWillBeActive_Cryptosleep>Якщо помістити {PAWN_nameDef} у криптосон, {PAWN_gender ? його : її} психічний зв'язок з {BOND_nameDef} напружиться, і обидва партнери відчуватимуть стрес.\n\nВи впевнені, що хочете продовжити?</PsychicBondDistanceWillBeActive_Cryptosleep>
+  <PsychicBondDistanceWillBeActive_Cryptosleep>Якщо {PAWN_nameDef} ляже в криптосон, {PAWN_gender ? його : її} психічний зв'язок з {BOND_gender ? партнером : партнеркою} ({BOND_nameDef}) напружиться, і обидва партнери відчуватимуть стрес.\n\nВи впевнені, що хочете продовжити?</PsychicBondDistanceWillBeActive_Cryptosleep>
   <!-- EN: Someone in this caravan is psychically bonded by their partner is not coming with them. These people will be stressed if separated from their bond-partners -->
   <PsychicBondDistanceWillBeActive_Caravan>Дехто в цьому каравані має психічний зв'язок із партнером, який не йде разом із караваном. У розлуці з партнерами ці люди відчуватимуть стрес</PsychicBondDistanceWillBeActive_Caravan>
   <!-- EN: partner {0_nameFull} -->
@@ -287,7 +287,7 @@
   <!-- EN: {0} oinks a greeting and asks what business you need done. -->
   <PigFactionGreetingWary>{0} рохкає привітання й питає, яка у вас справа.</PigFactionGreetingWary>
   <!-- EN: Oinking enthusiastically, {0} greets {NEGOTIATOR_labelShort} and asks what {LEADER_pronoun} can do to help you. -->
-  <PigFactionGreetingWarm>Захоплено рохкаючи, {0} вітає {NEGOTIATOR_labelShort} і питає, чим {LEADER_pronoun} може вам допомогти.</PigFactionGreetingWarm>
+  <PigFactionGreetingWarm>Захоплено рохкаючи, {0} вітається з перемовником ({NEGOTIATOR_labelShort}) і питає, чим {LEADER_pronoun} може вам допомогти.</PigFactionGreetingWarm>
   <!-- EN: {0} agrees to send pigskin fighters to help you. -->
   <PigMilitaryAidSent>{0} погоджується надіслати вам на допомогу бійців-свинолюдів.</PigMilitaryAidSent>
   <!-- EN: {0} roars into the microphone and disconnects. -->
@@ -295,7 +295,7 @@
   <!-- EN: Growling under {0_possessive} breath, {0} demands that you make a gesture of friendship, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nSnarling an insult, {0_pronoun} disconnects. -->
   <YttakinFactionGreetingHostileAppreciative>Гарчачи собі під ніс, {0} вимагає від вас жесту дружби: наприклад, привезти дарунки в одне з поселень фракції або неушкодженими відпустити її полонених. Доти {0_pronoun} не бажає розмовляти.\n\nВишкірившись і кинувши образу, {0_pronoun} відключається.</YttakinFactionGreetingHostileAppreciative>
   <!-- EN: {0} grumbles a greeting to {NEGOTIATOR_labelShort} and asks why you are calling. -->
-  <YttakinFactionGreetingWary>{0} буркотливо вітає {NEGOTIATOR_labelShort} і питає, навіщо ви вийшли на зв'язок.</YttakinFactionGreetingWary>
+  <YttakinFactionGreetingWary>{0} буркотливо вітається з перемовником ({NEGOTIATOR_labelShort}) і питає, навіщо ви вийшли на зв'язок.</YttakinFactionGreetingWary>
   <!-- EN: {0} bellows a friendly greeting and asks what {LEADER_pronoun} can do to help you. -->
   <YttakinFactionGreetingWarm>{0} гучно й привітно вітається та питає, чим {LEADER_pronoun} може вам допомогти.</YttakinFactionGreetingWarm>
   <!-- EN: {0} grunts angrily and disconnects. -->
@@ -305,7 +305,7 @@
   <!-- EN: {0} grunts a greeting. -->
   <NeanderthalFactionGreetingWary>{0} буркоче привітання.</NeanderthalFactionGreetingWary>
   <!-- EN: {0} grunts a warm greeting to {NEGOTIATOR_labelShort}. -->
-  <NeanderthalFactionGreetingWarm>{0} тепло буркоче привітання до {NEGOTIATOR_labelShort}.</NeanderthalFactionGreetingWarm>
+  <NeanderthalFactionGreetingWarm>{0} тепло буркоче привітання перемовникові ({NEGOTIATOR_labelShort}).</NeanderthalFactionGreetingWarm>
   <!-- EN: Max tier -->
   <MaxTier>Максимальний рівень</MaxTier>
   <!-- EN: {PAWN_nameDef} has accumulated the maximum number of growth points. -->
@@ -325,11 +325,11 @@
   <!-- EN: no biotech buildings allowed -->
   <RoomRequirementNoBiotechBuildings>біотехнологічні споруди заборонені</RoomRequirementNoBiotechBuildings>
   <!-- EN: Bloodfeeding on {PAWN_nameDef} will result in serious blood loss, leaving {PAWN_objective} unconscious.\n\nAre you sure? -->
-  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>Підживлення кров'ю {PAWN_nameDef} спричинить серйозну втрату крові, і {PAWN_pronoun} знепритомніє.\n\nВи впевнені?</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
+  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>{PAWN_nameDef} втратить забагато крові й знепритомніє, якщо з {PAWN_gender ? нього : неї} пити кров.\n\nВи впевнені?</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
   <!-- EN: Bloodfeeding on {PAWN_nameDef} will kill {PAWN_objective}.\n\nAre you sure? -->
-  <WarningPawnWillDieFromBloodfeeding>Підживлення кров'ю вб'є {PAWN_nameDef}.\n\nВи впевнені?</WarningPawnWillDieFromBloodfeeding>
+  <WarningPawnWillDieFromBloodfeeding>{PAWN_nameDef} помре, якщо з {PAWN_gender ? нього : неї} пити кров.\n\nВи впевнені?</WarningPawnWillDieFromBloodfeeding>
   <!-- EN: {0_labelShort} must have a tendable wound. -->
-  <AbilityMustHaveTendableWound>У {0_labelShort} має бути рана, яку можна обробити.</AbilityMustHaveTendableWound>
+  <AbilityMustHaveTendableWound>{0_labelShort}: потрібна рана, яку можна обробити.</AbilityMustHaveTendableWound>
   <!-- Abandon home (including mechs) -->
   <!-- EN: Some of your colonists, animals or mechanoids are in this area. Are you sure you want to abandon it?\n\nThe following people, animals and mechs will be left behind:\n\n{0} -->
   <ConfirmAbandonHomeWithColonyPawnsIncMechs>У цій місцевості є ваші колоністи, тварини чи механоїди. Ви впевнені, що хочете її покинути?\n\nТут залишаться такі люди, тварини й механоїди:\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs>

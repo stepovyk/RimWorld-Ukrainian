@@ -17,9 +17,9 @@
   <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
   <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} відмовляється це робити через свою ідеологію.</MessagePawnUnwillingToDoDueToIdeo>
   <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
-  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} {INITIATOR_gender ? спробував : спробувала} навернути {RECIPIENT_nameDef} у свою ідеологію. Впевненість {RECIPIENT_nameDef} знизилася з {CERTAINTYBEFORE} до {CERTAINTYAFTER}. {RECIPIENT_gender ? Він ображений : Вона ображена} цією спробою.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} {INITIATOR_gender ? спробував : спробувала} навернути співрозмовника у свою ідеологію. {RECIPIENT_nameDef} тепер менш {RECIPIENT_gender ? впевнений : впевнена} у своїй вірі (з {CERTAINTYBEFORE} до {CERTAINTYAFTER}) і {RECIPIENT_gender ? ображений : ображена} цією спробою.</MessageFailedConvertIdeoAttempt>
   <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
-  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} {PAWN1_gender ? спробував : спробувала} навернути {PAWN2_nameDef} у свою ідеологію. Дійшло до сутички!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN2_nameDef} не {PAWN2_gender ? стерпів : стерпіла} спроби навернення, яку {PAWN1_gender ? зробив : зробила} {PAWN1_nameDef}. Дійшло до сутички!</MessageFailedConvertIdeoAttemptSocialFight>
   <!-- EN: You must choose at least {0} memes. -->
   <MessageNotEnoughMemes>Мемів має бути щонайменше {0}.</MessageNotEnoughMemes>
   <!-- EN: You can't choose more than {0} memes. -->
@@ -47,21 +47,21 @@
   <!-- EN: Warning: {0} will be upset if mining occurs. -->
   <MessageWarningPlayerDesignatedMining>Увага: якщо видобувати породу, це засмутить: {0}.</MessageWarningPlayerDesignatedMining>
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
-  <MessageConnectedPawnDied>Зв'язок дерева ({TREE_label}) з {PAWN_nameDef} розірвано. Перш ніж знову утворити зв'язок, дерево має відновлюватися {DURATION}.</MessageConnectedPawnDied>
+  <MessageConnectedPawnDied>Дерево ({TREE_label}) і {PAWN_nameDef} більше не пов'язані. Перш ніж знову утворити зв'язок, дерево має відновлюватися {DURATION}.</MessageConnectedPawnDied>
   <!-- Slave interactions -->
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
-  <MessageSlaveEmancipated>{1_nameDef} {1_gender ? звільнив : звільнила} {0_nameDef}.</MessageSlaveEmancipated>
+  <MessageSlaveEmancipated>{0_nameDef} тепер {0_gender ? вільний : вільна}: {1_nameDef} {1_gender ? звільнив : звільнила} {0_gender ? його : її}.</MessageSlaveEmancipated>
   <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
-  <MessagePrisonerEnslaved>{1_nameDef} {1_gender ? поневолив : поневолила} {0_nameDef}.</MessagePrisonerEnslaved>
+  <MessagePrisonerEnslaved>{0_nameDef} тепер {0_gender ? раб : рабиня}: {1_nameDef} {1_gender ? поневолив : поневолила} {0_gender ? його : її}.</MessagePrisonerEnslaved>
   <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
-  <MessagePrisonerWillBroken>{0_nameDef} {0_gender ? зломив : зломила} волю {1_gender ? полоненого : полоненої} {1_nameDef}.</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken>{1_nameDef} більше не опирається: {0_nameDef} {0_gender ? зломив : зломила} волю {1_gender ? полоненого : полоненої}.</MessagePrisonerWillBroken>
   <!-- EN: Enslavement will follow. -->
   <MessagePrisonerWillBroken_RecruitAttempsWillBegin>Далі – поневолення.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
   <!-- Prisoner interactions -->
   <!-- EN: No warden is capable of this enslavement. -->
   <MessageNoWardenCapableOfEnslavement>Жоден наглядач не здатен поневолити цього в'язня.</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
-  <MessageNoWardenOfIdeo>У вас немає наглядачів ({MEMBERNAME}), щоб навернути {PRISONER_nameDef}. Режим взаємодії з в'язнем змінено на «Без взаємодії».</MessageNoWardenOfIdeo>
+  <MessageNoWardenOfIdeo>У вас немає наглядачів ({MEMBERNAME}), які могли б навернути в'язня ({PRISONER_nameDef}). Режим взаємодії з в'язнем змінено на «Без взаємодії».</MessageNoWardenOfIdeo>
   <!-- Camps -->
   <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
   <MessageCampDetected>Ви виявили поруч {CAMP_label}, який контролює фракція {FACTION_name}.</MessageCampDetected>

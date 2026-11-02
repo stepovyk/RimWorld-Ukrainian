@@ -35,9 +35,9 @@
     <li>babyGame->fingerpuppets</li>
   -->
   <BabyPlay.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] грається з [RECIPIENT_nameDef], і немовля починає [reaction].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [interaction] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] грає з [RECIPIENT_nameDef] у [babyGame].</li>
+    <li>r_logentry->[INITIATOR_nameDef] грається з малям, і [RECIPIENT_nameDef] починає [reaction].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [interaction] маля – [RECIPIENT_nameDef] аж сяє від радості.</li>
+    <li>r_logentry->[INITIATOR_nameDef] і [RECIPIENT_nameDef] граються в [babyGame].</li>
     <li>r_logentry(p=0.3)->[INITIATOR_nameDef] співає пісеньку, а [RECIPIENT_nameDef] слухає.</li>
     <li>r_logentry(p=0.3)->[INITIATOR_nameDef] розповідає казочку, а [RECIPIENT_nameDef] слухає.</li>
     <li>r_logentry(p=0.3)->[INITIATOR_nameDef] показує фокус, і [RECIPIENT_nameDef] не може відвести очей.</li>
@@ -697,7 +697,7 @@
   -->
   <SanguophageChat.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout] про [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] з [RECIPIENT_nameDef] [talkedabout] про [subject].</li>
+    <li>r_logentry->[RECIPIENT_nameDef] і [INITIATOR_nameDef] [talkedabout] про [subject].</li>
     <li>talkedabout->розмовляють</li>
     <li>talkedabout->говорять</li>
     <li>talkedabout->шепочуться</li>

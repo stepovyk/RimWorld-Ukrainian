@@ -20,6 +20,10 @@
   <MedievalSlave49.description>{PAWN_nameDef} {PAWN_gender ? виріс : виросла} в середньовічному світі, тягаючи візки й копаючи ями. Проста ручна праця – {PAWN_gender ? його : її} найдавніший супутник, як і батіг господаря.\n\n{PAWN_pronoun} {PAWN_gender ? навчився : навчилася} читати лише в дев'ять років.</MedievalSlave49.description>
   <!-- EN: medieval slave -->
   <MedievalSlave49.title>середньовічний раб</MedievalSlave49.title>
+  <!-- EN: medieval slave -->
+  <MedievalSlave49.titleFemale>середньовічна рабиня</MedievalSlave49.titleFemale>
   <!-- EN: slave -->
   <MedievalSlave49.titleShort>раб</MedievalSlave49.titleShort>
+  <!-- EN: slave -->
+  <MedievalSlave49.titleShortFemale>рабиня</MedievalSlave49.titleShortFemale>
 </LanguageData>

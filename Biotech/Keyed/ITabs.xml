@@ -13,7 +13,7 @@
   <!-- EN: View genes -->
   <ViewGenes>Переглянути гени</ViewGenes>
   <!-- EN: Click to view {PAWN_nameDef}'s genes. -->
-  <ViewGenesDesc>Натисніть, щоб переглянути гени {PAWN_nameDef}.</ViewGenesDesc>
+  <ViewGenesDesc>Натисніть, щоб переглянути гени, які має {PAWN_nameDef}.</ViewGenesDesc>
   <!-- Feeding tab (human babies) -->
   <!-- EN: Feeding -->
   <TabFeeding>Годування</TabFeeding>
@@ -28,11 +28,11 @@
   <!-- EN: Nobody can feed this baby. -->
   <AutofeedNone>Ніхто не може годувати цю дитину.</AutofeedNone>
   <!-- EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
-  <AutofeedModeTooltipNever>{FEEDER_nameDef} не годуватиме {BABY_nameDef} самостійно.</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipNever>{FEEDER_nameDef} не годуватиме немовля ({BABY_nameDef}) самостійно.</AutofeedModeTooltipNever>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} as childcare work. -->
-  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} годуватиме {BABY_nameDef} в межах догляду за дітьми.</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} годуватиме немовля ({BABY_nameDef}) в межах догляду за дітьми.</AutofeedModeTooltipChildcare>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare. -->
-  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} годуватиме {BABY_nameDef} вдень і вночі, навіть не маючи призначення на догляд за дітьми чи здатності до нього.</AutofeedModeTooltipUrgent>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} годуватиме немовля ({BABY_nameDef}) вдень і вночі, навіть не маючи призначення на догляд за дітьми чи здатності до нього.</AutofeedModeTooltipUrgent>
   <!-- EN: Consumable foods -->
   <BabyFoodConsumables>Їжа, яку можна давати</BabyFoodConsumables>
   <!-- Social tab (human babies) -->
@@ -96,13 +96,13 @@
   <!-- EN: {0_labelShort} tried romancing recently and must wait {1} until trying again. -->
   <CantRomanceInitiateMessageCooldown>{0_labelShort} недавно вже {0_gender ? пробував : пробувала} завести роман і має зачекати {1}, перш ніж спробувати знову.</CantRomanceInitiateMessageCooldown>
   <!-- EN: {0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful. -->
-  <TryRomanceFailedMessage>Спроба {0_labelShort} завести роман з {1_labelShort} не вдалася.</TryRomanceFailedMessage>
+  <TryRomanceFailedMessage>{0_labelShort} {0_gender ? намагався : намагалася} завести роман, але {1_labelShort} {1_gender ? відмовив : відмовила}.</TryRomanceFailedMessage>
   <!-- EN: Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations. -->
-  <RomanceExistingRelationshipWarning>Якщо {INITIATOR_nameDef} заведе роман з {TARGET_nameDef}, це може викликати образу в теперішніх партнерів, призвести до розривів і сварок.</RomanceExistingRelationshipWarning>
+  <RomanceExistingRelationshipWarning>Якщо {INITIATOR_nameDef} і {TARGET_nameDef} закрутять роман, це може викликати образу в теперішніх партнерів, призвести до розривів і сварок.</RomanceExistingRelationshipWarning>
   <!-- EN: Romance chance -->
   <RomanceChance>Шанс завести роман</RomanceChance>
   <!-- EN: already {PAWN_nameDef}'s {RELATION} -->
-  <RomanceChanceExistingRelation>уже {RELATION} для {PAWN_nameDef}</RomanceChanceExistingRelation>
+  <RomanceChanceExistingRelation>уже {RELATION} ({PAWN_nameDef})</RomanceChanceExistingRelation>
   <!-- EN: Cannot romance -->
   <RomanceChanceCant>Не можна завести роман</RomanceChanceCant>
   <!-- EN: Relative age -->
@@ -114,7 +114,7 @@
   <!-- EN: Opinion of partner -->
   <RomanceChancePartnerFactor>Ставлення партнера</RomanceChancePartnerFactor>
   <!-- EN: {0_labelShort} was unable to romance {1_labelShort} -->
-  <RomanceFailedUnexpected>{0_labelShort} не вдалося завести роман з {1_labelShort}</RomanceFailedUnexpected>
+  <RomanceFailedUnexpected>{0_labelShort} і {1_labelShort}: роман не склався</RomanceFailedUnexpected>
   <!-- EN: {0_nameDef} is already in a relationship. -->
   <RomanceWarningMonogamous>{0_nameDef} вже у стосунках.</RomanceWarningMonogamous>
   <!-- EN: {0_nameDef} already has {1} partners. -->

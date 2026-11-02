@@ -1086,7 +1086,7 @@
   <ConfirmMoveAutoJoinableCaravan>Деякі тварини чи в'язні намагаються приєднатися до цього каравану. Якщо караван рушить, вони вже не зможуть.\n\nТварини, в'язні й знерухомлені колоністи, що лишилися на мапі без жодного незнерухомленого колоніста, вважаються покинутими, і їх можуть захопити вороги.\n\nСправді рушити?</ConfirmMoveAutoJoinableCaravan>
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
-  <ConfirmBanishPawnDialog>Справді вигнати {1_label}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog>Справді вигнати з колонії: {1_label}?</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
   <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort}, найімовірніше, загине.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
@@ -1094,7 +1094,7 @@
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>У всіх колоністів з'являться такі думки:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>Якщо вигнати {1_labelShort}, у цих людей з'являться такі думки:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>Якщо {1_labelShort} піде у вигнання, у цих людей з'являться такі думки:</ConfirmBanishPawnDialog_IndividualThoughts>
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: The following still need to be loaded -->
   <ConfirmSendNotCompletelyLoadedLaunchable>Ще потрібно завантажити</ConfirmSendNotCompletelyLoadedLaunchable>
@@ -1162,7 +1162,7 @@
   <!-- EN: {PAWN_labelShort} has no healable injuries. -->
   <AbilityCannotCastNoHealableInjury>{PAWN_labelShort} не має травм, які можна вилікувати.</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>{1_labelShort} не тієї статі, яка приваблює {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>{0_labelShort} не цікавиться людьми статі, до якої належить {1_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
   <AbilityCantApplyTooYoung>{0_labelShort} – {0_gender ? замолодий : замолода}.</AbilityCantApplyTooYoung>
   <!-- EN: Cannot target a baby. -->
@@ -1208,7 +1208,7 @@
   <!-- EN: Psychic love for -->
   <PsychicLoveFor>Психічне кохання до</PsychicLoveFor>
   <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
-  <FarskipConfirmTeleportingLodger>Якщо перенести {PAWN_labelShort} далеким стрибком на іншу мапу чи в караван, пов'язане завдання буде провалено, а {PAWN_pronoun} негайно піде.\n\nСправді перенести {PAWN_labelShort} далеким стрибком?</FarskipConfirmTeleportingLodger>
+  <FarskipConfirmTeleportingLodger>Якщо {PAWN_labelShort} перенесеться далеким стрибком на іншу мапу чи в караван, пов'язане завдання буде провалено, а {PAWN_pronoun} негайно піде.\n\nСправді перенести {PAWN_gender ? його : її} далеким стрибком?</FarskipConfirmTeleportingLodger>
   <!-- EN: minor -->
   <MentalBreakIntensityMinor>незначний</MentalBreakIntensityMinor>
   <!-- EN: major -->

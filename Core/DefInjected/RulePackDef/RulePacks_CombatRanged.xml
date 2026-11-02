@@ -33,34 +33,32 @@
     <li>fromof->of</li>
   -->
   <Combat_ExplosionImpact.rulePack.rulesStrings>
-    <li>prefix->[blast] [fromof] пострілу {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[blast] [fromof] {lookup: [WEAPON_label]; Case; 1} {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[blast] [fromof] пострілу {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[blast] [fromof] {lookup: [WEAPON_label]; Case; 1} {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[blast] з вини {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[projectile] {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[WEAPON_label] {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[projectile] {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>prefix->[WEAPON_label] {lookup: [INITIATOR_definite]; Case; 1}</li>
-    <li>r_logentry->[prefix] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry->[prefix] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry->[prefix] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1} [strikeAdv].</li>
-    <li>r_logentry->[prefix] [strikeAdv] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry->[prefix] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1} і [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [damaged_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [damaged_targets] {lookup: [RECIPIENT_definite]; Case; 1} [strikeAdv].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [strikeAdv] [damaged_past] [damaged_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry->[INITIATOR_definite] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry->[INITIATOR_definite] [strikeAdv] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry->[blast] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}.</li>
+    <li>r_logentry->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_hit].</li>
+    <li>r_logentry->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_caught]: [blast] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_caught]: [blast] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] [strikeAdv].</li>
+    <li>r_logentry->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_caught]: [blast] [strikeAdv] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_caught]: [blast] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] і [damaged_past] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_caught]: [blast] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_caught]: [blast] [damaged_past] [RECIPIENT_possessive] [damaged_targets] [strikeAdv].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite] [blast_cause], і [RECIPIENT_definite] [blast_caught]: [blast] [strikeAdv] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite] потрапляє під вибух, який спричиняє [INITIATOR_definite].</li>
+    <li>r_logentry->[RECIPIENT_definite] [blast_hit].</li>
     <li>r_logentry(p=0.001)->[RECIPIENT_definite] потрапляє під вибух.</li>
-    <li>r_logentry(p=0.001)->{lookup: [RECIPIENT_definite]; Case; 3} зачіпає вибухом.</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_definite] зазнає удару вибухової хвилі.</li>
+    <li>blast_cause->стріляє</li>
+    <li>blast_cause->влучає</li>
+    <li>blast_cause->відкриває вогонь</li>
+    <li>blast_caught->потрапляє під вибух</li>
+    <li>blast_caught->опиняється в епіцентрі</li>
+    <li>blast_hit->дістає поранення від вибуху</li>
+    <li>blast_hit->потрапляє під вибух і дістає поранення</li>
     <li>blast->вибух</li>
     <li>blast->вибухова хвиля</li>
     <li>blast->ударна хвиля</li>
     <li>blast->детонація</li>
     <li>blast->розряд</li>
     <li>blast->удар</li>
+    <li>prefix->[blast]</li>
     <li>fromof->від</li>
     <li>fromof->внаслідок</li>
   </Combat_ExplosionImpact.rulePack.rulesStrings>
@@ -130,23 +128,26 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] стріляє, і [projectile] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry->[INITIATOR_definite] стріляє, і [projectile] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1} [to] [destroyed_suffix].</li>
-    <li>r_logentry(p=2)->[INITIATOR_definite] [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3}, і [projectile] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry(p=2)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3}, [destroyed_present] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1} [to] [destroyed_suffix].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite] стріляє, і [projectile] [damaged_past] [damaged_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite] [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3}, і [projectile] [damaged_past] [damaged_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3}, [damaged_present] [damaged_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [damaged_past] [damaged_targets] {lookup: [RECIPIENT_definite]; Case; 1}.</li>
-    <li>r_logentry(p=3)->[INITIATOR_definite] стріляє, і [projectile] [destroyed_past] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1} й [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(p=6)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3}, [destroyed_present] [destroyed_targets] {lookup: [RECIPIENT_definite]; Case; 1} і [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] влучає у {lookup: [RECIPIENT_definite]; Case; 3}: [projectile] досягає цілі.</li>
-    <li>r_logentry(p=0.2)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} влучає у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3} і влучає у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry(p=0.4)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3} і влучає у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] цілиться у {lookup: [ORIGINALTARGET_definite]; Case; 3}, а [projectile] влучає у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
+    <li>r_logentry->[INITIATOR_definite] стріляє, і [RECIPIENT_definite] [gets_hit]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[INITIATOR_definite] стріляє, і [RECIPIENT_definite] [gets_hit]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] [to] [destroyed_suffix].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]). Натомість влучання дістає [RECIPIENT_definite]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite] потрапляє під постріл, який робить [INITIATOR_definite]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[RECIPIENT_definite] потрапляє під постріл, який робить [INITIATOR_definite]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] [to] [destroyed_suffix].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite] стріляє, і [RECIPIENT_definite] [gets_hit]: [projectile] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite]: [projectile] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]). Натомість влучання дістає [RECIPIENT_definite]: [projectile] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite] потрапляє під постріл, який робить [INITIATOR_definite]: [projectile] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=3)->[INITIATOR_definite] стріляє, і [RECIPIENT_definite] [gets_hit]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] і [damaged_past] [damaged_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] і [damaged_past] [damaged_targets].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] стріляє, і [RECIPIENT_definite] дістає влучання.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] стріляє влучно: [projectile] досягає цілі – [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і натомість влучання дістає [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->Постріл, який робить [INITIATOR_definite], призначався для іншої цілі ([ORIGINALTARGET_definite]), але влучання дістає [RECIPIENT_definite].</li>
+    <li>gets_hit(p=2)->дістає влучання</li>
+    <li>gets_hit->потрапляє під постріл</li>
+    <li>gets_hit(p=0.5)->опиняється на лінії вогню</li>
     <li>projectile(p=0.05)->постріл</li>
     <li>destroyed_past->розтрощує</li>
     <li>destroyed_past->роздроблює</li>
@@ -182,8 +183,8 @@
     <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->до крові</li>
     <li>damaged_suffix(RECIPIENT_flesh!=Mechanoid)->оголюючи плоть</li>
     <li>to->на</li>
-    <li>missed->не влучає у</li>
-    <li>missed->ледь не влучає у</li>
+    <li>missed->промахується</li>
+    <li>missed->ледь-ледь промахується</li>
   </Combat_RangedDamage.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite]'s [projectile] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
@@ -211,14 +212,14 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDeflect.rulePack.rulesStrings>
-    <li>r_logentry->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
-    <li>r_logentry(p=2)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3} і [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
-    <li>r_logentry->[projectile] {lookup: [INITIATOR_definite]; Case; 1} влучає у {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] стріляє, і [projectile] влучає у {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
-    <li>r_logentry(p=0.2)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} влучає у {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3}, і [projectile] влучає у {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
-    <li>r_logentry(p=0.4)->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [missed] {lookup: [ORIGINALTARGET_definite]; Case; 3} і влучає у {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] цілиться в {lookup: [ORIGINALTARGET_definite]; Case; 3}, але [projectile] влучає у {lookup: [RECIPIENT_definite]; Case; 3}[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry->[INITIATOR_definite] стріляє, ціль – [RECIPIENT_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry(p=2)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry->[RECIPIENT_definite] потрапляє під постріл, який робить [INITIATOR_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] стріляє влучно, ціль – [RECIPIENT_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry(p=0.2)->[RECIPIENT_definite] опиняється на лінії вогню, який веде [INITIATOR_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і натомість влучання дістає [RECIPIENT_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
+    <li>r_logentry(p=0.2)->Постріл, який робить [INITIATOR_definite], призначався для іншої цілі ([ORIGINALTARGET_definite]), але під нього потрапляє [RECIPIENT_definite]: [projectile] влучає[damaged_target_possessive_opt][deflected_result].</li>
     <li>projectile(p=0.05)->постріл</li>
     <li>damaged_target_possessive_opt-></li>
     <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)-> у {lookup: [recipient_part_damaged0_label]; Case; 3}</li>
@@ -232,8 +233,8 @@
     <li>deflected_consequence->[scraped_present] від броні[adverb_deflected_opt]</li>
     <li>scraped_past->рикошетить</li>
     <li>scraped_present->рикошетячи</li>
-    <li>missed->не влучає у</li>
-    <li>missed->ледь не влучає у</li>
+    <li>missed->промахується</li>
+    <li>missed->ледь-ледь промахується</li>
   </Combat_RangedDeflect.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] with [INITIATOR_possessive] [WEAPON_label].</li>
@@ -265,26 +266,26 @@
     <li>verb_shot(p=0.2)->discharged</li>
   -->
   <Combat_RangedFire.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [shotat] {lookup: [RECIPIENT_definite]; Case; 3} з {lookup: [WEAPON_label]; Case; 1}.</li>
-    <li>r_logentry->[INITIATOR_definite] [shot] з {lookup: [WEAPON_label]; Case; 1} у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry->[INITIATOR_definite] [shotat] {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry->[INITIATOR_definite] [shot_a][burst]: [projectile] летить у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
+    <li>r_logentry->[INITIATOR_definite] [shotat] з {lookup: [WEAPON_label]; Case; 1}, ціль – [RECIPIENT_definite].</li>
+    <li>r_logentry->Під вогонь потрапляє [RECIPIENT_definite]: [INITIATOR_definite] [shot] з {lookup: [WEAPON_label]; Case; 1}.</li>
+    <li>r_logentry->[INITIATOR_definite] [shotat], ціль – [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [shot_a][burst], і [projectile] летить до цілі – [RECIPIENT_definite].</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a][burst].</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] з {lookup: [WEAPON_label]; Case; 1}.</li>
     <li>shot_a(p=2)->[verb_shot]</li>
     <li>shot_a->[skillAdv] [verb_shot]</li>
     <li>shot(p=2)->[verb_shot]</li>
     <li>shot->[skillAdv] [verb_shot]</li>
-    <li>shotat->стріляє[aburst] у</li>
-    <li>shotat->[skillAdv] стріляє[aburst] у</li>
-    <li>shotat(p=0.5)->намагається вистрілити[aburst] у</li>
-    <li>shotat(p=0.3)->робить постріл у</li>
-    <li>shotat(p=0.2)->[skillAdv] робить постріл у</li>
-    <li>shotat->палить[aburst] у</li>
-    <li>shotat->[skillAdv] палить[aburst] у</li>
-    <li>shotat(p=0.5)->прицілюється й стріляє[aburst] у</li>
-    <li>shotat(p=0.5)->[skillAdv] прицілюється й стріляє[aburst] у</li>
-    <li>shotat(p=0.3)->відкриває вогонь, цілячи у</li>
+    <li>shotat->стріляє[aburst]</li>
+    <li>shotat->[skillAdv] стріляє[aburst]</li>
+    <li>shotat(p=0.5)->намагається вистрілити[aburst]</li>
+    <li>shotat(p=0.3)->робить постріл</li>
+    <li>shotat(p=0.2)->[skillAdv] робить постріл</li>
+    <li>shotat->палить[aburst]</li>
+    <li>shotat->[skillAdv] палить[aburst]</li>
+    <li>shotat(p=0.5)->прицілюється й стріляє[aburst]</li>
+    <li>shotat(p=0.5)->[skillAdv] прицілюється й стріляє[aburst]</li>
+    <li>shotat(p=0.3)->відкриває вогонь</li>
     <li>aburst-></li>
     <li>aburst(BURST==True,p=3)-> чергою</li>
     <li>burst-></li>
@@ -319,8 +320,8 @@
     <li>adjective_threw(INITIATOR_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] [threw] {lookup: [projectile]; Case; 3} у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
-    <li>r_logentry->[INITIATOR_definite] [threw_a] {lookup: [projectile]; Case; 3} у {lookup: [RECIPIENT_definite]; Case; 3}.</li>
+    <li>r_logentry->[INITIATOR_definite] [threw] {lookup: [projectile]; Case; 3}, ціль – [RECIPIENT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite] [threw_a] {lookup: [projectile]; Case; 3}, ціль – [RECIPIENT_definite].</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] {lookup: [projectile]; Case; 3}.</li>
     <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] {lookup: [projectile]; Case; 3}.</li>
     <li>threw_a->[adverb_threw] [verb_threw]</li>
@@ -388,9 +389,9 @@
     <li>ducked->hid</li>
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>
-    <li>r_logentry->[projectile] {lookup: [INITIATOR_definite]; Case; 1} [missed].</li>
-    <li>r_logentry->[INITIATOR_definite] не влучає у {lookup: [ORIGINALTARGET_definite]; Case; 3}.</li>
-    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], і [projectile] {lookup: [INITIATOR_definite]; Case; 1} пролітає повз, [missing].</li>
+    <li>r_logentry->[INITIATOR_definite] стріляє, і [projectile] [missed].</li>
+    <li>r_logentry->[INITIATOR_definite] промахується (ціль – [ORIGINALTARGET_definite]).</li>
+    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], і постріл, який робить [INITIATOR_definite], пролітає повз, [missing].</li>
     <li>missed(p=4)->не влучає</li>
     <li>missed(p=2)->минає ціль на волосину</li>
     <li>missed(p=2)->далеко минає ціль</li>
@@ -400,9 +401,9 @@
     <li>missed->встромляється в землю</li>
     <li>missed->відскакує від землі й губиться</li>
     <li>missed->вибиває грудку землі</li>
-    <li>missed(p=0.2)->пролітає за міліметри від {lookup: [ORIGINALTARGET_definite]; Case; 1}</li>
-    <li>missed->пролітає за сантиметри від {lookup: [ORIGINALTARGET_definite]; Case; 1}</li>
-    <li>missed->пролітає за метр від {lookup: [ORIGINALTARGET_definite]; Case; 1}</li>
+    <li>missed(p=0.2)->пролітає за міліметри від цілі ([ORIGINALTARGET_definite])</li>
+    <li>missed->пролітає за сантиметри від цілі ([ORIGINALTARGET_definite])</li>
+    <li>missed->пролітає за метр від цілі ([ORIGINALTARGET_definite])</li>
     <li>missed->збивається з курсу</li>
     <li>missing->не зачепивши нікого</li>
     <li>missing->розминувшись із ціллю на волосину</li>
@@ -413,9 +414,9 @@
     <li>missing->встромляючись у землю</li>
     <li>missing->відскакуючи від землі й гублячись</li>
     <li>missing->вибиваючи грудку землі</li>
-    <li>missing(p=0.2)->за міліметри від {lookup: [ORIGINALTARGET_definite]; Case; 1}</li>
-    <li>missing->за сантиметри від {lookup: [ORIGINALTARGET_definite]; Case; 1}</li>
-    <li>missing->за метр від {lookup: [ORIGINALTARGET_definite]; Case; 1}</li>
+    <li>missing(p=0.2)->за міліметри від цілі</li>
+    <li>missing->за сантиметри від цілі</li>
+    <li>missing->за метр від цілі</li>
     <li>missing->збиваючись із курсу</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=2)->в останню [moment] [moved] вбік</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked] за {lookup: [COVER_definite]; Case; 4}</li>

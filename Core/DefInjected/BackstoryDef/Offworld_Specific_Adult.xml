@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversational abilities. -->
-  <Castaway57.description>{PAWN_nameDef} {PAWN_gender ? був єдиним : була єдиною}, хто вцілів у катастрофі корабля на безлюдному світі, де жили самі тварини. Багато років, аж до порятунку, {PAWN_pronoun} {PAWN_gender ? перебивався : перебивалася} тим, що вдавалося знайти.\n\nНавички виживання {PAWN_nameDef} відточилися до гостроти бритви, але через довгу самотність {PAWN_pronoun} майже {PAWN_gender ? розучився : розучилася} підтримувати розмову.</Castaway57.description>
+  <Castaway57.description>{PAWN_nameDef} {PAWN_gender ? був єдиним : була єдиною}, хто вцілів у катастрофі корабля на безлюдному світі, де жили самі тварини. Багато років, аж до порятунку, {PAWN_pronoun} {PAWN_gender ? перебивався : перебивалася} тим, що вдавалося знайти.\n\n{PAWN_gender ? Його : Її} навички виживання відточилися до гостроти бритви, але через довгу самотність {PAWN_pronoun} майже {PAWN_gender ? розучився : розучилася} підтримувати розмову.</Castaway57.description>
   <!-- EN: castaway -->
   <Castaway57.title>робінзон</Castaway57.title>
   <!-- EN: castaway -->
@@ -10,14 +10,22 @@
   <CaveworldIlluminator95.description>Серед мешканців тунелів тих, хто має такий гострий зір, як {PAWN_nameDef}, шанують як мудреців. {PAWN_pronoun} {PAWN_gender ? ішов : ішла} попереду, позначаючи біолюмінесцентними грибами місця для копання й попереджаючи інших про небезпеку.</CaveworldIlluminator95.description>
   <!-- EN: caveworld illuminator -->
   <CaveworldIlluminator95.title>освітлювач печер</CaveworldIlluminator95.title>
+  <!-- EN: caveworld illuminator -->
+  <CaveworldIlluminator95.titleFemale>освітлювачка печер</CaveworldIlluminator95.titleFemale>
   <!-- EN: illuminator -->
   <CaveworldIlluminator95.titleShort>освітлювач</CaveworldIlluminator95.titleShort>
+  <!-- EN: illuminator -->
+  <CaveworldIlluminator95.titleShortFemale>освітлювачка</CaveworldIlluminator95.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
   <ColonySettler53.description>{PAWN_nameDef} {PAWN_gender ? був поселенцем : була поселенкою} в колонії на новому світі.\n\nТаке життя вимагає бути майстром на всі руки в простих практичних справах.</ColonySettler53.description>
   <!-- EN: colony settler -->
   <ColonySettler53.title>поселенець колонії</ColonySettler53.title>
+  <!-- EN: colony settler -->
+  <ColonySettler53.titleFemale>поселенка колонії</ColonySettler53.titleFemale>
   <!-- EN: settler -->
   <ColonySettler53.titleShort>поселенець</ColonySettler53.titleShort>
+  <!-- EN: settler -->
+  <ColonySettler53.titleShortFemale>поселенка</ColonySettler53.titleShortFemale>
   <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
   <DeepSpaceMiner3.description>{PAWN_nameDef} {PAWN_gender ? виконував : виконувала} важку брудну роботу на станції в глибокому космосі – {PAWN_gender ? видобував : видобувала} метал з астероїдів. Щодня {PAWN_pronoun} {PAWN_gender ? застосовував : застосовувала} практичні промислові навички, та й у барних бійках {PAWN_gender ? був : була} не з останніх.</DeepSpaceMiner3.description>
   <!-- EN: deep space miner -->
@@ -28,10 +36,14 @@
   <FactoryWorker58.description>{PAWN_nameDef} {PAWN_gender ? виконував : виконувала} чорну некваліфіковану роботу на заводі. До {PAWN_gender ? його : її} обов'язків також входив догляд за мулами й кіньми, що перевозили товари.</FactoryWorker58.description>
   <!-- EN: factory worker -->
   <FactoryWorker58.title>працівник фабрики</FactoryWorker58.title>
+  <!-- EN: factory worker -->
+  <FactoryWorker58.titleFemale>працівниця фабрики</FactoryWorker58.titleFemale>
   <!-- EN: worker -->
   <FactoryWorker58.titleShort>працівник</FactoryWorker58.titleShort>
+  <!-- EN: worker -->
+  <FactoryWorker58.titleShortFemale>працівниця</FactoryWorker58.titleShortFemale>
   <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
-  <HumanComputer83.description>Виявилося, що {PAWN_nameDef} має чудову пам'ять і хист до складних обчислень у голові. Диктатор індустріального світу взяв {PAWN_nameDef} на службу, щоб {PAWN_pronoun} {PAWN_gender ? вів : вела} облік фінансів і витрат держави.</HumanComputer83.description>
+  <HumanComputer83.description>Виявилося, що {PAWN_nameDef} має чудову пам'ять і хист до складних обчислень у голові. Диктатор індустріального світу взяв {PAWN_gender ? його : її} на службу, щоб {PAWN_pronoun} {PAWN_gender ? вів : вела} облік фінансів і витрат держави.</HumanComputer83.description>
   <!-- EN: human computer -->
   <HumanComputer83.title>людина-комп'ютер</HumanComputer83.title>
   <!-- EN: computer -->
@@ -40,6 +52,8 @@
   <JoywireArtist8.description>{PAWN_nameDef} {PAWN_gender ? працював : працювала} в лабораторії урбанізованого світу, розробляючи найсучасніше програмне забезпечення для чипів щастя, що дарують користувачам максимальну насолоду.\n\nКоли місцевий уряд суворо обмежив виробництво чипів щастя, {PAWN_pronoun} {PAWN_gender ? почав : почала} продавати свої продукти на чорному ринку.</JoywireArtist8.description>
   <!-- EN: joywire artist -->
   <JoywireArtist8.title>розробник чипів щастя</JoywireArtist8.title>
+  <!-- EN: joywire artist -->
+  <JoywireArtist8.titleFemale>розробниця чипів щастя</JoywireArtist8.titleFemale>
   <!-- EN: joywirer -->
   <JoywireArtist8.titleShort>чипороб</JoywireArtist8.titleShort>
   <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
@@ -52,8 +66,12 @@
   <PsychiatricPatient94.description>{PAWN_nameDef} {PAWN_gender ? провів : провела} більшу частину дорослого життя в психіатричній лікарні. У {PAWN_gender ? його : її} рідному індустріальному світі погано розумілися на психічних хворобах, і з {PAWN_gender ? ним : нею} поводилися радше як із твариною, ніж як із людиною.\n\nЗрештою {PAWN_pronoun} {PAWN_gender ? одужав : одужала} й {PAWN_gender ? вийшов : вийшла} на волю, але пережите підірвало чимало {PAWN_gender ? його : її} базових життєвих навичок.</PsychiatricPatient94.description>
   <!-- EN: psychiatric patient -->
   <PsychiatricPatient94.title>пацієнт психлікарні</PsychiatricPatient94.title>
+  <!-- EN: psychiatric patient -->
+  <PsychiatricPatient94.titleFemale>пацієнтка психлікарні</PsychiatricPatient94.titleFemale>
   <!-- EN: patient -->
   <PsychiatricPatient94.titleShort>пацієнт</PsychiatricPatient94.titleShort>
+  <!-- EN: patient -->
+  <PsychiatricPatient94.titleShortFemale>пацієнтка</PsychiatricPatient94.titleShortFemale>
   <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
   <Sheriff52.description>{PAWN_nameDef} {PAWN_gender ? був : була} охоронцем закону в ізольованому індустріальному містечку. {PAWN_pronoun} {PAWN_gender ? розбирався : розбиралася} з дрібними злочинами, {PAWN_gender ? залагоджував : залагоджувала} суперечки, а часом і {PAWN_gender ? вгамовував : вгамовувала} п'яні перестрілки в салунах.</Sheriff52.description>
   <!-- EN: sheriff -->
@@ -67,17 +85,25 @@
   <!-- EN: tactician -->
   <SpaceTactician28.titleShort>тактик</SpaceTactician28.titleShort>
   <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
-  <StarshipJanitor33.description>Поки інші пасажири проводили роки між зоряними системами в саркофагах криптосну, {PAWN_nameDef} доводилося час від часу прокидатися, щоб проводити огляди, перевіряти навігаційні системи й змащувати механоїдів.</StarshipJanitor33.description>
+  <StarshipJanitor33.description>Поки інші пасажири проводили роки між зоряними системами в саркофагах криптосну, {PAWN_nameDef} {PAWN_gender ? мусив : мусила} час від часу прокидатися, щоб проводити огляди, перевіряти навігаційні системи й змащувати механоїдів.</StarshipJanitor33.description>
   <!-- EN: starship janitor -->
   <StarshipJanitor33.title>прибиральник зорельота</StarshipJanitor33.title>
+  <!-- EN: starship janitor -->
+  <StarshipJanitor33.titleFemale>прибиральниця зорельота</StarshipJanitor33.titleFemale>
   <!-- EN: janitor -->
   <StarshipJanitor33.titleShort>прибиральник</StarshipJanitor33.titleShort>
+  <!-- EN: janitor -->
+  <StarshipJanitor33.titleShortFemale>прибиральниця</StarshipJanitor33.titleShortFemale>
   <!-- EN: [PAWN_nameDef] traveled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
   <Taxonomist0.description>{PAWN_nameDef} {PAWN_gender ? мандрував : мандрувала} між зоряними системами, вивчаючи й класифікуючи знайдені рослини й тварин, щоб скласти повний каталог.</Taxonomist0.description>
   <!-- EN: taxonomist -->
   <Taxonomist0.title>таксономіст</Taxonomist0.title>
   <!-- EN: taxonomist -->
+  <Taxonomist0.titleFemale>таксономістка</Taxonomist0.titleFemale>
+  <!-- EN: taxonomist -->
   <Taxonomist0.titleShort>таксономіст</Taxonomist0.titleShort>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.titleShortFemale>таксономістка</Taxonomist0.titleShortFemale>
   <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
   <UrbworldDrone32.description>{PAWN_nameDef} {PAWN_gender ? працював : працювала} бездумним будівельним дроном у величезному урбанізованому світі. Хоча тепер {PAWN_pronoun} {PAWN_gender ? вільний : вільна} від жорстоких соціальних експериментів, яким {PAWN_gender ? його : її} піддавали, {PAWN_pronoun} досі не {PAWN_gender ? здатен : здатна} до творчого мислення й лідерства.</UrbworldDrone32.description>
   <!-- EN: urbworld drone -->
@@ -88,12 +114,18 @@
   <UrbworldEntrepreneur14.description>В урбанізованих світах більшість людей страждає. Але хтось же має керувати корпораціями.\n\n{PAWN_nameDef} {PAWN_gender ? опанував : опанувала} ази ремесла – підмазування й технічний аналіз. {PAWN_pronoun} – соціально-інтелектуальна машина.</UrbworldEntrepreneur14.description>
   <!-- EN: urbworld entrepreneur -->
   <UrbworldEntrepreneur14.title>підприємець</UrbworldEntrepreneur14.title>
+  <!-- EN: urbworld entrepreneur -->
+  <UrbworldEntrepreneur14.titleFemale>підприємиця</UrbworldEntrepreneur14.titleFemale>
   <!-- EN: entrepreneur -->
   <UrbworldEntrepreneur14.titleShort>діляга</UrbworldEntrepreneur14.titleShort>
   <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
-  <UrbworldRebel56.description>Більшість людей у світі {PAWN_nameDef} відмовилися від індивідуальності, щоб об'єднатися в мережевий колективний розум. {PAWN_nameDef} {PAWN_gender ? пристав : пристала} до повстанців, які повністю відкидали технології.</UrbworldRebel56.description>
+  <UrbworldRebel56.description>{PAWN_nameDef} {PAWN_gender ? походив : походила} зі світу, де більшість людей відмовилися від індивідуальності, щоб об'єднатися в мережевий колективний розум. {PAWN_gender ? Сам він пристав : Сама вона пристала} до повстанців, які повністю відкидали технології.</UrbworldRebel56.description>
   <!-- EN: urbworld rebel -->
   <UrbworldRebel56.title>повстанець</UrbworldRebel56.title>
+  <!-- EN: urbworld rebel -->
+  <UrbworldRebel56.titleFemale>повстанка</UrbworldRebel56.titleFemale>
   <!-- EN: rebel -->
   <UrbworldRebel56.titleShort>повстанець</UrbworldRebel56.titleShort>
+  <!-- EN: rebel -->
+  <UrbworldRebel56.titleShortFemale>повстанка</UrbworldRebel56.titleShortFemale>
 </LanguageData>

@@ -567,11 +567,11 @@
   <CommandOpenLinkedQuestDesc>Відкрити пов'язане завдання на вкладці завдань.</CommandOpenLinkedQuestDesc>
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>Покласти {0_nameDef}</CommandDropPawn>
+  <CommandDropPawn>Покласти: {0_nameDef}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
   <CommandDropPawnDesc>Покласти людину, яку несуть.</CommandDropPawnDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectCarriedPawn>Вибрати {0_nameDef}</CommandSelectCarriedPawn>
+  <CommandSelectCarriedPawn>Вибрати: {0_nameDef}</CommandSelectCarriedPawn>
   <!-- EN: Select the creature being carried. -->
   <CommandSelectCarriedPawnDesc>Вибрати істоту, яку несуть.</CommandSelectCarriedPawnDesc>
   <!-- EN: Select {0_label} -->
@@ -583,11 +583,11 @@
   <!-- EN: Select the containing item. -->
   <CommandSelectContainerThingDesc>Вибрати предмет, у якому це міститься.</CommandSelectContainerThingDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectCarryingPawn>Вибрати {0_nameDef}</CommandSelectCarryingPawn>
+  <CommandSelectCarryingPawn>Вибрати: {0_nameDef}</CommandSelectCarryingPawn>
   <!-- EN: Select the carrying creature. -->
   <CommandSelectCarryingPawnDesc>Вибрати істоту, яка несе.</CommandSelectCarryingPawnDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectContainedPawn>Вибрати {0_nameDef}</CommandSelectContainedPawn>
+  <CommandSelectContainedPawn>Вибрати: {0_nameDef}</CommandSelectContainedPawn>
   <!-- EN: Select the contained creature. -->
   <CommandSelectContainedPawnDesc>Вибрати істоту всередині.</CommandSelectContainedPawnDesc>
   <!-- EN: Select {0_label} -->

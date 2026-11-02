@@ -35,7 +35,7 @@
   <!-- EN: Cannot repair mech {0} -->
   <CannotRepairMech>Неможливо відремонтувати механоїда {0}</CannotRepairMech>
   <!-- EN: Extract xenogerm from {PAWN_nameDef} -->
-  <ExtractXenogermFrom>Вилучити ксенозародок з {PAWN_nameDef}</ExtractXenogermFrom>
+  <ExtractXenogermFrom>{PAWN_nameDef}: вилучити ксенозародок</ExtractXenogermFrom>
   <!-- EN: Enter {0_labelShort} -->
   <EnterBuilding>Увійти в {lookup: {0_labelShort}; Case; 3}</EnterBuilding>
   <!-- EN: {PAWN_nameDef} has no genes -->
@@ -65,9 +65,9 @@
   <!-- EN: {0_labelShort} is assigned to another person. -->
   <AssignedToOtherPawn>{0_labelShort} призначено іншій людині.</AssignedToOtherPawn>
   <!-- EN: Absorb xenogerm of {PAWN_nameDef} -->
-  <AbsorbXenogerm>Поглинути ксенозародок {PAWN_nameDef}</AbsorbXenogerm>
+  <AbsorbXenogerm>{PAWN_nameDef}: поглинути ксенозародок</AbsorbXenogerm>
   <!-- EN: Cannot absorb {PAWN_nameDef}'s xenogerm -->
-  <CannotAbsorbXenogerm>Неможливо поглинути ксенозародок {PAWN_nameDef}</CannotAbsorbXenogerm>
+  <CannotAbsorbXenogerm>{PAWN_nameDef}: неможливо поглинути ксенозародок</CannotAbsorbXenogerm>
   <!-- EN: {PAWN_nameDef} is already {PAWN_xenotype} -->
   <SameXenotype>{PAWN_nameDef} вже {PAWN_xenotype}</SameXenotype>
   <!-- EN: {PAWN_nameDef} suffering from xenogerm loss shock -->
@@ -87,19 +87,19 @@
   <!-- EN: Enter {0} -->
   <EnterSubcoreScanner>Увійти в {lookup: {0}; Case; 3}</EnterSubcoreScanner>
   <!-- EN: Breastfeed {BABY_labelShort} -->
-  <BabyCareBreastfeed>Годувати груддю {BABY_labelShort}</BabyCareBreastfeed>
+  <BabyCareBreastfeed>{BABY_labelShort}: годувати груддю</BabyCareBreastfeed>
   <!-- EN: Cannot breastfeed {BABY_labelShort} -->
-  <BabyCareBreastfeedUnable>Неможливо погодувати груддю {BABY_labelShort}</BabyCareBreastfeedUnable>
+  <BabyCareBreastfeedUnable>{BABY_labelShort}: неможливо погодувати груддю</BabyCareBreastfeedUnable>
   <!-- EN: Already breastfeeding {BABY_labelShort} -->
-  <AlreadyBreastfeeding>Уже годує груддю {BABY_labelShort}</AlreadyBreastfeeding>
+  <AlreadyBreastfeeding>Уже годує груддю ({BABY_labelShort})</AlreadyBreastfeeding>
   <!-- EN: No baby-edible food -->
   <NoBabyFood>Немає їжі, придатної для немовлят</NoBabyFood>
   <!-- EN: play need full -->
   <CannotInteractBabyPlayFull>потреба в іграх задоволена</CannotInteractBabyPlayFull>
   <!-- EN: Feed on {PAWN_nameDef} -->
-  <BloodfeedOn>Підживитися кров'ю {PAWN_nameDef}</BloodfeedOn>
+  <BloodfeedOn>{PAWN_nameDef}: підживитися кров'ю</BloodfeedOn>
   <!-- EN: Cannot feed on {PAWN_nameDef} -->
-  <CannotBloodfeedOn>Неможливо підживитися кров'ю {PAWN_nameDef}</CannotBloodfeedOn>
+  <CannotBloodfeedOn>{PAWN_nameDef}: неможливо підживитися кров'ю</CannotBloodfeedOn>
   <!-- EN: Not enough blood. -->
   <CannotFeedOnWouldKill>Недостатньо крові.</CannotFeedOnWouldKill>
   <!-- BreastfeedFailReason strings-->
@@ -110,19 +110,19 @@
   <!-- EN: {BABY_labelShort} is too full to suckle -->
   <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} надто ситий, щоб смоктати груди</BreastfeedFailReason_BabyTooFull>
   <!-- EN: {BABY_labelShort} is forbidden to {MOM_labelShort} -->
-  <BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort}: заборонено для {MOM_labelShort}</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToMom>{MOM_labelShort} не має доступу до немовляти ({BABY_labelShort})</BreastfeedFailReason_BabyForbiddenToMom>
   <!-- EN: {BABY_labelShort} is forbidden to {HAULER_labelShort} -->
-  <BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort}: заборонено для {HAULER_labelShort}</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_BabyForbiddenToHauler>{HAULER_labelShort} не має доступу до немовляти ({BABY_labelShort})</BreastfeedFailReason_BabyForbiddenToHauler>
   <!-- EN: {MOM_labelShort} is forbidden to {HAULER_labelShort} -->
-  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort}: заборонено для {HAULER_labelShort}</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>{HAULER_labelShort} не має доступу до годувальниці ({MOM_labelShort})</BreastfeedFailReason_MomForbiddenToHauler>
   <!-- EN: {MOM_labelShort} can breastfeed {BABY_labelShort} without help -->
-  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} може погодувати груддю {BABY_labelShort} без допомоги</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} може погодувати немовля ({BABY_labelShort}) без допомоги</BreastfeedFailReason_MomIsMobile>
   <!-- EN: {HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort} -->
-  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} не може дійти з {BABY_labelShort} до {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} не може донести немовля ({BABY_labelShort}) до годувальниці ({MOM_labelShort})</BreastfeedFailReason_HaulerCannotReachMom>
   <!-- EN: {HAULER_labelShort} cannot reach {BABY_labelShort} -->
-  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} не може дійти до {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} не може дістатися до немовляти ({BABY_labelShort})</BreastfeedFailReason_HaulerCannotReachBaby>
   <!-- EN: No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort} -->
-  <BreastfeedFailReason_NoMomsAssignedToBaby>Для {BABY_labelShort} не призначено жодної годувальниці з-поміж {lookup: {BABY_factionPawnsPlural}; Case; 1}</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>{BABY_labelShort}: не призначено жодної годувальниці з-поміж {lookup: {BABY_factionPawnsPlural}; Case; 1}</BreastfeedFailReason_NoMomsAssignedToBaby>
   <!-- EN: {MOM_labelShort} is not assigned to childcare -->
   <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} не призначена доглядати за дітьми</BreastfeedFailReason_MomNotAssignedToChildcare>
   <!-- EN: {MOM_labelShort} is inside a container -->
@@ -130,7 +130,7 @@
   <!-- EN: {MOM_labelShort} is being carried -->
   <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} зараз переносять</BreastfeedFailReason_MomBeingCarried>
   <!-- EN: Order implantation into {PAWN_nameDef} -->
-  <OrderImplantationIntoPawn>Наказати імплантувати {PAWN_nameDef}</OrderImplantationIntoPawn>
+  <OrderImplantationIntoPawn>{PAWN_nameDef}: наказати імплантувати</OrderImplantationIntoPawn>
   <!-- EN: Accept {0_xenotype} xenogerm -->
   <AcceptXenogerm>Прийняти ксенозародок «{0_xenotype}»</AcceptXenogerm>
   <!-- EN: Carry {PAWN_labelShort} to recharger -->
