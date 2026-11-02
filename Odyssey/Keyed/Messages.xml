@@ -50,5 +50,5 @@
   <!-- EN: Choose a landing site first. -->
   <MessageNoLandingSiteSelected>Спершу виберіть місце посадки.</MessageNoLandingSiteSelected>
   <!-- EN: Cannot store {THING_labelShort} on {TARGET_indefinite} -->
-  <CannotStoreThingOnTarget>Не можна зберігати {THING_labelShort} на {TARGET_indefinite}</CannotStoreThingOnTarget>
+  <CannotStoreThingOnTarget>Не можна зберігати {THING_labelShort} на цьому місці ({TARGET_indefinite})</CannotStoreThingOnTarget>
 </LanguageData>

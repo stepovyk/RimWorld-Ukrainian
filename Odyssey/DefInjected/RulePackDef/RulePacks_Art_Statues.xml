@@ -166,11 +166,11 @@
     <li>prop->human heart</li>
   -->
   <ArtDescription_Statue.rulePack.rulesStrings>
-    <li>r_statue_description->Ця статуя [statueDepicts] [SUBJECT_nameFull], що [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Ця статуя [statueDepicts], як [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
     <li>r_statue_description->Це [statueAdj] статуя: [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
-    <li>r_statue_description->Цю статую [carvedAdverb] [carvedVerb]. Вона [statueDepicts] [SUBJECT_indefinite], що [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Цю статую [carvedAdverb] [carvedVerb]. Вона [statueDepicts], як [SUBJECT_indefinite] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
     <li>r_statue_description->Статуя показує, як [SUBJECT_nameFull] [statueSubjectDesc]. [statueFaceDesc] [style_group_statue]</li>
-    <li>r_statue_description->Це [statueAdj] статуя, що зображує [SUBJECT_nameFull]. [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->Це [statueAdj] статуя; на п'єдесталі – [SUBJECT_nameFull]. [statueFaceDesc] [style_group_statue]</li>
     <li>statueSubjectDesc->стоїть прямо й обома руками тримає [prop_acc]</li>
     <li>statueSubjectDesc->стоїть на повний зріст і шляхетно вдивляється в далечінь</li>
     <li>statueSubjectDesc->здіймає кулак до неба</li>
@@ -226,7 +226,7 @@
     <li>statueFaceDesc->[SUBJECT_indefinite] має мудрий і задумливий вигляд.</li>
     <li>statueFaceDesc->[SUBJECT_indefinite] кричить, роззявивши рота в беззвучному крику.</li>
     <li>statueFaceDesc->[SUBJECT_indefinite] скорботно дивиться вдалину.</li>
-    <li>statueFaceDesc->Статуя показує [SUBJECT_indefinite] з упізнаваним рішучим виразом обличчя.</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] має впізнаваний рішучий вираз обличчя.</li>
     <li>statueFaceDesc->Статуя показує, як [SUBJECT_indefinite] маніакально регоче.</li>
     <li>statueFaceDesc->[SUBJECT_indefinite] має [facialFeature].</li>
     <li>statueFaceDesc->Статуя має [facialFeature].</li>

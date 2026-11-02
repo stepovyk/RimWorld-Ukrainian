@@ -23,7 +23,7 @@
   <!-- EN: Ghouls belonging to your colony. -->
   <MedGroupGhoulsDesc>Гулі, що належать вашій колонії.</MedGroupGhoulsDesc>
   <!-- EN: Turning {PAWN_nameDef} into a ghoul is irreversible. {PAWN_pronoun} will be left in a half-conscious stupor and be incapable of work.\n\nAre you sure you want to turn {PAWN_nameDef} into a ghoul? -->
-  <GhoulConfirmation>Перетворення {PAWN_nameDef} на гуля незворотне. {PAWN_gender ? Він : Вона} лишиться в напівпритомному заціпенінні й не зможе працювати.\n\nВи впевнені, що хочете перетворити {PAWN_nameDef} на гуля?</GhoulConfirmation>
+  <GhoulConfirmation>Якщо {PAWN_nameDef} стане гулем, вороття не буде. {PAWN_gender ? Він : Вона} лишиться в напівпритомному заціпенінні й не зможе працювати.\n\nВи впевнені, що хочете перетворити {PAWN_gender ? його : її} на гуля?</GhoulConfirmation>
   <!-- EN: no anomaly buildings allowed -->
   <RoomRequirementNoAnomalyBuildings>аномальні споруди заборонені</RoomRequirementNoAnomalyBuildings>
   <!-- EN: Entity codex -->

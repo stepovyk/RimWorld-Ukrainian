@@ -13,7 +13,7 @@
   <!-- EN: Mental state: Cube sculpting -->
   <CubeSculpting.baseInspectLine>Психічний стан: створення скульптур куба</CubeSculpting.baseInspectLine>
   <!-- EN: {PAWN_nameDef}'s obsession with the cube has caused {PAWN_objective} to fall into a daze. {PAWN_pronoun} is going to build a sculpture to release the pressure growing in {PAWN_possessive} mind. -->
-  <CubeSculpting.beginLetter>Одержимість кубом довела {PAWN_nameDef} до заціпеніння. {PAWN_pronoun} збирається звести скульптуру, щоб зняти тиск, який наростає в {PAWN_gender ? його : її} голові.</CubeSculpting.beginLetter>
+  <CubeSculpting.beginLetter>{PAWN_nameDef} так {PAWN_gender ? одержимий : одержима} кубом, що {PAWN_gender ? впав : впала} в заціпеніння. {PAWN_pronoun} збирається звести скульптуру, щоб зняти тиск, який наростає в {PAWN_gender ? його : її} голові.</CubeSculpting.beginLetter>
   <!-- EN: cube obsession -->
   <CubeSculpting.beginLetterLabel>одержимість кубом</CubeSculpting.beginLetterLabel>
   <!-- EN: {PAWN_nameDef} has finished {PAWN_possessive} cube structure. -->

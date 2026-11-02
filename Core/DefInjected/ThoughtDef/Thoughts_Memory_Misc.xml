@@ -49,7 +49,7 @@
   <!-- EN: We just denied someone's request to join us. I hope they make it. -->
   <DeniedJoining.stages.denied_joining.description>Ми щойно відмовили комусь, хто просився до нас. Сподіваюся, {OTHERPAWN_gender ? він : вона} якось дасть собі раду.</DeniedJoining.stages.denied_joining.description>
   <!-- EN: failed to rescue {0} -->
-  <FailedToRescueRelative.stages.failed_to_rescue.label>не вдалося врятувати {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <FailedToRescueRelative.stages.failed_to_rescue.label>{0}: порятунок не вдався</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
   <FailedToRescueRelative.stages.failed_to_rescue.description>Ми мали змогу врятувати {OTHERPAWN_gender ? мого родича : мою родичку}, але проґавили її. А я ж {PAWN_gender ? міг : могла} допомогти!</FailedToRescueRelative.stages.failed_to_rescue.description>
   <!-- EN: freed from slavery -->

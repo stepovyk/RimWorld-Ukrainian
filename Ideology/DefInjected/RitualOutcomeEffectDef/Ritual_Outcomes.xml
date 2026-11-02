@@ -241,11 +241,11 @@
   <!-- EN: participant count -->
   <Conversion.comps.1.label>кількість учасників</Conversion.comps.1.label>
   <!-- EN: {PAWN_labelShort}'s social impact -->
-  <Conversion.comps.2.label>Соціальний вплив {PAWN_labelShort}</Conversion.comps.2.label>
+  <Conversion.comps.2.label>{PAWN_labelShort}: соціальний вплив</Conversion.comps.2.label>
   <!-- EN: speaker's social impact -->
   <Conversion.comps.2.labelAbstract>соціальний вплив промовця</Conversion.comps.2.labelAbstract>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <Conversion.comps.3.label>очікування {PAWN_labelShort}</Conversion.comps.3.label>
+  <Conversion.comps.3.label>{PAWN_labelShort}: очікування</Conversion.comps.3.label>
   <!-- EN: convertee's expectations -->
   <Conversion.comps.3.labelAbstract>очікування навертаного</Conversion.comps.3.labelAbstract>
   <!-- EN: Terrible -->
@@ -521,11 +521,11 @@
   <!-- EN: participant count -->
   <Trial.comps.0.label>кількість учасників</Trial.comps.0.label>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
-  <Trial.comps.1.label>здатність до переговорів {PAWN_labelShort}</Trial.comps.1.label>
+  <Trial.comps.1.label>{PAWN_labelShort}: здатність до переговорів</Trial.comps.1.label>
   <!-- EN: Leader's negotiation ability -->
   <Trial.comps.1.labelAbstract>Здатність лідера до переговорів</Trial.comps.1.labelAbstract>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
-  <Trial.comps.2.label>здатність до переговорів {PAWN_labelShort}</Trial.comps.2.label>
+  <Trial.comps.2.label>{PAWN_labelShort}: здатність до переговорів</Trial.comps.2.label>
   <!-- EN: Defendant's negotiation ability -->
   <Trial.comps.2.labelAbstract>Здатність обвинуваченого до переговорів</Trial.comps.2.labelAbstract>
   <!-- EN: exonerated -->
@@ -541,7 +541,7 @@
   <!-- EN: participant count -->
   <TrialMentalState.comps.0.label>кількість учасників</TrialMentalState.comps.0.label>
   <!-- EN: {PAWN_labelShort}'s negotiation ability -->
-  <TrialMentalState.comps.1.label>здатність до переговорів {PAWN_labelShort}</TrialMentalState.comps.1.label>
+  <TrialMentalState.comps.1.label>{PAWN_labelShort}: здатність до переговорів</TrialMentalState.comps.1.label>
   <!-- EN: Leader's negotiation ability -->
   <TrialMentalState.comps.1.labelAbstract>Здатність лідера до переговорів</TrialMentalState.comps.1.labelAbstract>
   <!-- EN: exonerated -->

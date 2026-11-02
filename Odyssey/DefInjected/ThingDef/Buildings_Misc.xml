@@ -91,7 +91,7 @@
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to reprogram a turret. The turret will now only target hostiles. -->
   <AncientSecurityTerminal.comps.CompAncientSecurityTerminalHackable.letterTurretHackedText>{HACKER_nameDef} перепрограмовує турель через старовинний термінал безпеки. Тепер вона стрілятиме лише по ворогах.</AncientSecurityTerminal.comps.CompAncientSecurityTerminalHackable.letterTurretHackedText>
   <!-- EN: {HACKER_nameDef} couldn't find any security systems using the ancient security terminal. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminalHackable.messageNoValidTarget>Через старовинний термінал безпеки {HACKER_nameDef} не вдалося знайти жодної системи безпеки.</AncientSecurityTerminal.comps.CompAncientSecurityTerminalHackable.messageNoValidTarget>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminalHackable.messageNoValidTarget>{HACKER_nameDef} шукає через старовинний термінал безпеки, але не знаходить жодної системи безпеки.</AncientSecurityTerminal.comps.CompAncientSecurityTerminalHackable.messageNoValidTarget>
   <!-- EN: ancient terraformer -->
   <AncientTerraformer.label>старовинний тераформер</AncientTerraformer.label>
   <!-- EN: An ancient terraforming device powered by a gravcore. It has begun to malfunction, causing temperatures to plummet.\n\nDestroy the terraformer to obtain a gravcore. -->

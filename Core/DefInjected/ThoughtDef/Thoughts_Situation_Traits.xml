@@ -73,7 +73,7 @@
   <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
   <HappyNude.stages.happily_nude.description>Я {PAWN_gender ? голий : гола}, і мені це страшенно подобається! Почуваюся {PAWN_gender ? вільним, розкутим і єдиним : вільною, розкутою і єдиною} з усім довкола!</HappyNude.stages.happily_nude.description>
   <!-- EN: jealous of {0}'s bedroom -->
-  <Jealous.stages.jealous_of_s_bedroom.label>заздрість до спальні {0}</Jealous.stages.jealous_of_s_bedroom.label>
+  <Jealous.stages.jealous_of_s_bedroom.label>заздрість: {0} має кращу спальню</Jealous.stages.jealous_of_s_bedroom.label>
   <!-- EN: I need to have the best one! -->
   <Jealous.stages.jealous_of_s_bedroom.description>У мене має бути найкраща спальня!</Jealous.stages.jealous_of_s_bedroom.description>
   <!-- EN: masochist in minor pain -->

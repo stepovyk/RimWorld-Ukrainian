@@ -17,7 +17,7 @@
   <!-- EN: That speech made me feel like we have a solid path forward. -->
   <EncouragingSpeech.stages.encouraging_speech.description>Після цієї промови я відчуваю, що в нас є надійний шлях уперед.</EncouragingSpeech.stages.encouraging_speech.description>
   <!-- EN: got married to {0} -->
-  <GotMarried.stages.got_married_to.label>весілля з {0}</GotMarried.stages.got_married_to.label>
+  <GotMarried.stages.got_married_to.label>весілля: я і {0}</GotMarried.stages.got_married_to.label>
   <!-- EN: I got married! It's so wonderful to be starting a new life together! -->
   <GotMarried.stages.got_married_to.description>Я {PAWN_gender ? одружився : вийшла заміж}! Як чудово – розпочинати нове життя разом!</GotMarried.stages.got_married_to.description>
   <!-- EN: held concert -->

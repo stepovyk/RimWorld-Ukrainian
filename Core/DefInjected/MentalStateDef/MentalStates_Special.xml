@@ -47,7 +47,7 @@
   <!-- EN: Mental state: Confused and wandering -->
   <WanderConfused.baseInspectLine>Психічний стан: збентеження</WanderConfused.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>У {0} зрив: {PAWN_gender ? він : вона} збентежено блукає довкола.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>{0} зазнає зриву й збентежено блукає довкола.</WanderConfused.beginLetter>
   <!-- EN: confusion -->
   <WanderConfused.beginLetterLabel>збентеження</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->

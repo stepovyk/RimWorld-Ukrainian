@@ -139,7 +139,7 @@
     <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]). Натомість влучання дістає [RECIPIENT_definite]: [projectile] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite] потрапляє під постріл, який робить [INITIATOR_definite]: [projectile] [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
     <li>r_logentry(p=3)->[INITIATOR_definite] стріляє, і [RECIPIENT_definite] [gets_hit]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] і [damaged_past] [damaged_targets].</li>
-    <li>r_logentry(p=6)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite]: [projectile] [destroyed_past] [RECIPIENT_possessive] [destroyed_targets] і [damaged_past] [damaged_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і під постріл потрапляє [RECIPIENT_definite]: [projectile] влучає, [destroyed_present] [RECIPIENT_possessive] [destroyed_targets] і [damaged_present] [damaged_targets].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] стріляє, і [RECIPIENT_definite] дістає влучання.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] стріляє влучно: [projectile] досягає цілі – [RECIPIENT_definite].</li>
     <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] (ціль – [ORIGINALTARGET_definite]), і натомість влучання дістає [RECIPIENT_definite].</li>

@@ -9,7 +9,7 @@
   <!-- EN: dark visions -->
   <DarkVisions.beginLetterLabel>темні видіння</DarkVisions.beginLetterLabel>
   <!-- EN: {PAWN_nameDef}'s dark visions have stopped. -->
-  <DarkVisions.recoveryMessage>Темні видіння {PAWN_nameDef} скінчилися.</DarkVisions.recoveryMessage>
+  <DarkVisions.recoveryMessage>{PAWN_nameDef}: темні видіння скінчилися.</DarkVisions.recoveryMessage>
   <!-- EN: entity slayer -->
   <EntityKiller.label>вбивця сутностей</EntityKiller.label>
   <!-- EN: Mental state: Entity slayer -->
@@ -41,7 +41,7 @@
   <!-- EN: Mental state: Terrifying hallucinations -->
   <TerrifyingHallucinations.baseInspectLine>Психічний стан: жахливі галюцинації</TerrifyingHallucinations.baseInspectLine>
   <!-- EN: Vivid  hallucinations swirl around {0}, twisting and distorting allies into horrifying abominations. {PAWN_pronoun} will flee from anyone {PAWN_pronoun} perceives as a threat. -->
-  <TerrifyingHallucinations.beginLetter>Навколо {0} вирують яскраві галюцинації, перетворюючи союзників на жахливих потвор. {PAWN_pronoun} тікатиме від усіх, у кому бачить загрозу.</TerrifyingHallucinations.beginLetter>
+  <TerrifyingHallucinations.beginLetter>{0} бачить яскраві галюцинації: союзники спотворюються й перетворюються на жахливих потвор. {PAWN_pronoun} тікатиме від усіх, у кому бачить загрозу.</TerrifyingHallucinations.beginLetter>
   <!-- EN: terrifying hallucinations -->
   <TerrifyingHallucinations.beginLetterLabel>жахливі галюцинації</TerrifyingHallucinations.beginLetterLabel>
   <!-- EN: {0} is no longer hallucinating. -->

@@ -115,7 +115,7 @@
   <!-- EN: Cannot save xenotype with multiple conflicting genes. -->
   <MessageConflictingGenesPresent>Неможливо зберегти ксенотип з кількома несумісними генами.</MessageConflictingGenesPresent>
   <!-- EN: {BUILDING_labelShort} has been bound to {PAWN_nameDef} ({CUR}/{MAX} deathrest capacity). -->
-  <MessageDeathrestBuildingBound>{BUILDING_labelShort} прив'язано до {PAWN_nameDef} (місткість летаргії: {CUR}/{MAX}).</MessageDeathrestBuildingBound>
+  <MessageDeathrestBuildingBound>{PAWN_nameDef} тепер має прив'язану споруду: {BUILDING_labelShort} (місткість летаргії: {CUR}/{MAX}).</MessageDeathrestBuildingBound>
   <!-- EN: Developmental stage selection disabled by scenario. -->
   <MessageDevelopmentalStageSelectionDisabledByScenario>Сценарій забороняє обирати стадію розвитку.</MessageDevelopmentalStageSelectionDisabledByScenario>
   <!-- EN: {PAWN_nameDef} did not have enough blood to produce a hemogen pack.  -->

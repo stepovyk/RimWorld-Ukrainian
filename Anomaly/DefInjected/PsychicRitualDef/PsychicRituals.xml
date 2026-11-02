@@ -57,7 +57,7 @@
   <!-- EN: Skip abduction -->
   <SkipAbduction.letterAICompleteLabel>Викрадення</SkipAbduction.letterAICompleteLabel>
   <!-- EN: {PAWN_nameDef} has been abducted by the cultists! -->
-  <SkipAbduction.letterAICompleteText>Культисти викрали {PAWN_nameDef}!</SkipAbduction.letterAICompleteText>
+  <SkipAbduction.letterAICompleteText>{PAWN_nameDef} потрапляє до рук культистів!</SkipAbduction.letterAICompleteText>
   <!-- EN: The target will be teleported to the invoker's location and fall into a coma. -->
   <SkipAbduction.outcomeDescription>Ціль буде телепортовано до заклинача, і вона впаде в кому.</SkipAbduction.outcomeDescription>
   <!-- EN: skip abduction -->

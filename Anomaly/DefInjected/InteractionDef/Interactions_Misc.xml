@@ -45,8 +45,8 @@
     <li>talkingAbout->going into detail about</li>
   -->
   <DisturbingChat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [disturbed] [RECIPIENT_nameDef][talkingAbout] про [subjectDisturbing].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [darkSpeechAdverb] [spoke] до [RECIPIENT_nameDef] про [subjectDisturbing].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkingAbout] [subjectDisturbing], і [RECIPIENT_nameDef] [disturbed].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [darkSpeechAdverb] [spoke] про [subjectDisturbing], а [RECIPIENT_nameDef] мовчки слухає.</li>
     <li>spoke->говорить</li>
     <li>spoke->бурмоче</li>
     <li>spoke->белькоче</li>
@@ -56,25 +56,25 @@
     <li>spoke(p=5)->[rambled]</li>
     <li>subjectDisturbing->[subjectDarkStudy]</li>
     <li>subjectDisturbing->[subjectInsane]</li>
-    <li>disturbed->тривожить</li>
-    <li>disturbed->жахає</li>
-    <li>disturbed->лякає</li>
-    <li>disturbed->засмучує</li>
-    <li>disturbed->непокоїть</li>
-    <li>disturbed->бентежить</li>
-    <li>disturbed->збиває з пантелику</li>
-    <li>disturbed->виводить з рівноваги</li>
-    <li>disturbed->насторожує</li>
-    <li>disturbed->пригнічує</li>
-    <li>disturbed->приголомшує</li>
-    <li>maybeDarkSpeechAdverb-></li>
-    <li>maybeDarkSpeechAdverb->[darkSpeechAdverb]</li>
-    <li>talkingAbout-> розповідями</li>
-    <li>talkingAbout-> поясненнями</li>
-    <li>talkingAbout->, [maybeDarkSpeechAdverb] стогнучи</li>
-    <li>talkingAbout->, [maybeDarkSpeechAdverb] говорячи</li>
-    <li>talkingAbout->, [maybeDarkSpeechAdverb] розводячись</li>
-    <li>talkingAbout-> докладними розповідями</li>
+    <li>disturbed->тривожиться</li>
+    <li>disturbed->жахається</li>
+    <li>disturbed->лякається</li>
+    <li>disturbed->засмучується</li>
+    <li>disturbed->непокоїться</li>
+    <li>disturbed->бентежиться</li>
+    <li>disturbed->ніяковіє</li>
+    <li>disturbed->втрачає рівновагу</li>
+    <li>disturbed->насторожується</li>
+    <li>disturbed->падає духом</li>
+    <li>disturbed->остовпіває</li>
+    <li>maybeDarkSpeechAdverb->про</li>
+    <li>maybeDarkSpeechAdverb->[darkSpeechAdverb] про</li>
+    <li>talkingAbout->розповідає про</li>
+    <li>talkingAbout->пояснює</li>
+    <li>talkingAbout->скиглить [maybeDarkSpeechAdverb]</li>
+    <li>talkingAbout->говорить [maybeDarkSpeechAdverb]</li>
+    <li>talkingAbout->розводиться [maybeDarkSpeechAdverb]</li>
+    <li>talkingAbout->докладно розповідає про</li>
   </DisturbingChat.logRulesInitiator.rulesStrings>
   <!-- EN: inhuman rambling -->
   <InhumanRambling.label>нелюдське бурмотіння</InhumanRambling.label>
@@ -130,20 +130,20 @@
     <li>r_logentry->[INITIATOR_nameDef] [askedAbout] [identityTopic].</li>
   -->
   <InterrogateIdentity.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [askedAbout] [identityTopic].</li>
-    <li>askedAbout->допитує [RECIPIENT_nameDef] про</li>
-    <li>askedAbout->запитує [RECIPIENT_nameDef] про</li>
-    <li>askedAbout->тисне на [RECIPIENT_nameDef], випитуючи подробиці про</li>
-    <li>askedAbout->розпитує [RECIPIENT_nameDef] про</li>
-    <li>askedAbout->прискіпливо розпитує [RECIPIENT_nameDef] про</li>
-    <li>askedAbout->вимагає від [RECIPIENT_nameDef] відповідей про</li>
-    <li>askedAbout->ставить [RECIPIENT_nameDef] каверзні запитання про</li>
-    <li>askedAbout->намагається заскочити [RECIPIENT_nameDef] запитаннями про</li>
-    <li>askedAbout->кричить на [RECIPIENT_nameDef], вимагаючи розповісти про</li>
-    <li>askedAbout->засипає [RECIPIENT_nameDef] запитаннями про</li>
-    <li>askedAbout->прямо питає [RECIPIENT_nameDef] про</li>
-    <li>askedAbout->докучає [RECIPIENT_nameDef] розпитуваннями про</li>
-    <li>askedAbout->випитує в [RECIPIENT_nameDef] усе про</li>
+    <li>r_logentry->[RECIPIENT_nameDef] на допиті: [INITIATOR_nameDef] [askedAbout] [identityTopic].</li>
+    <li>askedAbout->допитується про</li>
+    <li>askedAbout->розпитує про</li>
+    <li>askedAbout->тисне, випитуючи подробиці про</li>
+    <li>askedAbout->докладно розпитує про</li>
+    <li>askedAbout->прискіпливо розпитує про</li>
+    <li>askedAbout->вимагає відповідей про</li>
+    <li>askedAbout->ставить каверзні запитання про</li>
+    <li>askedAbout->намагається заскочити запитаннями про</li>
+    <li>askedAbout->кричить, вимагаючи розповісти про</li>
+    <li>askedAbout->засипає запитаннями про</li>
+    <li>askedAbout->прямо питає про</li>
+    <li>askedAbout->докучає розпитуваннями про</li>
+    <li>askedAbout->випитує все про</li>
     <li>identityTopic->[RECIPIENT_possessive] колишню роботу</li>
     <li>identityTopic->[RECIPIENT_possessive] колишні стосунки з іншими фракціями</li>
     <li>identityTopic->[RECIPIENT_possessive] народження</li>
@@ -181,7 +181,7 @@
   -->
   <OccultTeaching.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] викладає свої теорії про [subjectDarkStudy], а [RECIPIENT_nameDef] слухає.</li>
-    <li>r_logentry->[INITIATOR_nameDef] ділиться з [RECIPIENT_nameDef] своїми ідеями про [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ділиться своїми ідеями про [subjectDarkStudy], і [RECIPIENT_nameDef] уважно слухає.</li>
     <li>r_logentry->[INITIATOR_nameDef] говорить про [subjectDarkStudy].</li>
     <li>r_logentry->[INITIATOR_nameDef] докладно розбирає [subjectDarkStudy].</li>
     <li>r_logentry->[INITIATOR_nameDef] проводить урок про [subjectDarkStudy].</li>
@@ -194,7 +194,7 @@
     <li>r_logentry->[RECIPIENT_nameDef] mumbled about [subjectInsane].</li>
   -->
   <PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] запитує [RECIPIENT_nameDef] про [subjectDarkStudy].</li>
+    <li>r_logentry->[INITIATOR_nameDef] розпитує про [subjectDarkStudy], і [RECIPIENT_nameDef] неохоче відповідає.</li>
     <li>r_logentry->[INITIATOR_nameDef] розпитує про [subjectDarkStudy].</li>
     <li>r_logentry->[RECIPIENT_nameDef] бурмоче про [subjectInsane].</li>
   </PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>

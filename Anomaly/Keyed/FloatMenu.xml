@@ -11,9 +11,9 @@
   <!-- EN: Reserved by -->
   <EntityHolderReservedBy>Зарезервовано</EntityHolderReservedBy>
   <!-- EN: Talk to {0_nameDef} -->
-  <TalkTo>Поговорити з {0_nameDef}</TalkTo>
+  <TalkTo>{0_nameDef}: поговорити</TalkTo>
   <!-- EN: Cannot talk to {0_nameDef} -->
-  <CannotTalkTo>Не можна поговорити з {0_nameDef}</CannotTalkTo>
+  <CannotTalkTo>{0_nameDef}: поговорити не можна</CannotTalkTo>
   <!-- EN: incapable of suppression -->
   <ZeroSuppressionRate>нездатність придушувати</ZeroSuppressionRate>
   <!-- EN: cannot stand next to -->

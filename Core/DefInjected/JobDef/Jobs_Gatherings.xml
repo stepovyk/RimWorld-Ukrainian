@@ -3,7 +3,7 @@
   <!-- EN: talking. -->
   <GiveSpeech.reportString>виголошує промову.</GiveSpeech.reportString>
   <!-- EN: marrying TargetA. -->
-  <MarryAdjacentPawn.reportString>бере шлюб з TargetA.</MarryAdjacentPawn.reportString>
+  <MarryAdjacentPawn.reportString>одружується: TargetA.</MarryAdjacentPawn.reportString>
   <!-- EN: spectating. -->
   <SpectateCeremony.reportString>спостерігає за церемонією.</SpectateCeremony.reportString>
   <!-- EN: relaxing socially. -->

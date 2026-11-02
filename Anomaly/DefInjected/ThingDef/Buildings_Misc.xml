@@ -103,7 +103,7 @@
   <!-- EN: Gray statue activated -->
   <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>Сіру скульптуру активовано</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>
   <!-- EN: Reacting to {PAWN_nameDef}'s presence, the strange statue has begun to release a cloud of deadlife dust!\n\nThis dust-like substance will settle on nearby corpses and raise them as dangerous shamblers. -->
-  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>Відчувши присутність {PAWN_nameDef}, дивна скульптура почала випускати хмару пилу несмертя!\n\nЦя пилоподібна речовина осідає на трупи поблизу й піднімає їх небезпечними волокунами.</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>Відчувши, що поруч {PAWN_nameDef}, дивна скульптура почала випускати хмару пилу несмертя!\n\nЦя пилоподібна речовина осідає на трупи поблизу й піднімає їх небезпечними волокунами.</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>
   <!-- EN: gray statue -->
   <GrayStatueTeleporter.label>сіра скульптура</GrayStatueTeleporter.label>
   <!-- EN: A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy. -->

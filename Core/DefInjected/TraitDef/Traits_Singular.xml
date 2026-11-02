@@ -59,7 +59,7 @@
   <!-- EN: gourmand -->
   <Gourmand.degreeDatas.gourmand.label>ненажера</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
-  <Gourmand.degreeDatas.gourmand.description>Життя {PAWN_nameDef} обертається довкола їжі. {PAWN_pronoun} швидко голодніє, а часом {PAWN_gender ? його : її} охоплює непереборне бажання об'їстися, навіть коли {PAWN_pronoun} не {PAWN_gender ? голодний : голодна}.</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef} живе заради їжі. {PAWN_pronoun} швидко голодніє, а часом {PAWN_gender ? його : її} охоплює непереборне бажання об'їстися, навіть коли {PAWN_pronoun} не {PAWN_gender ? голодний : голодна}.</Gourmand.degreeDatas.gourmand.description>
   <!-- EN: great memory -->
   <GreatMemory.degreeDatas.great_memory.label>відмінна пам'ять</GreatMemory.degreeDatas.great_memory.label>
   <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
@@ -71,7 +71,7 @@
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>заздрість</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>Для {PAWN_nameDef} принизливо мати гіршу спальню, ніж у когось іншого. {PAWN_gender ? Його : Її} настрій погіршується, якщо в будь-якого колоніста спальня розкішніша.</Jealous.degreeDatas.jealous.description>
+  <Jealous.degreeDatas.jealous.description>{PAWN_nameDef} вважає принизливим мати гіршу спальню, ніж у когось іншого. {PAWN_gender ? Його : Її} настрій погіршується, якщо в будь-якого колоніста спальня розкішніша.</Jealous.degreeDatas.jealous.description>
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>доброта</Kind.degreeDatas.kind.label>
   <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others or starts fights, and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. -->
@@ -117,7 +117,7 @@
   <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
   <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} почувається {PAWN_gender ? чужим : чужою} серед людей, яким {PAWN_gender ? його : її} не зрозуміти. Через це {PAWN_gender ? його : її} настрій постійно знижений, зате після нервового зриву є шанс (50%) отримати творче натхнення.</TorturedArtist.degreeDatas.tortured_artist.description>
   <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
-  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Муки замученого митця принесли [PAWN_nameIndef] натхнення.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Як і належить замученому митцеві, [PAWN_nameIndef] черпає натхнення у стражданнях.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
   <!-- EN: tough -->
   <Tough.degreeDatas.tough.label>міцний горішок</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->

@@ -75,7 +75,7 @@
     <li>skillAdvMaybe-></li>
     <li>skillAdvMaybe->[skillAdv] </li>
     <li>result->але [RECIPIENT_definite] відскакує вбік</li>
-    <li>result->але потрапляє на фінт {lookup: [RECIPIENT_definite]; Case; 1}</li>
+    <li>result->але піддається на хитрий фінт</li>
     <li>result->але атаку спритно відведено</li>
   </Combat_Dodge.rulePack.rulesStrings>
   <!-- EN:
@@ -101,11 +101,11 @@
     <li>action(p=0.3)->[INITIATOR_definite] used [implement] [skillAdv] to [damaged_inf] [RECIPIENT_definite]</li>
   -->
   <Combat_Hit.rulePack.rulesStrings>
-    <li>r_logentry(p=1.0)->[INITIATOR_definite] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [strikeAdv] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}.</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}, [flavortext_consequence].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite], [skillDescMelee], [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite], [skillDescMelee], [strikeAdv] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} у {lookup: [recipient_part0_label]; Case; 3}.</li>
+    <li>r_logentry(p=1.0)->[RECIPIENT_definite]: [INITIATOR_definite] [damaged_past] {RECIPIENT_gender ? його : її} у {lookup: [recipient_part0_label]; Case; 3}.</li>
+    <li>r_logentry(p=0.4)->[RECIPIENT_definite]: [INITIATOR_definite] [strikeAdv] [damaged_past] {RECIPIENT_gender ? його : її} у {lookup: [recipient_part0_label]; Case; 3}.</li>
+    <li>r_logentry(p=0.4)->[RECIPIENT_definite]: [INITIATOR_definite] [damaged_past] {RECIPIENT_gender ? його : її} у {lookup: [recipient_part0_label]; Case; 3}, [flavortext_consequence].</li>
+    <li>r_logentry(p=0.4)->[RECIPIENT_definite]: [INITIATOR_definite], [skillDescMelee], [damaged_past] {RECIPIENT_gender ? його : її} у {lookup: [recipient_part0_label]; Case; 3}.</li>
+    <li>r_logentry(p=0.2)->[RECIPIENT_definite]: [INITIATOR_definite], [skillDescMelee], [strikeAdv] [damaged_past] {RECIPIENT_gender ? його : її} у {lookup: [recipient_part0_label]; Case; 3}.</li>
     <li>r_logentry(p=0.4)->[INITIATOR_definite] б'є, і [RECIPIENT_definite] втрачає [destroyed_targets].</li>
     <li>r_logentry(p=0.4)->[RECIPIENT_definite]: [INITIATOR_definite] [destroyed_past] {RECIPIENT_gender ? йому : їй} [destroyed_targets] [destroyed_suffix].</li>
     <li>r_logentry(p=0.4)->[INITIATOR_definite] б'є [implement], і [RECIPIENT_definite] втрачає [destroyed_targets].</li>
@@ -114,13 +114,13 @@
     <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets]</li>
     <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
     <li>result(p=1)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets] і [damaged_present] [damaged_targets]</li>
-    <li>action(p=1.0)->[INITIATOR_definite] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3} [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], [damaged_past] {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action(p=0.3)->[INITIATOR_definite] встигає [implement] [damaged_inf] {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], встигає [damaged_inf] {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [implement] примудряється [damaged_inf] {lookup: [RECIPIENT_definite]; Case; 3}</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [skillAdv] орудує [implement], щоб [damaged_inf] {lookup: [RECIPIENT_definite]; Case; 3}</li>
+    <li>action(p=1.0)->[RECIPIENT_definite]: [INITIATOR_definite] [damaged_past] {RECIPIENT_gender ? його : її} [implement]</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite] [damaged_past] {RECIPIENT_gender ? його : її}</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite], [skillDescMelee], [damaged_past] {RECIPIENT_gender ? його : її}</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite] встигає [implement] [damaged_inf] {RECIPIENT_gender ? його : її}</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite], [skillDescMelee], встигає [damaged_inf] {RECIPIENT_gender ? його : її}</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite] [implement] примудряється [damaged_inf] {RECIPIENT_gender ? його : її}</li>
+    <li>action(p=0.3)->[RECIPIENT_definite]: [INITIATOR_definite] [skillAdv] орудує [implement], щоб [damaged_inf] {RECIPIENT_gender ? його : її}</li>
   </Combat_Hit.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry(p=0.3)->[RECIPIENT_definite] avoided [INITIATOR_definite]'s [WEAPON_label] [damaged_inf].</li>

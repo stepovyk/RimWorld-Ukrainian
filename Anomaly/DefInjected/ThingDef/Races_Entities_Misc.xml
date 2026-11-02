@@ -37,11 +37,11 @@
   <!-- EN: A massive monster with a gaping toothed maw and a stubby, snake-like body. The devourer can leap several times its body length to swallow a person whole. Powerful stomach acids rapidly digest the still-living victim. The remains are regurgitated soon after. -->
   <Devourer.description>Велетенське чудовисько з роззявленою зубатою пащею й коротким змієподібним тілом. Пожирач здатен стрибнути на відстань, у кілька разів більшу за довжину свого тіла, і проковтнути людину цілком. Потужний шлунковий сік швидко перетравлює ще живу жертву, а рештки незабаром відригуються.</Devourer.description>
   <!-- EN: Digesting {PAWN_nameDef}: {SECONDS} seconds left -->
-  <Devourer.comps.CompDevourer.digestingInspector>Перетравлює {PAWN_nameDef}: лишилося {SECONDS} с</Devourer.comps.CompDevourer.digestingInspector>
+  <Devourer.comps.CompDevourer.digestingInspector>Перетравлення ({PAWN_nameDef}): лишилося {SECONDS} с</Devourer.comps.CompDevourer.digestingInspector>
   <!-- EN: A devourer swallowed {PAWN_nameDef} whole! Kill the devourer before it digests {PAWN_nameDef}. -->
-  <Devourer.comps.CompDevourer.messageDigested>Пожирач проковтує {PAWN_nameDef} цілком! Убийте пожирача, поки він не перетравив {PAWN_nameDef}.</Devourer.comps.CompDevourer.messageDigested>
+  <Devourer.comps.CompDevourer.messageDigested>{PAWN_nameDef} опиняється в череві: пожирач ковтає здобич цілком! Убийте пожирача, поки він не перетравив жертву.</Devourer.comps.CompDevourer.messageDigested>
   <!-- EN: The devourer has regurgitated {PAWN_nameDef}. -->
-  <Devourer.comps.CompDevourer.messageDigestionCompleted>Пожирач відригує {PAWN_nameDef}.</Devourer.comps.CompDevourer.messageDigestionCompleted>
+  <Devourer.comps.CompDevourer.messageDigestionCompleted>Пожирач відригує здобич: {PAWN_nameDef} знову назовні.</Devourer.comps.CompDevourer.messageDigestionCompleted>
   <!-- EN: {PAWN_nameDef} emerged from the devourer. -->
   <Devourer.comps.CompDevourer.messageEmerged>{PAWN_nameDef} вибирається із пожирача.</Devourer.comps.CompDevourer.messageEmerged>
   <!-- EN: {PAWN_nameDef} emerged from the devourer's corpse. -->

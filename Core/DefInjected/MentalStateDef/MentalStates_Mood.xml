@@ -55,7 +55,7 @@
   <!-- EN: Mental state: Fire starting spree -->
   <FireStartingSpree.baseInspectLine>Психічний стан: піроманія</FireStartingSpree.baseInspectLine>
   <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
-  <FireStartingSpree.beginLetter>У {0} напад піроманії.\n\nДеякий час {PAWN_gender ? він : вона} блукатиме довкола й навмання щось підпалюватиме.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetter>{0}: напад піроманії.\n\nДеякий час {PAWN_gender ? він : вона} блукатиме довкола й навмання щось підпалюватиме.</FireStartingSpree.beginLetter>
   <!-- EN: {0} is no longer on a fire starting spree. -->
   <FireStartingSpree.recoveryMessage>{0} заспокоюється.</FireStartingSpree.recoveryMessage>
   <!-- EN: giving up and leaving -->
@@ -81,7 +81,7 @@
   <!-- EN: Mental state: Jailbreaker -->
   <Jailbreaker.baseInspectLine>Психічний стан: схиляє до втечі</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
-  <Jailbreaker.beginLetter>У {0} нервовий зрив: {PAWN_gender ? він : вона} збирається підбурити в'язнів до втечі.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>{0} зазнає нервового зриву й збирається підбурити в'язнів до втечі.</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
   <Jailbreaker.beginLetterLabel>схиляє до втечі</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
@@ -91,7 +91,7 @@
   <!-- EN: Mental state: Murderous rage -->
   <MurderousRage.baseInspectLine>Психічний стан: жага вбивства</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
-  <MurderousRage.beginLetter>{0} впадає в убивчу лють!\n\n{PAWN_gender ? Він : Вона} вирішує вбити {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetter>{0} впадає в убивчу лють!\n\nОбрана жертва – {1}.</MurderousRage.beginLetter>
   <!-- EN: {0} is no longer in a murderous rage. -->
   <MurderousRage.recoveryMessage>{0} отямлюється від убивчої люті.</MurderousRage.recoveryMessage>
   <!-- EN: sadistic rage -->
@@ -107,7 +107,7 @@
   <!-- EN: Mental state: Slaughterer -->
   <Slaughterer.baseInspectLine>Психічний стан: живодер</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
-  <Slaughterer.beginLetter>У {0} нервовий зрив: {PAWN_gender ? він : вона} збирається зігнати злість на ваших тваринах.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>{0} зазнає нервового зриву й збирається зігнати злість на ваших тваринах.</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
   <Slaughterer.recoveryMessage>{0} більше не вбиває тварин.</Slaughterer.recoveryMessage>
   <!-- EN: tantrum -->
@@ -123,7 +123,7 @@
   <!-- EN: Mental state: Insulting spree against {0} -->
   <TargetedInsultingSpree.baseInspectLine>Психічний стан: бажання лаятись (ціль: {0})</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>{0} зосереджує свою злість на {1}.\n\n{PAWN_gender ? Він : Вона} ходитиме за {1} й обсипатиме образами.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>{0} знаходить мішень для своєї злості – {1}.\n\nТепер {PAWN_gender ? він : вона} ходитиме слідом і обсипатиме образами.</TargetedInsultingSpree.beginLetter>
   <!-- EN: tantrum -->
   <TargetedTantrum.label>істерика</TargetedTantrum.label>
   <!-- EN: Mental state: Tantrum -->
@@ -167,7 +167,7 @@
   <!-- EN: Mental state: Sad wandering -->
   <Wander_Sad.baseInspectLine>Психічний стан: меланхолія</Wander_Sad.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around in sadness. -->
-  <Wander_Sad.beginLetter>У {0} зрив: {PAWN_gender ? він : вона} в смутку блукає довкола.</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetter>{0} зазнає зриву й у смутку блукає довкола.</Wander_Sad.beginLetter>
   <!-- EN: sad wander -->
   <Wander_Sad.beginLetterLabel>меланхолія</Wander_Sad.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in sadness. -->

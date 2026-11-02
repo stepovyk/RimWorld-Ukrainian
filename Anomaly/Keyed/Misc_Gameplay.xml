@@ -35,7 +35,7 @@
   <!-- EN: The revenant is dead! Those who were hypnotized will recover.\n\nIts body has dissipated, leaving behind its spine. You can gather and study the spine, or destroy it. -->
   <LetterRevenantKilled>Ревенант мертвий! Загіпнотизовані ним прийдуть до тями.\n\nЙого тіло розсіялося, лишивши по собі хребет. Хребет можна забрати й вивчити або знищити.</LetterRevenantKilled>
   <!-- EN: {PAWN_nameDef} hypnotized -->
-  <LetterLabelPawnHypnotized>{PAWN_nameDef} загіпнотизовано</LetterLabelPawnHypnotized>
+  <LetterLabelPawnHypnotized>{PAWN_nameDef} під гіпнозом</LetterLabelPawnHypnotized>
   <!-- EN: {PAWN_nameDef} has been hypnotized by a revenant and is now rambling incoherently about nightmarish images and ideas.\n\nKilling the revenant will end the hypnosis.\n\nThe revenant uses psychic powers to twist the perceptions of those around it, making itself invisible. However, it can still be hunted by following the black smears that it leaves. The revenant will be revealed if hit by explosive weapons, firefoam, EMPs, fire, or disruptor flares.\n\nIf not killed, the revenant will continue to hypnotize new victims. -->
   <LetterPawnHypnotized>{PAWN_nameDef} – під гіпнозом ревенанта й безладно бурмоче про кошмарні образи та ідеї.\n\nГіпноз мине, коли ревенанта вб'ють.\n\nРевенант психічно викривлює сприйняття всіх довкола й так стає невидимим. Проте його можна вистежити за чорними плямами, які він лишає. Ревенант стане видимим, якщо влучити в нього вибухівкою, протипожежною піною, ЕМІ, вогнем чи фальшфеєром дестабілізації.\n\nПоки ревенант живий, він гіпнотизуватиме нових жертв.</LetterPawnHypnotized>
   <!-- EN: Revenant flesh chunk -->
@@ -102,7 +102,7 @@
   <!-- EN: Holding -->
   <HoldingThing>Утримує</HoldingThing>
   <!-- EN: Remove {0_labelShort} -->
-  <RemoveFromPlatform>Прибрати {0_labelShort}</RemoveFromPlatform>
+  <RemoveFromPlatform>Прибрати: {0_labelShort}</RemoveFromPlatform>
   <!-- EN: Remove the current entity held on the platform. -->
   <RemoveFromPlatformDesc>Зняти з платформи сутність, яку на ній утримують.</RemoveFromPlatformDesc>
   <!-- EN: {GERUND} {TARGETLABEL} from -->
@@ -135,7 +135,7 @@
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedArmLetterLabel>Взаємодія з обеліском</MutatorObeliskFailedArmLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedArmLetter>Під час взаємодії з обеліском {PAWN_nameDef} кілька миттєвостей відчуває поколювання в руці. Потім усе минає.\n\nОбеліск спробував викликати в {PAWN_nameDef} мутацію, але марно.</MutatorObeliskFailedArmLetter>
+  <MutatorObeliskFailedArmLetter>Під час взаємодії з обеліском {PAWN_nameDef} кілька миттєвостей відчуває поколювання в руці. Потім усе минає.\n\nОбеліск спробував викликати мутацію, але марно.</MutatorObeliskFailedArmLetter>
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshmassStomachLetterLabel>Мутація обеліска</ObeliskFleshmassStomachLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} stomach, as {PAWN_possessive} tissue began to roil and mutate. {PAWN_possessive} stomach has mutated into a mass of semi-sentient flesh. The harsh acids it produces are painful but prevent food poisoning. -->
@@ -143,7 +143,7 @@
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedStomachLetterLabel>Взаємодія з обеліском</MutatorObeliskFailedStomachLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} stomach aching for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedStomachLetter>Під час взаємодії з обеліском {PAWN_nameDef} кілька миттєвостей відчуває біль у шлунку. Потім усе минає.\n\nОбеліск спробував викликати в {PAWN_nameDef} мутацію, але марно.</MutatorObeliskFailedStomachLetter>
+  <MutatorObeliskFailedStomachLetter>Під час взаємодії з обеліском {PAWN_nameDef} кілька миттєвостей відчуває біль у шлунку. Потім усе минає.\n\nОбеліск спробував викликати мутацію, але марно.</MutatorObeliskFailedStomachLetter>
   <!-- EN: Obelisk mutation -->
   <ObeliskFleshmassLungLetterLabel>Мутація обеліска</ObeliskFleshmassLungLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} chest, as {PAWN_possessive} lung began to twist and swell. {PAWN_possessive} lung has mutated into a painful mass of semi-sentient flesh. The tissue is constantly regrowing and replacing itself, making it immune to effects like lung rot and asthma. -->
@@ -151,7 +151,7 @@
   <!-- EN: Obelisk interaction -->
   <MutatorObeliskFailedLungLetterLabel>Взаємодія з обеліском</MutatorObeliskFailedLungLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} chest ache for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
-  <MutatorObeliskFailedLungLetter>Під час взаємодії з обеліском {PAWN_nameDef} кілька миттєвостей відчуває біль у грудях. Потім усе минає.\n\nОбеліск спробував викликати в {PAWN_nameDef} мутацію, але марно.</MutatorObeliskFailedLungLetter>
+  <MutatorObeliskFailedLungLetter>Під час взаємодії з обеліском {PAWN_nameDef} кілька миттєвостей відчуває біль у грудях. Потім усе минає.\n\nОбеліск спробував викликати мутацію, але марно.</MutatorObeliskFailedLungLetter>
   <!-- EN: Obelisk mutation -->
   <ObeliskAnimalMutationLetterLabel>Мутація обеліска</ObeliskAnimalMutationLetterLabel>
   <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden spike in energy. The obelisk has violently warped the flesh of {ANIMAL}, turning it into a hideous fleshbeast. -->
@@ -167,13 +167,13 @@
   <!-- EN: Obelisk failure -->
   <ObeliskDuplicationFailedLetterLabel>Невдача обеліска</ObeliskDuplicationFailedLetterLabel>
   <!-- EN: {PAWN_nameDef} attempted to trigger the obelisk but nothing occurred. Something about {PAWN_nameDef} is preventing the obelisk from duplicating {PAWN_objective}. -->
-  <ObeliskDuplicationFailedLetter>{PAWN_nameDef} намагається активувати обеліск, але нічого не відбувається. Щось у {PAWN_nameDef} заважає обеліскові створити дублікат.</ObeliskDuplicationFailedLetter>
+  <ObeliskDuplicationFailedLetter>{PAWN_nameDef} намагається активувати обеліск, але нічого не відбувається. Щось у {PAWN_gender ? ньому : ній} заважає обеліскові створити дублікат.</ObeliskDuplicationFailedLetter>
   <!-- EN: {PAWN_nameDef} has successfully triggered obelisk duplication. -->
   <ObeliskDuplicationSuccessMessage>{PAWN_nameDef} успішно запускає дублювання в обеліску.</ObeliskDuplicationSuccessMessage>
   <!-- EN: Hostile obelisk duplicate -->
   <ObeliskHostileDuplicateLetterLabel>Ворожий дублікат з обеліска</ObeliskHostileDuplicateLetterLabel>
   <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self. The duplicate is approaching {PAWN_nameDef} with murderous intent! -->
-  <ObeliskHostileDuplicateLetter>Коли {PAWN_nameDef} взаємодіє з обеліском, той пульсує енергією й спалахує світлом. Раптом {PAWN_nameDef} опиняється віч-на-віч із власною копією. Дублікат іде на {PAWN_nameDef} з наміром убити!</ObeliskHostileDuplicateLetter>
+  <ObeliskHostileDuplicateLetter>Коли {PAWN_nameDef} взаємодіє з обеліском, той пульсує енергією й спалахує світлом. Раптом {PAWN_nameDef} опиняється віч-на-віч із власною копією. Дублікат іде на {PAWN_gender ? нього : неї} з наміром убити!</ObeliskHostileDuplicateLetter>
   <!-- EN: Obelisk activation -->
   <DuplicatorObeliskLetterLabel>Активація обеліска</DuplicatorObeliskLetterLabel>
   <!-- EN: The obelisk is activating! The air around it crackles with energy. Duplicates of your colonists will soon appear with murderous intent.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
@@ -189,7 +189,7 @@
   <!-- EN: {PAWN_nameDef} reappeared -->
   <ObeliskAbductedLetterLabel>{PAWN_nameDef} з'являється знову</ObeliskAbductedLetterLabel>
   <!-- EN: {PAWN_nameDef} has been teleported to a strange room. The walls are an unidentifiable gray material and the air is dead still. {PAWN_pronoun} doesn't know where {PAWN_pronoun} is - or how to get home.\n\nA nearby door is jammed but looks like it can be forced open with some effort. Right-click jammed doors to open them.\n\nBy studying the obelisk, other colonists may be able to understand what happened to {PAWN_nameDef} and find a way to help {PAWN_objective}. Alternatively, attacking the obelisk may provoke it to abduct more colonists. -->
-  <ObeliskAbductedLetter>Обеліск телепортував {PAWN_nameDef} у дивну кімнату. Стіни з якогось незнайомого сірого матеріалу, повітря нерухоме, мов мертве. {PAWN_nameDef} не знає, де {PAWN_gender ? опинився : опинилася} і як повернутися додому.\n\nДвері поруч заклинило, але їх, схоже, можна відчинити силою, доклавши зусиль. Щоб відчинити заклинені двері, клацніть на них правою кнопкою миші.\n\nВивчаючи обеліск, інші колоністи можуть зрозуміти, що сталося з {PAWN_nameDef}, і знайти спосіб допомогти. А якщо атакувати обеліск, він може викрасти ще когось із колоністів.</ObeliskAbductedLetter>
+  <ObeliskAbductedLetter>{PAWN_nameDef} зникає: обеліск телепортував {PAWN_gender ? його : її} в дивну кімнату. Стіни з якогось незнайомого сірого матеріалу, повітря нерухоме, мов мертве. {PAWN_pronoun} не знає, де {PAWN_gender ? опинився : опинилася} і як повернутися додому.\n\nДвері поруч заклинило, але їх, схоже, можна відчинити силою, доклавши зусиль. Щоб відчинити заклинені двері, клацніть на них правою кнопкою миші.\n\nВивчаючи обеліск, інші колоністи можуть зрозуміти, що сталося з {PAWN_gender ? ним : нею}, і знайти спосіб допомогти. А якщо атакувати обеліск, він може викрасти ще когось із колоністів.</ObeliskAbductedLetter>
   <!-- EN: {PAWN_nameIndef} has mutated into a fleshbeast. -->
   <MutatorObeliskMutated>{PAWN_nameIndef} перетворюється на звіра плоті.</MutatorObeliskMutated>
   <!-- EN: A fleshbeast has emerged from the ground. -->
@@ -299,23 +299,23 @@
   <!-- EN: These doctors were infested and controlled by metalhorrors, so they lied about the results of a surgical inspection -->
   <MetalhorrorSurgicalInspectionDetails>Цих лікарів заразили й підкорили металеві жахи, тож вони збрехали про результати хірургічного обстеження</MetalhorrorSurgicalInspectionDetails>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during a social interaction. -->
-  <MetalhorrorReasonInteraction>Металевий жах виходить із {INFECTED_nameDef}, бо {PAWN_nameDef} виявляє його під час розмови.</MetalhorrorReasonInteraction>
+  <MetalhorrorReasonInteraction>Металевий жах виходить із тіла носія ({INFECTED_nameDef}), бо {PAWN_nameDef} виявляє його під час розмови.</MetalhorrorReasonInteraction>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during an interrogation. -->
-  <MetalhorrorReasonInterrogation>Металевий жах виходить із {INFECTED_nameDef}, бо {PAWN_nameDef} виявляє його під час допиту.</MetalhorrorReasonInterrogation>
+  <MetalhorrorReasonInterrogation>Металевий жах виходить із тіла носія ({INFECTED_nameDef}), бо {PAWN_nameDef} виявляє його під час допиту.</MetalhorrorReasonInterrogation>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because {INFECTED_nameDef} died. -->
-  <MetalhorrorReasonHostDied>Металевий жах виходить із {INFECTED_nameDef}, бо {INFECTED_nameDef} {INFECTED_gender ? помер : померла}.</MetalhorrorReasonHostDied>
+  <MetalhorrorReasonHostDied>{INFECTED_nameDef} {INFECTED_gender ? помер : померла}, і металевий жах виходить із тіла.</MetalhorrorReasonHostDied>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was detected by {PAWN_nameDef} during a surgical inspection. -->
-  <MetalhorrorReasonSurgeryInspected>Металевий жах виходить із {INFECTED_nameDef}, бо {PAWN_nameDef} виявляє його під час хірургічного обстеження.</MetalhorrorReasonSurgeryInspected>
+  <MetalhorrorReasonSurgeryInspected>Металевий жах виходить із тіла носія ({INFECTED_nameDef}), бо {PAWN_nameDef} виявляє його під час хірургічного обстеження.</MetalhorrorReasonSurgeryInspected>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged for unknown reasons. -->
-  <MetalhorrorReasonRandom>Металевий жах виходить із {INFECTED_nameDef} з невідомої причини.</MetalhorrorReasonRandom>
+  <MetalhorrorReasonRandom>Металевий жах виходить із тіла носія ({INFECTED_nameDef}) з невідомої причини.</MetalhorrorReasonRandom>
   <!-- EN: {INFECTED_nameDef}'s metalhorror emerged upon sensing it was being taken away from the colony. -->
-  <MetalhorrorReasonTriedToLeaveMap>Металевий жах виходить із {INFECTED_nameDef}, відчувши, що носія забирають з колонії.</MetalhorrorReasonTriedToLeaveMap>
+  <MetalhorrorReasonTriedToLeaveMap>Металевий жах виходить із тіла носія ({INFECTED_nameDef}), відчувши, що його забирають з колонії.</MetalhorrorReasonTriedToLeaveMap>
   <!-- EN: Metalhorror detected -->
   <MetalhorrorDetected>Виявлено металевий жах</MetalhorrorDetected>
   <!-- EN: {PAWN_nameDef} noticed something wrong with {INFECTED_nameDef} while chatting. {INFECTED_nameDef} exhibited some combination of unnatural behavior, strange vocal sounds, or barely visible metallic worms in the eyes. {PAWN_nameDef} suspects that {INFECTED_nameDef} is infected with a metalhorror. -->
-  <InteractionDetectedDesc>Під час розмови {PAWN_nameDef} помічає, що з {INFECTED_nameDef} щось не так: неприродна поведінка, дивні звуки в голосі чи ледь помітні металеві хробачки в очах. {PAWN_nameDef} підозрює, що {INFECTED_nameDef} {INFECTED_gender ? заражений : заражена} металевим жахом.</InteractionDetectedDesc>
+  <InteractionDetectedDesc>Під час розмови {PAWN_nameDef} помічає щось недобре: {INFECTED_nameDef} поводиться неприродно, видає дивні звуки чи має ледь помітних металевих хробачків в очах. {PAWN_nameDef} підозрює, що {INFECTED_nameDef} {INFECTED_gender ? заражений : заражена} металевим жахом.</InteractionDetectedDesc>
   <!-- EN: {PAWN_nameDef} has found something unusual while interrogating {INFECTED_nameDef}. {INFECTED_nameDef} exhibited some combination of unnatural behavior, strange vocal sounds, or barely visible metallic worms in the eyes. {PAWN_nameDef} suspects that {INFECTED_nameDef} is infected with a metalhorror. -->
-  <InterrogationDetectedDesc>Під час допиту {PAWN_nameDef} помічає, що з {INFECTED_nameDef} щось не так: неприродна поведінка, дивні звуки в голосі чи ледь помітні металеві хробачки в очах. {PAWN_nameDef} підозрює, що {INFECTED_nameDef} {INFECTED_gender ? заражений : заражена} металевим жахом.</InterrogationDetectedDesc>
+  <InterrogationDetectedDesc>Під час допиту {PAWN_nameDef} помічає щось недобре: {INFECTED_nameDef} поводиться неприродно, видає дивні звуки чи має ледь помітних металевих хробачків в очах. {PAWN_nameDef} підозрює, що {INFECTED_nameDef} {INFECTED_gender ? заражений : заражена} металевим жахом.</InterrogationDetectedDesc>
   <!-- EN: Metalhorrors are parasites that control the host and use them to infect others.\n\nMetalhorrors grow stronger inside the host as time passes. A metalhorror will cut its way out of the host's body if it knows it's been detected. The process is horrifying, but the host generally survives.\n\nThe only way to confirm a person is infected with a metalhorror is to study the metalhorror's fleshy leavings to identify its biosignature, then use the surgical inspection operation with a trusted doctor.\n\nOnce discovered, you can use the surgical inspection operation to cause a metalhorror to emerge from its host. Be prepared for a fight. -->
   <MetalhorrorNoticedDetailsAppended>Металеві жахи – паразити, що керують носієм і використовують його, щоб заражати інших.\n\nЗ часом металевий жах у тілі носія сильнішає. Якщо він знає, що його виявили, то прорізає собі шлях назовні. Видовище жахливе, але носій зазвичай виживає.\n\nЄдиний спосіб підтвердити зараження – вивчити м'ясисті рештки металевого жаху, визначити його біосигнатуру, а тоді провести хірургічне обстеження в лікаря, якому ви довіряєте.\n\nКоли зараження виявлено, хірургічне обстеження змусить металевий жах вийти з носія. Готуйтеся до бою.</MetalhorrorNoticedDetailsAppended>
   <!-- EN: Gray flesh -->
@@ -342,7 +342,7 @@
   <!-- EN: Surgical inspection results -->
   <LetterSurgicallyInspectedLabel>Результати хірургічного обстеження</LetterSurgicallyInspectedLabel>
   <!-- EN: {DOCTOR_nameDef} performed an extensive surgical inspection of {PATIENT_nameDef}. -->
-  <LetterSurgicallyInspectedHeader>{DOCTOR_nameDef} проводить ретельне хірургічне обстеження {PATIENT_nameDef}.</LetterSurgicallyInspectedHeader>
+  <LetterSurgicallyInspectedHeader>{DOCTOR_nameDef} проводить ретельне хірургічне обстеження. Пацієнт: {PATIENT_nameDef}.</LetterSurgicallyInspectedHeader>
   <!-- EN: {DOCTOR_pronoun} says that {DOCTOR_pronoun} found no anomalies. However, a doctor may lie if it is in their own self-interest. -->
   <LetterSurgicallyInspectedNothing>{DOCTOR_pronoun} каже, що не {DOCTOR_gender ? знайшов : знайшла} нічого підозрілого. Утім, лікар може збрехати, якщо це в його інтересах.</LetterSurgicallyInspectedNothing>
   <!-- Death refusal -->
@@ -379,16 +379,16 @@
   <!-- EN: {PAWN_pronoun} may be very useful, but you also sense there is something {PAWN_nameDef} is not telling you. -->
   <LetterCreeperInviteAppend>{PAWN_pronoun} може стати в пригоді, але ви відчуваєте, що {PAWN_nameDef} щось недоговорює.</LetterCreeperInviteAppend>
   <!-- EN: Allow {PAWN_nameDef} to join -->
-  <AcceptCreeper>Дозволити {PAWN_nameDef} приєднатися</AcceptCreeper>
+  <AcceptCreeper>{PAWN_nameDef}: дозволити приєднатися</AcceptCreeper>
   <!-- EN: Send {SPEAKER_nameDef} to capture {PAWN_nameDef} -->
-  <CaptureCreeper>Відправити {SPEAKER_nameDef}, щоб захопити {PAWN_nameDef}</CaptureCreeper>
+  <CaptureCreeper>{PAWN_nameDef}: захопити (піде {SPEAKER_nameDef})</CaptureCreeper>
   <!-- EN: Send {PAWN_nameDef} away -->
-  <RejectCreeper>Відправити {PAWN_nameDef} геть</RejectCreeper>
+  <RejectCreeper>{PAWN_nameDef}: прогнати</RejectCreeper>
   <!-- Unnatural healing ability -->
   <!-- EN: Unnatural healing -->
   <LetterUnnaturalHealingLabel>Неприродне зцілення</LetterUnnaturalHealingLabel>
   <!-- EN: {CASTER_nameDef} has finished {CASTER_possessive} psychic healing on {PAWN_nameDef}. -->
-  <LetterUnnaturalHealing>{CASTER_nameDef} завершує психічне зцілення {PAWN_nameDef}.</LetterUnnaturalHealing>
+  <LetterUnnaturalHealing>{CASTER_nameDef} завершує психічне зцілення. Пацієнт: {PAWN_nameDef}.</LetterUnnaturalHealing>
   <!-- EN: However, something went terribly wrong.\n\n{PAWN_nameDef}'s arm split open as a violent growth emerged from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a fleshy tentacle! -->
   <LetterUnnaturalHealingTentacle>Але щось пішло жахливо не так.\n\nРука {PAWN_nameDef} розкололася, і з тіла вирвався буйний наріст. Замість руки тепер м'ясистий мацак!</LetterUnnaturalHealingTentacle>
   <!-- Transmutation ability -->
@@ -434,7 +434,7 @@
   <!-- EN: Flesh tentacle attack -->
   <LetterLabelFleshTentacleAttack>Напад мацака з плоті</LetterLabelFleshTentacleAttack>
   <!-- EN: {PAWN_nameDef}'s operation was successful. However, the twisting mass of flesh that was {PAWN_possessive} tentacle has begun to attack! -->
-  <LetterFleshTentacleAttack>Операція {PAWN_nameDef} пройшла успішно. Проте звивиста маса плоті, що була {PAWN_possessive} мацаком, почала нападати!</LetterFleshTentacleAttack>
+  <LetterFleshTentacleAttack>{PAWN_nameDef}: операція пройшла успішно. Проте звивиста маса плоті, що була {PAWN_possessive} мацаком, почала нападати!</LetterFleshTentacleAttack>
   <!-- EN: Biosignature -->
   <Biosignature>Біосигнатура</Biosignature>
   <!-- EN: Bliss lobotomy -->
@@ -449,7 +449,7 @@
   <MessageShardDropped>{0} впускає уламок темної архотехнології. Його можна підібрати й використати.</MessageShardDropped>
   <!-- Blood rain -->
   <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
-  <Berserk_BloodRain>Кривавий дощ доводить {0_nameIndef} до стану берсерка!</Berserk_BloodRain>
+  <Berserk_BloodRain>{0_nameIndef} впадає в шал берсерка через кривавий дощ!</Berserk_BloodRain>
   <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
   <Manhunter_BloodRain>{0_nameIndef} шаленіє від кривавого дощу й кидається на людей!</Manhunter_BloodRain>
   <!-- EN: This happened because of blood rage buildup. -->
@@ -464,21 +464,21 @@
   <!-- EN: Corpse appearance -->
   <LetterLabelCorpseReappeared>Поява трупа</LetterLabelCorpseReappeared>
   <!-- EN: The corpse resembling {PAWN_nameDef} has appeared again, as if out of thin air. -->
-  <LetterCorpseReappeared>Труп, схожий на {PAWN_nameDef}, знову з'явився, наче з повітря.</LetterCorpseReappeared>
+  <LetterCorpseReappeared>Труп, що виглядає як {PAWN_nameDef}, знову з'явився, наче з повітря.</LetterCorpseReappeared>
   <!-- EN: The corpse resembling {PAWN_nameDef} has somehow gotten out of its {CONTAINER_labelShort}. -->
-  <MessageCorpseEscaped>Труп, схожий на {PAWN_nameDef}, якимось чином вибрався із {lookup: {CONTAINER_labelShort}; Case; 1}.</MessageCorpseEscaped>
+  <MessageCorpseEscaped>Труп, що виглядає як {PAWN_nameDef}, якимось чином вибрався із {lookup: {CONTAINER_labelShort}; Case; 1}.</MessageCorpseEscaped>
   <!-- EN: Failed to resurrect {PAWN_nameDef}. It simply does not respond. -->
-  <MessageUnnaturalCorpseResurrect>Не вдалося воскресити {PAWN_nameDef}: тіло просто не реагує.</MessageUnnaturalCorpseResurrect>
+  <MessageUnnaturalCorpseResurrect>Не вдалося воскресити: {PAWN_nameDef}. Тіло просто не реагує.</MessageUnnaturalCorpseResurrect>
   <!-- EN: The unnatural corpse has caused {PAWN_nameDef} to faint. -->
   <MessagePawnFainted>{PAWN_nameDef} непритомніє через неприродний труп.</MessagePawnFainted>
   <!-- EN: The unnatural corpse has appeared near {PAWN_nameDef} and is approaching! -->
-  <MessageAwokenReappeared>Неприродний труп з'явився біля {PAWN_nameDef} і наближається!</MessageAwokenReappeared>
+  <MessageAwokenReappeared>Неприродний труп з'явився поруч із жертвою ({PAWN_nameDef}) і наближається!</MessageAwokenReappeared>
   <!-- EN: The unnatural corpse has vanished. It will come for {PAWN_nameDef} later. -->
-  <MessageAwokenVanished>Неприродний труп зник. Пізніше він повернеться по {PAWN_nameDef}.</MessageAwokenVanished>
+  <MessageAwokenVanished>Неприродний труп зник. Пізніше він повернеться по свою жертву ({PAWN_nameDef}).</MessageAwokenVanished>
   <!-- EN: The awoken corpse is attacking {PAWN_nameDef}! -->
-  <MessageAwokenAttacking>Пробуджений труп атакує {PAWN_nameDef}!</MessageAwokenAttacking>
+  <MessageAwokenAttacking>{PAWN_nameDef} під атакою пробудженого трупа!</MessageAwokenAttacking>
   <!-- EN: The awoken corpse has destroyed {PAWN_nameDef}'s brain. -->
-  <MessageAwokenKilledVictim>Пробуджений труп знищує мозок {PAWN_nameDef}.</MessageAwokenKilledVictim>
+  <MessageAwokenKilledVictim>{PAWN_nameDef} гине: пробуджений труп знищує {PAWN_gender ? йому : їй} мозок.</MessageAwokenKilledVictim>
   <!-- EN: The awoken corpse has disappeared. -->
   <MessageAwokenDisappeared>Пробуджений труп зникає.</MessageAwokenDisappeared>
   <!-- EN: This happened because of the presence of an unnatural corpse. -->
@@ -486,11 +486,11 @@
   <!-- EN: Unnatural corpse study progress -->
   <UnnaturalCorpseStudyLetter>Прогрес вивчення неприродного трупа</UnnaturalCorpseStudyLetter>
   <!-- EN: Your investigation of the unnatural corpse has revealed more about the body. An archotech shard at its core psychically links it with {VICTIM_nameDef}. It will rebuild itself if destroyed, and teleport any distance to be near {VICTIM_nameDef}. \n\n{RESEARCHER_nameDef} thinks that there may be a way to permanently destroy the corpse but will need to study it further.\n\nStudy the corpse more to learn how to destroy it. -->
-  <UnnaturalCorpseStudyLetterDesc>Вивчення неприродного трупа відкрило про нього більше. Архотехнічний уламок у його осерді психічно пов'язує труп із {VICTIM_nameDef}. Якщо труп знищити, він відновиться, і він телепортуватиметься на будь-яку відстань, аби бути поряд із {VICTIM_nameDef}.\n\n{RESEARCHER_nameDef} вважає, що труп, можливо, вдасться знищити назавжди, але для цього треба вивчати його далі.\n\nВивчайте труп, щоб дізнатися, як його знищити.</UnnaturalCorpseStudyLetterDesc>
+  <UnnaturalCorpseStudyLetterDesc>Вивчення неприродного трупа відкрило про нього більше. Архотехнічний уламок у його осерді психічно пов'язує труп із жертвою ({VICTIM_nameDef}). Якщо труп знищити, він відновиться, і він телепортуватиметься на будь-яку відстань, аби бути поряд із нею.\n\n{RESEARCHER_nameDef} вважає, що труп, можливо, вдасться знищити назавжди, але для цього треба вивчати його далі.\n\nВивчайте труп, щоб дізнатися, як його знищити.</UnnaturalCorpseStudyLetterDesc>
   <!-- EN: Unnatural corpse study complete -->
   <UnnaturalCorpseStudyCompletedLetter>Вивчення неприродного трупа завершено</UnnaturalCorpseStudyCompletedLetter>
   <!-- EN: Your investigation of the unnatural corpse has revealed how to safely remove the archotech shard. Doing so will stop it from psychically tormenting {VICTIM_nameDef}. However, it will also prevent further study of the corpse. -->
-  <UnnaturalCorpseStudyCompletedLetterDesc>Вивчення неприродного трупа показало, як безпечно вилучити архотехнічний уламок. Це припинить психічні муки {VICTIM_nameDef}, але й унеможливить подальше вивчення трупа.</UnnaturalCorpseStudyCompletedLetterDesc>
+  <UnnaturalCorpseStudyCompletedLetterDesc>Вивчення неприродного трупа показало, як безпечно вилучити архотехнічний уламок. Тоді {VICTIM_nameDef} більше не зазнаватиме психічних мук, але й вивчати труп далі буде неможливо.</UnnaturalCorpseStudyCompletedLetterDesc>
   <!-- EN: Corpse shard -->
   <UnnaturalCorpseDeactivatedLetter>Уламок трупа</UnnaturalCorpseDeactivatedLetter>
   <!-- EN: {PAWN_nameDef} extracted an archotech shard from the unnatural corpse, the corpse then began to violently bloat and exploded into gore. -->
@@ -520,18 +520,18 @@
   <!-- EN: Corpse awakened -->
   <UnnaturalCorpseAwokenLetter>Пробудження трупа</UnnaturalCorpseAwokenLetter>
   <!-- EN: The unnatural corpse is rising! It intends to attack {PAWN_nameDef}!\n\nThe corpse will follow {PAWN_nameDef} forever no matter how far {PAWN_pronoun} goes.\n\nYou must destroy it now. -->
-  <UnnaturalCorpseAwokenLetterDesc>Неприродний труп повстає! Він хоче напасти на {PAWN_nameDef}!\n\nТруп переслідуватиме {PAWN_nameDef} вічно, хоч куди б {PAWN_pronoun} {PAWN_gender ? пішов : пішла}.\n\nЗнищіть його негайно.</UnnaturalCorpseAwokenLetterDesc>
+  <UnnaturalCorpseAwokenLetterDesc>Неприродний труп повстає! Його ціль – {PAWN_nameDef}!\n\nТруп переслідуватиме {PAWN_gender ? його : її} вічно, хоч куди б {PAWN_pronoun} {PAWN_gender ? пішов : пішла}.\n\nЗнищіть його негайно.</UnnaturalCorpseAwokenLetterDesc>
   <!-- EN: Unnatural corpse destroyed! -->
   <UnnaturalCorpseAwokenDefeatedLetter>Неприродний труп знищено!</UnnaturalCorpseAwokenDefeatedLetter>
   <!-- EN: The unnatural corpse charging towards {PAWN_nameDef} has been defeated!\n\nThe corpse will no longer torment {PAWN_nameDef}. -->
-  <UnnaturalCorpseAwokenDefeatedLetterDesc>Неприродний труп, що кинувся на {PAWN_nameDef}, переможено!\n\nТруп більше не мучитиме {PAWN_nameDef}.</UnnaturalCorpseAwokenDefeatedLetterDesc>
+  <UnnaturalCorpseAwokenDefeatedLetterDesc>Неприродний труп, що полював на жертву ({PAWN_nameDef}), переможено!\n\nВін більше не мучитиме {PAWN_gender ? його : її}.</UnnaturalCorpseAwokenDefeatedLetterDesc>
   <!-- Golden Cube -->
   <!-- EN: {PAWN_labelShort}'s obsession with the golden cube has intensified. -->
-  <MessageGoldenCubeSeverityIncreased>Одержимість {PAWN_labelShort} золотим кубом посилилася.</MessageGoldenCubeSeverityIncreased>
+  <MessageGoldenCubeSeverityIncreased>{PAWN_labelShort}: одержимість золотим кубом посилилася.</MessageGoldenCubeSeverityIncreased>
   <!-- EN: {PAWN_labelShort} is experiencing cube withdrawal. -->
   <MessageGoldenCubeWithdrawal>{PAWN_labelShort} відчуває ломку без куба.</MessageGoldenCubeWithdrawal>
   <!-- EN: {PAWN_labelShort}'s cube withdrawal has worsened. -->
-  <MessageGoldenCubeWithdrawalIncreased>Ломка без куба в {PAWN_labelShort} посилилася.</MessageGoldenCubeWithdrawalIncreased>
+  <MessageGoldenCubeWithdrawalIncreased>{PAWN_labelShort}: ломка без куба посилилася.</MessageGoldenCubeWithdrawalIncreased>
   <!-- EN: {PAWN_labelShort} has become intrigued by the golden cube. -->
   <MessageGoldenCubeInterest>{PAWN_labelShort} зацікавлюється золотим кубом.</MessageGoldenCubeInterest>
   <!-- EN: {PAWN_labelShort} is enraged that {PAWN_possessive} cube sculpture was removed. {PAWN_pronoun} might become violent. -->
@@ -541,7 +541,7 @@
   <!-- EN: Cube coma: {PAWN_labelShort} -->
   <LetterLabelGoldenCubeComa>Кома від куба: {PAWN_labelShort}</LetterLabelGoldenCubeComa>
   <!-- EN: {PAWN_labelShort}'s cube withdrawal has sent {PAWN_objective} into a coma. {PAWN_pronoun} will remain in a coma until the golden cube's psychic link has completely dissipated. -->
-  <LetterGoldenCubeComa>Через ломку без куба {PAWN_labelShort} {PAWN_gender ? впав : впала} в кому. {PAWN_pronoun} лишатиметься в комі, доки психічний зв'язок золотого куба остаточно не розвіється.</LetterGoldenCubeComa>
+  <LetterGoldenCubeComa>{PAWN_labelShort} {PAWN_gender ? впав : впала} в кому через ломку без куба. {PAWN_pronoun} лишатиметься в комі, доки психічний зв'язок золотого куба остаточно не розвіється.</LetterGoldenCubeComa>
   <!-- EN: Deactivating the golden cube will cause any cube-interested people to enter a violent berserk rage. Any cube-interested people in caravans will be permanently lost. -->
   <CubeDeactivationConfirmation>Якщо вимкнути золотий куб, усі, хто ним зацікавлений, впадуть у шал берсерка. Зацікавлені кубом люди, які перебувають у караванах, будуть утрачені назавжди.</CubeDeactivationConfirmation>
   <!-- EN: The following people will enter a berserk rage -->
@@ -608,7 +608,7 @@
   <!-- EN: No available pawns. -->
   <MonolithActivateDisabledPawns>Немає доступних колоністів.</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
-  <VoidMonolithInvestigatedText>Темна металева поверхня моноліту тепла на дотик, і {PAWN_nameDef} ніби чує, як зсередини долинає ледь чутне гудіння. Лінії на запиленій поверхні наче звиваються в тривожні візерунки.\n\n{PAWN_nameDef} зосереджується на цих формах, намагаючись збагнути їхній зміст.\n\nГудіння посилюється. Форми починають пливти перед очима {PAWN_nameDef}, хоча сама поверхня не змінюється. У порожнечі довкола розгортається сила. У {PAWN_gender ? його : її} свідомості проступає чорна фігура.\n\nАномалія пробуджується...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigatedText>Темна металева поверхня моноліту тепла на дотик, і {PAWN_nameDef} ніби чує, як зсередини долинає ледь чутне гудіння. Лінії на запиленій поверхні наче звиваються в тривожні візерунки.\n\n{PAWN_nameDef} зосереджується на цих формах, намагаючись збагнути їхній зміст.\n\nГудіння посилюється. Форми починають пливти перед {PAWN_gender ? його : її} очима, хоча сама поверхня не змінюється. У порожнечі довкола розгортається сила. У {PAWN_gender ? його : її} свідомості проступає чорна фігура.\n\nАномалія пробуджується...</VoidMonolithInvestigatedText>
   <!-- EN: Keep focusing on the Anomaly -->
   <VoidMonolithInvestigate>Далі зосереджуватися на Аномалії</VoidMonolithInvestigate>
   <!-- EN: Walk away -->
@@ -675,7 +675,7 @@
   <!-- EN: Awakening the void monolith will engulf your colony in darkness for days and attract powerful entities. Make sure you are well prepared:\n\n- Stockpile food, building material, and weapons.\n- Make sure your colony is well lit, and has ample power. Avoid relying on solar generators.\n- Ensure your colony is well defended, and your colonists are ready to fight.\n\nOnce you awaken the void monolith, there is no going back.\n\nAre you sure you want to continue? -->
   <VoidAwakeningConfirmationText>Пробудження моноліту порожнечі на кілька днів огорне вашу колонію темрявою й приверне могутні сутності. Добре підготуйтеся:\n\n- Запасіть їжу, будівельні матеріали та зброю.\n- Подбайте, щоб колонія була добре освітлена й мала вдосталь електроенергії. Не покладайтеся на сонячні генератори.\n- Подбайте про оборону колонії та готовність колоністів до бою.\n\nПісля пробудження моноліту порожнечі шляху назад не буде.\n\nВи справді хочете продовжити?</VoidAwakeningConfirmationText>
   <!-- EN: A sphere of writhing psychic energy rises before {PAWN_nameDef}.\n\n{PAWN_nameDef} feels a presence inside {PAWN_possessive} mind, deeper than any normal human sense. {PAWN_pronoun} stands on the shoreline of an infinite black ocean of power. It beckons {PAWN_objective} in...\n\nNearby archotech devices support the sphere along fragile connections. {PAWN_nameDef} could disrupt them, closing this link between worlds.\n\nOr, {PAWN_pronoun} could step into the sphere and merge with the void. It's unknown what dark power could be gained from such an inhuman act. -->
-  <VoidNodeLetter>Перед {PAWN_nameDef} здіймається сфера звивистої психічної енергії.\n\n{PAWN_nameDef} відчуває у своїй свідомості чиюсь присутність – глибшу за будь-яке звичайне людське чуття. {PAWN_pronoun} стоїть на березі безмежного чорного океану сили. Він вабить до себе...\n\nСферу підтримують крихкі з'єднання з архотехнічними пристроями поруч. {PAWN_nameDef} може зруйнувати їх і закрити цей зв'язок між світами.\n\nАбо ж {PAWN_pronoun} може ступити у сферу й злитися з порожнечею. Невідомо, яку темну силу можна здобути таким нелюдським учинком.</VoidNodeLetter>
+  <VoidNodeLetter>{PAWN_nameDef} бачить, як перед {PAWN_gender ? ним : нею} здіймається сфера звивистої психічної енергії.\n\n{PAWN_pronoun} відчуває у своїй свідомості чиюсь присутність – глибшу за будь-яке звичайне людське чуття. {PAWN_pronoun} стоїть на березі безмежного чорного океану сили. Він вабить до себе...\n\nСферу підтримують крихкі з'єднання з архотехнічними пристроями поруч. {PAWN_nameDef} може зруйнувати їх і закрити цей зв'язок між світами.\n\nАбо ж {PAWN_pronoun} може ступити у сферу й злитися з порожнечею. Невідомо, яку темну силу можна здобути таким нелюдським учинком.</VoidNodeLetter>
   <!-- EN: Disrupt the link -->
   <VoidNodeDisrupt>Розірвати зв'язок</VoidNodeDisrupt>
   <!-- EN: Embrace the void -->
@@ -693,7 +693,7 @@
   <!-- EN: Activate void structures to complete the monolith awakening. -->
   <StructuresActivatedAlertDescription>Активуйте споруди порожнечі, щоб завершити пробудження моноліту.</StructuresActivatedAlertDescription>
   <!-- EN: {PAWN_nameDef}'s connection to the void monolith has been broken. It must be activated again. -->
-  <GleamingMonolithInterrupted>Зв'язок {PAWN_nameDef} з монолітом порожнечі розірвано. Його потрібно активувати знову.</GleamingMonolithInterrupted>
+  <GleamingMonolithInterrupted>{PAWN_nameDef} втрачає зв'язок з монолітом порожнечі. Його потрібно активувати знову.</GleamingMonolithInterrupted>
   <!-- HediffComp_GiveLovinMTBFactor -->
   <!-- EN: Increases the chance of lovin` -->
   <IncreasesChanceOfLovin>Підвищує шанс фізичної близькості</IncreasesChanceOfLovin>

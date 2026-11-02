@@ -52,13 +52,13 @@
   <MessageOccupiedHoldingPlatformDeconstructed>Увага: якщо розібрати зайняту платформу для утримання, сутність вивільниться. Спершу перенесіть сутність на іншу платформу.</MessageOccupiedHoldingPlatformDeconstructed>
   <!-- Duplicator obelisk -->
   <!-- EN: A hostile duplicate of {0_nameDef} has appeared. -->
-  <MessageHostileDuplicate>З'явився ворожий дублікат {0_nameDef}.</MessageHostileDuplicate>
+  <MessageHostileDuplicate>З'явився ворожий дублікат. Оригінал – {0_nameDef}.</MessageHostileDuplicate>
   <!-- Proximity detector -->
   <!-- EN: A proximity detector has detected an invisible creature. -->
   <MessageProximityDetectorTriggered>Детектор наближення виявив невидиму істоту.</MessageProximityDetectorTriggered>
   <!-- Unnatural darkness -->
   <!-- EN: Something in the darkness has attacked {0_nameDef}. -->
-  <MessagePawnAttackedInDarkness>Щось у темряві напало на {0_nameDef}.</MessagePawnAttackedInDarkness>
+  <MessagePawnAttackedInDarkness>{0_nameDef} зазнає нападу з темряви.</MessagePawnAttackedInDarkness>
   <!-- Revenant -->
   <!-- EN: A hidden revenant has been revealed! -->
   <MessageRevenantForcedVisibility>Прихованого ревенанта викрито!</MessageRevenantForcedVisibility>

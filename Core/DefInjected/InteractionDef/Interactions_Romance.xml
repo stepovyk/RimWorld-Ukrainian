@@ -9,10 +9,10 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? запропонував : запропонувала} [RECIPIENT_nameDef] зробити перерву.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? попросив : попросила} в [RECIPIENT_nameDef] трохи особистого простору.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказав : сказала} [RECIPIENT_nameDef], що в них нічого не виходить.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказав : сказала} [RECIPIENT_nameDef], що їм краще зустрічатися з іншими.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] {INITIATOR_gender ? запропонував : запропонувала} {RECIPIENT_gender ? йому : їй} зробити перерву.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] {INITIATOR_gender ? попросив : попросила} в {RECIPIENT_gender ? нього : неї} трохи особистого простору.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] {INITIATOR_gender ? сказав : сказала} {RECIPIENT_gender ? йому : їй}, що в них нічого не виходить.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] {INITIATOR_gender ? сказав : сказала} {RECIPIENT_gender ? йому : їй}, що їм краще зустрічатися з іншими.</li>
   </Breakup.logRulesInitiator.rulesStrings>
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>пропозиція шлюбу</MarriageProposal.label>
@@ -22,9 +22,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? запропонував : запропонувала} [RECIPIENT_nameDef] одружитися.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? запропонував : запропонувала} [RECIPIENT_nameDef] пов'язати долі назавжди.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказав : сказала} [RECIPIENT_nameDef], що хоче прожити з {RECIPIENT_gender ? ним : нею} усе життя.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] {INITIATOR_gender ? запропонував : запропонувала} {RECIPIENT_gender ? йому : їй} одружитися.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] {INITIATOR_gender ? запропонував : запропонувала} {RECIPIENT_gender ? йому : їй} пов'язати долі назавжди.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] {INITIATOR_gender ? сказав : сказала} {RECIPIENT_gender ? йому : їй}, що хоче прожити з {RECIPIENT_gender ? ним : нею} усе життя.</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   <!-- EN: romance attempt -->
   <RomanceAttempt.label>флірт</RomanceAttempt.label>
@@ -91,16 +91,16 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef], [wootactic].</li>
-    <li>wooed->{INITIATOR_gender ? намагався : намагалася} фліртувати з</li>
-    <li>wooed->{INITIATOR_gender ? фліртував : фліртувала} з</li>
-    <li>wooed->{INITIATOR_gender ? намагався : намагалася} привабити</li>
-    <li>wooed->{INITIATOR_gender ? намагався : намагалася} закрутити роман з</li>
-    <li>wooed->{INITIATOR_gender ? намагався : намагалася} звабити</li>
-    <li>wooed->{INITIATOR_gender ? залицявся : залицялася} до</li>
-    <li>wooed->{INITIATOR_gender ? намагався : намагалася} підкорити</li>
-    <li>wooed->{INITIATOR_gender ? зачаровував : зачаровувала}</li>
-    <li>wooed->{INITIATOR_gender ? упадав : упадала} коло</li>
+    <li>r_logentry->[RECIPIENT_nameDef]: [INITIATOR_nameDef] [wooed], [wootactic].</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалася} фліртувати з {RECIPIENT_gender ? ним : нею}</li>
+    <li>wooed->{INITIATOR_gender ? фліртував : фліртувала} з {RECIPIENT_gender ? ним : нею}</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалася} привабити {RECIPIENT_gender ? його : її}</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалася} закрутити з {RECIPIENT_gender ? ним : нею} роман</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалася} звабити {RECIPIENT_gender ? його : її}</li>
+    <li>wooed->{INITIATOR_gender ? залицявся : залицялася} до {RECIPIENT_gender ? нього : неї}</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалася} підкорити {RECIPIENT_gender ? його : її}</li>
+    <li>wooed->{INITIATOR_gender ? зачаровував : зачаровувала} {RECIPIENT_gender ? його : її}</li>
+    <li>wooed->{INITIATOR_gender ? упадав : упадала} коло {RECIPIENT_gender ? нього : неї}</li>
     <li>wootactic(p=4)->[complimenting] {RECIPIENT_gender ? його : її} [PersonalCharacteristic_acc]</li>
     <li>wootactic->розповідаючи історію про [TalkTopicAny]</li>
     <li>wootactic->переказуючи байку про [TalkTopicAny]</li>

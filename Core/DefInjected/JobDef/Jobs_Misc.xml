@@ -3,9 +3,9 @@
   <!-- EN: applying TargetB. -->
   <ApplyTechprint.reportString>застосовує {lookup: {TargetB}; Case; 3}.</ApplyTechprint.reportString>
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>б'є {lookup: {TargetA}; Case; 3}.</AttackMelee.reportString>
+  <AttackMelee.reportString>атакує врукопашну: {TargetA}.</AttackMelee.reportString>
   <!-- EN: attacking TargetA. -->
-  <AttackStatic.reportString>атакує {lookup: {TargetA}; Case; 3}.</AttackStatic.reportString>
+  <AttackStatic.reportString>атакує: {TargetA}.</AttackStatic.reportString>
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>гасить полум'я.</BeatFire.reportString>
   <!-- EN: Doing something. -->
@@ -25,7 +25,7 @@
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>прибирає сніг.</ClearSnow.reportString>
   <!-- EN: delivering TargetA. -->
-  <DeliverToBed.reportString>переносить {TargetA}.</DeliverToBed.reportString>
+  <DeliverToBed.reportString>переносить: {TargetA}.</DeliverToBed.reportString>
   <!-- EN: delivering TargetA. -->
   <DeliverToCell.reportString>доставляє {TargetA}.</DeliverToCell.reportString>
   <!-- EN: dismissing trader. -->
@@ -57,13 +57,13 @@
   <!-- EN: flicking switch. -->
   <Flick.reportString>клацає перемикачем.</Flick.reportString>
   <!-- EN: following TargetA. -->
-  <Follow.reportString>іде за {lookup: {TargetA}; Case; 4}.</Follow.reportString>
+  <Follow.reportString>іде слідом: {TargetA}.</Follow.reportString>
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>іде за {lookup: {TargetA}; Case; 4}.</FollowClose.reportString>
+  <FollowClose.reportString>іде слідом: {TargetA}.</FollowClose.reportString>
   <!-- EN: following TargetA. -->
-  <FollowRoper.reportString>іде за {lookup: {TargetA}; Case; 4}.</FollowRoper.reportString>
+  <FollowRoper.reportString>іде слідом: {TargetA}.</FollowRoper.reportString>
   <!-- EN: making TargetA wear TargetB. -->
-  <ForceTargetWear.reportString>змушує {lookup: {TargetA}; Case; 3} вдягнути {lookup: {TargetB}; Case; 3}.</ForceTargetWear.reportString>
+  <ForceTargetWear.reportString>{TargetA}: змушує вдягнути {lookup: {TargetB}; Case; 3}.</ForceTargetWear.reportString>
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>бере {lookup: {TargetA}; Case; 3}.</GiveToPackAnimal.reportString>
   <!-- EN: moving. -->
@@ -85,13 +85,13 @@
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>підпалює {lookup: {TargetA}; Case; 3}.</Ignite.reportString>
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>схиляє TargetA до втечі.</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>підбурює до втечі: TargetA.</InducePrisonerToEscape.reportString>
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>споживає {lookup: {TargetA}; Case; 3}.</Ingest.reportString>
   <!-- EN: installing TargetB in TargetA. -->
-  <InstallImplant.reportString>встановлює {lookup: {TargetB}; Case; 3} {lookup: {TargetA}; Case; 2}.</InstallImplant.reportString>
+  <InstallImplant.reportString>{TargetA}: встановлює {lookup: {TargetB}; Case; 3}.</InstallImplant.reportString>
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>ображає {TargetA}.</Insult.reportString>
+  <Insult.reportString>ображає: {TargetA}.</Insult.reportString>
   <!-- EN: activating TargetA. -->
   <InteractThing.reportString>активує {lookup: {TargetA}; Case; 3}.</InteractThing.reportString>
   <!-- EN: lying down. -->
@@ -105,7 +105,7 @@
   <!-- EN: operating turret. -->
   <ManTurret.reportString>керує туреллю.</ManTurret.reportString>
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>допомагає {TargetA}.</OfferHelp.reportString>
+  <OfferHelp.reportString>допомагає: {TargetA}.</OfferHelp.reportString>
   <!-- EN: opening TargetA. -->
   <Open.reportString>відкриває {lookup: {TargetA}; Case; 3}.</Open.reportString>
   <!-- EN: picking up TargetA. -->
@@ -125,23 +125,23 @@
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>знімає {lookup: {TargetA}; Case; 3}.</RemoveApparel.reportString>
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>воскрешає {lookup: {TargetA}; Case; 3}.</Resurrect.reportString>
+  <Resurrect.reportString>воскрешає: {TargetA}.</Resurrect.reportString>
   <!-- EN: fighting with TargetA. -->
-  <SocialFight.reportString>б'ється з {TargetA}.</SocialFight.reportString>
+  <SocialFight.reportString>б'ється, супротивник – {TargetA}.</SocialFight.reportString>
   <!-- EN: staring. -->
   <StandAndStare.reportString>витріщається.</StandAndStare.reportString>
   <!-- EN: stripping TargetA. -->
-  <Strip.reportString>роздягає {TargetA}.</Strip.reportString>
+  <Strip.reportString>роздягає: {TargetA}.</Strip.reportString>
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>зливає пиво з {lookup: {TargetA}; Case; 1}.</TakeBeerOutOfFermentingBarrel.reportString>
   <!-- EN: taking TargetA to inventory. -->
   <TakeCountToInventory.reportString>підбирає {lookup: {TargetA}; Case; 3}.</TakeCountToInventory.reportString>
   <!-- EN: grabbing TargetA from TargetB. -->
-  <TakeFromOtherInventory.reportString>забирає {lookup: {TargetA}; Case; 3} у {lookup: {TargetB}; Case; 1}.</TakeFromOtherInventory.reportString>
+  <TakeFromOtherInventory.reportString>забирає {lookup: {TargetA}; Case; 3} з інвентарю: {TargetB}.</TakeFromOtherInventory.reportString>
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>підбирає {lookup: {TargetA}; Case; 3}.</TakeInventory.reportString>
   <!-- EN: trading with TargetA. -->
-  <TradeWithPawn.reportString>торгує з {TargetA}.</TradeWithPawn.reportString>
+  <TradeWithPawn.reportString>торгує з торговцем {TargetA}.</TradeWithPawn.reportString>
   <!-- EN: triggering TargetA. -->
   <TriggerObject.reportString>активує {lookup: {TargetA}; Case; 3}.</TriggerObject.reportString>
   <!-- EN: unloading TargetA. -->
