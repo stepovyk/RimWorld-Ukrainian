@@ -428,7 +428,7 @@
     <li>maybe_date->Невідомо, коли саме написано книгу.</li>
     <li>date_form->нещодавно</li>
     <li>date_form->багато століть тому</li>
-    <li>date_form->[date]</li>
+    <li>date_form->[date], як зазначено у вихідних даних</li>
     <li>date_form->– [date_season]</li>
     <li>bookType(p=4)->роман</li>
     <li>bookType(p=2)->короткий роман</li>
@@ -1806,7 +1806,7 @@
     <li>dates->Невідомо, коли саме створено схему</li>
     <li>date_form->нещодавно</li>
     <li>date_form->багато століть тому</li>
-    <li>date_form->[date]</li>
+    <li>date_form->[date], як зазначено в документі</li>
     <li>date_form->– [date_season]</li>
   </Description_Schematic.rulePack.rulesStrings>
   <!-- EN:

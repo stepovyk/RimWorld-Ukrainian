@@ -269,7 +269,7 @@
     <li>mapContents->координати, виділені жовтим маркером</li>
     <li>mapContents->малюнки сусідніх територій. Грубі символи позначають безпечні прихистки й таємні схованки</li>
     <li>mapContents->розташування [Quantity_adjphrase_gen] заповідників [Animal_pl_gen]. Червоні «X» позначають ще й кілька могил</li>
-    <li>mapContents->лише якісь дрібниці. Принаймні так здається</li>
+    <li>mapContents->лише кілька незначних позначок. Принаймні на перший погляд</li>
     <li>mapContents->вицвілу координатну сітку. У кожному квадраті – [mapSubjectAdj] [mapSubject]</li>
     <li>mapContents->[Quantity_adjphrase] [mapSubject_gen] у [artstyle_loc] стилі. Під кожним зображенням – [adjAnimal]</li>
     <li>maybe_specialFact-></li>
@@ -365,7 +365,7 @@
     <li>smellNom->відбілювач</li>
     <li>smellNom->послід [Animal_gen]</li>
     <li>conditionStains->Подряпини та плями [stain] затуляють частину деталей, тож читати важко.</li>
-    <li>conditionStains->Плями [stain] і сліди опіків натякають, що мапою постійно користувалися в суворих умовах.</li>
+    <li>conditionStains->Плями [stain] й сліди опіків натякають, що мапою постійно користувалися в суворих умовах.</li>
     <li>conditionStains->Схеми затулені чимось схожим на [stainAcc].</li>
     <li>conditionStains->Мапа неповна й заплямована [stainIns].</li>
     <li>conditionTouch->Плями [stain] і пошарпані краї надають їй потертого, практичного вигляду.</li>
@@ -818,7 +818,7 @@
     <li>mapSubject->таємниці</li>
     <li>mapSubject->кордони</li>
     <li>mapSubject->рубежі</li>
-    <li>mapSubject->місцини</li>
+    <li>mapSubject->краї</li>
     <li>mapSubject->ресурси</li>
     <li>mapSubject->артефакти</li>
     <li>mapSubject->реліквії</li>
@@ -851,7 +851,7 @@
     <li>mapSubject_gen->таємниць</li>
     <li>mapSubject_gen->кордонів</li>
     <li>mapSubject_gen->рубежів</li>
-    <li>mapSubject_gen->місцин</li>
+    <li>mapSubject_gen->країв</li>
     <li>mapSubject_gen->ресурсів</li>
     <li>mapSubject_gen->артефактів</li>
     <li>mapSubject_gen->реліквій</li>

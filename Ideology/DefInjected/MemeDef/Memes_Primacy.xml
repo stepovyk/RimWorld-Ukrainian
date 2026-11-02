@@ -3,7 +3,7 @@
   <!-- EN: human primacy -->
   <HumanPrimacy.label>першість людини</HumanPrimacy.label>
   <!-- EN: Humans are the moral center of the universe. -->
-  <HumanPrimacy.description>Люди є моральним центром Всесвіту.</HumanPrimacy.description>
+  <HumanPrimacy.description>Люди – моральний центр усесвіту.</HumanPrimacy.description>
   <!-- EN:
     <li>creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever.</li>
     <li>episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature.</li>
@@ -23,11 +23,11 @@
     <li>animistFact(tag=meme_HumanPrimacy)     ->Nature's animals are the spirits of slaves, and demand to be taken into service.</li>
   -->
   <HumanPrimacy.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_HumanPrimacy)->[deity0_name] створи[deity_v] всю природу й подарува[deity_v] її людині, щоб вона повік служила людині та її цілям.</li>
+    <li>creation(tag=meme_HumanPrimacy)->[deity0_name] створи[deity_v] усю природу й подарува[deity_v] її людині, щоб вона повік служила людині та її цілям.</li>
     <li>episode(uses=1,tag=meme_HumanPrimacy)->Люди боролися з лісовими звірами, і [deity0_name], побачивши їхню боротьбу, да[deity_v] їм зброю, щоб підкорити природу.</li>
     <li>intro(tag=meme_HumanPrimacy)->Перших поселенців, що зазнали аварії [place_in], оточили скажені [Animal_pl]. [deity0_name] втрути[deity_v]ся, перебивши звірів і ясно показавши, кому віддає перевагу, – людському роду.</li>
     <li>conflict(tag=meme_HumanPrimacy)->Якийсь [foeLeader], ворог людства, видав указ, що зрівнював у правах тварин і людей. [deity0_name] плака[deity_v], коли [memberNamePlural] мусили поступатися своїми правами [Animal_pl_dat] і [Animal_pl_dat].</li>
-    <li>founderJoin(tag=meme_HumanPrimacy)->Один [place_job] на ім'я [founderName] заснува[founder_v] нині знаменитий ксенозоопарк [place_in]. Там [founderName] влаштовува[founder_v] вистави із забиванням тварин, щоб показати відвідувачам: божество [deity0_name] прагне, аби людство панувало над природою.</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)->Колись [place_job] на ім'я [founderName] заснува[founder_v] нині знаменитий ксенозоопарк [place_in]. Там [founderName] влаштовува[founder_v] вистави із забиванням тварин, щоб показати відвідувачам: божество [deity0_name] прагне, аби людство панувало над природою.</li>
     <li>victory(tag=meme_HumanPrimacy)->Те, що зроби[founder_v] [founderName], відкрило [place_foeSoldiers_dat] істину божества [deity0_name]. Вони відсвяткували спільну людяність з вірянами, а [place_foeLeader_acc] вигнали жити в дикій глушині, як звіра.</li>
     <li>setup(tag=meme_HumanPrimacy)->[founderName] заснува[founder_v] колонію на зеленій планеті й поширюва[founder_v] владу людства на кожне поле й ліс.</li>
     <li>story(uses=1,tag=meme_HumanPrimacy)->Якось [founderName] побачи[founder_v], як пес гарчить на хлопчика, і наказа[founder_v] вбити пса на місці.</li>
@@ -108,11 +108,11 @@
     <li>animistFact(tag=meme_NaturePrimacy)     ->Spirits become restless when humanity attempts to change them from their true nature.</li>
   -->
   <NaturePrimacy.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_NaturePrimacy)->[deity0_name] створи[deity_v] природу й посели[deity_v] в ній людину, щоб та стала частиною великого живого гобелена життя, сплетеного божеством.</li>
+    <li>creation(tag=meme_NaturePrimacy)->[deity0_name] створи[deity_v] природу й посели[deity_v] у ній людину, щоб та стала частиною великого живого гобелена життя, сплетеного божеством.</li>
     <li>episode(uses=1,tag=meme_NaturePrimacy)->Люди боролися з лісовими звірами, і [deity0_name], побачивши їхню ненажерливість, покара[deity_v] тих, хто шкодив деревам і звірам.</li>
     <li>intro(tag=meme_NaturePrimacy)->Перші поселенці, що прибули [place_to], закатали природу в бетон і винищили тварин. [deity0_name] стер[deity_la] їх з лиця землі за неповагу до своїх творінь.</li>
     <li>conflict(tag=meme_NaturePrimacy)->Якийсь жадібний [foeLeader] збудував фабрику, що викидала отруту в довкілля, труячи рослини й тварин.</li>
-    <li>founderJoin(tag=meme_NaturePrimacy)->Ще немовлям [founderName] опини[founder_v]ся [founder_sam] в дикій глушині. [deity0_name] посла[deity_v] [Animal_pl_acc], щоб ті виростили дитину, – так і сталося. Вирісши, [founderName] поширюва[founder_v] знання про те, що з природою треба єднатися.</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)->Ще немовлям [founderName] опини[founder_v]ся [founder_sam] у дикій глушині. [deity0_name] посла[deity_v] [Animal_pl_acc], щоб ті виростили дитину, – так і сталося. Вирісши, [founderName] поширюва[founder_v] знання про те, що з природою треба єднатися.</li>
     <li>victory(tag=meme_NaturePrimacy)->[founderName] прийш[founder_ov] до [place_powerCenter_gen]: праворуч – [memberNamePlural], ліворуч – люті звірі. Разом вони билися й здолали [place_foeLeader_acc] та [place_foeSoldiers_acc].</li>
     <li>setup(tag=meme_NaturePrimacy)->У темному краю лихі люди рубали дерева й рили землю, щоб утамувати свою жадібність. [founderName] започаткува[founder_v] праведний рух, щоб трощити машини й жити в гармонії з природою.</li>
     <li>story(uses=1,tag=meme_NaturePrimacy)->Ми зрозуміли, що безкінечне зростання людства – шлях до пекла; ми маємо жити в природі, а не поглинати її.</li>
@@ -156,7 +156,7 @@
     <li>memeConcept->природа</li>
   </NaturePrimacy.generalRules.rulesStrings>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.adjective>натуристичний</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.0.adjective>натуристський</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->
   <NaturePrimacy.symbolPacks.0.ideoName>Натуризм</NaturePrimacy.symbolPacks.0.ideoName>
   <!-- EN: naturist -->
